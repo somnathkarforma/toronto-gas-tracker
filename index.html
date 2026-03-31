@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Toronto Gas Tracker</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        :root {
+            --bg: #0f172a;
+            --card: #ffffff;
+            --muted: #64748b;
+            --primary: #2563eb;
+            --accent: #ea580c;
+            --success: #059669;
+            --border: #e2e8f0;
+        }
+
+        * { box-sizing: border-box; }
+        body {
+            margin: 0;
+            font-family: Arial, Helvetica, sans-serif;
+            background: linear-gradient(180deg, #eff6ff 0%, #f8fafc 100%);
+            color: #0f172a;
+        }
+
+        .wrap {
+            max-width: 1100px;
+            margin: 0 auto;
+            padding: 24px;
+        }
+
+        header {
+            background: var(--bg);
+            color: white;
+            padding: 28px;
+            border-radius: 18px;
+            margin-bottom: 20px;
+        }
+
+        header h1 {
+            margin: 0 0 8px;
+            font-size: 2rem;
+        }
+
+        header p {
+            margin: 0;
+            color: #cbd5e1;
+        }
+
+        .cards {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+            gap: 14px;
+            margin: 20px 0;
+        }
+
+        .card, section {
+            background: var(--card);
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            box-shadow: 0 8px 24px rgba(15, 23, 42, 0.06);
+        }
+
+        .card {
+            padding: 18px;
+        }
+
+        .label {
+            font-size: 0.85rem;
+            color: var(--muted);
+            margin-bottom: 8px;
+        }
+
+        .value {
+            font-size: 1.8rem;
+            font-weight: 700;
+        }
+
+        section {
+            padding: 20px;
+            margin-bottom: 18px;
+        }
+
+        h2 {
+            margin-top: 0;
+            font-size: 1.2rem;
+        }
+
+        .meta {
+            color: var(--muted);
+            font-size: 0.95rem;
+        }
+
+        .news-list {
+            display: grid;
+            gap: 12px;
+        }
+
+        .news-item {
+            border: 1px solid var(--border);
+            border-left: 4px solid var(--primary);
+            border-radius: 12px;
+            padding: 12px 14px;
+        }
+
+        .news-item.high { border-left-color: #dc2626; }
+        .news-item.medium { border-left-color: #f59e0b; }
+        .news-item.low { border-left-color: var(--success); }
+
+        .news-item a {
+            color: #0f172a;
+            font-weight: 700;
+            text-decoration: none;
+        }
+
+        .news-item a:hover { text-decoration: underline; }
+
+        .news-source {
+            color: var(--muted);
+            font-size: 0.9rem;
+            margin: 4px 0 8px;
+        }
+
+        canvas {
+            width: 100% !important;
+            max-height: 320px;
+        }
+
+        .footer {
+            text-align: center;
+            color: var(--muted);
+            padding: 18px 0 8px;
+            font-size: 0.9rem;
+        }
+
+        .error {
+            color: #b91c1c;
+            background: #fee2e2;
+            padding: 12px;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="wrap">
+        <header>
+            <h1>⛽ Toronto Gas Price Tracker</h1>
+            <p>Daily-updated Toronto fuel prices, a 6-month trend view, 7-day projection, and AI-assisted global energy news.</p>
+        </header>
+
+        <div class="cards">
+            <div class="card">
+                <div class="label">Regular</div>
+                <div class="value" id="regularPrice">--.-</div>
+            </div>
+            <div class="card">
+                <div class="label">Premium</div>
+                <div class="value" id="premiumPrice">--.-</div>
+            </div>
+            <div class="card">
+                <div class="label">Diesel</div>
+                <div class="value" id="dieselPrice">--.-</div>
+            </div>
+            <div class="card">
+                <div class="label">Last Update</div>
+                <div class="value" id="updatedAt" style="font-size: 1rem; line-height: 1.4;">Loading...</div>
+            </div>
+        </div>
+
+        <section id="news">
+            <h2>Section 1: Global Gas News</h2>
+            <p class="meta" id="sourceMeta">Loading source details...</p>
+            <div id="newsContent" class="news-list"></div>
+        </section>
+
+        <section id="history">
+            <h2>Section 2: 6-Month Price History</h2>
+            <canvas id="historyChart"></canvas>
+        </section>
+
+        <section id="prediction">
+            <h2>Section 3: 7-Day Prediction</h2>
+            <canvas id="predictChart"></canvas>
+        </section>
+
+        <div class="footer">
+            Built with GitHub Pages, GitHub Actions, Python, Chart.js, and Gemini free tier.
+        </div>
+    </div>
+
+    <script>
+        let historyChart;
+        let predictChart;
+
+        function setPrice(id, value) {
+            document.getElementById(id).textContent = `${Number(value).toFixed(1)}¢/L`;
+        }
+
+        function renderNews(news) {
+            const container = document.getElementById('newsContent');
+            container.innerHTML = '';
+
+            news.forEach(item => {
+                const article = document.createElement('article');
+                article.className = `news-item ${item.impact || 'medium'}`;
+                article.innerHTML = `
+                    <a href="${item.link}" target="_blank" rel="noopener noreferrer">${item.title}</a>
+                    <div class="news-source">${item.source} • Impact: ${(item.impact || 'medium').toUpperCase()}</div>
+                    <div>${item.summary || ''}</div>
+                `;
+                container.appendChild(article);
+            });
+        }
+
+        function renderHistoryChart(data) {
+            const ctx = document.getElementById('historyChart');
+            if (historyChart) historyChart.destroy();
+
+            historyChart = new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: data.labels,
+                    datasets: [
+                        {
+                            label: 'Regular',
+                            data: data.regular,
+                            borderColor: '#2563eb',
+                            backgroundColor: 'rgba(37, 99, 235, 0.15)',
+                            tension: 0.25,
+                            fill: true
+                        },
+                        {
+                            label: 'Premium',
+                            data: data.premium,
+                            borderColor: '#ea580c',
+                            tension: 0.25
+                        },
+                        {
+                            label: 'Diesel',
+                            data: data.diesel,
+                            borderColor: '#059669',
+                            tension: 0.25
+                        }
+                    ]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: { position: 'top' }
+                    },
+                    scales: {
+                        y: {
+                            title: { display: true, text: 'Cents per litre' }
+                        }
+                    }
+                }
+            });
+        }
+
+        function renderPredictionChart(prediction) {
+            const ctx = document.getElementById('predictChart');
+            if (predictChart) predictChart.destroy();
+
+            predictChart = new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: prediction.labels,
+                    datasets: [
+                        {
+                            label: 'Predicted regular price',
+                            data: prediction.regular,
+                            borderColor: '#7c3aed',
+                            backgroundColor: 'rgba(124, 58, 237, 0.18)',
+                            borderDash: [6, 4],
+                            tension: 0.3,
+                            fill: true
+                        }
+                    ]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    scales: {
+                        y: {
+                            title: { display: true, text: 'Cents per litre' }
+                        }
+                    }
+                }
+            });
+        }
+
+        async function loadDashboard() {
+            try {
+                const response = await fetch(`data.json?ts=${Date.now()}`);
+                if (!response.ok) throw new Error('Unable to load data.json');
+
+                const data = await response.json();
+                setPrice('regularPrice', data.latest.regular);
+                setPrice('premiumPrice', data.latest.premium);
+                setPrice('dieselPrice', data.latest.diesel);
+                document.getElementById('updatedAt').textContent = data.generatedAt;
+                document.getElementById('sourceMeta').textContent = `Toronto price source: ${data.priceSource}`;
+                renderNews(data.news || []);
+                renderHistoryChart(data.history);
+                renderPredictionChart(data.prediction);
+            } catch (error) {
+                document.getElementById('newsContent').innerHTML = `<div class="error">${error.message}</div>`;
+                document.getElementById('sourceMeta').textContent = 'Please run the update workflow to generate fresh data.';
+            }
+        }
+
+        loadDashboard();
+    </script>
+</body>
+</html>
