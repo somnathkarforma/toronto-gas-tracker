@@ -2,7 +2,7 @@ name: Update Gas Tracker
 
 on:
   schedule:
-    - cron: '0 21 * * *' # 5 PM Toronto during daylight saving; GitHub cron uses UTC
+    - cron: '0 4 * * *' # 00:00 Toronto during DST (UTC-4); GitHub cron uses UTC
   workflow_dispatch:
 
 permissions:

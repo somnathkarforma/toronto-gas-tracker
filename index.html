@@ -300,7 +300,17 @@
                 setPrice('regularPrice', data.latest.regular);
                 setPrice('premiumPrice', data.latest.premium);
                 setPrice('dieselPrice', data.latest.diesel);
-                document.getElementById('updatedAt').textContent = data.generatedAt;
+
+                const utcTimestamp = data.generatedAt;
+                let localTimestamp = utcTimestamp;
+                try {
+                    const utcIso = utcTimestamp.replace(' UTC', 'Z');
+                    localTimestamp = new Date(utcIso).toLocaleString();
+                } catch (e) {
+                    // keep UTC if parse fails
+                }
+
+                document.getElementById('updatedAt').textContent = `${utcTimestamp} (local: ${localTimestamp})`;
                 document.getElementById('sourceMeta').textContent = `Toronto price source: ${data.priceSource}`;
                 renderNews(data.news || []);
                 renderHistoryChart(data.history);
