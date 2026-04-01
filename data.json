@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-31 22:54 UTC",
+  "generatedAt": "2026-04-01 23:05 UTC",
   "priceSource": "Saved history",
   "latest": {
     "regular": 155.9,
@@ -38,7 +38,7 @@
       "Mar 28",
       "Mar 29",
       "Mar 30",
-      "Mar 31"
+      "Apr 01"
     ],
     "regular": [
       150.7,
@@ -142,13 +142,13 @@
   },
   "prediction": {
     "labels": [
-      "Apr 01",
       "Apr 02",
       "Apr 03",
       "Apr 04",
       "Apr 05",
       "Apr 06",
-      "Apr 07"
+      "Apr 07",
+      "Apr 08"
     ],
     "regular": [
       156.1,
@@ -162,10 +162,26 @@
   },
   "news": [
     {
+      "title": "Oil prices keep climbing as Iran war uncertainty drags stock markets down - Global News",
+      "source": "Global News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBXQTEycThWd1NESjVfU0ZFR0FvYVd3N2VjUTE0TEZxbWo2TkJjRmhZZmRoSFhzb2RXX3hqNWpyWUtac3JILTlWdTdFN1ZMRFZKVGlhZE1aS2I5WXJTVVQyVkg2VTdpSS1MVk9FOWdxYw?oc=5",
+      "description": "Oil prices keep climbing as Iran war uncertainty drags stock markets down Global News",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
       "title": "Alberta\u2019s GDP projected to rise as oil supply crisis rages on, but impact on citizens more complex: ATB - CBC",
       "source": "CBC",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUHRpODJzcEwtVFpGbzZScmtPWDhmR05wRzFGblIwcnd3cXdNUXVzQ1lYRWNHQW1lUE1LV045d2NNeDY3bTc2UEE1S09lVFFWQzJhdXQtbFdMQmxjdGU0VEhYMlU3SEF6dndjdnEyX3BWaUJiTTlURHY2N1dETlJ3MkRSN242N0tRVXVxSjlXTQ?oc=5",
       "description": "Alberta\u2019s GDP projected to rise as oil supply crisis rages on, but impact on citizens more complex: ATB CBC",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil Prices Set for Another Weekly Decline as Iran Risks Recede - energynow.ca",
+      "source": "energynow.ca",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbEV5UWVIMG41ZnplUlJEbTNFRURkN05GQVVzazBxNVZpNHJqZVp4X2pXWGtCXzdyNmVlVWtUUEVfbC1DSmFySWo3QmVxMVhLWGtYUFRRNXlwN1Q4UVFGX0tid2tPNDl2RzVBSElEeUdLbXNZTjdKMkROcmF0bjZQLUlQVUlYLWU1bE9iREt1U3huVFRvMW5z?oc=5",
+      "description": "Oil Prices Set for Another Weekly Decline as Iran Risks Recede energynow.ca",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -186,42 +202,26 @@
       "impact": "medium"
     },
     {
-      "title": "Higher oil prices and higher thermal output: A sneak peak at Q1 earnings - Oil Sands Magazine",
-      "source": "Oil Sands Magazine",
+      "title": "Higher oil prices and higher thermal output: A sneak peak at Q1 earnings - oilsandsmagazine.com",
+      "source": "oilsandsmagazine.com",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcWY2Y0VOdkJuekhIM3U5RWJGeWdOWUVicThzQUJoMTU1ZVkxR1l6NFFpMWhyWXd3UENGYjVHbGFCc0tfQ2tWdVZZNlF5MDlVWWNRcWp3VnJBOTlmeGxVUXpGdHJxcFROZ2lzUElibHItbWtlWXg1M0hoREplOHVveHJESWE3bWlrbDZYMmxaQlV2cXFyVkE?oc=5",
-      "description": "Higher oil prices and higher thermal output: A sneak peak at Q1 earnings Oil Sands Magazine",
+      "description": "Higher oil prices and higher thermal output: A sneak peak at Q1 earnings oilsandsmagazine.com",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil prices rise higher as Iran denies US talks, dimming deescalation hopes - Al Jazeera",
-      "source": "Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRTQ4Z1lwZXJwR19zbzRhcDZHd0ZYcG9yd0I5U2xsT1ZaR1RFMnNnS3V5LXY1c2Y2aHNOLTQ4NkN5UEJGOHJhMk1lZEppOTBGR3ZxTk9tSHE1YXlUOXhNQlF4WDRUbWExR0I1a0VydVlRX0xLVnlDUHU4ZzhpWVF3bnFIU0x2ZWhvZngwU05iOUVKYi02MHVvMGNkcER0OG1DT2dYc2NZcGNIa3pBR1VHSzJFOVZ2enBJ0gG-AUFVX3lxTFBvcW8xZ0oxWlEzeFo1WThQdVRvQ3ZLMVhPYlhTOU5OSjNCeS1GaF9iWVpUV09yVjBwcUJya205YXJoeF9taWpQZnVsYk1GdTU4ODRoY0ZkVjdSZzk1X0dIeUpvb0dCZTlRZzNJSkl0M2RjY3FhMGNKWnVJa3haaFZxWFZIS1gwQ2lVQ2Z5YUVyVE1jUjl4TEtfREZubWpET1RUcWVlcm15aG9mbjRsY0tXR243OFhEVERVTjBaQWc?oc=5",
-      "description": "Oil prices rise higher as Iran denies US talks, dimming deescalation hopes Al Jazeera",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Current price of oil as of March 30, 2026 - Fortune",
+      "title": "Current price of oil as of April 1, 2026 - Fortune",
       "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xSC1SbTlFZnhJNm1odllPQVZ4NWJ3empHX0VqbFU1YzROWnNzSkJVdC14M1VtTUJmeFhWa0JCYkl2SFJ3b2VieGhsNFFGUzlLUzY2RUp3cDlxTGEwU09ER2xB?oc=5",
-      "description": "Current price of oil as of March 30, 2026 Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSZ1JBMnNtMjZPaW51anpsaVlNUGNaRGZiSzVKOVJOeG1EUFBHVUZsUHRGNVBTOU9jRGp0LXF2VWZJal90SXVnaGJiZTRpV2IxZXNmVVlobVp4RlZjSUotRTNB?oc=5",
+      "description": "Current price of oil as of April 1, 2026 Fortune",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "\u2018It\u2019s a big shift\u2019: PM Carney on the soaring oil prices amid war in Middle East - ctvnews.ca",
-      "source": "ctvnews.ca",
+      "title": "\u2018It\u2019s a big shift\u2019: PM Carney on the soaring oil prices amid war in Middle East - CTV News",
+      "source": "CTV News",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObUVmakVLaENLeXA1b21GYjNTQmF4akhLSy1PVG03ZHl3Zi02MzhzZjhubkYtV0tlRnpTQmE2QW9FYzhUOE5CSzN4bm9XOElWNTJtV2t3d191cEl1MDA1V0lQWVhSOG1zLWkySUh2S3Ffa2hwWGpHSm1kRGxBMEpMTnNyT2V5QVU0SXJTQktOc0hncWFsWVQwaVpLNlg5RVZqTExwbEthN3NNNnhhd2ZwbHA5R3FlQWc?oc=5",
-      "description": "\u2018It\u2019s a big shift\u2019: PM Carney on the soaring oil prices amid war in Middle East ctvnews.ca",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil above $100 over conflicting claims on US-Iran talks - BBC",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Td0k3OXBYVTNqTjJIWVA4WVNYRXFtdWJGNDNJbTA0MHItQ1B1NC1sWTh0UURGUVNBczNPZEgxUTV1NzM0QzB4bm1wTG80NmlHWGV4dklsdUtOdw?oc=5",
-      "description": "Oil above $100 over conflicting claims on US-Iran talks BBC",
+      "description": "\u2018It\u2019s a big shift\u2019: PM Carney on the soaring oil prices amid war in Middle East CTV News",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -234,10 +234,10 @@
       "impact": "medium"
     },
     {
-      "title": "Stocks rally, oil prices fall amid talk of Iran ceasefire - NBC News",
-      "source": "NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLXFRNEdJTVJYd2FhZ0JjUi1LTHNOMFFPSU1tVUo0SjZsNDZWOEJwcG1ldW1KalFDeGZOaVJ4U2V0U2Q0NzY2OXVZN0V4aDNoRTFObTgtOThnaXI2MEh1SnBRSGs5TUJnRGlPT3Y4VlVzQ2Z6RmhDd0VETnVyT3FmMGVsUGhqVk5M?oc=5",
-      "description": "Stocks rally, oil prices fall amid talk of Iran ceasefire NBC News",
+      "title": "Oil prices rise again as conflicting Iran-US messages fuel uncertainty - Euronews.com",
+      "source": "Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVWxYZ0ZwbDUxMzJGamFmdmtIa3JGYmZCYmpZa0x5dlVXTHdFMThxSzd2LWFxQWJWNkswTW1Ra1k4OW5MSXFYQnR2UmRwaWc0a1lMMkwzeVMzWnVRRXVVcXVsNDQ1WTd3UXB0OVRUcUxGUjQyVC1XbHhZRTZPMDhEMHFPTy1nODlVa3RLc3BqM0xfSjZKU0NJbUh5VVNja0dwa0dHb1JJdk5zZElnQ204UEp3Q3RuU3h5a2cxV1pXcGpIX2RZM1l2YjVaZng1UQ?oc=5",
+      "description": "Oil prices rise again as conflicting Iran-US messages fuel uncertainty Euronews.com",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
