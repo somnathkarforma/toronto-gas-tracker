@@ -44,9 +44,18 @@ def fetch_google_news(query: str = "(gasoline OR oil OR OPEC OR crude prices) wh
         title = (item.findtext("title") or "").strip()
         source = (item.findtext("source") or "Google News").strip()
         link = (item.findtext("link") or "").strip()
+        pub_date = (item.findtext("pubDate") or "").strip()
         description_html = item.findtext("description") or ""
         description = BeautifulSoup(description_html, "html.parser").get_text(" ", strip=True)
-        items.append({"title": title, "source": source, "link": link, "description": description})
+        items.append(
+            {
+                "title": title,
+                "source": source,
+                "link": link,
+                "description": description,
+                "publishedAt": pub_date,
+            }
+        )
 
     return items
 
@@ -253,20 +262,25 @@ def build_history_series(history: list[dict[str, Any]]) -> dict[str, list[Any]]:
 
 def build_prediction(history: list[dict[str, Any]]) -> dict[str, list[Any]]:
     recent = history[-14:] if len(history) >= 14 else history
-    values = [item["regular"] for item in recent] or [DEFAULT_REGULAR]
-    base = values[-1]
-    slope = (values[-1] - values[0]) / max(len(values) - 1, 1)
-    slope = max(min(slope, 1.2), -1.2)
+
+    def series_projection(key: str, default: float) -> list[float]:
+        values = [item[key] for item in recent] or [default]
+        base = values[-1]
+        slope = (values[-1] - values[0]) / max(len(values) - 1, 1)
+        slope = max(min(slope, 1.2), -1.2)
+        return [round(base + (slope * offset * 0.8), 1) for offset in range(1, 8)]
 
     labels: list[str] = []
-    points: list[float] = []
     for offset in range(1, 8):
         day = date.today() + timedelta(days=offset)
-        projection = round(base + (slope * offset * 0.8), 1)
         labels.append(day.strftime("%b %d"))
-        points.append(projection)
 
-    return {"labels": labels, "regular": points}
+    return {
+        "labels": labels,
+        "regular": series_projection("regular", DEFAULT_REGULAR),
+        "premium": series_projection("premium", DEFAULT_PREMIUM_SPREAD + DEFAULT_REGULAR),
+        "diesel": series_projection("diesel", DEFAULT_DIESEL_SPREAD + DEFAULT_REGULAR),
+    }
 
 
 def build_payload(price: float, price_source: str, history: list[dict[str, Any]], news: list[dict[str, str]]) -> dict[str, Any]:

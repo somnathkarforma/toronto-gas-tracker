@@ -204,8 +204,12 @@
             news.forEach(item => {
                 const article = document.createElement('article');
                 article.className = `news-item ${item.impact || 'medium'}`;
+                const published = item.publishedAt ? new Date(item.publishedAt).toLocaleString() : '';
                 article.innerHTML = `
-                    <a href="${item.link}" target="_blank" rel="noopener noreferrer">${item.title}</a>
+                    <div style="display:flex; justify-content:space-between; align-items:center; gap:12px;">
+                        <a href="${item.link}" target="_blank" rel="noopener noreferrer">${item.title}</a>
+                        ${published ? `<span style="font-size:0.8rem; color:#64748b;">${published}</span>` : ''}
+                    </div>
                     <div class="news-source">${item.source} • Impact: ${(item.impact || 'medium').toUpperCase()}</div>
                     <div>${item.summary || ''}</div>
                 `;
@@ -269,13 +273,31 @@
                     labels: prediction.labels,
                     datasets: [
                         {
-                            label: 'Predicted regular price',
+                            label: 'Predicted regular',
                             data: prediction.regular,
                             borderColor: '#7c3aed',
                             backgroundColor: 'rgba(124, 58, 237, 0.18)',
                             borderDash: [6, 4],
                             tension: 0.3,
                             fill: true
+                        },
+                        {
+                            label: 'Predicted premium',
+                            data: prediction.premium,
+                            borderColor: '#ea580c',
+                            backgroundColor: 'rgba(234, 88, 12, 0.18)',
+                            borderDash: [6, 4],
+                            tension: 0.3,
+                            fill: false
+                        },
+                        {
+                            label: 'Predicted diesel',
+                            data: prediction.diesel,
+                            borderColor: '#059669',
+                            backgroundColor: 'rgba(5, 150, 105, 0.18)',
+                            borderDash: [6, 4],
+                            tension: 0.3,
+                            fill: false
                         }
                     ]
                 },

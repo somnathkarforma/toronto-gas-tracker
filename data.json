@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-01 23:35 UTC",
+  "generatedAt": "2026-04-01 23:42 UTC",
   "priceSource": "Saved history",
   "latest": {
     "regular": 155.9,
@@ -158,6 +158,24 @@
       156.9,
       157.1,
       157.3
+    ],
+    "premium": [
+      174.1,
+      174.3,
+      174.5,
+      174.7,
+      174.9,
+      175.1,
+      175.3
+    ],
+    "diesel": [
+      166.6,
+      166.8,
+      167.0,
+      167.2,
+      167.4,
+      167.6,
+      167.8
     ]
   },
   "news": [
@@ -166,6 +184,7 @@
       "source": "oilprice.com",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZVdwdWpHN0FOSW1WX1hpTVJvN1ZaLTNtZjg3Y1puT3JjRjloc2hsS1hlM0FyS0o0ZTB6ZDRqcGg0aFZwcU9IaWNYRDVQdDhubllhV3VZdE45T3g3UEdvbmdkVnJUd25CX2hDalMzakxDVEJrOG01SFppV25Ea2NlZFQwVkJHOVh4WmNwV2pnMkR4ZHJGcHfSAZsBQVVfeXFMTkRzN2VzQUkwaTRjZHJDTGx3Z3pTLWtVSzJvN3BPTVlYV0NGcmRzZXo1c0xTSm9JX3lQNFZHZFRsS2xsZzNWdHA4UE16bnpLZktfV25TOXJOSjAwbVh6M0xDLXhGOFdMTTdEcGRnUlNnRUhoQ3pHSzUyQm9xM1pkWng3Xzg5M2RaeE5ZZzJpUDFPaDBhM21mLTQ5QnM?oc=5",
       "description": "Oil Prices Post Biggest Monthly Surge in History oilprice.com",
+      "publishedAt": "Tue, 31 Mar 2026 15:30:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -174,6 +193,7 @@
       "source": "npr.org",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWnlsVnpjSXA1Nk9fY2h6NDQwLTBhZmVxb3Q5ZUE0SmJrT3VJaE9CcF9paHhnUlZyaDBfVGdJODBMUVlRZkxIZmtJTncwZy1UbWszS00teTNaRlBHRjd4Q1pzeUZUZ19jOFVzSWF4cUg1UHRoc2Fmbk9ubGtnRHEwbUZnOA?oc=5",
       "description": "How long will the war last? No one knows, and it's making oil prices weird npr.org",
+      "publishedAt": "Fri, 27 Mar 2026 16:16:50 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -182,6 +202,7 @@
       "source": "Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRTQ4Z1lwZXJwR19zbzRhcDZHd0ZYcG9yd0I5U2xsT1ZaR1RFMnNnS3V5LXY1c2Y2aHNOLTQ4NkN5UEJGOHJhMk1lZEppOTBGR3ZxTk9tSHE1YXlUOXhNQlF4WDRUbWExR0I1a0VydVlRX0xLVnlDUHU4ZzhpWVF3bnFIU0x2ZWhvZngwU05iOUVKYi02MHVvMGNkcER0OG1DT2dYc2NZcGNIa3pBR1VHSzJFOVZ2enBJ0gG-AUFVX3lxTFBvcW8xZ0oxWlEzeFo1WThQdVRvQ3ZLMVhPYlhTOU5OSjNCeS1GaF9iWVpUV09yVjBwcUJya205YXJoeF9taWpQZnVsYk1GdTU4ODRoY0ZkVjdSZzk1X0dIeUpvb0dCZTlRZzNJSkl0M2RjY3FhMGNKWnVJa3haaFZxWFZIS1gwQ2lVQ2Z5YUVyVE1jUjl4TEtfREZubWpET1RUcWVlcm15aG9mbjRsY0tXR243OFhEVERVTjBaQWc?oc=5",
       "description": "Oil prices rise higher as Iran denies US talks, dimming deescalation hopes Al Jazeera",
+      "publishedAt": "Thu, 26 Mar 2026 05:06:15 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -190,22 +211,16 @@
       "source": "fortune.com",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSZ1JBMnNtMjZPaW51anpsaVlNUGNaRGZiSzVKOVJOeG1EUFBHVUZsUHRGNVBTOU9jRGp0LXF2VWZJal90SXVnaGJiZTRpV2IxZXNmVVlobVp4RlZjSUotRTNB?oc=5",
       "description": "Current price of oil as of April 1, 2026 fortune.com",
+      "publishedAt": "Wed, 01 Apr 2026 12:13:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Brent oil heads for record monthly surge, WTI settles above $100 for first time since 2022 - CNBC",
-      "source": "CNBC",
+      "title": "Brent oil heads for record monthly surge, WTI settles above $100 for first time since 2022 - cnbc.com",
+      "source": "cnbc.com",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT3JUUEdSYnYxaTJVd3dBN2JLbmFkYmlUTHlfN1dSb0x2ekZyR3hoOHVmV18xLXlSVllaY0tib3Zqb2NiYVoybmZvT1hwZXBrYm5vZlU3X056ZUZZYlNpMlprcWxkSlhyYlRYdUJDSjA0cGJiMEktTmVVUkp3WmhaSkZraFpjb2NKNV9JWWZjeV96UlpBMC1B0gGcAUFVX3lxTE9CQ09EYjdVRUhmTkxrSFNuWGxuTE9pTmU0NlR6ZnY2WnR5MjdoTHhCN1IzNkJvVFI3Z3BuVkxaRG1Fekt6aTVGNE5BQkxDdGVSSEs1UjQzOEdLUF9qellOYlZsdHpTcFhYUFRCZVBxZWFOWm5heTRJaTFZTWpyZk5kWjhtMEtSUk8tekVyNl9kQ1B0SnpaZUZMSTVkcg?oc=5",
-      "description": "Brent oil heads for record monthly surge, WTI settles above $100 for first time since 2022 CNBC",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Which consumer services are adding a fuel surcharge (or not) as oil prices rise? - CBC",
-      "source": "CBC",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBUR3NCaVJ5NEhsdENiaXdrb2FvNUJ1c1lUeVI1VEx1SDdXWnNfR283c0plbnN3ZDRUR0xEMkZZaTBqeFlQQm9qcldEclVqS3hUS2tJUGsxNnY0MHh6Vkc0MVpiS010eVJsT1ZhbUN1M0Eyenl3Q2JQRjNB?oc=5",
-      "description": "Which consumer services are adding a fuel surcharge (or not) as oil prices rise? CBC",
+      "description": "Brent oil heads for record monthly surge, WTI settles above $100 for first time since 2022 cnbc.com",
+      "publishedAt": "Mon, 30 Mar 2026 00:01:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -214,6 +229,16 @@
       "source": "Euronews.com",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVWxYZ0ZwbDUxMzJGamFmdmtIa3JGYmZCYmpZa0x5dlVXTHdFMThxSzd2LWFxQWJWNkswTW1Ra1k4OW5MSXFYQnR2UmRwaWc0a1lMMkwzeVMzWnVRRXVVcXVsNDQ1WTd3UXB0OVRUcUxGUjQyVC1XbHhZRTZPMDhEMHFPTy1nODlVa3RLc3BqM0xfSjZKU0NJbUh5VVNja0dwa0dHb1JJdk5zZElnQ204UEp3Q3RuU3h5a2cxV1pXcGpIX2RZM1l2YjVaZng1UQ?oc=5",
       "description": "Oil prices rise again as conflicting Iran-US messages fuel uncertainty Euronews.com",
+      "publishedAt": "Thu, 26 Mar 2026 10:12:32 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Here's where you will \u2014 or won't \u2014 see a fuel surcharge | CBC News - cbc.ca",
+      "source": "cbc.ca",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBUR3NCaVJ5NEhsdENiaXdrb2FvNUJ1c1lUeVI1VEx1SDdXWnNfR283c0plbnN3ZDRUR0xEMkZZaTBqeFlQQm9qcldEclVqS3hUS2tJUGsxNnY0MHh6Vkc0MVpiS010eVJsT1ZhbUN1M0Eyenl3Q2JQRjNB?oc=5",
+      "description": "Here's where you will \u2014 or won't \u2014 see a fuel surcharge | CBC News cbc.ca",
+      "publishedAt": "Wed, 01 Apr 2026 15:40:42 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -222,6 +247,7 @@
       "source": "Barron's",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IRlpjTktRdGhVUU51dHZ2bDZaVEFLWGROYkw5WWxXNGVvWE9YMEZMTmFVbFpEaG5fU0RtcGlhaHFpMmlvZEo3TU5LSGJnNEUxWTR3a001N3lPRWpUbzlPRkVkQVZwZEZBdkIzZkIyZWtVWlYzUnY5Z3RUREFUZEk?oc=5",
       "description": "Oil Prices Keep Rising as Iran Denies Peace Negotiations Barron's",
+      "publishedAt": "Mon, 30 Mar 2026 21:42:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -230,14 +256,16 @@
       "source": "moosejawtoday.com",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeUtOaHMxVVlGYkhaRWQwVnQ2emxiaWhaWVdld0Y0SXhqejd3QW5JYXNEX25seDRxT2N2UmQ5X0xtNkVjdjRPdEd3bFktdy1oNEF4eVB6OWpCNEpwNUJqQl9sQU9ScmRWR3dSalM5bjNESklPOEZkc2hidnRzVVFZeXc0anVuYUJSU2txMEJUU2ZTTjdVbmNCam9idW9STFMyTEVpX19XSXBtdVhSaEUtaTMyUlI4RXVCekFRLQ?oc=5",
       "description": "US stocks fall in another shaky day as oil prices keep climbing moosejawtoday.com",
+      "publishedAt": "Mon, 30 Mar 2026 20:04:52 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Current price of oil as of March 26, 2026 - fortune.com",
+      "title": "Current price of oil as of March 30, 2026 - fortune.com",
       "source": "fortune.com",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE10bTNhZ1NlSE1DVk9jaC1FWVp4a2FqZWR4OC1GcEg1UFhZeHdqOEN1aEMtZjNhdnE1RFNWQnpnbmJpODZhcE44QnBjLWlycjVjNzNTTm5NNi11MUxFWnRLX29B?oc=5",
-      "description": "Current price of oil as of March 26, 2026 fortune.com",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xSC1SbTlFZnhJNm1odllPQVZ4NWJ3empHX0VqbFU1YzROWnNzSkJVdC14M1VtTUJmeFhWa0JCYkl2SFJ3b2VieGhsNFFGUzlLUzY2RUp3cDlxTGEwU09ER2xB?oc=5",
+      "description": "Current price of oil as of March 30, 2026 fortune.com",
+      "publishedAt": "Mon, 30 Mar 2026 12:39:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
