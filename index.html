@@ -327,7 +327,7 @@
                 let localTimestamp = utcTimestamp;
                 try {
                     const utcIso = utcTimestamp.replace(' UTC', 'Z');
-                    localTimestamp = new Date(utcIso).toLocaleString();
+                    localTimestamp = new Date(utcIso).toLocaleString('en-US', {timeZone: 'EST'});
                 } catch (e) {
                     // keep UTC if parse fails
                 }
