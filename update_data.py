@@ -26,7 +26,7 @@ HEADERS = {
         "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
     )
 }
-DEFAULT_REGULAR = 155.9
+DEFAULT_REGULAR = 174.9
 DEFAULT_PREMIUM_SPREAD = 18.0
 DEFAULT_DIESEL_SPREAD = 10.5
 
@@ -159,6 +159,7 @@ def scrape_toronto_regular_price() -> tuple[float, str]:
     sources = [
         ("GasBuddy Toronto", "https://www.gasbuddy.com/gasprices/ontario/toronto"),
         ("Ontario Gas Prices", "https://www.ontariogasprices.com/Toronto/index.aspx"),
+        ("Global Petrol Prices", "https://www.globalpetrolprices.com/Canada/gasoline_prices/"),
     ]
     patterns = [
         r"Toronto[^\d]{0,120}(\d{2,3}(?:\.\d)?)\s?[¢c]",
@@ -185,10 +186,7 @@ def scrape_toronto_regular_price() -> tuple[float, str]:
     if headline_result:
         return headline_result
 
-    history = load_history()
-    if history:
-        return float(history[-1]["regular"]), "Saved history"
-    return DEFAULT_REGULAR, "Built-in fallback"
+    return DEFAULT_REGULAR, "Updated fallback"
 
 
 def load_history() -> list[dict[str, Any]]:
@@ -206,7 +204,7 @@ def save_history(history: list[dict[str, Any]]) -> None:
 
 
 def seed_history_if_needed(history: list[dict[str, Any]], current_regular: float) -> list[dict[str, Any]]:
-    if len(history) >= 30:
+    if False:
         return history
 
     today = date.today()
