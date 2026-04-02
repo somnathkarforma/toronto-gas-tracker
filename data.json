@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-04-01 23:05 UTC",
-  "priceSource": "Saved history",
+  "generatedAt": "2026-04-02 07:53 UTC",
+  "priceSource": "Updated fallback",
   "latest": {
-    "regular": 155.9,
-    "premium": 173.9,
-    "diesel": 166.4
+    "regular": 174.9,
+    "premium": 192.9,
+    "diesel": 185.4
   },
   "history": {
     "labels": [
@@ -38,7 +38,9 @@
       "Mar 28",
       "Mar 29",
       "Mar 30",
-      "Apr 01"
+      "Mar 31",
+      "Apr 01",
+      "Apr 02"
     ],
     "regular": [
       150.7,
@@ -71,7 +73,9 @@
       156.7,
       156.6,
       155.9,
-      155.9
+      175.7,
+      174.9,
+      174.9
     ],
     "premium": [
       168.7,
@@ -104,7 +108,9 @@
       174.7,
       174.6,
       173.9,
-      173.9
+      193.7,
+      192.9,
+      192.9
     ],
     "diesel": [
       161.2,
@@ -137,27 +143,47 @@
       167.2,
       167.1,
       166.4,
-      166.4
+      186.2,
+      185.4,
+      185.4
     ]
   },
   "prediction": {
     "labels": [
-      "Apr 02",
       "Apr 03",
       "Apr 04",
       "Apr 05",
       "Apr 06",
       "Apr 07",
-      "Apr 08"
+      "Apr 08",
+      "Apr 09"
     ],
     "regular": [
-      156.1,
-      156.3,
-      156.5,
-      156.7,
-      156.9,
-      157.1,
-      157.3
+      175.9,
+      176.8,
+      177.8,
+      178.7,
+      179.7,
+      180.7,
+      181.6
+    ],
+    "premium": [
+      193.9,
+      194.8,
+      195.8,
+      196.7,
+      197.7,
+      198.7,
+      199.6
+    ],
+    "diesel": [
+      186.4,
+      187.3,
+      188.3,
+      189.2,
+      190.2,
+      191.2,
+      192.1
     ]
   },
   "news": [
@@ -166,30 +192,34 @@
       "source": "Global News",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBXQTEycThWd1NESjVfU0ZFR0FvYVd3N2VjUTE0TEZxbWo2TkJjRmhZZmRoSFhzb2RXX3hqNWpyWUtac3JILTlWdTdFN1ZMRFZKVGlhZE1aS2I5WXJTVVQyVkg2VTdpSS1MVk9FOWdxYw?oc=5",
       "description": "Oil prices keep climbing as Iran war uncertainty drags stock markets down Global News",
+      "publishedAt": "Mon, 30 Mar 2026 19:04:50 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Alberta\u2019s GDP projected to rise as oil supply crisis rages on, but impact on citizens more complex: ATB - CBC",
-      "source": "CBC",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUHRpODJzcEwtVFpGbzZScmtPWDhmR05wRzFGblIwcnd3cXdNUXVzQ1lYRWNHQW1lUE1LV045d2NNeDY3bTc2UEE1S09lVFFWQzJhdXQtbFdMQmxjdGU0VEhYMlU3SEF6dndjdnEyX3BWaUJiTTlURHY2N1dETlJ3MkRSN242N0tRVXVxSjlXTQ?oc=5",
-      "description": "Alberta\u2019s GDP projected to rise as oil supply crisis rages on, but impact on citizens more complex: ATB CBC",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil Prices Set for Another Weekly Decline as Iran Risks Recede - energynow.ca",
-      "source": "energynow.ca",
+      "title": "Oil Prices Set for Another Weekly Decline as Iran Risks Recede - EnergyNow",
+      "source": "EnergyNow",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbEV5UWVIMG41ZnplUlJEbTNFRURkN05GQVVzazBxNVZpNHJqZVp4X2pXWGtCXzdyNmVlVWtUUEVfbC1DSmFySWo3QmVxMVhLWGtYUFRRNXlwN1Q4UVFGX0tid2tPNDl2RzVBSElEeUdLbXNZTjdKMkROcmF0bjZQLUlQVUlYLWU1bE9iREt1U3huVFRvMW5z?oc=5",
-      "description": "Oil Prices Set for Another Weekly Decline as Iran Risks Recede energynow.ca",
+      "description": "Oil Prices Set for Another Weekly Decline as Iran Risks Recede EnergyNow",
+      "publishedAt": "Tue, 31 Mar 2026 21:42:16 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Post Biggest Monthly Surge in History - Crude Oil Prices Today | OilPrice.com",
-      "source": "Crude Oil Prices Today | OilPrice.com",
+      "title": "Which consumer services are adding a fuel surcharge (or not) as oil prices rise? - CBC",
+      "source": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBUR3NCaVJ5NEhsdENiaXdrb2FvNUJ1c1lUeVI1VEx1SDdXWnNfR283c0plbnN3ZDRUR0xEMkZZaTBqeFlQQm9qcldEclVqS3hUS2tJUGsxNnY0MHh6Vkc0MVpiS010eVJsT1ZhbUN1M0Eyenl3Q2JQRjNB?oc=5",
+      "description": "Which consumer services are adding a fuel surcharge (or not) as oil prices rise? CBC",
+      "publishedAt": "Wed, 01 Apr 2026 15:40:42 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil Prices Post Biggest Monthly Surge in History - OilPrice.com",
+      "source": "OilPrice.com",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZVdwdWpHN0FOSW1WX1hpTVJvN1ZaLTNtZjg3Y1puT3JjRjloc2hsS1hlM0FyS0o0ZTB6ZDRqcGg0aFZwcU9IaWNYRDVQdDhubllhV3VZdE45T3g3UEdvbmdkVnJUd25CX2hDalMzakxDVEJrOG01SFppV25Ea2NlZFQwVkJHOVh4WmNwV2pnMkR4ZHJGcHfSAZsBQVVfeXFMTkRzN2VzQUkwaTRjZHJDTGx3Z3pTLWtVSzJvN3BPTVlYV0NGcmRzZXo1c0xTSm9JX3lQNFZHZFRsS2xsZzNWdHA4UE16bnpLZktfV25TOXJOSjAwbVh6M0xDLXhGOFdMTTdEcGRnUlNnRUhoQ3pHSzUyQm9xM1pkWng3Xzg5M2RaeE5ZZzJpUDFPaDBhM21mLTQ5QnM?oc=5",
-      "description": "Oil Prices Post Biggest Monthly Surge in History Crude Oil Prices Today | OilPrice.com",
+      "description": "Oil Prices Post Biggest Monthly Surge in History OilPrice.com",
+      "publishedAt": "Tue, 31 Mar 2026 15:30:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -198,14 +228,7 @@
       "source": "NPR",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWnlsVnpjSXA1Nk9fY2h6NDQwLTBhZmVxb3Q5ZUE0SmJrT3VJaE9CcF9paHhnUlZyaDBfVGdJODBMUVlRZkxIZmtJTncwZy1UbWszS00teTNaRlBHRjd4Q1pzeUZUZ19jOFVzSWF4cUg1UHRoc2Fmbk9ubGtnRHEwbUZnOA?oc=5",
       "description": "How long will the war last? No one knows, and it's making oil prices weird NPR",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Higher oil prices and higher thermal output: A sneak peak at Q1 earnings - oilsandsmagazine.com",
-      "source": "oilsandsmagazine.com",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcWY2Y0VOdkJuekhIM3U5RWJGeWdOWUVicThzQUJoMTU1ZVkxR1l6NFFpMWhyWXd3UENGYjVHbGFCc0tfQ2tWdVZZNlF5MDlVWWNRcWp3VnJBOTlmeGxVUXpGdHJxcFROZ2lzUElibHItbWtlWXg1M0hoREplOHVveHJESWE3bWlrbDZYMmxaQlV2cXFyVkE?oc=5",
-      "description": "Higher oil prices and higher thermal output: A sneak peak at Q1 earnings oilsandsmagazine.com",
+      "publishedAt": "Fri, 27 Mar 2026 16:16:50 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -214,14 +237,7 @@
       "source": "Fortune",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSZ1JBMnNtMjZPaW51anpsaVlNUGNaRGZiSzVKOVJOeG1EUFBHVUZsUHRGNVBTOU9jRGp0LXF2VWZJal90SXVnaGJiZTRpV2IxZXNmVVlobVp4RlZjSUotRTNB?oc=5",
       "description": "Current price of oil as of April 1, 2026 Fortune",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "\u2018It\u2019s a big shift\u2019: PM Carney on the soaring oil prices amid war in Middle East - CTV News",
-      "source": "CTV News",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObUVmakVLaENLeXA1b21GYjNTQmF4akhLSy1PVG03ZHl3Zi02MzhzZjhubkYtV0tlRnpTQmE2QW9FYzhUOE5CSzN4bm9XOElWNTJtV2t3d191cEl1MDA1V0lQWVhSOG1zLWkySUh2S3Ffa2hwWGpHSm1kRGxBMEpMTnNyT2V5QVU0SXJTQktOc0hncWFsWVQwaVpLNlg5RVZqTExwbEthN3NNNnhhd2ZwbHA5R3FlQWc?oc=5",
-      "description": "\u2018It\u2019s a big shift\u2019: PM Carney on the soaring oil prices amid war in Middle East CTV News",
+      "publishedAt": "Wed, 01 Apr 2026 12:13:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -230,6 +246,16 @@
       "source": "CNBC",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT3JUUEdSYnYxaTJVd3dBN2JLbmFkYmlUTHlfN1dSb0x2ekZyR3hoOHVmV18xLXlSVllaY0tib3Zqb2NiYVoybmZvT1hwZXBrYm5vZlU3X056ZUZZYlNpMlprcWxkSlhyYlRYdUJDSjA0cGJiMEktTmVVUkp3WmhaSkZraFpjb2NKNV9JWWZjeV96UlpBMC1B0gGcAUFVX3lxTE9CQ09EYjdVRUhmTkxrSFNuWGxuTE9pTmU0NlR6ZnY2WnR5MjdoTHhCN1IzNkJvVFI3Z3BuVkxaRG1Fekt6aTVGNE5BQkxDdGVSSEs1UjQzOEdLUF9qellOYlZsdHpTcFhYUFRCZVBxZWFOWm5heTRJaTFZTWpyZk5kWjhtMEtSUk8tekVyNl9kQ1B0SnpaZUZMSTVkcg?oc=5",
       "description": "Brent oil heads for record monthly surge, WTI settles above $100 for first time since 2022 CNBC",
+      "publishedAt": "Mon, 30 Mar 2026 00:01:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "\u2018It\u2019s a big shift\u2019: PM Carney on the soaring oil prices amid war in Middle East - CTV News",
+      "source": "CTV News",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObUVmakVLaENLeXA1b21GYjNTQmF4akhLSy1PVG03ZHl3Zi02MzhzZjhubkYtV0tlRnpTQmE2QW9FYzhUOE5CSzN4bm9XOElWNTJtV2t3d191cEl1MDA1V0lQWVhSOG1zLWkySUh2S3Ffa2hwWGpHSm1kRGxBMEpMTnNyT2V5QVU0SXJTQktOc0hncWFsWVQwaVpLNlg5RVZqTExwbEthN3NNNnhhd2ZwbHA5R3FlQWc?oc=5",
+      "description": "\u2018It\u2019s a big shift\u2019: PM Carney on the soaring oil prices amid war in Middle East CTV News",
+      "publishedAt": "Thu, 26 Mar 2026 15:19:05 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -238,6 +264,16 @@
       "source": "Euronews.com",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVWxYZ0ZwbDUxMzJGamFmdmtIa3JGYmZCYmpZa0x5dlVXTHdFMThxSzd2LWFxQWJWNkswTW1Ra1k4OW5MSXFYQnR2UmRwaWc0a1lMMkwzeVMzWnVRRXVVcXVsNDQ1WTd3UXB0OVRUcUxGUjQyVC1XbHhZRTZPMDhEMHFPTy1nODlVa3RLc3BqM0xfSjZKU0NJbUh5VVNja0dwa0dHb1JJdk5zZElnQ204UEp3Q3RuU3h5a2cxV1pXcGpIX2RZM1l2YjVaZng1UQ?oc=5",
       "description": "Oil prices rise again as conflicting Iran-US messages fuel uncertainty Euronews.com",
+      "publishedAt": "Thu, 26 Mar 2026 10:12:32 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil Prices Keep Rising as Iran Denies Peace Negotiations - Barron's",
+      "source": "Barron's",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IRlpjTktRdGhVUU51dHZ2bDZaVEFLWGROYkw5WWxXNGVvWE9YMEZMTmFVbFpEaG5fU0RtcGlhaHFpMmlvZEo3TU5LSGJnNEUxWTR3a001N3lPRWpUbzlPRkVkQVZwZEZBdkIzZkIyZWtVWlYzUnY5Z3RUREFUZEk?oc=5",
+      "description": "Oil Prices Keep Rising as Iran Denies Peace Negotiations Barron's",
+      "publishedAt": "Mon, 30 Mar 2026 21:42:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
