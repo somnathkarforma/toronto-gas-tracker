@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-05 02:52 UTC",
+  "generatedAt": "2026-04-05 07:40 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
     "regular": 186.9,
@@ -39,7 +39,8 @@
       "Mar 29",
       "Mar 30",
       "Apr 01",
-      "Apr 04"
+      "Apr 04",
+      "Apr 05"
     ],
     "regular": [
       150.7,
@@ -73,6 +74,7 @@
       156.6,
       155.9,
       174.9,
+      186.9,
       186.9
     ],
     "premium": [
@@ -107,6 +109,7 @@
       174.6,
       173.9,
       192.9,
+      204.9,
       204.9
     ],
     "diesel": [
@@ -141,18 +144,19 @@
       167.1,
       166.4,
       185.4,
+      197.4,
       197.4
     ]
   },
   "prediction": {
     "labels": [
-      "Apr 05",
       "Apr 06",
       "Apr 07",
       "Apr 08",
       "Apr 09",
       "Apr 10",
-      "Apr 11"
+      "Apr 11",
+      "Apr 12"
     ],
     "regular": [
       187.9,
@@ -211,20 +215,11 @@
       "impact": "medium"
     },
     {
-      "title": "Which consumer services are adding a fuel surcharge (or not) as oil prices rise? - CBC",
-      "source": "CBC",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBUR3NCaVJ5NEhsdENiaXdrb2FvNUJ1c1lUeVI1VEx1SDdXWnNfR283c0plbnN3ZDRUR0xEMkZZaTBqeFlQQm9qcldEclVqS3hUS2tJUGsxNnY0MHh6Vkc0MVpiS010eVJsT1ZhbUN1M0Eyenl3Q2JQRjNB?oc=5",
-      "description": "Which consumer services are adding a fuel surcharge (or not) as oil prices rise? CBC",
-      "publishedAt": "Wed, 01 Apr 2026 08:00:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Current price of oil as of March 30, 2026 - Fortune",
-      "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xSC1SbTlFZnhJNm1odllPQVZ4NWJ3empHX0VqbFU1YzROWnNzSkJVdC14M1VtTUJmeFhWa0JCYkl2SFJ3b2VieGhsNFFGUzlLUzY2RUp3cDlxTGEwU09ER2xB?oc=5",
-      "description": "Current price of oil as of March 30, 2026 Fortune",
-      "publishedAt": "Mon, 30 Mar 2026 12:39:00 GMT",
+      "title": "Higher oil prices and higher thermal output: A sneak peak at Q1 earnings - oilsandsmagazine.com",
+      "source": "oilsandsmagazine.com",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcWY2Y0VOdkJuekhIM3U5RWJGeWdOWUVicThzQUJoMTU1ZVkxR1l6NFFpMWhyWXd3UENGYjVHbGFCc0tfQ2tWdVZZNlF5MDlVWWNRcWp3VnJBOTlmeGxVUXpGdHJxcFROZ2lzUElibHItbWtlWXg1M0hoREplOHVveHJESWE3bWlrbDZYMmxaQlV2cXFyVkE?oc=5",
+      "description": "Higher oil prices and higher thermal output: A sneak peak at Q1 earnings oilsandsmagazine.com",
+      "publishedAt": "Tue, 31 Mar 2026 07:00:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -234,6 +229,15 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT3JUUEdSYnYxaTJVd3dBN2JLbmFkYmlUTHlfN1dSb0x2ekZyR3hoOHVmV18xLXlSVllaY0tib3Zqb2NiYVoybmZvT1hwZXBrYm5vZlU3X056ZUZZYlNpMlprcWxkSlhyYlRYdUJDSjA0cGJiMEktTmVVUkp3WmhaSkZraFpjb2NKNV9JWWZjeV96UlpBMC1B0gGcAUFVX3lxTE9CQ09EYjdVRUhmTkxrSFNuWGxuTE9pTmU0NlR6ZnY2WnR5MjdoTHhCN1IzNkJvVFI3Z3BuVkxaRG1Fekt6aTVGNE5BQkxDdGVSSEs1UjQzOEdLUF9qellOYlZsdHpTcFhYUFRCZVBxZWFOWm5heTRJaTFZTWpyZk5kWjhtMEtSUk8tekVyNl9kQ1B0SnpaZUZMSTVkcg?oc=5",
       "description": "Brent oil heads for record monthly surge, WTI settles above $100 for first time since 2022 CNBC",
       "publishedAt": "Mon, 30 Mar 2026 00:01:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Current price of oil as of April 1, 2026 - Fortune",
+      "source": "Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSZ1JBMnNtMjZPaW51anpsaVlNUGNaRGZiSzVKOVJOeG1EUFBHVUZsUHRGNVBTOU9jRGp0LXF2VWZJal90SXVnaGJiZTRpV2IxZXNmVVlobVp4RlZjSUotRTNB?oc=5",
+      "description": "Current price of oil as of April 1, 2026 Fortune",
+      "publishedAt": "Wed, 01 Apr 2026 12:13:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
