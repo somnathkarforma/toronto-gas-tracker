@@ -1,350 +1,849 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Toronto Gas Tracker</title>
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <style>
-        :root {
-            --bg: #0f172a;
-            --card: #ffffff;
-            --muted: #64748b;
-            --primary: #2563eb;
-            --accent: #ea580c;
-            --success: #059669;
-            --border: #e2e8f0;
-        }
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="Content-Security-Policy"
+    content="default-src 'self'; script-src 'self' https://cdn.jsdelivr.net 'unsafe-inline'; style-src 'self' 'unsafe-inline'; connect-src 'self'; img-src 'self' data:; font-src 'self';" />
+  <meta name="description" content="Daily Toronto fuel price tracker with trend charts and energy news." />
+  <title>Toronto Gas Tracker</title>
 
-        * { box-sizing: border-box; }
-        body {
-            margin: 0;
-            font-family: Arial, Helvetica, sans-serif;
-            background: linear-gradient(180deg, #eff6ff 0%, #f8fafc 100%);
-            color: #0f172a;
-        }
+  <!-- Chart.js with SRI hash -->
+  <script
+    src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"
+    integrity="sha256-3uivNgdmUxNFIeAFbTwkFjB0+P5LZk/RL1+pgHkwbE="
+    crossorigin="anonymous"></script>
 
-        .wrap {
-            max-width: 1100px;
-            margin: 0 auto;
-            padding: 24px;
-        }
+  <style>
+    /* ── Design tokens ───────────────────────────────────────────── */
+    :root {
+      --bg:           #0b1120;
+      --bg2:          #131c30;
+      --surface:      #ffffff;
+      --surface2:     #f8fafd;
+      --border:       #e4e9f2;
+      --muted:        #64748b;
+      --text:         #0f172a;
+      --text-inv:     #f1f5f9;
 
-        header {
-            background: var(--bg);
-            color: white;
-            padding: 28px;
-            border-radius: 18px;
-            margin-bottom: 20px;
-        }
+      --blue:         #2563eb;
+      --blue-light:   rgba(37,99,235,0.12);
+      --orange:       #ea580c;
+      --orange-light: rgba(234,88,12,0.12);
+      --green:        #059669;
+      --green-light:  rgba(5,150,105,0.12);
+      --purple:       #7c3aed;
+      --red:          #dc2626;
+      --amber:        #d97706;
 
-        header h1 {
-            margin: 0 0 8px;
-            font-size: 2rem;
-        }
+      --radius-sm:    8px;
+      --radius-md:    14px;
+      --radius-lg:    20px;
+      --shadow:       0 1px 3px rgba(15,23,42,.07), 0 4px 16px rgba(15,23,42,.05);
+      --shadow-lg:    0 8px 32px rgba(15,23,42,.10);
 
-        header p {
-            margin: 0;
-            color: #cbd5e1;
-        }
+      --font: 'Segoe UI', system-ui, -apple-system, sans-serif;
+    }
 
-        .cards {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
-            gap: 14px;
-            margin: 20px 0;
-        }
+    /* ── Reset ────────────────────────────────────────────────────── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body {
+      font-family: var(--font);
+      background: #f0f4fb;
+      color: var(--text);
+      line-height: 1.6;
+      min-height: 100vh;
+    }
 
-        .card, section {
-            background: var(--card);
-            border: 1px solid var(--border);
-            border-radius: 16px;
-            box-shadow: 0 8px 24px rgba(15, 23, 42, 0.06);
-        }
+    /* ── Layout ───────────────────────────────────────────────────── */
+    .wrap {
+      max-width: 1120px;
+      margin: 0 auto;
+      padding: 24px 20px 48px;
+    }
 
-        .card {
-            padding: 18px;
-        }
+    /* ── Header ───────────────────────────────────────────────────── */
+    header {
+      background: linear-gradient(135deg, var(--bg) 0%, var(--bg2) 100%);
+      color: var(--text-inv);
+      padding: 36px 40px;
+      border-radius: var(--radius-lg);
+      margin-bottom: 24px;
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 20px;
+      flex-wrap: wrap;
+    }
 
-        .label {
-            font-size: 0.85rem;
-            color: var(--muted);
-            margin-bottom: 8px;
-        }
+    header h1 {
+      font-size: clamp(1.5rem, 3vw, 2rem);
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      margin-bottom: 6px;
+    }
 
-        .value {
-            font-size: 1.8rem;
-            font-weight: 700;
-        }
+    header p {
+      color: #94a3b8;
+      font-size: 0.9rem;
+      max-width: 540px;
+    }
 
-        section {
-            padding: 20px;
-            margin-bottom: 18px;
-        }
+    .header-right {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-end;
+      gap: 10px;
+      flex-shrink: 0;
+    }
 
-        h2 {
-            margin-top: 0;
-            font-size: 1.2rem;
-        }
+    /* ── Refresh button ───────────────────────────────────────────── */
+    #refreshBtn {
+      display: inline-flex;
+      align-items: center;
+      gap: 7px;
+      background: rgba(255,255,255,0.10);
+      border: 1px solid rgba(255,255,255,0.20);
+      color: var(--text-inv);
+      padding: 9px 18px;
+      border-radius: var(--radius-sm);
+      font-size: 0.875rem;
+      font-family: var(--font);
+      font-weight: 500;
+      cursor: pointer;
+      transition: background 0.2s, transform 0.15s;
+      white-space: nowrap;
+    }
 
-        .meta {
-            color: var(--muted);
-            font-size: 0.95rem;
-        }
+    #refreshBtn:hover { background: rgba(255,255,255,0.18); }
+    #refreshBtn:active { transform: scale(0.97); }
+    #refreshBtn:disabled { opacity: 0.5; cursor: not-allowed; }
 
-        .news-list {
-            display: grid;
-            gap: 12px;
-        }
+    #refreshBtn svg {
+      width: 15px; height: 15px;
+      transition: transform 0.5s;
+    }
 
-        .news-item {
-            border: 1px solid var(--border);
-            border-left: 4px solid var(--primary);
-            border-radius: 12px;
-            padding: 12px 14px;
-        }
+    #refreshBtn.spinning svg { transform: rotate(360deg); }
 
-        .news-item.high { border-left-color: #dc2626; }
-        .news-item.medium { border-left-color: #f59e0b; }
-        .news-item.low { border-left-color: var(--success); }
+    /* ── Status bar ───────────────────────────────────────────────── */
+    #statusBar {
+      font-size: 0.78rem;
+      color: #64748b;
+      text-align: right;
+    }
 
-        .news-item a {
-            color: #0f172a;
-            font-weight: 700;
-            text-decoration: none;
-        }
+    /* ── Price cards ──────────────────────────────────────────────── */
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 16px;
+      margin-bottom: 24px;
+    }
 
-        .news-item a:hover { text-decoration: underline; }
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-md);
+      padding: 22px 24px;
+      box-shadow: var(--shadow);
+      position: relative;
+      overflow: hidden;
+    }
 
-        .news-source {
-            color: var(--muted);
-            font-size: 0.9rem;
-            margin: 4px 0 8px;
-        }
+    .card::before {
+      content: '';
+      position: absolute;
+      top: 0; left: 0; right: 0;
+      height: 3px;
+      border-radius: var(--radius-md) var(--radius-md) 0 0;
+    }
 
-        canvas {
-            width: 100% !important;
-            max-height: 320px;
-        }
+    .card-regular::before  { background: var(--blue); }
+    .card-premium::before  { background: var(--orange); }
+    .card-diesel::before   { background: var(--green); }
+    .card-updated::before  { background: var(--purple); }
 
-        .footer {
-            text-align: center;
-            color: var(--muted);
-            padding: 18px 0 8px;
-            font-size: 0.9rem;
-        }
+    .card-label {
+      font-size: 0.78rem;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--muted);
+      margin-bottom: 10px;
+    }
 
-        .error {
-            color: #b91c1c;
-            background: #fee2e2;
-            padding: 12px;
-            border-radius: 10px;
-        }
-    </style>
+    .card-value {
+      font-size: 2rem;
+      font-weight: 700;
+      letter-spacing: -0.03em;
+      line-height: 1;
+    }
+
+    .card-value.skeleton {
+      background: linear-gradient(90deg, #e2e8f0 25%, #f1f5f9 50%, #e2e8f0 75%);
+      background-size: 200% 100%;
+      animation: shimmer 1.4s infinite;
+      border-radius: 6px;
+      color: transparent;
+      width: 100px;
+      height: 2rem;
+      display: block;
+    }
+
+    @keyframes shimmer {
+      0%   { background-position: 200% 0; }
+      100% { background-position: -200% 0; }
+    }
+
+    .card-regular  .card-value { color: var(--blue); }
+    .card-premium  .card-value { color: var(--orange); }
+    .card-diesel   .card-value { color: var(--green); }
+    .card-updated  .card-value {
+      font-size: 0.9rem;
+      font-weight: 500;
+      color: var(--text);
+      line-height: 1.4;
+    }
+
+    .card-delta {
+      margin-top: 8px;
+      font-size: 0.82rem;
+      font-weight: 500;
+      color: var(--muted);
+    }
+
+    /* ── Section card ─────────────────────────────────────────────── */
+    section {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-md);
+      padding: 28px;
+      margin-bottom: 24px;
+      box-shadow: var(--shadow);
+    }
+
+    .section-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      margin-bottom: 20px;
+      flex-wrap: wrap;
+    }
+
+    section h2 {
+      font-size: 1.1rem;
+      font-weight: 700;
+      letter-spacing: -0.01em;
+    }
+
+    .badge {
+      font-size: 0.72rem;
+      font-weight: 600;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      padding: 3px 9px;
+      border-radius: 99px;
+    }
+
+    .badge-blue   { background: var(--blue-light);   color: var(--blue);   }
+    .badge-purple { background: var(--orange-light);  color: var(--orange); }
+    .badge-green  { background: var(--green-light);   color: var(--green);  }
+
+    /* ── Chart containers ─────────────────────────────────────────── */
+    .chart-wrap {
+      position: relative;
+      width: 100%;
+      height: 300px;
+    }
+
+    /* ── News ─────────────────────────────────────────────────────── */
+    .source-meta {
+      font-size: 0.82rem;
+      color: var(--muted);
+      margin-bottom: 18px;
+    }
+
+    .news-list { display: grid; gap: 12px; }
+
+    .news-item {
+      border: 1px solid var(--border);
+      border-left-width: 4px;
+      border-radius: var(--radius-sm);
+      padding: 14px 16px;
+      background: var(--surface2);
+      transition: box-shadow 0.15s;
+    }
+
+    .news-item:hover { box-shadow: var(--shadow-lg); }
+
+    .news-item.impact-high   { border-left-color: var(--red); }
+    .news-item.impact-medium { border-left-color: var(--amber); }
+    .news-item.impact-low    { border-left-color: var(--green); }
+
+    .news-item-top {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 12px;
+      margin-bottom: 4px;
+    }
+
+    .news-title {
+      font-weight: 600;
+      font-size: 0.92rem;
+      color: var(--text);
+      text-decoration: none;
+      line-height: 1.4;
+    }
+
+    .news-title:hover { text-decoration: underline; color: var(--blue); }
+
+    .news-time {
+      font-size: 0.75rem;
+      color: var(--muted);
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin-top: 2px;
+    }
+
+    .news-source-row {
+      font-size: 0.78rem;
+      color: var(--muted);
+      margin-bottom: 6px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .impact-pill {
+      display: inline-block;
+      font-size: 0.68rem;
+      font-weight: 700;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      padding: 1px 7px;
+      border-radius: 99px;
+    }
+
+    .impact-pill.impact-high   { background: #fee2e2; color: #991b1b; }
+    .impact-pill.impact-medium { background: #fef3c7; color: #92400e; }
+    .impact-pill.impact-low    { background: #d1fae5; color: #065f46; }
+
+    .news-summary { font-size: 0.88rem; color: #374151; line-height: 1.5; }
+
+    /* ── Toast ────────────────────────────────────────────────────── */
+    #toast {
+      position: fixed;
+      bottom: 28px;
+      left: 50%;
+      transform: translateX(-50%) translateY(80px);
+      background: #0f172a;
+      color: #f1f5f9;
+      padding: 11px 22px;
+      border-radius: 99px;
+      font-size: 0.85rem;
+      font-weight: 500;
+      box-shadow: 0 8px 32px rgba(0,0,0,0.3);
+      transition: transform 0.35s cubic-bezier(.34,1.56,.64,1), opacity 0.3s;
+      opacity: 0;
+      pointer-events: none;
+      z-index: 1000;
+      white-space: nowrap;
+    }
+
+    #toast.show {
+      transform: translateX(-50%) translateY(0);
+      opacity: 1;
+    }
+
+    /* ── Error state ──────────────────────────────────────────────── */
+    .error-box {
+      background: #fef2f2;
+      border: 1px solid #fecaca;
+      border-radius: var(--radius-sm);
+      padding: 16px 20px;
+      color: #991b1b;
+      font-size: 0.9rem;
+    }
+
+    /* ── Footer ───────────────────────────────────────────────────── */
+    footer {
+      text-align: center;
+      color: var(--muted);
+      font-size: 0.82rem;
+      padding-top: 8px;
+    }
+
+    footer a { color: var(--muted); }
+
+    /* ── Responsive ───────────────────────────────────────────────── */
+    @media (max-width: 640px) {
+      .wrap { padding: 16px 14px 40px; }
+      header { padding: 24px 20px; flex-direction: column; }
+      .header-right { align-items: flex-start; }
+      section { padding: 20px 16px; }
+      .cards { grid-template-columns: 1fr 1fr; }
+      .news-item-top { flex-direction: column; gap: 4px; }
+      .news-time { align-self: flex-start; }
+    }
+
+    @media (max-width: 420px) {
+      .cards { grid-template-columns: 1fr; }
+    }
+  </style>
 </head>
 <body>
-    <div class="wrap">
-        <header>
-            <h1>⛽ Toronto Gas Price Tracker</h1>
-            <p>Daily-updated Toronto fuel prices, a 6-month trend view, 7-day projection, and AI-assisted global energy news.</p>
-        </header>
 
-        <div class="cards">
-            <div class="card">
-                <div class="label">Regular</div>
-                <div class="value" id="regularPrice">--.-</div>
-            </div>
-            <div class="card">
-                <div class="label">Premium</div>
-                <div class="value" id="premiumPrice">--.-</div>
-            </div>
-            <div class="card">
-                <div class="label">Diesel</div>
-                <div class="value" id="dieselPrice">--.-</div>
-            </div>
-            <div class="card">
-                <div class="label">Last Update</div>
-                <div class="value" id="updatedAt" style="font-size: 1rem; line-height: 1.4;">Loading...</div>
-            </div>
-        </div>
+<div class="wrap">
 
-        <section id="news">
-            <h2>Section 1: Global Gas News</h2>
-            <p class="meta" id="sourceMeta">Loading source details...</p>
-            <div id="newsContent" class="news-list"></div>
-        </section>
-
-        <section id="history">
-            <h2>Section 2: 6-Month Price History</h2>
-            <canvas id="historyChart"></canvas>
-        </section>
-
-        <section id="prediction">
-            <h2>Section 3: 7-Day Prediction</h2>
-            <canvas id="predictChart"></canvas>
-        </section>
-
-        <div class="footer">
-            Built with GitHub Pages, GitHub Actions, Python, Chart.js, and Gemini free tier.
-        </div>
+  <!-- ── Header ─────────────────────────────────────────────────── -->
+  <header>
+    <div>
+      <h1>⛽ Toronto Gas Tracker</h1>
+      <p>Daily-updated Toronto fuel prices with a historical trend chart, 7-day price projection, and AI-curated global energy headlines.</p>
     </div>
+    <div class="header-right">
+      <button id="refreshBtn" aria-label="Refresh dashboard data" onclick="manualRefresh()">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <path d="M23 4v6h-6"/><path d="M20.49 15a9 9 0 1 1-2.12-9.36L23 10"/>
+        </svg>
+        Refresh now
+      </button>
+      <div id="statusBar">Connecting…</div>
+    </div>
+  </header>
 
-    <script>
-        let historyChart;
-        let predictChart;
+  <!-- ── Price cards ────────────────────────────────────────────── -->
+  <div class="cards" role="region" aria-label="Current fuel prices">
+    <div class="card card-regular">
+      <div class="card-label">Regular</div>
+      <div class="card-value skeleton" id="regularPrice" aria-live="polite">--</div>
+      <div class="card-delta" id="regularDelta"></div>
+    </div>
+    <div class="card card-premium">
+      <div class="card-label">Premium</div>
+      <div class="card-value skeleton" id="premiumPrice" aria-live="polite">--</div>
+      <div class="card-delta" id="premiumDelta"></div>
+    </div>
+    <div class="card card-diesel">
+      <div class="card-label">Diesel</div>
+      <div class="card-value skeleton" id="dieselPrice" aria-live="polite">--</div>
+      <div class="card-delta" id="dieselDelta"></div>
+    </div>
+    <div class="card card-updated">
+      <div class="card-label">Data generated</div>
+      <div class="card-value" id="generatedAt" aria-live="polite">Loading…</div>
+    </div>
+  </div>
 
-        function setPrice(id, value) {
-            document.getElementById(id).textContent = `${Number(value).toFixed(1)}¢/L`;
+  <!-- ── News ───────────────────────────────────────────────────── -->
+  <section id="news" aria-label="Energy news">
+    <div class="section-header">
+      <h2>Global Energy News</h2>
+      <span class="badge badge-blue">Live headlines</span>
+    </div>
+    <p class="source-meta" id="sourceMeta">Loading…</p>
+    <div id="newsContent" class="news-list" aria-live="polite"></div>
+  </section>
+
+  <!-- ── History chart ──────────────────────────────────────────── -->
+  <section aria-label="Price history chart">
+    <div class="section-header">
+      <h2>Price History</h2>
+      <span class="badge badge-purple">Last 6 months</span>
+    </div>
+    <div class="chart-wrap">
+      <canvas id="historyChart" role="img" aria-label="Historical fuel price line chart"></canvas>
+    </div>
+  </section>
+
+  <!-- ── Prediction chart ───────────────────────────────────────── -->
+  <section aria-label="7-day price projection">
+    <div class="section-header">
+      <h2>7-Day Projection</h2>
+      <span class="badge badge-green">Trend-based estimate</span>
+    </div>
+    <div class="chart-wrap">
+      <canvas id="predictChart" role="img" aria-label="7-day predicted fuel price line chart"></canvas>
+    </div>
+  </section>
+
+  <footer>
+    Built with GitHub Pages · GitHub Actions · Python · Chart.js · Gemini API ·
+    <a href="https://github.com" target="_blank" rel="noopener noreferrer">Source</a>
+  </footer>
+</div>
+
+<!-- ── Toast notification ──────────────────────────────────────── -->
+<div id="toast" role="status" aria-live="polite"></div>
+
+<script>
+  /* ── Utility: sanitize plain text for safe DOM insertion ──────── */
+  function sanitize(str) {
+    if (typeof str !== 'string') return '';
+    const d = document.createElement('div');
+    d.textContent = str;
+    return d.innerHTML;
+  }
+
+  /* ── Utility: validate a URL is http/https ─────────────────────── */
+  function safeUrl(url) {
+    try {
+      const u = new URL(url);
+      if (u.protocol === 'http:' || u.protocol === 'https:') return u.href;
+    } catch (_) {}
+    return '#';
+  }
+
+  /* ── Charts ───────────────────────────────────────────────────── */
+  let historyChart = null;
+  let predictChart = null;
+
+  const CHART_DEFAULTS = {
+    responsive: true,
+    maintainAspectRatio: false,
+    interaction: { intersect: false, mode: 'index' },
+    plugins: {
+      legend: {
+        position: 'top',
+        labels: { usePointStyle: true, pointStyleWidth: 8, boxHeight: 8, padding: 18, font: { size: 12 } }
+      },
+      tooltip: {
+        backgroundColor: '#0f172a',
+        titleColor: '#f1f5f9',
+        bodyColor: '#cbd5e1',
+        padding: 12,
+        cornerRadius: 10,
+        callbacks: {
+          label: ctx => ` ${ctx.dataset.label}: ${ctx.parsed.y.toFixed(1)}¢/L`
         }
+      }
+    },
+    scales: {
+      x: {
+        grid: { color: 'rgba(100,116,139,0.08)' },
+        ticks: { color: '#64748b', font: { size: 11 }, maxRotation: 45, autoSkip: true, maxTicksLimit: 14 }
+      },
+      y: {
+        grid: { color: 'rgba(100,116,139,0.08)' },
+        ticks: { color: '#64748b', font: { size: 11 }, callback: v => v.toFixed(0) + '¢' },
+        title: { display: true, text: 'Cents per litre (¢/L)', color: '#64748b', font: { size: 11 } }
+      }
+    }
+  };
 
-        function renderNews(news) {
-            const container = document.getElementById('newsContent');
-            container.innerHTML = '';
+  function buildHistoryChart(data) {
+    const ctx = document.getElementById('historyChart').getContext('2d');
+    if (historyChart) historyChart.destroy();
+    historyChart = new Chart(ctx, {
+      type: 'line',
+      data: {
+        labels: data.labels,
+        datasets: [
+          {
+            label: 'Regular',
+            data: data.regular,
+            borderColor: '#2563eb',
+            backgroundColor: 'rgba(37,99,235,0.10)',
+            borderWidth: 2,
+            pointRadius: 0,
+            pointHoverRadius: 5,
+            tension: 0.3,
+            fill: true
+          },
+          {
+            label: 'Premium',
+            data: data.premium,
+            borderColor: '#ea580c',
+            backgroundColor: 'transparent',
+            borderWidth: 2,
+            pointRadius: 0,
+            pointHoverRadius: 5,
+            tension: 0.3
+          },
+          {
+            label: 'Diesel',
+            data: data.diesel,
+            borderColor: '#059669',
+            backgroundColor: 'transparent',
+            borderWidth: 2,
+            pointRadius: 0,
+            pointHoverRadius: 5,
+            tension: 0.3
+          }
+        ]
+      },
+      options: CHART_DEFAULTS
+    });
+  }
 
-            news.forEach(item => {
-                const article = document.createElement('article');
-                article.className = `news-item ${item.impact || 'medium'}`;
-                const published = item.publishedAt ? new Date(item.publishedAt).toLocaleString() : '';
-                article.innerHTML = `
-                    <div style="display:flex; justify-content:space-between; align-items:center; gap:12px;">
-                        <a href="${item.link}" target="_blank" rel="noopener noreferrer">${item.title}</a>
-                        ${published ? `<span style="font-size:0.8rem; color:#64748b;">${published}</span>` : ''}
-                    </div>
-                    <div class="news-source">${item.source} • Impact: ${(item.impact || 'medium').toUpperCase()}</div>
-                    <div>${item.summary || ''}</div>
-                `;
-                container.appendChild(article);
-            });
+  function buildPredictChart(data) {
+    const ctx = document.getElementById('predictChart').getContext('2d');
+    if (predictChart) predictChart.destroy();
+    predictChart = new Chart(ctx, {
+      type: 'line',
+      data: {
+        labels: data.labels,
+        datasets: [
+          {
+            label: 'Regular (projected)',
+            data: data.regular,
+            borderColor: '#7c3aed',
+            backgroundColor: 'rgba(124,58,237,0.10)',
+            borderWidth: 2,
+            borderDash: [6, 4],
+            pointRadius: 4,
+            pointHoverRadius: 6,
+            tension: 0.3,
+            fill: true
+          },
+          {
+            label: 'Premium (projected)',
+            data: data.premium,
+            borderColor: '#ea580c',
+            backgroundColor: 'transparent',
+            borderWidth: 2,
+            borderDash: [6, 4],
+            pointRadius: 4,
+            pointHoverRadius: 6,
+            tension: 0.3
+          },
+          {
+            label: 'Diesel (projected)',
+            data: data.diesel,
+            borderColor: '#059669',
+            backgroundColor: 'transparent',
+            borderWidth: 2,
+            borderDash: [6, 4],
+            pointRadius: 4,
+            pointHoverRadius: 6,
+            tension: 0.3
+          }
+        ]
+      },
+      options: CHART_DEFAULTS
+    });
+  }
+
+  /* ── Toast ────────────────────────────────────────────────────── */
+  let toastTimer = null;
+  function showToast(msg) {
+    const el = document.getElementById('toast');
+    el.textContent = msg;
+    el.classList.add('show');
+    clearTimeout(toastTimer);
+    toastTimer = setTimeout(() => el.classList.remove('show'), 3800);
+  }
+
+  /* ── Price cards ──────────────────────────────────────────────── */
+  function setPrice(id, deltaId, value, prevValue) {
+    const el = document.getElementById(id);
+    el.classList.remove('skeleton');
+    el.textContent = Number(value).toFixed(1) + '¢/L';
+
+    if (prevValue !== null && prevValue !== undefined) {
+      const diff = (value - prevValue).toFixed(1);
+      const dEl = document.getElementById(deltaId);
+      if (Math.abs(diff) >= 0.1) {
+        const up = diff > 0;
+        dEl.textContent = (up ? '▲' : '▼') + ' ' + Math.abs(diff) + '¢ vs prev';
+        dEl.style.color = up ? '#dc2626' : '#059669';
+      } else {
+        dEl.textContent = '→ Unchanged';
+        dEl.style.color = '#64748b';
+      }
+    }
+  }
+
+  /* ── News rendering (XSS-safe: DOM methods only) ──────────────── */
+  function renderNews(news) {
+    const container = document.getElementById('newsContent');
+    container.innerHTML = '';
+
+    if (!Array.isArray(news) || news.length === 0) {
+      const p = document.createElement('p');
+      p.style.color = '#64748b';
+      p.textContent = 'No headlines available at this time.';
+      container.appendChild(p);
+      return;
+    }
+
+    news.forEach(item => {
+      const impact = ['high', 'medium', 'low'].includes(item.impact) ? item.impact : 'medium';
+
+      const article = document.createElement('article');
+      article.className = `news-item impact-${impact}`;
+
+      const topRow = document.createElement('div');
+      topRow.className = 'news-item-top';
+
+      const link = document.createElement('a');
+      link.href = safeUrl(item.link);
+      link.target = '_blank';
+      link.rel = 'noopener noreferrer';
+      link.className = 'news-title';
+      link.textContent = item.title || 'Untitled';
+
+      const timeEl = document.createElement('span');
+      timeEl.className = 'news-time';
+      if (item.publishedAt) {
+        try {
+          timeEl.textContent = new Date(item.publishedAt).toLocaleDateString('en-CA', {
+            month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit'
+          });
+        } catch (_) {
+          timeEl.textContent = '';
         }
+      }
 
-        function renderHistoryChart(data) {
-            const ctx = document.getElementById('historyChart');
-            if (historyChart) historyChart.destroy();
+      topRow.appendChild(link);
+      topRow.appendChild(timeEl);
 
-            historyChart = new Chart(ctx, {
-                type: 'line',
-                data: {
-                    labels: data.labels,
-                    datasets: [
-                        {
-                            label: 'Regular',
-                            data: data.regular,
-                            borderColor: '#2563eb',
-                            backgroundColor: 'rgba(37, 99, 235, 0.15)',
-                            tension: 0.25,
-                            fill: true
-                        },
-                        {
-                            label: 'Premium',
-                            data: data.premium,
-                            borderColor: '#ea580c',
-                            tension: 0.25
-                        },
-                        {
-                            label: 'Diesel',
-                            data: data.diesel,
-                            borderColor: '#059669',
-                            tension: 0.25
-                        }
-                    ]
-                },
-                options: {
-                    responsive: true,
-                    maintainAspectRatio: false,
-                    plugins: {
-                        legend: { position: 'top' }
-                    },
-                    scales: {
-                        y: {
-                            title: { display: true, text: 'Cents per litre' }
-                        }
-                    }
-                }
-            });
+      const sourceRow = document.createElement('div');
+      sourceRow.className = 'news-source-row';
+
+      const sourceText = document.createTextNode((item.source || 'Unknown') + ' · ');
+      const pill = document.createElement('span');
+      pill.className = `impact-pill impact-${impact}`;
+      pill.textContent = impact.charAt(0).toUpperCase() + impact.slice(1) + ' impact';
+
+      sourceRow.appendChild(sourceText);
+      sourceRow.appendChild(pill);
+
+      const summary = document.createElement('p');
+      summary.className = 'news-summary';
+      summary.textContent = item.summary || '';
+
+      article.appendChild(topRow);
+      article.appendChild(sourceRow);
+      article.appendChild(summary);
+      container.appendChild(article);
+    });
+  }
+
+  /* ── Status bar countdown ─────────────────────────────────────── */
+  let countdownInterval = null;
+  let nextCheckIn = 30;
+
+  function startCountdown() {
+    clearInterval(countdownInterval);
+    nextCheckIn = 30;
+    updateStatusBar();
+    countdownInterval = setInterval(() => {
+      nextCheckIn = Math.max(0, nextCheckIn - 1);
+      updateStatusBar();
+    }, 1000);
+  }
+
+  function updateStatusBar() {
+    const bar = document.getElementById('statusBar');
+    if (lastGeneratedAt) {
+      bar.textContent = `Data from: ${lastGeneratedAt} · Checking in ${nextCheckIn}s`;
+    } else {
+      bar.textContent = `Checking in ${nextCheckIn}s`;
+    }
+  }
+
+  /* ── Core data fetching ───────────────────────────────────────── */
+  let lastGeneratedAt = null;
+  let prevLatest = null;
+  let isFetching = false;
+
+  async function fetchData({ silent = false } = {}) {
+    if (isFetching) return;
+    isFetching = true;
+
+    const btn = document.getElementById('refreshBtn');
+    btn.disabled = true;
+    btn.classList.add('spinning');
+
+    try {
+      // Cache-bust so browser doesn't return a stale response
+      const res = await fetch(`data.json?_=${Date.now()}`);
+      if (!res.ok) throw new Error(`HTTP ${res.status} — unable to load data.json`);
+
+      const data = await res.json();
+
+      // Validate minimal shape
+      if (!data.latest || !data.history || !data.prediction) {
+        throw new Error('data.json is malformed — missing required fields');
+      }
+
+      const newTimestamp = data.generatedAt || null;
+      const isNewData = newTimestamp && newTimestamp !== lastGeneratedAt;
+
+      // Update price cards
+      setPrice('regularPrice', 'regularDelta', data.latest.regular, prevLatest?.regular ?? null);
+      setPrice('premiumPrice', 'premiumDelta', data.latest.premium, prevLatest?.premium ?? null);
+      setPrice('dieselPrice',  'dieselDelta',  data.latest.diesel,  prevLatest?.diesel  ?? null);
+      prevLatest = { ...data.latest };
+
+      // Generated-at card — display in local Toronto time
+      const genEl = document.getElementById('generatedAt');
+      if (newTimestamp) {
+        try {
+          const iso = newTimestamp.replace(' UTC', 'Z');
+          const local = new Date(iso).toLocaleString('en-CA', {
+            timeZone: 'America/Toronto',
+            month: 'short', day: 'numeric',
+            hour: '2-digit', minute: '2-digit',
+            timeZoneName: 'short'
+          });
+          genEl.textContent = local;
+        } catch (_) {
+          genEl.textContent = newTimestamp;
         }
+      }
 
-        function renderPredictionChart(prediction) {
-            const ctx = document.getElementById('predictChart');
-            if (predictChart) predictChart.destroy();
+      document.getElementById('sourceMeta').textContent =
+        `Price source: ${sanitize(data.priceSource || 'Unknown')}`;
 
-            predictChart = new Chart(ctx, {
-                type: 'line',
-                data: {
-                    labels: prediction.labels,
-                    datasets: [
-                        {
-                            label: 'Predicted regular',
-                            data: prediction.regular,
-                            borderColor: '#7c3aed',
-                            backgroundColor: 'rgba(124, 58, 237, 0.18)',
-                            borderDash: [6, 4],
-                            tension: 0.3,
-                            fill: true
-                        },
-                        {
-                            label: 'Predicted premium',
-                            data: prediction.premium,
-                            borderColor: '#ea580c',
-                            backgroundColor: 'rgba(234, 88, 12, 0.18)',
-                            borderDash: [6, 4],
-                            tension: 0.3,
-                            fill: false
-                        },
-                        {
-                            label: 'Predicted diesel',
-                            data: prediction.diesel,
-                            borderColor: '#059669',
-                            backgroundColor: 'rgba(5, 150, 105, 0.18)',
-                            borderDash: [6, 4],
-                            tension: 0.3,
-                            fill: false
-                        }
-                    ]
-                },
-                options: {
-                    responsive: true,
-                    maintainAspectRatio: false,
-                    scales: {
-                        y: {
-                            title: { display: true, text: 'Cents per litre' }
-                        }
-                    }
-                }
-            });
-        }
+      renderNews(data.news || []);
+      buildHistoryChart(data.history);
+      buildPredictChart(data.prediction);
 
-        async function loadDashboard() {
-            try {
-                const response = await fetch(`data.json?ts=${Date.now()}`);
-                if (!response.ok) throw new Error('Unable to load data.json');
+      if (isNewData) {
+        lastGeneratedAt = newTimestamp;
+        if (silent) showToast('✓ New data detected — dashboard updated');
+      } else if (!lastGeneratedAt) {
+        lastGeneratedAt = newTimestamp;
+      }
 
-                const data = await response.json();
-                setPrice('regularPrice', data.latest.regular);
-                setPrice('premiumPrice', data.latest.premium);
-                setPrice('dieselPrice', data.latest.diesel);
+    } catch (err) {
+      console.error('[GasTracker]', err);
+      if (!silent) {
+        // Only show error UI on initial load failure, not on background checks
+        document.getElementById('newsContent').innerHTML = '';
+        const box = document.createElement('div');
+        box.className = 'error-box';
+        box.textContent = `Unable to load data: ${err.message}. The dashboard will retry automatically.`;
+        document.getElementById('newsContent').appendChild(box);
+      }
+      showToast('⚠ Could not reach data.json — will retry');
+    } finally {
+      isFetching = false;
+      btn.disabled = false;
+      // Remove spinning class after CSS transition completes
+      setTimeout(() => btn.classList.remove('spinning'), 520);
+      startCountdown();
+    }
+  }
 
-                const utcTimestamp = data.generatedAt;
-                let localTimestamp = utcTimestamp;
-                try {
-                    const utcIso = utcTimestamp.replace(' UTC', 'Z');
-                    localTimestamp = new Date(utcIso).toLocaleString('en-US', {timeZone: 'EST'});
-                } catch (e) {
-                    // keep UTC if parse fails
-                }
+  /* ── Manual refresh (button) ──────────────────────────────────── */
+  function manualRefresh() {
+    fetchData({ silent: false });
+  }
 
-                document.getElementById('updatedAt').textContent = `${utcTimestamp} (local: ${localTimestamp})`;
-                document.getElementById('sourceMeta').textContent = `Toronto price source: ${data.priceSource}`;
-                renderNews(data.news || []);
-                renderHistoryChart(data.history);
-                renderPredictionChart(data.prediction);
-            } catch (error) {
-                document.getElementById('newsContent').innerHTML = `<div class="error">${error.message}</div>`;
-                document.getElementById('sourceMeta').textContent = 'Please run the update workflow to generate fresh data.';
-            }
-        }
+  /* ── Polling: check every 30 seconds ─────────────────────────── */
+  // Uses a timestamp-only lightweight check approach:
+  // Full re-render only happens when generatedAt changes.
+  setInterval(() => fetchData({ silent: true }), 30_000);
 
-        loadDashboard();
-        setInterval(loadDashboard, 60 * 1000); // auto-refresh every 1 minute
-    </script>
+  /* ── Boot ─────────────────────────────────────────────────────── */
+  fetchData({ silent: false });
+</script>
 </body>
 </html>

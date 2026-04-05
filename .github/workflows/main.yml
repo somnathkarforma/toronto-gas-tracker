@@ -2,35 +2,86 @@ name: Update Gas Tracker
 
 on:
   schedule:
-    - cron: '0 4 * * *' # 00:00 Toronto during DST (UTC-4); GitHub cron uses UTC
+    # 00:00 Toronto time during DST (EDT = UTC-4). Adjust to 05:00 UTC in winter (EST = UTC-5).
+    - cron: '0 4 * * *'
   workflow_dispatch:
 
+# Prevent concurrent runs from corrupting data.json / history.json
+concurrency:
+  group: gas-tracker-update
+  cancel-in-progress: false   # Let the running job finish; queue the next
+
 permissions:
-  contents: write
+  contents: write   # needed to push to gh-pages branch
 
 jobs:
-  build-and-deploy:
+  update-and-deploy:
+    name: Fetch prices, update data, deploy
     runs-on: ubuntu-latest
+    timeout-minutes: 15       # Hard limit — prevents hung jobs consuming minutes
 
     steps:
-      - name: Check out repo
-        uses: actions/checkout@v4
+      # ── 1. Checkout ──────────────────────────────────────────────
+      - name: Checkout repository
+        # actions/checkout pinned to v4.1.7 SHA
+        uses: actions/checkout@692973e3d937129bcbf40652eb9f2f61becf3332
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      # ── 2. Python setup ──────────────────────────────────────────
+      - name: Set up Python 3.11
+        # actions/setup-python pinned to v5.1.0 SHA
+        uses: actions/setup-python@82c7e631bb3cdc910f68e0081d67478d79c6982d
         with:
           python-version: '3.11'
+          cache: 'pip'
 
-      - name: Install dependencies
-        run: pip install -r requirements.txt
+      # ── 3. Install dependencies ──────────────────────────────────
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
+      # ── 4. Generate data ─────────────────────────────────────────
       - name: Generate dashboard data
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python update_data.py
 
+      # ── 5. Validate data.json was written ────────────────────────
+      - name: Validate data.json exists and is valid JSON
+        run: |
+          if [ ! -f data.json ]; then
+            echo "::error::data.json was not created by update_data.py"
+            exit 1
+          fi
+
+          SIZE=$(stat -c%s data.json)
+          if [ "$SIZE" -lt 500 ]; then
+            echo "::error::data.json is suspiciously small ($SIZE bytes) — possible write failure"
+            exit 1
+          fi
+
+          python -c "
+          import json, sys
+          try:
+              with open('data.json') as f:
+                  d = json.load(f)
+              required = ['generatedAt', 'latest', 'history', 'prediction', 'news']
+              missing = [k for k in required if k not in d]
+              if missing:
+                  print(f'Missing keys: {missing}', file=sys.stderr)
+                  sys.exit(1)
+              print(f'data.json OK — generatedAt: {d[\"generatedAt\"]}')
+          except json.JSONDecodeError as e:
+              print(f'Invalid JSON: {e}', file=sys.stderr)
+              sys.exit(1)
+          "
+
+      # ── 6. Deploy to GitHub Pages ────────────────────────────────
       - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
+        # peaceiris/actions-gh-pages pinned to v4.0.0 SHA
+        uses: peaceiris/actions-gh-pages@4f9cc6602d3f66b9c108549d231e62369c1b74e5
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./
+          # Exclude Python source and CI config from the published site
+          exclude_assets: '.github,*.py,requirements.txt,.gitignore,audit.md'

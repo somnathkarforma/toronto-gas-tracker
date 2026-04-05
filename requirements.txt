@@ -1,3 +1,5 @@
-beautifulsoup4>=4.12.3
-requests>=2.32.3
-google-generativeai>=0.8.5
+# Pinned for reproducible builds — update deliberately, not automatically.
+# To upgrade: pip install --upgrade <package> && pip freeze | grep <package>
+beautifulsoup4==4.12.3
+requests==2.32.3
+google-generativeai==0.8.5

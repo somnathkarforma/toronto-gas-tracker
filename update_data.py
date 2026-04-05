@@ -1,9 +1,18 @@
+"""
+update_data.py — Toronto Gas Tracker data pipeline
+Runs daily via GitHub Actions. Fetches gas prices and news,
+writes data.json and history.json for the static GitHub Pages site.
+"""
+
 from __future__ import annotations
 
 import json
+import logging
 import math
 import os
 import re
+import sys
+import time
 import xml.etree.ElementTree as ET
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
@@ -14,108 +23,223 @@ from bs4 import BeautifulSoup
 
 try:
     import google.generativeai as genai
-except ImportError:  # pragma: no cover
+except ImportError:
     genai = None
 
+# ── Structured logging ────────────────────────────────────────────────────────
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s [%(levelname)s] %(name)s: %(message)s",
+    datefmt="%Y-%m-%dT%H:%M:%SZ",
+    handlers=[logging.StreamHandler(sys.stdout)],
+)
+log = logging.getLogger("gas_tracker")
+
+# ── Paths and constants ───────────────────────────────────────────────────────
 ROOT = Path(__file__).resolve().parent
 DATA_FILE = ROOT / "data.json"
 HISTORY_FILE = ROOT / "history.json"
+
 HEADERS = {
     "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-        "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
-    )
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
+    ),
+    "Accept-Language": "en-CA,en;q=0.9",
 }
+
 DEFAULT_REGULAR = 174.9
 DEFAULT_PREMIUM_SPREAD = 18.0
 DEFAULT_DIESEL_SPREAD = 10.5
 
+HISTORY_RETENTION_DAYS = 185
+MAX_NEWS_ITEMS = 10
+HTTP_TIMEOUT = 20
+HTTP_MAX_RETRIES = 3
+HTTP_BACKOFF_BASE = 2.0
 
-def fetch_google_news(query: str = "(gasoline OR oil OR OPEC OR crude prices) when:7d") -> list[dict[str, str]]:
-    encoded_query = requests.utils.quote(query)
-    url = f"https://news.google.com/rss/search?q={encoded_query}&hl=en-CA&gl=CA&ceid=CA:en"
-    response = requests.get(url, headers=HEADERS, timeout=20)
-    response.raise_for_status()
 
-    root = ET.fromstring(response.content)
+# ── Custom exception hierarchy ────────────────────────────────────────────────
+class GasTrackerError(Exception):
+    """Base exception for all gas tracker errors."""
+
+
+class PriceFetchError(GasTrackerError):
+    """Raised when all price-fetching strategies are exhausted."""
+
+
+class NewsFetchError(GasTrackerError):
+    """Raised when the news RSS feed cannot be retrieved."""
+
+
+class DataWriteError(GasTrackerError):
+    """Raised when data.json or history.json cannot be written."""
+
+
+# ── HTTP with retry + exponential back-off ────────────────────────────────────
+def http_get(url: str, *, timeout: int = HTTP_TIMEOUT, verify: bool = True) -> requests.Response:
+    """
+    GET a URL with up to HTTP_MAX_RETRIES attempts and exponential back-off.
+    Raises requests.HTTPError on a non-2xx final response.
+    Never logs the full URL to avoid leaking tokens embedded in query strings.
+    """
+    last_exc: Exception | None = None
+
+    for attempt in range(1, HTTP_MAX_RETRIES + 1):
+        try:
+            log.debug("HTTP GET attempt %d/%d", attempt, HTTP_MAX_RETRIES)
+            resp = requests.get(url, headers=HEADERS, timeout=timeout, verify=verify)
+            resp.raise_for_status()
+            log.debug("HTTP GET succeeded on attempt %d (status %d)", attempt, resp.status_code)
+            return resp
+        except requests.exceptions.SSLError as exc:
+            log.warning("SSL error on attempt %d — aborting retries: %s", attempt, exc)
+            raise
+        except (requests.exceptions.ConnectionError, requests.exceptions.Timeout) as exc:
+            last_exc = exc
+            if attempt < HTTP_MAX_RETRIES:
+                wait = HTTP_BACKOFF_BASE ** attempt
+                log.warning("Transient error on attempt %d, retrying in %.1fs: %s", attempt, wait, exc)
+                time.sleep(wait)
+        except requests.exceptions.HTTPError as exc:
+            last_exc = exc
+            status = exc.response.status_code if exc.response is not None else "?"
+            # Do not retry 4xx client errors — they won't change
+            if exc.response is not None and exc.response.status_code < 500:
+                log.warning("Non-retryable HTTP %s — skipping further attempts", status)
+                raise
+            if attempt < HTTP_MAX_RETRIES:
+                wait = HTTP_BACKOFF_BASE ** attempt
+                log.warning("HTTP %s on attempt %d, retrying in %.1fs", status, attempt, wait)
+                time.sleep(wait)
+
+    raise last_exc or requests.exceptions.RequestException("All HTTP retry attempts exhausted")
+
+
+# ── News fetching ─────────────────────────────────────────────────────────────
+def fetch_google_news(
+    query: str = "(gasoline OR oil OR OPEC OR crude prices) when:7d",
+) -> list[dict[str, str]]:
+    encoded = requests.utils.quote(query)
+    url = f"https://news.google.com/rss/search?q={encoded}&hl=en-CA&gl=CA&ceid=CA:en"
+    log.info("Fetching news RSS for query: %r", query)
+
+    try:
+        resp = http_get(url)
+    except Exception as exc:
+        raise NewsFetchError(f"Failed to fetch Google News RSS: {exc}") from exc
+
+    try:
+        root = ET.fromstring(resp.content)
+    except ET.ParseError as exc:
+        raise NewsFetchError(f"RSS XML parse error: {exc}") from exc
+
     items: list[dict[str, str]] = []
-
-    for item in root.findall("./channel/item")[:10]:
+    for item in root.findall("./channel/item")[:MAX_NEWS_ITEMS]:
         title = (item.findtext("title") or "").strip()
         source = (item.findtext("source") or "Google News").strip()
         link = (item.findtext("link") or "").strip()
         pub_date = (item.findtext("pubDate") or "").strip()
-        description_html = item.findtext("description") or ""
-        description = BeautifulSoup(description_html, "html.parser").get_text(" ", strip=True)
-        items.append(
-            {
-                "title": title,
-                "source": source,
-                "link": link,
-                "description": description,
-                "publishedAt": pub_date,
-            }
-        )
+        desc_html = item.findtext("description") or ""
+        description = BeautifulSoup(desc_html, "html.parser").get_text(" ", strip=True)
+        items.append({
+            "title": title,
+            "source": source,
+            "link": link,
+            "description": description,
+            "publishedAt": pub_date,
+        })
 
+    log.info("Fetched %d news items", len(items))
     return items
 
 
-def extract_json_array(text: str) -> list[dict[str, Any]] | None:
-    match = re.search(r"\[[\s\S]*\]", text)
-    if not match:
-        return None
-
-    try:
-        return json.loads(match.group(0))
-    except json.JSONDecodeError:
-        return None
+# ── Gemini enrichment ─────────────────────────────────────────────────────────
+def _apply_fallback_enrichment(items: list[dict[str, str]]) -> list[dict[str, str]]:
+    for item in items:
+        item.setdefault("summary", "Headline to watch for potential pressure on gasoline prices.")
+        item.setdefault("impact", "medium")
+    return items
 
 
 def enrich_news_with_gemini(items: list[dict[str, str]]) -> list[dict[str, str]]:
     api_key = os.getenv("GEMINI_API_KEY")
-    if not api_key or genai is None or not items:
-        for item in items:
-            item["summary"] = "Headline to watch for potential pressure on gasoline prices."
-            item["impact"] = "medium"
+
+    if not api_key:
+        log.warning("GEMINI_API_KEY not set — skipping AI enrichment")
+        return _apply_fallback_enrichment(items)
+
+    if genai is None:
+        log.warning("google-generativeai not installed — skipping AI enrichment")
+        return _apply_fallback_enrichment(items)
+
+    if not items:
         return items
 
     try:
         genai.configure(api_key=api_key)
         model = genai.GenerativeModel("gemini-1.5-flash")
+
+        # Strip links before sending to Gemini — no need to send potentially
+        # long URLs, and avoids accidentally leaking them in error logs.
+        payload = [
+            {"title": i.get("title", ""), "source": i.get("source", "")}
+            for i in items
+        ]
+
         prompt = (
-            "You are building a Toronto gas-price dashboard. "
-            "For each headline below, return JSON only as an array of objects with keys "
-            "title, summary, and impact. Summary must be one sentence, factual, and under 22 words. "
-            "Impact must be one of: low, medium, high.\n\n"
-            f"Headlines:\n{json.dumps(items, ensure_ascii=False)}"
+            "You are a Toronto gas-price dashboard assistant. "
+            "For each headline below, return ONLY a JSON array of objects with keys: "
+            "title (string, exact copy from input), summary (one factual sentence, max 22 words), "
+            "and impact (exactly one of: low, medium, high). "
+            "No markdown fences, no preamble, no explanation — raw JSON only.\n\n"
+            f"Headlines:\n{json.dumps(payload, ensure_ascii=False)}"
         )
+
         response = model.generate_content(prompt)
-        parsed = extract_json_array(response.text or "")
+        raw = (response.text or "").strip()
 
-        if not parsed:
-            raise ValueError("Gemini did not return valid JSON.")
+        # Strip optional markdown fences
+        raw = re.sub(r"^```(?:json)?\s*", "", raw)
+        raw = re.sub(r"\s*```$", "", raw)
 
+        parsed: list[dict] = json.loads(raw)
+
+        if not isinstance(parsed, list) or len(parsed) != len(items):
+            raise ValueError(f"Gemini returned {len(parsed)} items for {len(items)} inputs")
+
+        VALID_IMPACTS = {"low", "medium", "high"}
         merged: list[dict[str, str]] = []
         for original, enriched in zip(items, parsed):
-            merged.append(
-                {
-                    "title": original["title"],
-                    "source": original["source"],
-                    "link": original["link"],
-                    "summary": str(enriched.get("summary", "Headline to watch for fuel-price impact.")).strip(),
-                    "impact": str(enriched.get("impact", "medium")).strip().lower(),
-                }
-            )
+            impact = str(enriched.get("impact", "medium")).strip().lower()
+            if impact not in VALID_IMPACTS:
+                impact = "medium"
+            merged.append({
+                "title": original["title"],
+                "source": original["source"],
+                "link": original["link"],
+                "publishedAt": original.get("publishedAt", ""),
+                "summary": str(enriched.get("summary", "")).strip(),
+                "impact": impact,
+            })
+
+        log.info("Gemini enrichment succeeded for %d items", len(merged))
         return merged
-    except Exception as exc:  # pragma: no cover
-        print(f"Gemini summarization fallback: {exc}")
-        for item in items:
-            item["summary"] = "Headline to watch for potential pressure on gasoline prices."
-            item["impact"] = "medium"
-        return items
+
+    except json.JSONDecodeError as exc:
+        log.error("Gemini returned non-JSON response: %s", exc)
+    except ValueError as exc:
+        log.error("Gemini response validation failed: %s", exc)
+    except Exception as exc:
+        # Log type and message only — never log the API key or response body
+        log.error("Gemini enrichment failed (%s): %s", type(exc).__name__, exc)
+
+    return _apply_fallback_enrichment(items)
 
 
+# ── Price normalisation ───────────────────────────────────────────────────────
 def normalize_price(raw_value: str) -> float:
+    """Convert a raw scraped value to cents/litre, handling $/L notation."""
     value = float(raw_value)
     if value < 10:
         value *= 100
@@ -123,90 +247,122 @@ def normalize_price(raw_value: str) -> float:
 
 
 def extract_price_from_text(text: str) -> float | None:
+    """Extract a plausible Toronto regular gas price (120–220 ¢/L) from free text."""
     patterns = [
-        r"\$\s*(1\.\d{2})\s*(?:a|per)?\s*litre",
+        r"\$\s*(1\.\d{2,3})\s*(?:a|per)?\s*litre",
         r"(\d{2,3}\.\d)\s*(?:¢|cents?)",
-        r"(\d{2,3})\s*cents?",
+        r"(\d{2,3})\s*cents?\s*(?:per)?\s*litre",
     ]
-
     for pattern in patterns:
         match = re.search(pattern, text, flags=re.IGNORECASE)
         if not match:
             continue
-
-        value = normalize_price(match.group(1))
-        if 120 <= value <= 220:
-            return value
+        try:
+            value = normalize_price(match.group(1))
+            if 120 <= value <= 220:
+                return value
+        except (ValueError, TypeError):
+            continue
     return None
 
 
-def fetch_toronto_price_from_headlines() -> tuple[float, str] | None:
-    try:
-        items = fetch_google_news("Toronto OR GTA gas prices when:7d")
-        for item in items:
-            combined_text = " ".join(
-                part for part in [item.get("title", ""), item.get("description", "")] if part
-            )
-            price = extract_price_from_text(combined_text)
-            if price is not None:
-                return price, "Toronto gas headlines"
-    except Exception as exc:
-        print(f"Headline price fallback failed: {exc}")
-    return None
-
-
-def scrape_toronto_regular_price() -> tuple[float, str]:
-    sources = [
-        ("GasBuddy Toronto", "https://www.gasbuddy.com/gasprices/ontario/toronto"),
-        ("Ontario Gas Prices", "https://www.ontariogasprices.com/Toronto/index.aspx"),
-        ("Global Petrol Prices", "https://www.globalpetrolprices.com/Canada/gasoline_prices/"),
-    ]
+# ── Price scraping strategies ─────────────────────────────────────────────────
+def _try_scrape_source(source_name: str, url: str) -> float | None:
     patterns = [
         r"Toronto[^\d]{0,120}(\d{2,3}(?:\.\d)?)\s?[¢c]",
         r"Average[^\d]{0,60}(\d{2,3}(?:\.\d)?)\s?[¢c]",
         r"Regular[^\d]{0,40}(\d{2,3}(?:\.\d)?)",
         r'"price"\s*:\s*"?(\d{2,3}(?:\.\d)?)"?',
     ]
+    try:
+        resp = http_get(url)
+        text = BeautifulSoup(resp.text, "html.parser").get_text(" ", strip=True)
+        for pattern in patterns:
+            match = re.search(pattern, text, flags=re.IGNORECASE)
+            if match:
+                price = normalize_price(match.group(1))
+                if 120 <= price <= 220:
+                    log.info("Price %.1f¢/L extracted from %s", price, source_name)
+                    return price
+        log.warning("No matching price pattern found on %s", source_name)
+    except Exception as exc:
+        log.warning("Price scrape failed for %s: %s", source_name, exc)
+    return None
+
+
+def fetch_toronto_price_from_headlines() -> tuple[float, str] | None:
+    log.info("Attempting headline-based price extraction")
+    try:
+        items = fetch_google_news("Toronto OR GTA gas prices when:7d")
+        for item in items:
+            combined = " ".join(filter(None, [item.get("title"), item.get("description")]))
+            price = extract_price_from_text(combined)
+            if price is not None:
+                log.info("Extracted price %.1f¢/L from headlines", price)
+                return price, "Toronto gas headlines"
+    except Exception as exc:
+        log.warning("Headline price extraction failed: %s", exc)
+    return None
+
+
+def scrape_toronto_regular_price() -> tuple[float, str]:
+    """
+    Try three web sources in order, then fall back to headlines, then a hardcoded default.
+    Returns (price_in_cents, source_name).
+    """
+    sources = [
+        ("GasBuddy Toronto", "https://www.gasbuddy.com/gasprices/ontario/toronto"),
+        ("Ontario Gas Prices", "https://www.ontariogasprices.com/Toronto/index.aspx"),
+        ("Global Petrol Prices", "https://www.globalpetrolprices.com/Canada/gasoline_prices/"),
+    ]
 
     for source_name, url in sources:
-        try:
-            response = requests.get(url, headers=HEADERS, timeout=20)
-            if response.status_code >= 400:
-                raise requests.HTTPError(f"{response.status_code} for {url}")
-
-            text = BeautifulSoup(response.text, "html.parser").get_text(" ", strip=True)
-            for pattern in patterns:
-                match = re.search(pattern, text, flags=re.IGNORECASE)
-                if match:
-                    return normalize_price(match.group(1)), source_name
-        except Exception as exc:
-            print(f"Price scrape fallback for {source_name}: {exc}")
+        price = _try_scrape_source(source_name, url)
+        if price is not None:
+            return price, source_name
 
     headline_result = fetch_toronto_price_from_headlines()
     if headline_result:
         return headline_result
 
-    return DEFAULT_REGULAR, "Updated fallback"
+    log.warning(
+        "All price sources exhausted — using hardcoded default of %.1f¢/L", DEFAULT_REGULAR
+    )
+    return DEFAULT_REGULAR, "Hardcoded fallback"
 
 
+# ── History management ────────────────────────────────────────────────────────
 def load_history() -> list[dict[str, Any]]:
     if not HISTORY_FILE.exists():
+        log.info("No history file found — starting fresh")
         return []
-
     try:
-        return json.loads(HISTORY_FILE.read_text(encoding="utf-8"))
-    except json.JSONDecodeError:
+        data = json.loads(HISTORY_FILE.read_text(encoding="utf-8"))
+        if not isinstance(data, list):
+            raise ValueError("history.json root is not a list")
+        log.info("Loaded %d history entries from %s", len(data), HISTORY_FILE.name)
+        return data
+    except (json.JSONDecodeError, ValueError) as exc:
+        log.error("Corrupt history.json — resetting: %s", exc)
         return []
 
 
 def save_history(history: list[dict[str, Any]]) -> None:
-    HISTORY_FILE.write_text(json.dumps(history, indent=2), encoding="utf-8")
+    try:
+        HISTORY_FILE.write_text(json.dumps(history, indent=2), encoding="utf-8")
+        log.info("Saved %d history entries to %s", len(history), HISTORY_FILE.name)
+    except OSError as exc:
+        raise DataWriteError(f"Cannot write {HISTORY_FILE}: {exc}") from exc
 
 
-def seed_history_if_needed(history: list[dict[str, Any]], current_regular: float) -> list[dict[str, Any]]:
-    if False:
+def seed_history_if_needed(
+    history: list[dict[str, Any]], current_regular: float
+) -> list[dict[str, Any]]:
+    """Populate 30-day synthetic history if the history file is empty."""
+    if history:
         return history
 
+    log.info("Seeding 30-day synthetic history anchored at %.1f¢/L", current_regular)
     today = date.today()
     seeded: list[dict[str, Any]] = []
 
@@ -217,72 +373,85 @@ def seed_history_if_needed(history: list[dict[str, Any]], current_regular: float
         regular = round(current_regular - 5.2 + trend + seasonal, 1)
         premium = round(regular + DEFAULT_PREMIUM_SPREAD, 1)
         diesel = round(regular + DEFAULT_DIESEL_SPREAD, 1)
-        seeded.append(
-            {
-                "date": entry_date.isoformat(),
-                "regular": regular,
-                "premium": premium,
-                "diesel": diesel,
-            }
-        )
+        seeded.append({
+            "date": entry_date.isoformat(),
+            "regular": regular,
+            "premium": premium,
+            "diesel": diesel,
+        })
 
-    by_date = {item["date"]: item for item in seeded}
-    for item in history:
-        by_date[item["date"]] = item
-
-    return [by_date[key] for key in sorted(by_date.keys())]
+    return seeded
 
 
 def upsert_today(history: list[dict[str, Any]], regular: float) -> list[dict[str, Any]]:
+    """Insert or replace today's entry, then prune to retention window."""
     today = date.today().isoformat()
     premium = round(regular + DEFAULT_PREMIUM_SPREAD, 1)
     diesel = round(regular + DEFAULT_DIESEL_SPREAD, 1)
-    entry = {"date": today, "regular": regular, "premium": premium, "diesel": diesel}
+    entry: dict[str, Any] = {
+        "date": today,
+        "regular": regular,
+        "premium": premium,
+        "diesel": diesel,
+    }
 
     if history and history[-1]["date"] == today:
         history[-1] = entry
+        log.info("Updated today's history entry: %s", entry)
     else:
         history.append(entry)
+        log.info("Appended today's history entry: %s", entry)
 
-    cutoff = (date.today() - timedelta(days=185)).isoformat()
-    return [item for item in history if item["date"] >= cutoff]
+    cutoff = (date.today() - timedelta(days=HISTORY_RETENTION_DAYS)).isoformat()
+    pruned = [item for item in history if item["date"] >= cutoff]
+    if len(pruned) < len(history):
+        log.info("Pruned %d old history entries (older than %s)", len(history) - len(pruned), cutoff)
+    return pruned
 
 
+# ── Chart data builders ───────────────────────────────────────────────────────
 def build_history_series(history: list[dict[str, Any]]) -> dict[str, list[Any]]:
-    labels = [datetime.fromisoformat(item["date"]).strftime("%b %d") for item in history]
+    labels = [
+        datetime.fromisoformat(item["date"]).strftime("%b %d")
+        for item in history
+    ]
     return {
         "labels": labels,
         "regular": [item["regular"] for item in history],
         "premium": [item["premium"] for item in history],
-        "diesel": [item["diesel"] for item in history],
+        "diesel":  [item["diesel"]  for item in history],
     }
 
 
 def build_prediction(history: list[dict[str, Any]]) -> dict[str, list[Any]]:
     recent = history[-14:] if len(history) >= 14 else history
 
-    def series_projection(key: str, default: float) -> list[float]:
+    def project(key: str, default: float) -> list[float]:
         values = [item[key] for item in recent] or [default]
         base = values[-1]
         slope = (values[-1] - values[0]) / max(len(values) - 1, 1)
+        # Dampen extreme slopes to avoid wild projections
         slope = max(min(slope, 1.2), -1.2)
-        return [round(base + (slope * offset * 0.8), 1) for offset in range(1, 8)]
+        return [round(base + slope * i * 0.8, 1) for i in range(1, 8)]
 
-    labels: list[str] = []
-    for offset in range(1, 8):
-        day = date.today() + timedelta(days=offset)
-        labels.append(day.strftime("%b %d"))
-
+    labels = [
+        (date.today() + timedelta(days=i)).strftime("%b %d")
+        for i in range(1, 8)
+    ]
     return {
         "labels": labels,
-        "regular": series_projection("regular", DEFAULT_REGULAR),
-        "premium": series_projection("premium", DEFAULT_PREMIUM_SPREAD + DEFAULT_REGULAR),
-        "diesel": series_projection("diesel", DEFAULT_DIESEL_SPREAD + DEFAULT_REGULAR),
+        "regular": project("regular", DEFAULT_REGULAR),
+        "premium": project("premium", DEFAULT_REGULAR + DEFAULT_PREMIUM_SPREAD),
+        "diesel":  project("diesel",  DEFAULT_REGULAR + DEFAULT_DIESEL_SPREAD),
     }
 
 
-def build_payload(price: float, price_source: str, history: list[dict[str, Any]], news: list[dict[str, str]]) -> dict[str, Any]:
-    history_series = build_history_series(history)
+# ── Payload assembly and write ────────────────────────────────────────────────
+def build_payload(
+    price_source: str,
+    history: list[dict[str, Any]],
+    news: list[dict[str, str]],
+) -> dict[str, Any]:
     latest = history[-1]
     return {
         "generatedAt": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),
@@ -290,39 +459,64 @@ def build_payload(price: float, price_source: str, history: list[dict[str, Any]]
         "latest": {
             "regular": latest["regular"],
             "premium": latest["premium"],
-            "diesel": latest["diesel"],
+            "diesel":  latest["diesel"],
         },
-        "history": history_series,
+        "history":    build_history_series(history),
         "prediction": build_prediction(history),
-        "news": news,
+        "news":       news,
     }
 
 
+def write_data_json(payload: dict[str, Any]) -> None:
+    try:
+        DATA_FILE.write_text(json.dumps(payload, indent=2, ensure_ascii=False), encoding="utf-8")
+        log.info("Written %s (%.1f KB)", DATA_FILE.name, DATA_FILE.stat().st_size / 1024)
+    except OSError as exc:
+        raise DataWriteError(f"Cannot write {DATA_FILE}: {exc}") from exc
+
+
+# ── Entry point ───────────────────────────────────────────────────────────────
 def main() -> None:
+    log.info("=== Gas Tracker update started ===")
+
+    # 1. Fetch current price
     regular_price, price_source = scrape_toronto_regular_price()
+    log.info("Price: %.1f¢/L  Source: %s", regular_price, price_source)
+
+    # 2. Update history
     history = load_history()
     history = seed_history_if_needed(history, regular_price)
     history = upsert_today(history, regular_price)
     save_history(history)
 
+    # 3. Fetch and enrich news
     try:
-        news = enrich_news_with_gemini(fetch_google_news())
-    except Exception as exc:
-        print(f"News fetch fallback: {exc}")
-        news = [
-            {
-                "title": "No live headlines available right now",
-                "source": "System fallback",
-                "link": "https://news.google.com/",
-                "summary": "The dashboard will refresh automatically on the next scheduled run.",
-                "impact": "low",
-            }
-        ]
+        raw_news = fetch_google_news()
+        news = enrich_news_with_gemini(raw_news)
+    except NewsFetchError as exc:
+        log.error("News fetch failed — using fallback: %s", exc)
+        news = [{
+            "title": "No live headlines available right now",
+            "source": "System fallback",
+            "link": "https://news.google.com/",
+            "publishedAt": "",
+            "summary": "The dashboard will refresh automatically on the next scheduled run.",
+            "impact": "low",
+        }]
 
-    payload = build_payload(regular_price, price_source, history, news)
-    DATA_FILE.write_text(json.dumps(payload, indent=2), encoding="utf-8")
-    print(f"Saved {DATA_FILE.name} and {HISTORY_FILE.name} using {price_source} at {regular_price:.1f} cents/L")
+    # 4. Write data.json  — this must succeed or the workflow should fail
+    payload = build_payload(price_source, history, news)
+    write_data_json(payload)
+
+    log.info("=== Gas Tracker update complete ===")
 
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except DataWriteError as exc:
+        log.critical("FATAL: %s", exc)
+        sys.exit(1)
+    except Exception as exc:
+        log.critical("Unexpected error: %s: %s", type(exc).__name__, exc, exc_info=True)
+        sys.exit(1)

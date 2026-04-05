@@ -184,5 +184,11 @@
     "regular": 174.9,
     "premium": 192.9,
     "diesel": 185.4
+  },
+  {
+    "date": "2026-04-04",
+    "regular": 160.0,
+    "premium": 178.0,
+    "diesel": 170.5
   }
 ]
