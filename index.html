@@ -3,19 +3,12 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta http-equiv="Content-Security-Policy"
-    content="default-src 'self'; script-src 'self' https://cdn.jsdelivr.net 'unsafe-inline'; style-src 'self' 'unsafe-inline'; connect-src 'self'; img-src 'self' data:; font-src 'self';" />
   <meta name="description" content="Daily Toronto fuel price tracker with trend charts and energy news." />
   <title>Toronto Gas Tracker</title>
 
-  <!-- Chart.js with SRI hash -->
-  <script
-    src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"
-    integrity="sha256-3uivNgdmUxNFIeAFbTwkFjB0+P5LZk/RL1+pgHkwbE="
-    crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"></script>
 
   <style>
-    /* ── Design tokens ───────────────────────────────────────────── */
     :root {
       --bg:           #0b1120;
       --bg2:          #131c30;
@@ -25,7 +18,6 @@
       --muted:        #64748b;
       --text:         #0f172a;
       --text-inv:     #f1f5f9;
-
       --blue:         #2563eb;
       --blue-light:   rgba(37,99,235,0.12);
       --orange:       #ea580c;
@@ -35,17 +27,14 @@
       --purple:       #7c3aed;
       --red:          #dc2626;
       --amber:        #d97706;
-
       --radius-sm:    8px;
       --radius-md:    14px;
       --radius-lg:    20px;
       --shadow:       0 1px 3px rgba(15,23,42,.07), 0 4px 16px rgba(15,23,42,.05);
       --shadow-lg:    0 8px 32px rgba(15,23,42,.10);
-
       --font: 'Segoe UI', system-ui, -apple-system, sans-serif;
     }
 
-    /* ── Reset ────────────────────────────────────────────────────── */
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
     html { scroll-behavior: smooth; }
     body {
@@ -56,14 +45,8 @@
       min-height: 100vh;
     }
 
-    /* ── Layout ───────────────────────────────────────────────────── */
-    .wrap {
-      max-width: 1120px;
-      margin: 0 auto;
-      padding: 24px 20px 48px;
-    }
+    .wrap { max-width: 1120px; margin: 0 auto; padding: 24px 20px 48px; }
 
-    /* ── Header ───────────────────────────────────────────────────── */
     header {
       background: linear-gradient(135deg, var(--bg) 0%, var(--bg2) 100%);
       color: var(--text-inv);
@@ -76,310 +59,133 @@
       gap: 20px;
       flex-wrap: wrap;
     }
+    header h1 { font-size: clamp(1.5rem, 3vw, 2rem); font-weight: 700; letter-spacing: -0.02em; margin-bottom: 6px; }
+    header p  { color: #94a3b8; font-size: 0.9rem; max-width: 540px; }
 
-    header h1 {
-      font-size: clamp(1.5rem, 3vw, 2rem);
-      font-weight: 700;
-      letter-spacing: -0.02em;
-      margin-bottom: 6px;
-    }
+    .header-right { display: flex; flex-direction: column; align-items: flex-end; gap: 10px; flex-shrink: 0; }
 
-    header p {
-      color: #94a3b8;
-      font-size: 0.9rem;
-      max-width: 540px;
-    }
-
-    .header-right {
-      display: flex;
-      flex-direction: column;
-      align-items: flex-end;
-      gap: 10px;
-      flex-shrink: 0;
-    }
-
-    /* ── Refresh button ───────────────────────────────────────────── */
     #refreshBtn {
-      display: inline-flex;
-      align-items: center;
-      gap: 7px;
-      background: rgba(255,255,255,0.10);
-      border: 1px solid rgba(255,255,255,0.20);
-      color: var(--text-inv);
-      padding: 9px 18px;
-      border-radius: var(--radius-sm);
-      font-size: 0.875rem;
-      font-family: var(--font);
-      font-weight: 500;
-      cursor: pointer;
-      transition: background 0.2s, transform 0.15s;
-      white-space: nowrap;
+      display: inline-flex; align-items: center; gap: 7px;
+      background: rgba(255,255,255,0.10); border: 1px solid rgba(255,255,255,0.20);
+      color: var(--text-inv); padding: 9px 18px; border-radius: var(--radius-sm);
+      font-size: 0.875rem; font-family: var(--font); font-weight: 500;
+      cursor: pointer; transition: background 0.2s, transform 0.15s; white-space: nowrap;
     }
-
-    #refreshBtn:hover { background: rgba(255,255,255,0.18); }
-    #refreshBtn:active { transform: scale(0.97); }
-    #refreshBtn:disabled { opacity: 0.5; cursor: not-allowed; }
-
-    #refreshBtn svg {
-      width: 15px; height: 15px;
-      transition: transform 0.5s;
-    }
-
+    #refreshBtn:hover   { background: rgba(255,255,255,0.18); }
+    #refreshBtn:active  { transform: scale(0.97); }
+    #refreshBtn:disabled{ opacity: 0.5; cursor: not-allowed; }
+    #refreshBtn svg     { width: 15px; height: 15px; transition: transform 0.5s; }
     #refreshBtn.spinning svg { transform: rotate(360deg); }
 
-    /* ── Status bar ───────────────────────────────────────────────── */
-    #statusBar {
-      font-size: 0.78rem;
-      color: #64748b;
-      text-align: right;
-    }
+    #statusBar { font-size: 0.78rem; color: #64748b; text-align: right; }
 
-    /* ── Price cards ──────────────────────────────────────────────── */
     .cards {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
       gap: 16px;
       margin-bottom: 24px;
     }
-
     .card {
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: var(--radius-md);
-      padding: 22px 24px;
-      box-shadow: var(--shadow);
-      position: relative;
-      overflow: hidden;
+      background: var(--surface); border: 1px solid var(--border);
+      border-radius: var(--radius-md); padding: 22px 24px;
+      box-shadow: var(--shadow); position: relative; overflow: hidden;
     }
-
     .card::before {
-      content: '';
-      position: absolute;
-      top: 0; left: 0; right: 0;
-      height: 3px;
-      border-radius: var(--radius-md) var(--radius-md) 0 0;
+      content: ''; position: absolute; top: 0; left: 0; right: 0;
+      height: 3px; border-radius: var(--radius-md) var(--radius-md) 0 0;
     }
-
-    .card-regular::before  { background: var(--blue); }
-    .card-premium::before  { background: var(--orange); }
-    .card-diesel::before   { background: var(--green); }
-    .card-updated::before  { background: var(--purple); }
+    .card-regular::before { background: var(--blue); }
+    .card-premium::before { background: var(--orange); }
+    .card-diesel::before  { background: var(--green); }
+    .card-updated::before { background: var(--purple); }
 
     .card-label {
-      font-size: 0.78rem;
-      font-weight: 600;
-      letter-spacing: 0.08em;
-      text-transform: uppercase;
-      color: var(--muted);
-      margin-bottom: 10px;
+      font-size: 0.78rem; font-weight: 600; letter-spacing: 0.08em;
+      text-transform: uppercase; color: var(--muted); margin-bottom: 10px;
     }
-
-    .card-value {
-      font-size: 2rem;
-      font-weight: 700;
-      letter-spacing: -0.03em;
-      line-height: 1;
-    }
-
+    .card-value { font-size: 2rem; font-weight: 700; letter-spacing: -0.03em; line-height: 1; }
     .card-value.skeleton {
       background: linear-gradient(90deg, #e2e8f0 25%, #f1f5f9 50%, #e2e8f0 75%);
-      background-size: 200% 100%;
-      animation: shimmer 1.4s infinite;
-      border-radius: 6px;
-      color: transparent;
-      width: 100px;
-      height: 2rem;
-      display: block;
+      background-size: 200% 100%; animation: shimmer 1.4s infinite;
+      border-radius: 6px; color: transparent; width: 100px; height: 2rem; display: block;
     }
-
     @keyframes shimmer {
       0%   { background-position: 200% 0; }
       100% { background-position: -200% 0; }
     }
+    .card-regular .card-value { color: var(--blue); }
+    .card-premium .card-value { color: var(--orange); }
+    .card-diesel  .card-value { color: var(--green); }
+    .card-updated .card-value { font-size: 0.9rem; font-weight: 500; color: var(--text); line-height: 1.4; }
+    .card-delta   { margin-top: 8px; font-size: 0.82rem; font-weight: 500; color: var(--muted); }
 
-    .card-regular  .card-value { color: var(--blue); }
-    .card-premium  .card-value { color: var(--orange); }
-    .card-diesel   .card-value { color: var(--green); }
-    .card-updated  .card-value {
-      font-size: 0.9rem;
-      font-weight: 500;
-      color: var(--text);
-      line-height: 1.4;
-    }
-
-    .card-delta {
-      margin-top: 8px;
-      font-size: 0.82rem;
-      font-weight: 500;
-      color: var(--muted);
-    }
-
-    /* ── Section card ─────────────────────────────────────────────── */
     section {
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: var(--radius-md);
-      padding: 28px;
-      margin-bottom: 24px;
-      box-shadow: var(--shadow);
+      background: var(--surface); border: 1px solid var(--border);
+      border-radius: var(--radius-md); padding: 28px;
+      margin-bottom: 24px; box-shadow: var(--shadow);
     }
-
     .section-header {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      gap: 12px;
-      margin-bottom: 20px;
-      flex-wrap: wrap;
+      display: flex; align-items: center; justify-content: space-between;
+      gap: 12px; margin-bottom: 20px; flex-wrap: wrap;
     }
+    section h2 { font-size: 1.1rem; font-weight: 700; letter-spacing: -0.01em; }
 
-    section h2 {
-      font-size: 1.1rem;
-      font-weight: 700;
-      letter-spacing: -0.01em;
-    }
-
-    .badge {
-      font-size: 0.72rem;
-      font-weight: 600;
-      letter-spacing: 0.06em;
-      text-transform: uppercase;
-      padding: 3px 9px;
-      border-radius: 99px;
-    }
-
+    .badge { font-size: 0.72rem; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; padding: 3px 9px; border-radius: 99px; }
     .badge-blue   { background: var(--blue-light);   color: var(--blue);   }
     .badge-purple { background: var(--orange-light);  color: var(--orange); }
     .badge-green  { background: var(--green-light);   color: var(--green);  }
 
-    /* ── Chart containers ─────────────────────────────────────────── */
-    .chart-wrap {
-      position: relative;
-      width: 100%;
-      height: 300px;
-    }
+    .chart-wrap { position: relative; width: 100%; height: 300px; }
 
-    /* ── News ─────────────────────────────────────────────────────── */
-    .source-meta {
-      font-size: 0.82rem;
-      color: var(--muted);
-      margin-bottom: 18px;
-    }
-
-    .news-list { display: grid; gap: 12px; }
+    .source-meta { font-size: 0.82rem; color: var(--muted); margin-bottom: 18px; }
+    .news-list   { display: grid; gap: 12px; }
 
     .news-item {
-      border: 1px solid var(--border);
-      border-left-width: 4px;
-      border-radius: var(--radius-sm);
-      padding: 14px 16px;
-      background: var(--surface2);
-      transition: box-shadow 0.15s;
+      border: 1px solid var(--border); border-left-width: 4px;
+      border-radius: var(--radius-sm); padding: 14px 16px;
+      background: var(--surface2); transition: box-shadow 0.15s;
     }
-
     .news-item:hover { box-shadow: var(--shadow-lg); }
-
     .news-item.impact-high   { border-left-color: var(--red); }
     .news-item.impact-medium { border-left-color: var(--amber); }
     .news-item.impact-low    { border-left-color: var(--green); }
 
     .news-item-top {
-      display: flex;
-      align-items: flex-start;
-      justify-content: space-between;
-      gap: 12px;
-      margin-bottom: 4px;
+      display: flex; align-items: flex-start;
+      justify-content: space-between; gap: 12px; margin-bottom: 4px;
     }
-
-    .news-title {
-      font-weight: 600;
-      font-size: 0.92rem;
-      color: var(--text);
-      text-decoration: none;
-      line-height: 1.4;
-    }
-
+    .news-title { font-weight: 600; font-size: 0.92rem; color: var(--text); text-decoration: none; line-height: 1.4; }
     .news-title:hover { text-decoration: underline; color: var(--blue); }
+    .news-time  { font-size: 0.75rem; color: var(--muted); white-space: nowrap; flex-shrink: 0; margin-top: 2px; }
 
-    .news-time {
-      font-size: 0.75rem;
-      color: var(--muted);
-      white-space: nowrap;
-      flex-shrink: 0;
-      margin-top: 2px;
-    }
-
-    .news-source-row {
-      font-size: 0.78rem;
-      color: var(--muted);
-      margin-bottom: 6px;
-      display: flex;
-      align-items: center;
-      gap: 6px;
-    }
-
-    .impact-pill {
-      display: inline-block;
-      font-size: 0.68rem;
-      font-weight: 700;
-      letter-spacing: 0.06em;
-      text-transform: uppercase;
-      padding: 1px 7px;
-      border-radius: 99px;
-    }
-
+    .news-source-row { font-size: 0.78rem; color: var(--muted); margin-bottom: 6px; display: flex; align-items: center; gap: 6px; }
+    .impact-pill { display: inline-block; font-size: 0.68rem; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; padding: 1px 7px; border-radius: 99px; }
     .impact-pill.impact-high   { background: #fee2e2; color: #991b1b; }
     .impact-pill.impact-medium { background: #fef3c7; color: #92400e; }
     .impact-pill.impact-low    { background: #d1fae5; color: #065f46; }
-
     .news-summary { font-size: 0.88rem; color: #374151; line-height: 1.5; }
 
-    /* ── Toast ────────────────────────────────────────────────────── */
     #toast {
-      position: fixed;
-      bottom: 28px;
-      left: 50%;
+      position: fixed; bottom: 28px; left: 50%;
       transform: translateX(-50%) translateY(80px);
-      background: #0f172a;
-      color: #f1f5f9;
-      padding: 11px 22px;
-      border-radius: 99px;
-      font-size: 0.85rem;
-      font-weight: 500;
+      background: #0f172a; color: #f1f5f9;
+      padding: 11px 22px; border-radius: 99px;
+      font-size: 0.85rem; font-weight: 500;
       box-shadow: 0 8px 32px rgba(0,0,0,0.3);
       transition: transform 0.35s cubic-bezier(.34,1.56,.64,1), opacity 0.3s;
-      opacity: 0;
-      pointer-events: none;
-      z-index: 1000;
-      white-space: nowrap;
+      opacity: 0; pointer-events: none; z-index: 1000; white-space: nowrap;
     }
+    #toast.show { transform: translateX(-50%) translateY(0); opacity: 1; }
 
-    #toast.show {
-      transform: translateX(-50%) translateY(0);
-      opacity: 1;
-    }
-
-    /* ── Error state ──────────────────────────────────────────────── */
     .error-box {
-      background: #fef2f2;
-      border: 1px solid #fecaca;
-      border-radius: var(--radius-sm);
-      padding: 16px 20px;
-      color: #991b1b;
-      font-size: 0.9rem;
+      background: #fef2f2; border: 1px solid #fecaca;
+      border-radius: var(--radius-sm); padding: 16px 20px;
+      color: #991b1b; font-size: 0.9rem;
     }
 
-    /* ── Footer ───────────────────────────────────────────────────── */
-    footer {
-      text-align: center;
-      color: var(--muted);
-      font-size: 0.82rem;
-      padding-top: 8px;
-    }
-
+    footer { text-align: center; color: var(--muted); font-size: 0.82rem; padding-top: 8px; }
     footer a { color: var(--muted); }
 
-    /* ── Responsive ───────────────────────────────────────────────── */
     @media (max-width: 640px) {
       .wrap { padding: 16px 14px 40px; }
       header { padding: 24px 20px; flex-direction: column; }
@@ -389,17 +195,13 @@
       .news-item-top { flex-direction: column; gap: 4px; }
       .news-time { align-self: flex-start; }
     }
-
-    @media (max-width: 420px) {
-      .cards { grid-template-columns: 1fr; }
-    }
+    @media (max-width: 420px) { .cards { grid-template-columns: 1fr; } }
   </style>
 </head>
 <body>
 
 <div class="wrap">
 
-  <!-- ── Header ─────────────────────────────────────────────────── -->
   <header>
     <div>
       <h1>⛽ Toronto Gas Tracker</h1>
@@ -407,7 +209,8 @@
     </div>
     <div class="header-right">
       <button id="refreshBtn" aria-label="Refresh dashboard data" onclick="manualRefresh()">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"
+             stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
           <path d="M23 4v6h-6"/><path d="M20.49 15a9 9 0 1 1-2.12-9.36L23 10"/>
         </svg>
         Refresh now
@@ -416,7 +219,6 @@
     </div>
   </header>
 
-  <!-- ── Price cards ────────────────────────────────────────────── -->
   <div class="cards" role="region" aria-label="Current fuel prices">
     <div class="card card-regular">
       <div class="card-label">Regular</div>
@@ -439,7 +241,6 @@
     </div>
   </div>
 
-  <!-- ── News ───────────────────────────────────────────────────── -->
   <section id="news" aria-label="Energy news">
     <div class="section-header">
       <h2>Global Energy News</h2>
@@ -449,7 +250,6 @@
     <div id="newsContent" class="news-list" aria-live="polite"></div>
   </section>
 
-  <!-- ── History chart ──────────────────────────────────────────── -->
   <section aria-label="Price history chart">
     <div class="section-header">
       <h2>Price History</h2>
@@ -460,7 +260,6 @@
     </div>
   </section>
 
-  <!-- ── Prediction chart ───────────────────────────────────────── -->
   <section aria-label="7-day price projection">
     <div class="section-header">
       <h2>7-Day Projection</h2>
@@ -472,16 +271,22 @@
   </section>
 
   <footer>
-    Built with GitHub Pages · GitHub Actions · Python · Chart.js · Gemini API ·
-    <a href="https://github.com" target="_blank" rel="noopener noreferrer">Source</a>
+    Built with GitHub Pages · GitHub Actions · Python · Chart.js · Gemini API
   </footer>
 </div>
 
-<!-- ── Toast notification ──────────────────────────────────────── -->
 <div id="toast" role="status" aria-live="polite"></div>
 
 <script>
-  /* ── Utility: sanitize plain text for safe DOM insertion ──────── */
+  /* ── Resolve data.json relative to the current page path ─────── */
+  function dataJsonUrl() {
+    const path = location.pathname.endsWith('/')
+      ? location.pathname
+      : location.pathname.substring(0, location.pathname.lastIndexOf('/') + 1);
+    return location.origin + path + 'data.json?_=' + Date.now();
+  }
+
+  /* ── Sanitize text for safe DOM insertion ─────────────────────── */
   function sanitize(str) {
     if (typeof str !== 'string') return '';
     const d = document.createElement('div');
@@ -489,7 +294,7 @@
     return d.innerHTML;
   }
 
-  /* ── Utility: validate a URL is http/https ─────────────────────── */
+  /* ── Validate URLs ────────────────────────────────────────────── */
   function safeUrl(url) {
     try {
       const u = new URL(url);
@@ -498,7 +303,7 @@
     return '#';
   }
 
-  /* ── Charts ───────────────────────────────────────────────────── */
+  /* ── Chart setup ──────────────────────────────────────────────── */
   let historyChart = null;
   let predictChart = null;
 
@@ -517,9 +322,7 @@
         bodyColor: '#cbd5e1',
         padding: 12,
         cornerRadius: 10,
-        callbacks: {
-          label: ctx => ` ${ctx.dataset.label}: ${ctx.parsed.y.toFixed(1)}¢/L`
-        }
+        callbacks: { label: ctx => ' ' + ctx.dataset.label + ': ' + ctx.parsed.y.toFixed(1) + '¢/L' }
       }
     },
     scales: {
@@ -529,7 +332,7 @@
       },
       y: {
         grid: { color: 'rgba(100,116,139,0.08)' },
-        ticks: { color: '#64748b', font: { size: 11 }, callback: v => v.toFixed(0) + '¢' },
+        ticks: { color: '#64748b', font: { size: 11 }, callback: function(v) { return v.toFixed(0) + '¢'; } },
         title: { display: true, text: 'Cents per litre (¢/L)', color: '#64748b', font: { size: 11 } }
       }
     }
@@ -543,37 +346,9 @@
       data: {
         labels: data.labels,
         datasets: [
-          {
-            label: 'Regular',
-            data: data.regular,
-            borderColor: '#2563eb',
-            backgroundColor: 'rgba(37,99,235,0.10)',
-            borderWidth: 2,
-            pointRadius: 0,
-            pointHoverRadius: 5,
-            tension: 0.3,
-            fill: true
-          },
-          {
-            label: 'Premium',
-            data: data.premium,
-            borderColor: '#ea580c',
-            backgroundColor: 'transparent',
-            borderWidth: 2,
-            pointRadius: 0,
-            pointHoverRadius: 5,
-            tension: 0.3
-          },
-          {
-            label: 'Diesel',
-            data: data.diesel,
-            borderColor: '#059669',
-            backgroundColor: 'transparent',
-            borderWidth: 2,
-            pointRadius: 0,
-            pointHoverRadius: 5,
-            tension: 0.3
-          }
+          { label: 'Regular', data: data.regular, borderColor: '#2563eb', backgroundColor: 'rgba(37,99,235,0.10)', borderWidth: 2, pointRadius: 0, pointHoverRadius: 5, tension: 0.3, fill: true },
+          { label: 'Premium', data: data.premium, borderColor: '#ea580c', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, pointHoverRadius: 5, tension: 0.3 },
+          { label: 'Diesel',  data: data.diesel,  borderColor: '#059669', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, pointHoverRadius: 5, tension: 0.3 }
         ]
       },
       options: CHART_DEFAULTS
@@ -588,40 +363,9 @@
       data: {
         labels: data.labels,
         datasets: [
-          {
-            label: 'Regular (projected)',
-            data: data.regular,
-            borderColor: '#7c3aed',
-            backgroundColor: 'rgba(124,58,237,0.10)',
-            borderWidth: 2,
-            borderDash: [6, 4],
-            pointRadius: 4,
-            pointHoverRadius: 6,
-            tension: 0.3,
-            fill: true
-          },
-          {
-            label: 'Premium (projected)',
-            data: data.premium,
-            borderColor: '#ea580c',
-            backgroundColor: 'transparent',
-            borderWidth: 2,
-            borderDash: [6, 4],
-            pointRadius: 4,
-            pointHoverRadius: 6,
-            tension: 0.3
-          },
-          {
-            label: 'Diesel (projected)',
-            data: data.diesel,
-            borderColor: '#059669',
-            backgroundColor: 'transparent',
-            borderWidth: 2,
-            borderDash: [6, 4],
-            pointRadius: 4,
-            pointHoverRadius: 6,
-            tension: 0.3
-          }
+          { label: 'Regular (projected)', data: data.regular, borderColor: '#7c3aed', backgroundColor: 'rgba(124,58,237,0.10)', borderWidth: 2, borderDash: [6,4], pointRadius: 4, pointHoverRadius: 6, tension: 0.3, fill: true },
+          { label: 'Premium (projected)', data: data.premium, borderColor: '#ea580c', backgroundColor: 'transparent', borderWidth: 2, borderDash: [6,4], pointRadius: 4, pointHoverRadius: 6, tension: 0.3 },
+          { label: 'Diesel (projected)',  data: data.diesel,  borderColor: '#059669', backgroundColor: 'transparent', borderWidth: 2, borderDash: [6,4], pointRadius: 4, pointHoverRadius: 6, tension: 0.3 }
         ]
       },
       options: CHART_DEFAULTS
@@ -629,26 +373,25 @@
   }
 
   /* ── Toast ────────────────────────────────────────────────────── */
-  let toastTimer = null;
+  var toastTimer = null;
   function showToast(msg) {
-    const el = document.getElementById('toast');
+    var el = document.getElementById('toast');
     el.textContent = msg;
     el.classList.add('show');
     clearTimeout(toastTimer);
-    toastTimer = setTimeout(() => el.classList.remove('show'), 3800);
+    toastTimer = setTimeout(function() { el.classList.remove('show'); }, 3800);
   }
 
   /* ── Price cards ──────────────────────────────────────────────── */
   function setPrice(id, deltaId, value, prevValue) {
-    const el = document.getElementById(id);
+    var el = document.getElementById(id);
     el.classList.remove('skeleton');
     el.textContent = Number(value).toFixed(1) + '¢/L';
-
     if (prevValue !== null && prevValue !== undefined) {
-      const diff = (value - prevValue).toFixed(1);
-      const dEl = document.getElementById(deltaId);
+      var diff = (value - prevValue).toFixed(1);
+      var dEl = document.getElementById(deltaId);
       if (Math.abs(diff) >= 0.1) {
-        const up = diff > 0;
+        var up = diff > 0;
         dEl.textContent = (up ? '▲' : '▼') + ' ' + Math.abs(diff) + '¢ vs prev';
         dEl.style.color = up ? '#dc2626' : '#059669';
       } else {
@@ -658,62 +401,53 @@
     }
   }
 
-  /* ── News rendering (XSS-safe: DOM methods only) ──────────────── */
+  /* ── News rendering (XSS-safe DOM methods only) ───────────────── */
   function renderNews(news) {
-    const container = document.getElementById('newsContent');
+    var container = document.getElementById('newsContent');
     container.innerHTML = '';
-
     if (!Array.isArray(news) || news.length === 0) {
-      const p = document.createElement('p');
+      var p = document.createElement('p');
       p.style.color = '#64748b';
       p.textContent = 'No headlines available at this time.';
       container.appendChild(p);
       return;
     }
+    news.forEach(function(item) {
+      var impact = ['high','medium','low'].includes(item.impact) ? item.impact : 'medium';
 
-    news.forEach(item => {
-      const impact = ['high', 'medium', 'low'].includes(item.impact) ? item.impact : 'medium';
+      var article = document.createElement('article');
+      article.className = 'news-item impact-' + impact;
 
-      const article = document.createElement('article');
-      article.className = `news-item impact-${impact}`;
-
-      const topRow = document.createElement('div');
+      var topRow = document.createElement('div');
       topRow.className = 'news-item-top';
 
-      const link = document.createElement('a');
+      var link = document.createElement('a');
       link.href = safeUrl(item.link);
       link.target = '_blank';
       link.rel = 'noopener noreferrer';
       link.className = 'news-title';
       link.textContent = item.title || 'Untitled';
 
-      const timeEl = document.createElement('span');
+      var timeEl = document.createElement('span');
       timeEl.className = 'news-time';
       if (item.publishedAt) {
         try {
-          timeEl.textContent = new Date(item.publishedAt).toLocaleDateString('en-CA', {
-            month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit'
-          });
-        } catch (_) {
-          timeEl.textContent = '';
-        }
+          timeEl.textContent = new Date(item.publishedAt).toLocaleDateString('en-CA', { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' });
+        } catch(_) {}
       }
 
       topRow.appendChild(link);
       topRow.appendChild(timeEl);
 
-      const sourceRow = document.createElement('div');
+      var sourceRow = document.createElement('div');
       sourceRow.className = 'news-source-row';
-
-      const sourceText = document.createTextNode((item.source || 'Unknown') + ' · ');
-      const pill = document.createElement('span');
-      pill.className = `impact-pill impact-${impact}`;
+      sourceRow.appendChild(document.createTextNode((item.source || 'Unknown') + ' · '));
+      var pill = document.createElement('span');
+      pill.className = 'impact-pill impact-' + impact;
       pill.textContent = impact.charAt(0).toUpperCase() + impact.slice(1) + ' impact';
-
-      sourceRow.appendChild(sourceText);
       sourceRow.appendChild(pill);
 
-      const summary = document.createElement('p');
+      var summary = document.createElement('p');
       summary.className = 'news-summary';
       summary.textContent = item.summary || '';
 
@@ -725,125 +459,111 @@
   }
 
   /* ── Status bar countdown ─────────────────────────────────────── */
-  let countdownInterval = null;
-  let nextCheckIn = 30;
+  var countdownInterval = null;
+  var nextCheckIn = 30;
+  var lastGeneratedAt = null;
 
   function startCountdown() {
     clearInterval(countdownInterval);
     nextCheckIn = 30;
     updateStatusBar();
-    countdownInterval = setInterval(() => {
+    countdownInterval = setInterval(function() {
       nextCheckIn = Math.max(0, nextCheckIn - 1);
       updateStatusBar();
     }, 1000);
   }
 
   function updateStatusBar() {
-    const bar = document.getElementById('statusBar');
-    if (lastGeneratedAt) {
-      bar.textContent = `Data from: ${lastGeneratedAt} · Checking in ${nextCheckIn}s`;
-    } else {
-      bar.textContent = `Checking in ${nextCheckIn}s`;
-    }
+    var bar = document.getElementById('statusBar');
+    bar.textContent = lastGeneratedAt
+      ? 'Data from: ' + lastGeneratedAt + ' · Checking in ' + nextCheckIn + 's'
+      : 'Checking in ' + nextCheckIn + 's';
   }
 
-  /* ── Core data fetching ───────────────────────────────────────── */
-  let lastGeneratedAt = null;
-  let prevLatest = null;
-  let isFetching = false;
+  /* ── Core fetch ───────────────────────────────────────────────── */
+  var prevLatest = null;
+  var isFetching = false;
 
-  async function fetchData({ silent = false } = {}) {
+  function fetchData(silent) {
     if (isFetching) return;
     isFetching = true;
 
-    const btn = document.getElementById('refreshBtn');
+    var btn = document.getElementById('refreshBtn');
     btn.disabled = true;
     btn.classList.add('spinning');
 
-    try {
-      // Cache-bust so browser doesn't return a stale response
-      const res = await fetch(`data.json?_=${Date.now()}`);
-      if (!res.ok) throw new Error(`HTTP ${res.status} — unable to load data.json`);
-
-      const data = await res.json();
-
-      // Validate minimal shape
-      if (!data.latest || !data.history || !data.prediction) {
-        throw new Error('data.json is malformed — missing required fields');
-      }
-
-      const newTimestamp = data.generatedAt || null;
-      const isNewData = newTimestamp && newTimestamp !== lastGeneratedAt;
-
-      // Update price cards
-      setPrice('regularPrice', 'regularDelta', data.latest.regular, prevLatest?.regular ?? null);
-      setPrice('premiumPrice', 'premiumDelta', data.latest.premium, prevLatest?.premium ?? null);
-      setPrice('dieselPrice',  'dieselDelta',  data.latest.diesel,  prevLatest?.diesel  ?? null);
-      prevLatest = { ...data.latest };
-
-      // Generated-at card — display in local Toronto time
-      const genEl = document.getElementById('generatedAt');
-      if (newTimestamp) {
-        try {
-          const iso = newTimestamp.replace(' UTC', 'Z');
-          const local = new Date(iso).toLocaleString('en-CA', {
-            timeZone: 'America/Toronto',
-            month: 'short', day: 'numeric',
-            hour: '2-digit', minute: '2-digit',
-            timeZoneName: 'short'
-          });
-          genEl.textContent = local;
-        } catch (_) {
-          genEl.textContent = newTimestamp;
+    fetch(dataJsonUrl())
+      .then(function(res) {
+        if (!res.ok) throw new Error('HTTP ' + res.status + ' — unable to load data.json');
+        return res.json();
+      })
+      .then(function(data) {
+        if (!data.latest || !data.history || !data.prediction) {
+          throw new Error('data.json is malformed — missing required fields');
         }
-      }
 
-      document.getElementById('sourceMeta').textContent =
-        `Price source: ${sanitize(data.priceSource || 'Unknown')}`;
+        var newTimestamp = data.generatedAt || null;
+        var isNewData = newTimestamp && newTimestamp !== lastGeneratedAt;
 
-      renderNews(data.news || []);
-      buildHistoryChart(data.history);
-      buildPredictChart(data.prediction);
+        setPrice('regularPrice', 'regularDelta', data.latest.regular, prevLatest ? prevLatest.regular : null);
+        setPrice('premiumPrice', 'premiumDelta', data.latest.premium, prevLatest ? prevLatest.premium : null);
+        setPrice('dieselPrice',  'dieselDelta',  data.latest.diesel,  prevLatest ? prevLatest.diesel  : null);
+        prevLatest = { regular: data.latest.regular, premium: data.latest.premium, diesel: data.latest.diesel };
 
-      if (isNewData) {
-        lastGeneratedAt = newTimestamp;
-        if (silent) showToast('✓ New data detected — dashboard updated');
-      } else if (!lastGeneratedAt) {
-        lastGeneratedAt = newTimestamp;
-      }
+        var genEl = document.getElementById('generatedAt');
+        if (newTimestamp) {
+          try {
+            var iso = newTimestamp.replace(' UTC', 'Z');
+            genEl.textContent = new Date(iso).toLocaleString('en-CA', {
+              timeZone: 'America/Toronto',
+              month: 'short', day: 'numeric',
+              hour: '2-digit', minute: '2-digit',
+              timeZoneName: 'short'
+            });
+          } catch(_) {
+            genEl.textContent = newTimestamp;
+          }
+        }
 
-    } catch (err) {
-      console.error('[GasTracker]', err);
-      if (!silent) {
-        // Only show error UI on initial load failure, not on background checks
-        document.getElementById('newsContent').innerHTML = '';
-        const box = document.createElement('div');
-        box.className = 'error-box';
-        box.textContent = `Unable to load data: ${err.message}. The dashboard will retry automatically.`;
-        document.getElementById('newsContent').appendChild(box);
-      }
-      showToast('⚠ Could not reach data.json — will retry');
-    } finally {
-      isFetching = false;
-      btn.disabled = false;
-      // Remove spinning class after CSS transition completes
-      setTimeout(() => btn.classList.remove('spinning'), 520);
-      startCountdown();
-    }
+        document.getElementById('sourceMeta').textContent = 'Price source: ' + (data.priceSource || 'Unknown');
+        renderNews(data.news || []);
+        buildHistoryChart(data.history);
+        buildPredictChart(data.prediction);
+
+        if (isNewData) {
+          lastGeneratedAt = newTimestamp;
+          if (silent) showToast('✓ New data detected — dashboard updated');
+        } else if (!lastGeneratedAt) {
+          lastGeneratedAt = newTimestamp;
+        }
+      })
+      .catch(function(err) {
+        console.error('[GasTracker]', err);
+        if (!silent) {
+          var container = document.getElementById('newsContent');
+          container.innerHTML = '';
+          var box = document.createElement('div');
+          box.className = 'error-box';
+          box.textContent = 'Unable to load data: ' + err.message + '. The dashboard will retry automatically.';
+          container.appendChild(box);
+        }
+        showToast('⚠ Could not reach data.json — will retry');
+      })
+      .finally(function() {
+        isFetching = false;
+        btn.disabled = false;
+        setTimeout(function() { btn.classList.remove('spinning'); }, 520);
+        startCountdown();
+      });
   }
 
-  /* ── Manual refresh (button) ──────────────────────────────────── */
-  function manualRefresh() {
-    fetchData({ silent: false });
-  }
+  function manualRefresh() { fetchData(false); }
 
-  /* ── Polling: check every 30 seconds ─────────────────────────── */
-  // Uses a timestamp-only lightweight check approach:
-  // Full re-render only happens when generatedAt changes.
-  setInterval(() => fetchData({ silent: true }), 30_000);
+  /* ── Poll every 30 seconds ────────────────────────────────────── */
+  setInterval(function() { fetchData(true); }, 30000);
 
   /* ── Boot ─────────────────────────────────────────────────────── */
-  fetchData({ silent: false });
+  fetchData(false);
 </script>
 </body>
 </html>
