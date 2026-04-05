@@ -17,6 +17,7 @@ import xml.etree.ElementTree as ET
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any
+from zoneinfo import ZoneInfo
 
 import requests
 from bs4 import BeautifulSoup
@@ -51,6 +52,9 @@ HEADERS = {
 DEFAULT_REGULAR = 174.9
 DEFAULT_PREMIUM_SPREAD = 18.0
 DEFAULT_DIESEL_SPREAD = 10.5
+
+TORONTO_TZ = ZoneInfo("America/Toronto")
+CITYNEWS_GTA_URL = "https://toronto.citynews.ca/toronto-gta-gas-prices/"
 
 HISTORY_RETENTION_DAYS = 185
 MAX_NEWS_ITEMS = 10
@@ -254,6 +258,41 @@ def extract_price_from_text(text: str) -> float | None:
 
 
 # ── Price scraping strategies ─────────────────────────────────────────────────
+def today_in_toronto() -> date:
+    """Calendar date in Toronto (avoids UTC day skew when CI runs near midnight)."""
+    return datetime.now(TORONTO_TZ).date()
+
+
+def scrape_citynews_gta_regular() -> float | None:
+    """En-Pro / CityNews GTA average for regular (same figure as citynews.ca)."""
+    try:
+        resp = http_get(CITYNEWS_GTA_URL)
+        text = BeautifulSoup(resp.text, "html.parser").get_text(" ", strip=True)
+        m = re.search(
+            r"average of\s+(\d{2,3}(?:\.\d)?)\s*cent(?:\(s\))?/litre",
+            text,
+            flags=re.IGNORECASE,
+        )
+        if m:
+            price = normalize_price(m.group(1))
+            if 120 <= price <= 220:
+                log.info("CityNews: forecast price %.1f¢/L (En-Pro GTA average)", price)
+                return price
+        idx = text.lower().find("historical values")
+        if idx != -1:
+            tail = text[idx : idx + 6000]
+            m2 = re.search(r"(\d{2,3}(?:\.\d)?)\s*cent(?:\(s\))?/litre", tail)
+            if m2:
+                price = normalize_price(m2.group(1))
+                if 120 <= price <= 220:
+                    log.info("CityNews: latest historical price %.1f¢/L", price)
+                    return price
+        log.warning("CityNews: no GTA regular price found on page")
+    except Exception as exc:
+        log.warning("CityNews scrape failed: %s", exc)
+    return None
+
+
 def _try_scrape_source(source_name: str, url: str) -> float | None:
     patterns = [
         r"Toronto[^\d]{0,120}(\d{2,3}(?:\.\d)?)\s?[¢c]",
@@ -293,6 +332,10 @@ def fetch_toronto_price_from_headlines() -> tuple[float, str] | None:
 
 
 def scrape_toronto_regular_price() -> tuple[float, str]:
+    citynews = scrape_citynews_gta_regular()
+    if citynews is not None:
+        return citynews, "CityNews Toronto & GTA (En-Pro)"
+
     sources = [
         ("GasBuddy Toronto", "https://www.gasbuddy.com/gasprices/ontario/toronto"),
         ("Ontario Gas Prices", "https://www.ontariogasprices.com/Toronto/index.aspx"),
@@ -343,7 +386,7 @@ def seed_history_if_needed(
         return history
 
     log.info("Seeding 30-day synthetic history anchored at %.1f¢/L", current_regular)
-    today = date.today()
+    today = today_in_toronto()
     seeded: list[dict[str, Any]] = []
 
     for days_ago in range(29, -1, -1):
@@ -364,7 +407,7 @@ def seed_history_if_needed(
 
 
 def upsert_today(history: list[dict[str, Any]], regular: float) -> list[dict[str, Any]]:
-    today = date.today().isoformat()
+    today = today_in_toronto().isoformat()
     premium = round(regular + DEFAULT_PREMIUM_SPREAD, 1)
     diesel = round(regular + DEFAULT_DIESEL_SPREAD, 1)
     entry: dict[str, Any] = {
@@ -381,7 +424,7 @@ def upsert_today(history: list[dict[str, Any]], regular: float) -> list[dict[str
         history.append(entry)
         log.info("Appended today's history entry: %s", entry)
 
-    cutoff = (date.today() - timedelta(days=HISTORY_RETENTION_DAYS)).isoformat()
+    cutoff = (today_in_toronto() - timedelta(days=HISTORY_RETENTION_DAYS)).isoformat()
     pruned = [item for item in history if item["date"] >= cutoff]
     if len(pruned) < len(history):
         log.info("Pruned %d old history entries (older than %s)", len(history) - len(pruned), cutoff)
@@ -413,7 +456,7 @@ def build_prediction(history: list[dict[str, Any]]) -> dict[str, list[Any]]:
         return [round(base + slope * i * 0.8, 1) for i in range(1, 8)]
 
     labels = [
-        (date.today() + timedelta(days=i)).strftime("%b %d")
+        (today_in_toronto() + timedelta(days=i)).strftime("%b %d")
         for i in range(1, 8)
     ]
     return {
