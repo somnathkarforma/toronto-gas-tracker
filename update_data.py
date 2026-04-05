@@ -78,11 +78,6 @@ class DataWriteError(GasTrackerError):
 
 # ── HTTP with retry + exponential back-off ────────────────────────────────────
 def http_get(url: str, *, timeout: int = HTTP_TIMEOUT, verify: bool = True) -> requests.Response:
-    """
-    GET a URL with up to HTTP_MAX_RETRIES attempts and exponential back-off.
-    Raises requests.HTTPError on a non-2xx final response.
-    Never logs the full URL to avoid leaking tokens embedded in query strings.
-    """
     last_exc: Exception | None = None
 
     for attempt in range(1, HTTP_MAX_RETRIES + 1):
@@ -90,7 +85,6 @@ def http_get(url: str, *, timeout: int = HTTP_TIMEOUT, verify: bool = True) -> r
             log.debug("HTTP GET attempt %d/%d", attempt, HTTP_MAX_RETRIES)
             resp = requests.get(url, headers=HEADERS, timeout=timeout, verify=verify)
             resp.raise_for_status()
-            log.debug("HTTP GET succeeded on attempt %d (status %d)", attempt, resp.status_code)
             return resp
         except requests.exceptions.SSLError as exc:
             log.warning("SSL error on attempt %d — aborting retries: %s", attempt, exc)
@@ -104,7 +98,6 @@ def http_get(url: str, *, timeout: int = HTTP_TIMEOUT, verify: bool = True) -> r
         except requests.exceptions.HTTPError as exc:
             last_exc = exc
             status = exc.response.status_code if exc.response is not None else "?"
-            # Do not retry 4xx client errors — they won't change
             if exc.response is not None and exc.response.status_code < 500:
                 log.warning("Non-retryable HTTP %s — skipping further attempts", status)
                 raise
@@ -178,10 +171,8 @@ def enrich_news_with_gemini(items: list[dict[str, str]]) -> list[dict[str, str]]
 
     try:
         genai.configure(api_key=api_key)
-        model = genai.GenerativeModel("gemini-1.5-flash")
+        model = genai.GenerativeModel("gemini-2.0-flash")
 
-        # Strip links before sending to Gemini — no need to send potentially
-        # long URLs, and avoids accidentally leaking them in error logs.
         payload = [
             {"title": i.get("title", ""), "source": i.get("source", "")}
             for i in items
@@ -199,7 +190,6 @@ def enrich_news_with_gemini(items: list[dict[str, str]]) -> list[dict[str, str]]
         response = model.generate_content(prompt)
         raw = (response.text or "").strip()
 
-        # Strip optional markdown fences
         raw = re.sub(r"^```(?:json)?\s*", "", raw)
         raw = re.sub(r"\s*```$", "", raw)
 
@@ -231,7 +221,6 @@ def enrich_news_with_gemini(items: list[dict[str, str]]) -> list[dict[str, str]]
     except ValueError as exc:
         log.error("Gemini response validation failed: %s", exc)
     except Exception as exc:
-        # Log type and message only — never log the API key or response body
         log.error("Gemini enrichment failed (%s): %s", type(exc).__name__, exc)
 
     return _apply_fallback_enrichment(items)
@@ -239,7 +228,6 @@ def enrich_news_with_gemini(items: list[dict[str, str]]) -> list[dict[str, str]]
 
 # ── Price normalisation ───────────────────────────────────────────────────────
 def normalize_price(raw_value: str) -> float:
-    """Convert a raw scraped value to cents/litre, handling $/L notation."""
     value = float(raw_value)
     if value < 10:
         value *= 100
@@ -247,7 +235,6 @@ def normalize_price(raw_value: str) -> float:
 
 
 def extract_price_from_text(text: str) -> float | None:
-    """Extract a plausible Toronto regular gas price (120–220 ¢/L) from free text."""
     patterns = [
         r"\$\s*(1\.\d{2,3})\s*(?:a|per)?\s*litre",
         r"(\d{2,3}\.\d)\s*(?:¢|cents?)",
@@ -306,10 +293,6 @@ def fetch_toronto_price_from_headlines() -> tuple[float, str] | None:
 
 
 def scrape_toronto_regular_price() -> tuple[float, str]:
-    """
-    Try three web sources in order, then fall back to headlines, then a hardcoded default.
-    Returns (price_in_cents, source_name).
-    """
     sources = [
         ("GasBuddy Toronto", "https://www.gasbuddy.com/gasprices/ontario/toronto"),
         ("Ontario Gas Prices", "https://www.ontariogasprices.com/Toronto/index.aspx"),
@@ -325,9 +308,7 @@ def scrape_toronto_regular_price() -> tuple[float, str]:
     if headline_result:
         return headline_result
 
-    log.warning(
-        "All price sources exhausted — using hardcoded default of %.1f¢/L", DEFAULT_REGULAR
-    )
+    log.warning("All price sources exhausted — using hardcoded default of %.1f¢/L", DEFAULT_REGULAR)
     return DEFAULT_REGULAR, "Hardcoded fallback"
 
 
@@ -358,7 +339,6 @@ def save_history(history: list[dict[str, Any]]) -> None:
 def seed_history_if_needed(
     history: list[dict[str, Any]], current_regular: float
 ) -> list[dict[str, Any]]:
-    """Populate 30-day synthetic history if the history file is empty."""
     if history:
         return history
 
@@ -384,7 +364,6 @@ def seed_history_if_needed(
 
 
 def upsert_today(history: list[dict[str, Any]], regular: float) -> list[dict[str, Any]]:
-    """Insert or replace today's entry, then prune to retention window."""
     today = date.today().isoformat()
     premium = round(regular + DEFAULT_PREMIUM_SPREAD, 1)
     diesel = round(regular + DEFAULT_DIESEL_SPREAD, 1)
@@ -430,7 +409,6 @@ def build_prediction(history: list[dict[str, Any]]) -> dict[str, list[Any]]:
         values = [item[key] for item in recent] or [default]
         base = values[-1]
         slope = (values[-1] - values[0]) / max(len(values) - 1, 1)
-        # Dampen extreme slopes to avoid wild projections
         slope = max(min(slope, 1.2), -1.2)
         return [round(base + slope * i * 0.8, 1) for i in range(1, 8)]
 
@@ -479,17 +457,14 @@ def write_data_json(payload: dict[str, Any]) -> None:
 def main() -> None:
     log.info("=== Gas Tracker update started ===")
 
-    # 1. Fetch current price
     regular_price, price_source = scrape_toronto_regular_price()
     log.info("Price: %.1f¢/L  Source: %s", regular_price, price_source)
 
-    # 2. Update history
     history = load_history()
     history = seed_history_if_needed(history, regular_price)
     history = upsert_today(history, regular_price)
     save_history(history)
 
-    # 3. Fetch and enrich news
     try:
         raw_news = fetch_google_news()
         news = enrich_news_with_gemini(raw_news)
@@ -504,7 +479,6 @@ def main() -> None:
             "impact": "low",
         }]
 
-    # 4. Write data.json  — this must succeed or the workflow should fail
     payload = build_payload(price_source, history, news)
     write_data_json(payload)
 
