@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-04-05 02:02 UTC",
-  "priceSource": "CityNews Toronto & GTA (En-Pro)",
+  "generatedAt": "2026-04-05 02:44 UTC",
+  "priceSource": "Toronto gas headlines",
   "latest": {
-    "regular": 186.9,
-    "premium": 204.9,
-    "diesel": 197.4
+    "regular": 160.0,
+    "premium": 178.0,
+    "diesel": 170.5
   },
   "history": {
     "labels": [
@@ -39,7 +39,8 @@
       "Mar 29",
       "Mar 30",
       "Apr 01",
-      "Apr 04"
+      "Apr 04",
+      "Apr 05"
     ],
     "regular": [
       150.7,
@@ -73,7 +74,8 @@
       156.6,
       155.9,
       174.9,
-      186.9
+      160.0,
+      160.0
     ],
     "premium": [
       168.7,
@@ -107,7 +109,8 @@
       174.6,
       173.9,
       192.9,
-      204.9
+      178.0,
+      178.0
     ],
     "diesel": [
       161.2,
@@ -141,45 +144,46 @@
       167.1,
       166.4,
       185.4,
-      197.4
+      170.5,
+      170.5
     ]
   },
   "prediction": {
     "labels": [
-      "Apr 05",
       "Apr 06",
       "Apr 07",
       "Apr 08",
       "Apr 09",
       "Apr 10",
-      "Apr 11"
+      "Apr 11",
+      "Apr 12"
     ],
     "regular": [
-      187.9,
-      188.8,
-      189.8,
-      190.7,
-      191.7,
-      192.7,
-      193.6
+      160.4,
+      160.8,
+      161.2,
+      161.6,
+      162.0,
+      162.4,
+      162.8
     ],
     "premium": [
-      205.9,
-      206.8,
-      207.8,
-      208.7,
-      209.7,
-      210.7,
-      211.6
+      178.4,
+      178.8,
+      179.2,
+      179.6,
+      180.0,
+      180.4,
+      180.8
     ],
     "diesel": [
-      198.4,
-      199.3,
-      200.3,
-      201.2,
-      202.2,
-      203.2,
-      204.1
+      170.9,
+      171.3,
+      171.7,
+      172.1,
+      172.5,
+      172.9,
+      173.3
     ]
   },
   "news": [
@@ -220,15 +224,6 @@
       "impact": "medium"
     },
     {
-      "title": "Higher oil prices and higher thermal output: A sneak peak at Q1 earnings - oilsandsmagazine.com",
-      "source": "oilsandsmagazine.com",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcWY2Y0VOdkJuekhIM3U5RWJGeWdOWUVicThzQUJoMTU1ZVkxR1l6NFFpMWhyWXd3UENGYjVHbGFCc0tfQ2tWdVZZNlF5MDlVWWNRcWp3VnJBOTlmeGxVUXpGdHJxcFROZ2lzUElibHItbWtlWXg1M0hoREplOHVveHJESWE3bWlrbDZYMmxaQlV2cXFyVkE?oc=5",
-      "description": "Higher oil prices and higher thermal output: A sneak peak at Q1 earnings oilsandsmagazine.com",
-      "publishedAt": "Tue, 31 Mar 2026 07:00:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
       "title": "Current price of oil as of March 30, 2026 - Fortune",
       "source": "Fortune",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xSC1SbTlFZnhJNm1odllPQVZ4NWJ3empHX0VqbFU1YzROWnNzSkJVdC14M1VtTUJmeFhWa0JCYkl2SFJ3b2VieGhsNFFGUzlLUzY2RUp3cDlxTGEwU09ER2xB?oc=5",
@@ -247,11 +242,11 @@
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Keep Rising as Iran Denies Peace Negotiations - Barron's",
-      "source": "Barron's",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IRlpjTktRdGhVUU51dHZ2bDZaVEFLWGROYkw5WWxXNGVvWE9YMEZMTmFVbFpEaG5fU0RtcGlhaHFpMmlvZEo3TU5LSGJnNEUxWTR3a001N3lPRWpUbzlPRkVkQVZwZEZBdkIzZkIyZWtVWlYzUnY5Z3RUREFUZEk?oc=5",
-      "description": "Oil Prices Keep Rising as Iran Denies Peace Negotiations Barron's",
-      "publishedAt": "Mon, 30 Mar 2026 21:42:00 GMT",
+      "title": "Stocks recover most early losses and head for a weekly gain. U.S. oil tops US$110 a barrel - BNN Bloomberg",
+      "source": "BNN Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOOTZMQUJMa1FOTEZMaFBod1EwTzVNYTRpbVBVLWpuS0FNdEVDQ2tNaXpBMXJTZUc4dnRBd1hxX2VUOV8tZDNjREZHNElPSlpfV2h4R3dkdDlHTmlQWWtobFhicmltaHNaZzhHSDFvZkJpTDBZZFp3N0UwdXhkQ1l1WEN2cld2al9ZaDZxU3RwYzNWZnh0V011Sy05ejhGWUNQeFhYS2FjcUp3TE9sSmtISXlGc3NtOG1GczF3QnVRM0poMlpWdGEzdl92UUJhZnNteDhaMk9mTDlQdXV0?oc=5",
+      "description": "Stocks recover most early losses and head for a weekly gain. U.S. oil tops US$110 a barrel BNN Bloomberg",
+      "publishedAt": "Thu, 02 Apr 2026 20:48:08 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -261,6 +256,15 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NbG8wZk0wS0VtVF9FeHNpVlZNdkRfM1RwazJBbDBTM3F3Zy1sRjJNWVVMUFdQUnpJUEtCbFhVczZlTkZLOUNsYm9XejFLcE1nZnZONDlRd0RyUQ?oc=5",
       "description": "Oil prices jump and shares drop after Trump threatens more Iran strikes BBC",
       "publishedAt": "Thu, 02 Apr 2026 22:25:44 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "The 2 reasons oil prices are surging as the Iran War enters its 5th week - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeHp4UnNmWTlVS25OblpWUGRXYUxIUFVQeGJDV0xmMGtBWG9iUzFJV2pCOG5KZG1Iakx2TkNTbThEWXpzWmphUjZtWEtxUlZ3UVIwMHBkekRVZExmbU4zZ0RJdWFjTmQzcDdVOFNVN0hCYlRYODNRS0pfclRLVXpMaEF2WHRlcnMtWVZIMENGNnlYckpnMXRHRXFQSVVKR0RjanB5UUYxcC1teDJ2LXJNWkJoSEFZQUJ2dmc?oc=5",
+      "description": "The 2 reasons oil prices are surging as the Iran War enters its 5th week Yahoo Finance",
+      "publishedAt": "Mon, 30 Mar 2026 13:59:12 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
