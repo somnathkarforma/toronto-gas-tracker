@@ -180,31 +180,19 @@
     "diesel": 166.4
   },
   {
-    "date": "2026-03-31",
-    "regular": 160.7,
-    "premium": 178.7,
-    "diesel": 171.2
-  },
-  {
     "date": "2026-04-01",
     "regular": 174.9,
     "premium": 192.9,
     "diesel": 185.4
   },
   {
-    "date": "2026-04-02",
-    "regular": 160.8,
-    "premium": 178.8,
-    "diesel": 171.3
-  },
-  {
-    "date": "2026-04-03",
-    "regular": 160.7,
-    "premium": 178.7,
-    "diesel": 171.2
-  },
-  {
     "date": "2026-04-04",
+    "regular": 160.0,
+    "premium": 178.0,
+    "diesel": 170.5
+  },
+  {
+    "date": "2026-04-05",
     "regular": 160.0,
     "premium": 178.0,
     "diesel": 170.5
