@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-04-05 02:44 UTC",
-  "priceSource": "Toronto gas headlines",
+  "generatedAt": "2026-04-05 02:52 UTC",
+  "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 160.0,
-    "premium": 178.0,
-    "diesel": 170.5
+    "regular": 186.9,
+    "premium": 204.9,
+    "diesel": 197.4
   },
   "history": {
     "labels": [
@@ -39,8 +39,7 @@
       "Mar 29",
       "Mar 30",
       "Apr 01",
-      "Apr 04",
-      "Apr 05"
+      "Apr 04"
     ],
     "regular": [
       150.7,
@@ -74,8 +73,7 @@
       156.6,
       155.9,
       174.9,
-      160.0,
-      160.0
+      186.9
     ],
     "premium": [
       168.7,
@@ -109,8 +107,7 @@
       174.6,
       173.9,
       192.9,
-      178.0,
-      178.0
+      204.9
     ],
     "diesel": [
       161.2,
@@ -144,46 +141,45 @@
       167.1,
       166.4,
       185.4,
-      170.5,
-      170.5
+      197.4
     ]
   },
   "prediction": {
     "labels": [
+      "Apr 05",
       "Apr 06",
       "Apr 07",
       "Apr 08",
       "Apr 09",
       "Apr 10",
-      "Apr 11",
-      "Apr 12"
+      "Apr 11"
     ],
     "regular": [
-      160.4,
-      160.8,
-      161.2,
-      161.6,
-      162.0,
-      162.4,
-      162.8
+      187.9,
+      188.8,
+      189.8,
+      190.7,
+      191.7,
+      192.7,
+      193.6
     ],
     "premium": [
-      178.4,
-      178.8,
-      179.2,
-      179.6,
-      180.0,
-      180.4,
-      180.8
+      205.9,
+      206.8,
+      207.8,
+      208.7,
+      209.7,
+      210.7,
+      211.6
     ],
     "diesel": [
-      170.9,
-      171.3,
-      171.7,
-      172.1,
-      172.5,
-      172.9,
-      173.3
+      198.4,
+      199.3,
+      200.3,
+      201.2,
+      202.2,
+      203.2,
+      204.1
     ]
   },
   "news": [
@@ -242,11 +238,11 @@
       "impact": "medium"
     },
     {
-      "title": "Stocks recover most early losses and head for a weekly gain. U.S. oil tops US$110 a barrel - BNN Bloomberg",
-      "source": "BNN Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOOTZMQUJMa1FOTEZMaFBod1EwTzVNYTRpbVBVLWpuS0FNdEVDQ2tNaXpBMXJTZUc4dnRBd1hxX2VUOV8tZDNjREZHNElPSlpfV2h4R3dkdDlHTmlQWWtobFhicmltaHNaZzhHSDFvZkJpTDBZZFp3N0UwdXhkQ1l1WEN2cld2al9ZaDZxU3RwYzNWZnh0V011Sy05ejhGWUNQeFhYS2FjcUp3TE9sSmtISXlGc3NtOG1GczF3QnVRM0poMlpWdGEzdl92UUJhZnNteDhaMk9mTDlQdXV0?oc=5",
-      "description": "Stocks recover most early losses and head for a weekly gain. U.S. oil tops US$110 a barrel BNN Bloomberg",
-      "publishedAt": "Thu, 02 Apr 2026 20:48:08 GMT",
+      "title": "Oil Prices Keep Rising as Iran Denies Peace Negotiations - Barron's",
+      "source": "Barron's",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IRlpjTktRdGhVUU51dHZ2bDZaVEFLWGROYkw5WWxXNGVvWE9YMEZMTmFVbFpEaG5fU0RtcGlhaHFpMmlvZEo3TU5LSGJnNEUxWTR3a001N3lPRWpUbzlPRkVkQVZwZEZBdkIzZkIyZWtVWlYzUnY5Z3RUREFUZEk?oc=5",
+      "description": "Oil Prices Keep Rising as Iran Denies Peace Negotiations Barron's",
+      "publishedAt": "Mon, 30 Mar 2026 21:42:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -260,20 +256,20 @@
       "impact": "medium"
     },
     {
-      "title": "The 2 reasons oil prices are surging as the Iran War enters its 5th week - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeHp4UnNmWTlVS25OblpWUGRXYUxIUFVQeGJDV0xmMGtBWG9iUzFJV2pCOG5KZG1Iakx2TkNTbThEWXpzWmphUjZtWEtxUlZ3UVIwMHBkekRVZExmbU4zZ0RJdWFjTmQzcDdVOFNVN0hCYlRYODNRS0pfclRLVXpMaEF2WHRlcnMtWVZIMENGNnlYckpnMXRHRXFQSVVKR0RjanB5UUYxcC1teDJ2LXJNWkJoSEFZQUJ2dmc?oc=5",
-      "description": "The 2 reasons oil prices are surging as the Iran War enters its 5th week Yahoo Finance",
-      "publishedAt": "Mon, 30 Mar 2026 13:59:12 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
       "title": "Why Has the WTI Oil Price Surpassed Brent? - Rigzone",
       "source": "Rigzone",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTWNsbW5OYmN4QTN4OFRSNzlwUDJEUVhvRGM3NDJjbHp4VXBIejBJSGdQU1ZfR0VMR3RacHN4aTFHOGdkX0NlLVJPdDAyNTI0THpqYzhQeWU1LW1sbE5WWnNDcVh1Uy1aNVZmUjB4YlpBWnFoTmRKRDBtUElmUGg2YkotZ1dCeS13NkdjQ0k5ZHVaR2xzeHBXNDhKaWplNEE?oc=5",
       "description": "Why Has the WTI Oil Price Surpassed Brent? Rigzone",
       "publishedAt": "Fri, 03 Apr 2026 11:23:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "US stocks fall in another shaky day as oil prices keep climbing - MooseJawToday.com",
+      "source": "MooseJawToday.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeUtOaHMxVVlGYkhaRWQwVnQ2emxiaWhaWVdld0Y0SXhqejd3QW5JYXNEX25seDRxT2N2UmQ5X0xtNkVjdjRPdEd3bFktdy1oNEF4eVB6OWpCNEpwNUJqQl9sQU9ScmRWR3dSalM5bjNESklPOEZkc2hidnRzVVFZeXc0anVuYUJSU2txMEJUU2ZTTjdVbmNCam9idW9STFMyTEVpX19XSXBtdVhSaEUtaTMyUlI4RXVCekFRLQ?oc=5",
+      "description": "US stocks fall in another shaky day as oil prices keep climbing MooseJawToday.com",
+      "publishedAt": "Mon, 30 Mar 2026 20:04:52 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
