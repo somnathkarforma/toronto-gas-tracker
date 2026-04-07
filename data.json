@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-06 08:54 UTC",
+  "generatedAt": "2026-04-07 08:18 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
     "regular": 185.9,
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Apr 06"
+      "Apr 07"
     ],
     "regular": [
       150.7,
@@ -150,13 +150,13 @@
   },
   "prediction": {
     "labels": [
-      "Apr 07",
       "Apr 08",
       "Apr 09",
       "Apr 10",
       "Apr 11",
       "Apr 12",
-      "Apr 13"
+      "Apr 13",
+      "Apr 14"
     ],
     "regular": [
       186.9,
@@ -188,11 +188,29 @@
   },
   "news": [
     {
+      "title": "Oil prices continue to climb and could surge to US$150 if access to Strait of Hormuz remains disrupted - The Globe and Mail",
+      "source": "The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb0dERUJDYUpLb24yRmt2Zms3M0ZweWpCb3NWLWdFMDVkelVBS1FJWG5pQmF6UmV3b18xZTRDMVdtZmtic21ZYm1SMWlNVUVSWVlZWjAtTFRJaUF6Tk5aQkNFY3lwakFFMU5lMFQ3bzlQc0lHbGk2RFpVaHhScHU1VnVKM3JtSGxrLU1LVDhxaVBPeG9VUTQwcnlRTHRDTERZUmhqSkY1SWJtZ0JGSEg5MXdlRGEtYjg?oc=5",
+      "description": "Oil prices continue to climb and could surge to US$150 if access to Strait of Hormuz remains disrupted The Globe and Mail",
+      "publishedAt": "Fri, 03 Apr 2026 00:16:26 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
       "title": "Why Oil Prices Just Soared 70% Despite A U.S. Supply Glut. Here Are The Surprise Winners And Losers - Forbes",
       "source": "Forbes",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdUx2cjREbjUySnFyaGtuY2hyMVB0ZjVGdFIzbURlc3ExaE5OQTRHTEtVLUlpeXdSVk5PNTc1bzlCak9ienQzcmVRa0VnWDQtb2g5QWdSZ3pRZEFGRnl3RU16Q2lidlJkQWUtU0RDb1EzR1R4OV9FUF9rczFwSi0tdktydHM2NnV6cmtzR1MwMGR1RjZKRGY5dm9SckFvZDBFQVNsZ3dTYllkMHlaNFFQakI2M1RUVlNtaDZBRzdkdEw5ZENDSE5FZzZFb01OV0t0QlRoVHRQVThhS3B0UHR3UA?oc=5",
       "description": "Why Oil Prices Just Soared 70% Despite A U.S. Supply Glut. Here Are The Surprise Winners And Losers Forbes",
       "publishedAt": "Sun, 05 Apr 2026 17:55:47 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "What happens if oil breaches US$150 a barrel? BMO report lays out warning - Global News",
+      "source": "Global News",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9GTHFEWE5rSTJLRnFkeXBUM2dMakpkNC1YT0F0RGdIc2Q4NmlWdDdHcHFGNFQtVHpnV3RRZDZhODQ2bWd0NElLekJMU1oyM1RUWC05Y3pkakk3eERadnNrSkhnd2tUdw?oc=5",
+      "description": "What happens if oil breaches US$150 a barrel? BMO report lays out warning Global News",
+      "publishedAt": "Mon, 06 Apr 2026 13:57:58 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -206,74 +224,56 @@
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Post Biggest Monthly Surge in History - OilPrice.com",
+      "title": "Oil prices up after Trump warns U.S. to hit Iran 'extremely hard' in weeks ahead - CBC",
+      "source": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBYdXZIQnZVRmJ1Zmtid3BHNHgxeG5zLXpVd0NMY19lUEI1a2VUeDJlczcxUTA0dFFOMjdzU0NnWGNUaUhiZTM4Y2VNYXRPOTF1OVdmQWNJMFUxMGFObHdBLUFhS1RDd3o1SVQxSVZKY0NrOGM?oc=5",
+      "description": "Oil prices up after Trump warns U.S. to hit Iran 'extremely hard' in weeks ahead CBC",
+      "publishedAt": "Thu, 02 Apr 2026 13:53:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "OPEC+ to hike crude output: Will it make a difference to oil prices? - euronews.com",
+      "source": "euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaF9INHgxNFJteEkyRUdNYmhueGNmOTdQMjlQQ2dFcXFkZ0JLU0dqVHNrU3dUUHUtYmFzQ2lWMG90WWZBUVVMWk5rcy05cXhFSFZrSmc0dHFQSG95M1FwYVBsMlYtdTQ1bzF2S2tGYkduMTB6b1VlVXU3NmgycUFiYlVrbFhCeWxVdFBZLXlLUFQ5Z1JTbGNQTE1Rck13YzVBODl6djc1UTdJU2Y3dTd3?oc=5",
+      "description": "OPEC+ to hike crude output: Will it make a difference to oil prices? euronews.com",
+      "publishedAt": "Mon, 06 Apr 2026 07:46:39 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil Prices Surge 6% as Trump Signals Prolonged Iran Conflict - OilPrice.com",
       "source": "OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZVdwdWpHN0FOSW1WX1hpTVJvN1ZaLTNtZjg3Y1puT3JjRjloc2hsS1hlM0FyS0o0ZTB6ZDRqcGg0aFZwcU9IaWNYRDVQdDhubllhV3VZdE45T3g3UEdvbmdkVnJUd25CX2hDalMzakxDVEJrOG01SFppV25Ea2NlZFQwVkJHOVh4WmNwV2pnMkR4ZHJGcHfSAZsBQVVfeXFMTkRzN2VzQUkwaTRjZHJDTGx3Z3pTLWtVSzJvN3BPTVlYV0NGcmRzZXo1c0xTSm9JX3lQNFZHZFRsS2xsZzNWdHA4UE16bnpLZktfV25TOXJOSjAwbVh6M0xDLXhGOFdMTTdEcGRnUlNnRUhoQ3pHSzUyQm9xM1pkWng3Xzg5M2RaeE5ZZzJpUDFPaDBhM21mLTQ5QnM?oc=5",
-      "description": "Oil Prices Post Biggest Monthly Surge in History OilPrice.com",
-      "publishedAt": "Tue, 31 Mar 2026 15:30:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeEdlZHMxX2hoZkNPUnlnRllUd1NoakxBOGdMSGNPNldvcnlPdU1MYW9GejBPUlR0RTg2Y291bWZFYXlRdm9mSERaNU1EQnpfeVdsb1RBSllSMnNHOUhHNHFibWd5TWhGY2swNGxLOG5LdUFad1J0dmZjS1BfZjhORElDVHFDcjRLakM1R0FDSTA4ak9rQy1yYi1zdXozRUtGUW1Gel95LThuWm5uRngtTXN6X1Zxd9IBuwFBVV95cUxQajVvSmc3UEhxZUZCOVBHR0hhcE8wQVBKUS0wdnFIOFRHTm5TUGtiUFlLdVJrTUpHaVRPTnB3bFpQenptRlA4QlVjSmtmcEZPRVgyZUtvRGlubFdETkM3NjVybTdhc1hJcFNvVk43UFZIMTdfMmttb0U2dGVGeE51R05lV1AzSGNSQ3R4eXZXQUlFNWt1SFpSQ3RGVDVia2JyS0dTdVlTUmVYXzdGbkY3SF9QdEdmSXNRTEZj?oc=5",
+      "description": "Oil Prices Surge 6% as Trump Signals Prolonged Iran Conflict OilPrice.com",
+      "publishedAt": "Thu, 02 Apr 2026 04:35:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Brent oil price surges more than 60% in March, biggest monthly gain dating back to 1988 - CNBC",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOHdOcmV6NzRYS2l2U0l1YTNXNVAtMHlmaHZJcTZQMHA5akc5aDZ2VnJ6bWpLck8zMGtMaksweE5RMFpwaVhpRUd0RE1xZFA4NWVlMW1zOXZBaWZDek9PWndQREJYRUVJUC05QU5jWGpSMS1namc5YVA3Z1h3V3MzLVJtYkstZ2Q1VW5SYzF0RDVPendaQ0ZyeENQSDJkTkNmMkFVeUdGZG1ZWU3SAbABQVVfeXFMT0VHeHJZTDdseEgxYk9PS2FHdkdzY0MzZ2xacmtieVlKMm9VTXdzRzRPVUVuc0pwR1VaSnV0Q0hYakJjUjJ0d0dJRzU1Q2ZKUlhZMjNxWmZyWXRFOEdsU0kxMHhpQlpVQi1QTUh4T2ttRW12MkhhRDhNemNGOVVpcmFaZElOUnpLZ1puNURURnRmTHdVQms0Y0ZDX0RTTk5iRTYtQXRDZ2I5dEhZb09VVlk?oc=5",
-      "description": "Brent oil price surges more than 60% in March, biggest monthly gain dating back to 1988 CNBC",
-      "publishedAt": "Tue, 31 Mar 2026 01:51:00 GMT",
+      "title": "Current price of oil as of March 31, 2026 - Fortune",
+      "source": "Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5oVWIxVTZTZXhuQ0J2UWNfbFl1OUdOSDdwNUlKdkhYOFNWM1RVdEd6aVBpMkEwd3dEbU4tcmhHVmNSczNDVGQxclY2NnYzSkY2cnFDY1YyUDdITl83eGxndmdR?oc=5",
+      "description": "Current price of oil as of March 31, 2026 Fortune",
+      "publishedAt": "Tue, 31 Mar 2026 12:32:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil prices jump and shares drop after Trump threatens more Iran strikes - BBC",
+      "title": "Stocks recover most early losses and head for a weekly gain. U.S. oil tops US$110 a barrel - BNN Bloomberg",
+      "source": "BNN Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOOTZMQUJMa1FOTEZMaFBod1EwTzVNYTRpbVBVLWpuS0FNdEVDQ2tNaXpBMXJTZUc4dnRBd1hxX2VUOV8tZDNjREZHNElPSlpfV2h4R3dkdDlHTmlQWWtobFhicmltaHNaZzhHSDFvZkJpTDBZZFp3N0UwdXhkQ1l1WEN2cld2al9ZaDZxU3RwYzNWZnh0V011Sy05ejhGWUNQeFhYS2FjcUp3TE9sSmtISXlGc3NtOG1GczF3QnVRM0poMlpWdGEzdl92UUJhZnNteDhaMk9mTDlQdXV0?oc=5",
+      "description": "Stocks recover most early losses and head for a weekly gain. U.S. oil tops US$110 a barrel BNN Bloomberg",
+      "publishedAt": "Thu, 02 Apr 2026 20:48:08 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil prices rise as Trump's Iran deal deadline looms - BBC",
       "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NbG8wZk0wS0VtVF9FeHNpVlZNdkRfM1RwazJBbDBTM3F3Zy1sRjJNWVVMUFdQUnpJUEtCbFhVczZlTkZLOUNsYm9XejFLcE1nZnZONDlRd0RyUQ?oc=5",
-      "description": "Oil prices jump and shares drop after Trump threatens more Iran strikes BBC",
-      "publishedAt": "Thu, 02 Apr 2026 22:25:44 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices little changed as market assesses supply disruptions due to war - Reuters",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQTFnY2M0NTVsQmJCTWJMbnJpekFQekJ4MkMzMnBVRHRuX2QzSTJ2N3RMN01QbVd3UkFvX0phNW1kbVg3dGRoS19USFRvSWhPTndPYVlJUUpDcjhfZ2ZzckstLWVwbEtocnRNZm1oZUFwQldRX0EzT2VQMHpVc2dDODdqOUF6dE9GNllRaTZPWEEzU2haS0dWZnAxR0pGSHVENU9vRW9kdm1uYUNOUVRrTXh3Uk5NQTZtbnczd0lkWGVuUQ?oc=5",
-      "description": "Oil prices little changed as market assesses supply disruptions due to war Reuters",
-      "publishedAt": "Sun, 05 Apr 2026 22:26:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil shock manageable but prices reflect assumption that conflict will end soon: BMO - CP24",
-      "source": "CP24",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQa3hiTDBHaVNsRzRjWU1Sc1NTQ3B2YUY1NHR1VFktcXhna0wxdmJfTnAzcVBXcDRzVFM4ZGVvZnRzVGlMSjdyTW1vX0s2ckc2M055cHpqVmtYN0V3MnA0OU1mX2Y3bEgwd28yeUY1NkM1RjZlNkJETUViblltMU1LUUo0MVZXcG53aUZQVmY5YVVoS0JncmE1SkUwdGdPX0dXMFY4YUdqUzh6QjJSa3cxRDRXakQ3VkswY3FiWG50UmFLVnBi?oc=5",
-      "description": "Oil shock manageable but prices reflect assumption that conflict will end soon: BMO CP24",
-      "publishedAt": "Wed, 01 Apr 2026 20:16:05 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "5 ways oil prices over $100 a barrel could hit your wallet - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNT3ZCVjV0NUdvSHIzQWxsc0VKNk9pTU41bDVvUDVXS1BMZGRiQzNwQ1lOa0Y3UG5QUEZidGdNMVZuYkp0TG5fUGY3NjBnNV9kbm1GbF9VUS1fZUNJOWFfb0FMWGZkMUx4R1U1ZHV6b1RKRy1yMEx6dUVocktYUlZOUnZuQzJPQ2xkY3FqdUF4aHJPVDYzcXYtQXQ4TEkxQU1TY0VWamxUTFoybmlLVFc0bjFrUHJJWUtjSjB5NW9KSWZoMG51SUJKRWZXVQ?oc=5",
-      "description": "5 ways oil prices over $100 a barrel could hit your wallet Yahoo Finance",
-      "publishedAt": "Wed, 01 Apr 2026 22:16:51 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Prompt oil prices hit record premium to next-month delivery after Trump vows to keep attacking Iran - BOE Report",
-      "source": "BOE Report",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQzVjbWRsS1ZHT2txUG9xX0IwUUFOME9LT2VpTTNzZVJDbzFKQkNEYTIzejUxbWg1ZUJJZC1BZExXRV81NzJjN0FJSEVpQmRJQm9xc1prMDQ3NXBxVldIX3BDc09jbEJ2dWpaSEFtYjhJbDh3clQxZzRXWXdWSURWSjF3cFVzZE5FYjVvUWdUSExOUXRxZ2d4c2pVTXRXNjlTc181U3NNbnhCVE0xRWJkVi1HUThoTE1PTWNfclFYVkFUZzZmRUZWcllwSUpsd9IB0wFBVV95cUxQN3c4cDhaTG5ZUjVfMTZZelRBZVlwdmZCRnlJRE9XYTdzNEgzRkUyOFJkM1FIajNRWTRvVDUwS01mUHVHa3RWODhVdURXZEFsOVRSZDQzVGlvVnVCTWpzYXNhclVIS0FCZTd2bmRHTENlNmhOUnNXcFhCZmhqTW5uY204dS1XOUNvbW05Q1A4T0xTMVlYcUVSQ3cxdEhsZG5Qby1aSFZrRnlDU20xU1dieldPemtEZV81QmVfcEktczR0ZFVfVnYzYThZUGdLRHZGRG1B?oc=5",
-      "description": "Prompt oil prices hit record premium to next-month delivery after Trump vows to keep attacking Iran BOE Report",
-      "publishedAt": "Thu, 02 Apr 2026 16:05:53 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Crude Oil Prices Don’t Reflect the Global Supply Crisis Caused by Mideast War - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOHZjLXFmVUVCRTFNSjRydEhQZk1zQ201T0FaVFkzZ3lHTFRJYlJtYmJXM1p3bFZDRXN6c09lMFpva2dQR2xXbDZHbVFVeDh0NDY4M2FwU1VyMWpvcnMtdGlKdVdxemU4R1ZqNmdwY0JzSWVMREF6bzJMeVRVNjRIbURHUV8tLUMzcWNKX2pIQlREeWQxM3pCSXJxdnY5S0Z4eE1hbUREV1FjQWtJd1lQaVFKOTZXSHM1LTdtdldhVDRhOHdzWThkQlVTaw?oc=5",
-      "description": "Crude Oil Prices Don’t Reflect the Global Supply Crisis Caused by Mideast War Bloomberg.com",
-      "publishedAt": "Tue, 31 Mar 2026 11:34:32 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RaWF0ZWZhR2lJbzZVckJLY2FDVDlTNzhuYjFKZlVucVBvZHBpVXRFeG42UlFQanFQbXhrOUtDNWcwZkZ4MHdHRDdUWkVxSWNsT3Z1Y1RTMkxEQQ?oc=5",
+      "description": "Oil prices rise as Trump's Iran deal deadline looms BBC",
+      "publishedAt": "Tue, 07 Apr 2026 05:10:36 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
