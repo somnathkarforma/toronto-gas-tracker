@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-04-08 08:18 UTC",
+  "generatedAt": "2026-04-09 08:54 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 188.9,
-    "premium": 206.9,
-    "diesel": 199.4
+    "regular": 186.9,
+    "premium": 204.9,
+    "diesel": 197.4
   },
   "history": {
     "labels": [
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Apr 08"
+      "Apr 09"
     ],
     "regular": [
       150.7,
@@ -75,7 +75,7 @@
       155.9,
       174.9,
       186.9,
-      188.9
+      186.9
     ],
     "premium": [
       168.7,
@@ -110,7 +110,7 @@
       173.9,
       192.9,
       204.9,
-      206.9
+      204.9
     ],
     "diesel": [
       161.2,
@@ -145,54 +145,72 @@
       166.4,
       185.4,
       197.4,
-      199.4
+      197.4
     ]
   },
   "prediction": {
     "labels": [
-      "Apr 09",
       "Apr 10",
       "Apr 11",
       "Apr 12",
       "Apr 13",
       "Apr 14",
-      "Apr 15"
+      "Apr 15",
+      "Apr 16"
     ],
     "regular": [
-      189.9,
-      190.8,
-      191.8,
+      187.9,
+      188.8,
+      189.8,
+      190.7,
+      191.7,
       192.7,
-      193.7,
-      194.7,
-      195.6
+      193.6
     ],
     "premium": [
-      207.9,
-      208.8,
-      209.8,
+      205.9,
+      206.8,
+      207.8,
+      208.7,
+      209.7,
       210.7,
-      211.7,
-      212.7,
-      213.6
+      211.6
     ],
     "diesel": [
-      200.4,
-      201.3,
-      202.3,
+      198.4,
+      199.3,
+      200.3,
+      201.2,
+      202.2,
       203.2,
-      204.2,
-      205.2,
-      206.1
+      204.1
     ]
   },
   "news": [
     {
-      "title": "'Highly unlikely' oil prices overturn 2025-'26 Alberta deficit: finance minister - Edmonton Journal",
-      "source": "Edmonton Journal",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVXBaZTZmWWxKeVVHWjEtS0xYQzJIQjVPTmxJWk90NUhqSmNJajdHMU9CZkh0Nkh4b3lFRV80TjFlakR5eG5zSUZ0LWs0UkZPNVQtSnpKUkc2WjNuYTBWTXZ4LTZIdkk1Y2sxWl8zMWxQT05WSThEWnJrU1NsaWRtaWR1UDluWV9mRUxNWmg3N25XdlI4Rkw4bQ?oc=5",
-      "description": "'Highly unlikely' oil prices overturn 2025-'26 Alberta deficit: finance minister Edmonton Journal",
-      "publishedAt": "Wed, 01 Apr 2026 21:36:05 GMT",
+      "title": "Oil prices continue to climb and could surge to US$150 if access to Strait of Hormuz remains disrupted - The Globe and Mail",
+      "source": "The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb0dERUJDYUpLb24yRmt2Zms3M0ZweWpCb3NWLWdFMDVkelVBS1FJWG5pQmF6UmV3b18xZTRDMVdtZmtic21ZYm1SMWlNVUVSWVlZWjAtTFRJaUF6Tk5aQkNFY3lwakFFMU5lMFQ3bzlQc0lHbGk2RFpVaHhScHU1VnVKM3JtSGxrLU1LVDhxaVBPeG9VUTQwcnlRTHRDTERZUmhqSkY1SWJtZ0JGSEg5MXdlRGEtYjg?oc=5",
+      "description": "Oil prices continue to climb and could surge to US$150 if access to Strait of Hormuz remains disrupted The Globe and Mail",
+      "publishedAt": "Fri, 03 Apr 2026 00:16:26 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil and fuel prices to remain high throughout the year: Deloitte report - CBC",
+      "source": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbHhNN1d1eVRDQV9YWlBvczdaTVBwbHc0RmlJbUJrVG0zZHk4cVNSeUUyVFpNQlh0OUEtQ2hweEFyOW5Nb0F0OVlZY0x6UkQ2QWtvNk5UdXI4dmJKcjBUQThyTnNPSXhTLWJRQzhCY1d5bDd6aTkxeDhwQ2U5ZkRmU1JCbnVvVjF5RVAzUW9KZGo?oc=5",
+      "description": "Oil and fuel prices to remain high throughout the year: Deloitte report CBC",
+      "publishedAt": "Wed, 08 Apr 2026 13:04:01 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil prices drop sharply, but Canadian drivers won’t see any relief at the pumps for a few days - CTV News",
+      "source": "CTV News",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTkpaYjZoQWoxNk9RbzVEcHMxR210X2lxN09KVUZteDJzczk4MHZfa2tEUXk1UVFyX2N3ZDhrVTNXNEM1WnU1Z1RibXhmZHNVVG95ajhrdkFUZUJtN3p0bGpSY2J3RmUxaFEyeGlyZGlEVFdKUmNGa09OMDl1aG95dU9fSDBxRGt2STRIUjc4bzBPenZlcUZXcElJSkI3a2l4ZTlocmxCTFNBZ1VRT3ROQUNKM1ZFSVU5Q1FLTlFNM2o3NnMzN1did3hrSmJ1UQ?oc=5",
+      "description": "Oil prices drop sharply, but Canadian drivers won’t see any relief at the pumps for a few days CTV News",
+      "publishedAt": "Wed, 08 Apr 2026 19:30:01 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -201,25 +219,7 @@
       "source": "Euronews.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaF9INHgxNFJteEkyRUdNYmhueGNmOTdQMjlQQ2dFcXFkZ0JLU0dqVHNrU3dUUHUtYmFzQ2lWMG90WWZBUVVMWk5rcy05cXhFSFZrSmc0dHFQSG95M1FwYVBsMlYtdTQ1bzF2S2tGYkduMTB6b1VlVXU3NmgycUFiYlVrbFhCeWxVdFBZLXlLUFQ5Z1JTbGNQTE1Rck13YzVBODl6djc1UTdJU2Y3dTd3?oc=5",
       "description": "OPEC+ to hike crude output: Will it make a difference to oil prices? Euronews.com",
-      "publishedAt": "Mon, 06 Apr 2026 07:46:39 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices slide, stocks surge as Trump announces two-week Iran ceasefire - Al Jazeera",
-      "source": "Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSjU5azFQdXlXR0dHN3dUa1lRdkVfOXgyQ0x2VzJ0T01CMXRaQnRNTk9BM3FTVWptS1haWFdPTHNqbllxeHRMdGpKOWpDUFJ5cEZhenpnTENCVG13YzlzdnA5bkVsUTZwaDBLZGM4MjVqaEJCQ1d0T1FNeFFGbEpzTTdScHdka2tzMWh6a1dxNDhqSlp6cDJleEQ2ZjJCQkwxNmV2V0pCTVFPTFJILXJnX0h30gG3AUFVX3lxTE9kcUQtT1V0VmFEMmdkVHNNVjVBbUtnbnZpV1EzQ3VMM0c4aWQ4amRacGlzaUE4ek53b0hTdTg5WlJibEdyWmZmdDAxX0FWOWN3dHloRXd4SzZFdDd0dXA4MGV6X3h6VnRmcEF2bE5KeUx4dFlqc01FSGcwTnBKZlZ6dEJmQXVsQV9uQ0otcXJ0T29Pa2hRQldXYXhXUkV6MEptQ2JYMEw2STNZeDFvUTBzcENQYWp5QQ?oc=5",
-      "description": "Oil prices slide, stocks surge as Trump announces two-week Iran ceasefire Al Jazeera",
-      "publishedAt": "Wed, 08 Apr 2026 01:32:46 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil Prices Surge 6% as Trump Signals Prolonged Iran Conflict - oilprice.com",
-      "source": "oilprice.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeEdlZHMxX2hoZkNPUnlnRllUd1NoakxBOGdMSGNPNldvcnlPdU1MYW9GejBPUlR0RTg2Y291bWZFYXlRdm9mSERaNU1EQnpfeVdsb1RBSllSMnNHOUhHNHFibWd5TWhGY2swNGxLOG5LdUFad1J0dmZjS1BfZjhORElDVHFDcjRLakM1R0FDSTA4ak9rQy1yYi1zdXozRUtGUW1Gel95LThuWm5uRngtTXN6X1Zxd9IBuwFBVV95cUxQajVvSmc3UEhxZUZCOVBHR0hhcE8wQVBKUS0wdnFIOFRHTm5TUGtiUFlLdVJrTUpHaVRPTnB3bFpQenptRlA4QlVjSmtmcEZPRVgyZUtvRGlubFdETkM3NjVybTdhc1hJcFNvVk43UFZIMTdfMmttb0U2dGVGeE51R05lV1AzSGNSQ3R4eXZXQUlFNWt1SFpSQ3RGVDVia2JyS0dTdVlTUmVYXzdGbkY3SF9QdEdmSXNRTEZj?oc=5",
-      "description": "Oil Prices Surge 6% as Trump Signals Prolonged Iran Conflict oilprice.com",
-      "publishedAt": "Thu, 02 Apr 2026 04:35:00 GMT",
+      "publishedAt": "Mon, 06 Apr 2026 11:33:10 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -233,47 +233,47 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices choppy after expletive-laden Trump threat to Iran - BBC",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlMklmQWJEMTZBTEt5NnNVOFdzdlV1WldRVWVEckFqdnh6MkVWOUtxbEJsSi1XX3BIZURrSkd2RldGRXpCb1l5WkI2S1liMnNTOG5uVUk2TW1Edw?oc=5",
-      "description": "Oil prices choppy after expletive-laden Trump threat to Iran BBC",
-      "publishedAt": "Mon, 06 Apr 2026 19:31:20 GMT",
+      "title": "Oil prices fall as Iran agrees to reopen Strait of Hormuz during ceasefire - Global News",
+      "source": "Global News",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBaVEtKNDRHbFB4cTF4cmctUXdGRmthTGZFVlFrUUNEXzFrLWp2YnNNOUNVWUhQQ3VMYnplbVNCVDBSajhDdUxKRi0zR2RuclEybUFRR21FRE1SVzgxX0lCb1N5QlBSckhBTlc4Z0FROTNQTXRIdTZaRFIxNA?oc=5",
+      "description": "Oil prices fall as Iran agrees to reopen Strait of Hormuz during ceasefire Global News",
+      "publishedAt": "Wed, 08 Apr 2026 10:50:56 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil shock manageable but prices reflect assumption that conflict will end soon: BMO - bnnbloomberg.ca",
-      "source": "bnnbloomberg.ca",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYkplN29xeGRvNjEwYnNLRWlsV25zVFhBSk05a3N6eGczaGZYU01weG5uN3dqRUJMZjNrSVJhb0JrU2NmVEpsWEJqUnRTbE1qSkxKUXZLNGs3ZWlhQU1qSVVyRHV5QllHVTV3NTVERzU3Q3BtcERwbmJMSzVDb2RzaUtWMjhEVjJydVVPMWRUTjYxN1o3bGtvWFJoSEVCekVxdks1cDlpeEZYZ0tFTjdPM3BwaW1mU1lwbDZnUEd3YzNzQTRabTBTR1o4Wlo2UE1zM1g1N3VuLWw?oc=5",
-      "description": "Oil shock manageable but prices reflect assumption that conflict will end soon: BMO bnnbloomberg.ca",
-      "publishedAt": "Wed, 01 Apr 2026 20:16:05 GMT",
+      "title": "Oil prices slide, stocks surge as Trump announces two-week Iran ceasefire - Al Jazeera",
+      "source": "Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSjU5azFQdXlXR0dHN3dUa1lRdkVfOXgyQ0x2VzJ0T01CMXRaQnRNTk9BM3FTVWptS1haWFdPTHNqbllxeHRMdGpKOWpDUFJ5cEZhenpnTENCVG13YzlzdnA5bkVsUTZwaDBLZGM4MjVqaEJCQ1d0T1FNeFFGbEpzTTdScHdka2tzMWh6a1dxNDhqSlp6cDJleEQ2ZjJCQkwxNmV2V0pCTVFPTFJILXJnX0h30gG3AUFVX3lxTE9kcUQtT1V0VmFEMmdkVHNNVjVBbUtnbnZpV1EzQ3VMM0c4aWQ4amRacGlzaUE4ek53b0hTdTg5WlJibEdyWmZmdDAxX0FWOWN3dHloRXd4SzZFdDd0dXA4MGV6X3h6VnRmcEF2bE5KeUx4dFlqc01FSGcwTnBKZlZ6dEJmQXVsQV9uQ0otcXJ0T29Pa2hRQldXYXhXUkV6MEptQ2JYMEw2STNZeDFvUTBzcENQYWp5QQ?oc=5",
+      "description": "Oil prices slide, stocks surge as Trump announces two-week Iran ceasefire Al Jazeera",
+      "publishedAt": "Wed, 08 Apr 2026 01:32:46 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Surging oil prices may help Alberta budget deficit, but gas tax relief not in the works: Horner - CTV News",
-      "source": "CTV News",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNN05FVzF5TnI2MnB0SlVTSWNvR25EWTBvVWsyMWxlbnh1Ty05blZydVZtLURyVWhtOVFoMUdOVW5rbnVfYVljRTZuaHU5bE5hV0VkbjdfLUxoU1FWUlFzVS1YN19JZHNuMk9qR0t2MDBGbFlpVkxLdGp5ZWF5YWUwaDFJNXVzZ0MwZTBzbUdxUkx3TEVINkUzRTY5bGFWY3J5eTFtZnNjYzlLYi02NHU2eV9UR244bU8yRXh2OTBiWmJYMEp5aVZUUy11TE4yQ1k?oc=5",
-      "description": "Surging oil prices may help Alberta budget deficit, but gas tax relief not in the works: Horner CTV News",
-      "publishedAt": "Fri, 03 Apr 2026 13:15:00 GMT",
+      "title": "Oil Prices Rise as Iran Signals Hormuz Closure - Crude Oil Prices Today | OilPrice.com",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYVNVYlRWODN2VXNJN1BqVjZpUjQxa1ctMDFnOTJtbVpiamU5OUFVUExNSFkxQ1NpS01zNWpDOW5ZcVRSZ2x0RUVPbE9iOU5pMmdTekVRSG1IMEE5TWZ5LWVQc3cxSDVUU2dObHdtWmNILTV4eURNSzJuLWZSbjYydDZuRzF5Qll2X1pBTFZ6NTlpUWQxaFZocDBHMkdaRmJGU3dzTdIBqgFBVV95cUxNRU9RTC1NNG9ick1yU0dFWTNFM2tQMlNObjVacVlFYjdTUjU4MVAtRGFCSk5EaUtVczQwZ1RrMTIxWDVZb1dsUlh2NVdSVTZJY1dqU3pGN1FrbWs1cmk5WUp2TFc1WS1tN2dJcElMZjRuUkhjV2NQaUxJRExiTzJFZnM4dkFSNXY1WEtRaE12XzgxaV9jRG00TmZUSlhaZDhTanNXTW9zOElDUQ?oc=5",
+      "description": "Oil Prices Rise as Iran Signals Hormuz Closure Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Thu, 09 Apr 2026 05:04:07 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "The Oil Price For Dated Brent Breaks Record Set in 2008 - Forbes",
-      "source": "Forbes",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVnF3bGthdDlTNW5zbDVubzN2Wmp2dHJ3TExOeEhvZC10OE1wSGE2MzBUbE9ma19URWM5OF9FOVN5a0ZXVlBUV3dQN0JYTkZDMlRpcG1WOFZZVTdaR0RWQmZDd0Q3VzBHMHFBRW9idW9Ma3pna3NfS2JaYnJRYy1kRS1Xa2F1TFhuSFp2Q18xUUFNUDFneHQzcU9WTm45YTVaV0J2bHJ3ZEIwRm10UlFR?oc=5",
-      "description": "The Oil Price For Dated Brent Breaks Record Set in 2008 Forbes",
-      "publishedAt": "Tue, 07 Apr 2026 20:37:34 GMT",
+      "title": "Oil prices resume gains after Iran accuses U.S. of breaching ceasefire deal - CNBC",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaGV3WjZKeU9yVi1BNWUxRi1zdFBkdjRMSHlEcENEWG1SMXpTSUM5cWp5NFdkblJhSFBZQXRDUWlQTENYV3lHb1pmZlR5aE1ab2xqVmJGNE1CLU1aQXRiUGhRT1llc1FjSGlRdjQ2Yl9SMGZ3cU1VV29kZnZ0RE1ZVlZObVhEdlVjVzFqdmt2ODZyZ19kZl9SYnV6aktIT03SAaQBQVVfeXFMUC02djVqaTFKN3g2OW80ci1QUmpCM25Ob1FkSTl3MVNsdG9SX2ktcF9aMnhJTTdMZmgyY1hVOVUzY2dHUXVYeHRHbU55Njd3TFN3Q2I4ZmhSU2xMM2E5RlNaU0xzMmVhekJRQVJCb3pKX1JMaTBFNnRjajZIREJURU1qWUo1NHNONzRwLVhnUTRXV1NwcmhuU1MzSUpUTDBFZ3FKb0w?oc=5",
+      "description": "Oil prices resume gains after Iran accuses U.S. of breaching ceasefire deal CNBC",
+      "publishedAt": "Thu, 09 Apr 2026 00:36:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Bank of Canada worried about impact of oil shock on inflation during rate deliberations - financialpost.com",
-      "source": "financialpost.com",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaVVDVElSelhkSGRYcURQNS1DRVNOS0ZRMDFHUUdyUzZ3QnFNeTc5eVlXOEZXZ2ktbFhxVWFqRzRrX082LUs2OHh4amh5Z3NCaU5tekctaVJ1ZDZSOUdCaG53em5XaEJsQUtrYVJCVDUtSDVGb1Y2TkQ1SEdUT21fNWExa29RWldETXh6Q0pHMzZCblp5?oc=5",
-      "description": "Bank of Canada worried about impact of oil shock on inflation during rate deliberations financialpost.com",
-      "publishedAt": "Wed, 01 Apr 2026 18:48:18 GMT",
+      "title": "Current price of oil as of April 8, 2026 - Fortune",
+      "source": "Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9CLU5pMWJWZmRtMC1PeGcxUG1VWWd6QXhJLUNFWi1wLUhPVFNlM0pwWmNIQVdtSl9wUWlsZU02VVAxY0wtOElNY1dtcy14d0t2YWkxeEsydEprZTE1QUlKMm93?oc=5",
+      "description": "Current price of oil as of April 8, 2026 Fortune",
+      "publishedAt": "Wed, 08 Apr 2026 12:44:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
