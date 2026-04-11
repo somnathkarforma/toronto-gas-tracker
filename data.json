@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-04-10 08:53 UTC",
+  "generatedAt": "2026-04-11 07:34 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 175.9,
-    "premium": 193.9,
-    "diesel": 186.4
+    "regular": 172.9,
+    "premium": 190.9,
+    "diesel": 183.4
   },
   "history": {
     "labels": [
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Apr 10"
+      "Apr 11"
     ],
     "regular": [
       150.7,
@@ -75,7 +75,7 @@
       155.9,
       174.9,
       186.9,
-      175.9
+      172.9
     ],
     "premium": [
       168.7,
@@ -110,7 +110,7 @@
       173.9,
       192.9,
       204.9,
-      193.9
+      190.9
     ],
     "diesel": [
       161.2,
@@ -145,45 +145,45 @@
       166.4,
       185.4,
       197.4,
-      186.4
+      183.4
     ]
   },
   "prediction": {
     "labels": [
-      "Apr 11",
       "Apr 12",
       "Apr 13",
       "Apr 14",
       "Apr 15",
       "Apr 16",
-      "Apr 17"
+      "Apr 17",
+      "Apr 18"
     ],
     "regular": [
-      176.9,
-      177.8,
-      178.8,
-      179.7,
-      180.7,
-      181.7,
-      182.6
+      173.9,
+      174.8,
+      175.8,
+      176.7,
+      177.7,
+      178.7,
+      179.6
     ],
     "premium": [
-      194.9,
-      195.8,
-      196.8,
-      197.7,
-      198.7,
-      199.7,
-      200.6
+      191.9,
+      192.8,
+      193.8,
+      194.7,
+      195.7,
+      196.7,
+      197.6
     ],
     "diesel": [
-      187.4,
-      188.3,
-      189.3,
-      190.2,
-      191.2,
-      192.2,
-      193.1
+      184.4,
+      185.3,
+      186.3,
+      187.2,
+      188.2,
+      189.2,
+      190.1
     ]
   },
   "news": [
@@ -192,7 +192,7 @@
       "source": "CTV News",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTkpaYjZoQWoxNk9RbzVEcHMxR210X2lxN09KVUZteDJzczk4MHZfa2tEUXk1UVFyX2N3ZDhrVTNXNEM1WnU1Z1RibXhmZHNVVG95ajhrdkFUZUJtN3p0bGpSY2J3RmUxaFEyeGlyZGlEVFdKUmNGa09OMDl1aG95dU9fSDBxRGt2STRIUjc4bzBPenZlcUZXcElJSkI3a2l4ZTlocmxCTFNBZ1VRT3ROQUNKM1ZFSVU5Q1FLTlFNM2o3NnMzN1did3hrSmJ1UQ?oc=5",
       "description": "Oil prices drop sharply, but Canadian drivers won’t see any relief at the pumps for a few days CTV News",
-      "publishedAt": "Wed, 08 Apr 2026 19:30:01 GMT",
+      "publishedAt": "Wed, 08 Apr 2026 18:15:14 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -215,20 +215,20 @@
       "impact": "medium"
     },
     {
+      "title": "Why high oil prices are good for oil companies — until they aren’t - NPR",
+      "source": "NPR",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc2JMQTE1eHozMkh3QWRtNUc3Q0ptazBRcEVxZHNkXzFOV0Q4VG5sckJqN1oxWXFwYzJpVFdfN0pVVHFkOFBfbXRtS1ZkcUFEVlFlMnYzQWt5ZXFvZXNTYVJNMGlvR2pxSDA3UHZvRzVwMnhjdVJMelJyNkJobXIyU3RxVU1NQ0k?oc=5",
+      "description": "Why high oil prices are good for oil companies — until they aren’t NPR",
+      "publishedAt": "Thu, 09 Apr 2026 09:00:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
       "title": "Oil prices slide, stocks surge as Trump announces two-week Iran ceasefire - Al Jazeera",
       "source": "Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSjU5azFQdXlXR0dHN3dUa1lRdkVfOXgyQ0x2VzJ0T01CMXRaQnRNTk9BM3FTVWptS1haWFdPTHNqbllxeHRMdGpKOWpDUFJ5cEZhenpnTENCVG13YzlzdnA5bkVsUTZwaDBLZGM4MjVqaEJCQ1d0T1FNeFFGbEpzTTdScHdka2tzMWh6a1dxNDhqSlp6cDJleEQ2ZjJCQkwxNmV2V0pCTVFPTFJILXJnX0h30gG3AUFVX3lxTE9kcUQtT1V0VmFEMmdkVHNNVjVBbUtnbnZpV1EzQ3VMM0c4aWQ4amRacGlzaUE4ek53b0hTdTg5WlJibEdyWmZmdDAxX0FWOWN3dHloRXd4SzZFdDd0dXA4MGV6X3h6VnRmcEF2bE5KeUx4dFlqc01FSGcwTnBKZlZ6dEJmQXVsQV9uQ0otcXJ0T29Pa2hRQldXYXhXUkV6MEptQ2JYMEw2STNZeDFvUTBzcENQYWp5QQ?oc=5",
       "description": "Oil prices slide, stocks surge as Trump announces two-week Iran ceasefire Al Jazeera",
       "publishedAt": "Wed, 08 Apr 2026 01:32:46 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Current price of oil as of April 9, 2026 - Fortune",
-      "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE90NXBDa3lseTM2a1VidnhmRVptRW5fMlZFZTZWSkQ4dXpqSFFHM0tOVXp1OGdWNVlsWTd2anBvQ2gtY3l3dDFXREh3VlVpelA3YjQwc1BDbnZfaDJ5QVJmRVNR?oc=5",
-      "description": "Current price of oil as of April 9, 2026 Fortune",
-      "publishedAt": "Thu, 09 Apr 2026 12:18:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -242,29 +242,29 @@
       "impact": "medium"
     },
     {
-      "title": "Why high oil prices are good for oil companies — until they aren’t - NPR",
-      "source": "NPR",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc2JMQTE1eHozMkh3QWRtNUc3Q0ptazBRcEVxZHNkXzFOV0Q4VG5sckJqN1oxWXFwYzJpVFdfN0pVVHFkOFBfbXRtS1ZkcUFEVlFlMnYzQWt5ZXFvZXNTYVJNMGlvR2pxSDA3UHZvRzVwMnhjdVJMelJyNkJobXIyU3RxVU1NQ0k?oc=5",
-      "description": "Why high oil prices are good for oil companies — until they aren’t NPR",
-      "publishedAt": "Thu, 09 Apr 2026 09:00:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil Prices Rise as Iran Signals Hormuz Closure - Crude Oil Prices Today | OilPrice.com",
+      "title": "Standard Chartered Oil Price Correction Is Likely Overdone - Crude Oil Prices Today | OilPrice.com",
       "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYVNVYlRWODN2VXNJN1BqVjZpUjQxa1ctMDFnOTJtbVpiamU5OUFVUExNSFkxQ1NpS01zNWpDOW5ZcVRSZ2x0RUVPbE9iOU5pMmdTekVRSG1IMEE5TWZ5LWVQc3cxSDVUU2dObHdtWmNILTV4eURNSzJuLWZSbjYydDZuRzF5Qll2X1pBTFZ6NTlpUWQxaFZocDBHMkdaRmJGU3dzTdIBqgFBVV95cUxNRU9RTC1NNG9ick1yU0dFWTNFM2tQMlNObjVacVlFYjdTUjU4MVAtRGFCSk5EaUtVczQwZ1RrMTIxWDVZb1dsUlh2NVdSVTZJY1dqU3pGN1FrbWs1cmk5WUp2TFc1WS1tN2dJcElMZjRuUkhjV2NQaUxJRExiTzJFZnM4dkFSNXY1WEtRaE12XzgxaV9jRG00TmZUSlhaZDhTanNXTW9zOElDUQ?oc=5",
-      "description": "Oil Prices Rise as Iran Signals Hormuz Closure Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Thu, 09 Apr 2026 05:04:07 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQURXVTl4NXJfeTZ6WDVSVzAzSkRUQW5yd21vMThxRXRjQUF1TFQyQnlJbE5wc1lmN0tyNEY0dXk1SmZhS2h6czlBQWlpeUt4U3dybmE1OFFtUmlXWFRETnVwSElydXpwczF5SVBPWENEeWhPNzNUOTQ1MER2QTlhX2VXbzVPV0QtbTd1Qzh4WWp0UUg0X1B0S0tvRFJUZnZCWHJJ0gGoAUFVX3lxTE50SWhuV1R2VVNpSVg4anJvelkzbWpfZTBXRU4xaFJ4WURsa3NoVXdGamJoNkJGaWxpTHpsWlhXYTdCNnp5ZkdhSFdKNThOd1RITzc5YVQ5NHlObXVJMERyOFdWMjd5TFl1SGdfN1FIU3FhLXQ4TURTTWZ2YkhfaHJNb2gtY2MzVENGa09BQzJqV3Y0SnJVZllvem5vdVUtT3kyblUxZFFoNA?oc=5",
+      "description": "Standard Chartered Oil Price Correction Is Likely Overdone Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Fri, 10 Apr 2026 00:00:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil edges up in choppy trade; U.S., Iran receive ceasefire proposal framework - BNN Bloomberg",
+      "title": "Current price of oil as of April 10, 2026 - Fortune",
+      "source": "Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5nakM0bWZDdjRBc2tyWnhDdm41aVhvYmpKcnNzWkx5aDJ2aGtuYWhZN2JoeGpaQk1KcE52Yl9GOTlWNExlMWJZRjlIemR0aVViWVEyVU1VNGdkSGt5YkxJa0Rn?oc=5",
+      "description": "Current price of oil as of April 10, 2026 Fortune",
+      "publishedAt": "Fri, 10 Apr 2026 12:59:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Stocks drift lower and oil prices ease ahead of planned U.S.-Iran talks - BNN Bloomberg",
       "source": "BNN Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOclRGN1ZremVOS2xDdlJyclpmNGtOQmVyRmFnRTdFOXJsU2owblVmVVlCY2RSa3JCX2Vycy00d3B5YmFkeGpUNE5tRG5CUEVLY1ZaallDS3JaT1BSU1Jid2s3aTA2bjNmMlU2SVVYMkRwakZxeEpySHNhOFBVRHBZZlNhTDBOdnJsRFd6YXRsQzNOT29veXJiYm00TFU3ZGZFSGhUOURQWnZ3NWN3TExuWE1STVVCMV93R25wSmIwTQ?oc=5",
-      "description": "Oil edges up in choppy trade; U.S., Iran receive ceasefire proposal framework BNN Bloomberg",
-      "publishedAt": "Mon, 06 Apr 2026 13:50:50 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdTFjeEFDNDd3TlZFM0ZhRnJONW1WUTk0Y09TeW9hS1BQbXRYQVE2eE43VHRXRTBQOWhKYVNGaHV5QmxFTWY5Z09VaXh6b2RDcEdSU24yUUFLUnJMUFlhX2JuOENqbmpINGx4eS15RldzeGRfcjdIVk5ueEd3MlE5NThsNktrZEpxNDNNRlI4YWMzVC1lRHdMakwyUklxNlBHMnFWUFZlWWpCZ0YyMFc1ZjdpNC1kVk5mZEE?oc=5",
+      "description": "Stocks drift lower and oil prices ease ahead of planned U.S.-Iran talks BNN Bloomberg",
+      "publishedAt": "Fri, 10 Apr 2026 21:01:34 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
