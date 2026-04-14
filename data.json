@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-13 10:20 UTC",
+  "generatedAt": "2026-04-14 09:05 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
     "regular": 173.9,
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Apr 13"
+      "Apr 14"
     ],
     "regular": [
       150.7,
@@ -150,13 +150,13 @@
   },
   "prediction": {
     "labels": [
-      "Apr 14",
       "Apr 15",
       "Apr 16",
       "Apr 17",
       "Apr 18",
       "Apr 19",
-      "Apr 20"
+      "Apr 20",
+      "Apr 21"
     ],
     "regular": [
       174.9,
@@ -188,15 +188,6 @@
   },
   "news": [
     {
-      "title": "Why oil prices aren’t what you think – and what it means for global supply - Al Jazeera",
-      "source": "Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObHE3SHpaZVI1NXVBZGNrY1luX2E4M05OeDRsU0QxSm9KZFQ2aHEzOXlTYktUQU52V0I0ckdsV0FiWHRoNk9PUjZ5SWxYQTlmSGF2S3cxNlZ6YWJ3Y0U2eGVzNGoxQTlXOEU4X2VwaHJWaDBnZmVMWE93SFhBM01ndEFFem5pUnlPeUl4Z2RFSGg1dmdSUXk4YjVWU1F1OHlvRGRPZ3R5MjVTOExqTjNEQ3pjR1RTUdIBuwFBVV95cUxNOTR3YWJkNWpJdHVnQmYyeWJhMDE0LWNpUzZzWDZjT1ZaSXNKZnRvblEyX1lraUFUbWFQSVBwVXdyVzJYVXpkbTJtOUJWSzVMOFNpR0NNNGxMZ01VcjlMRHdIelkzei1CSlZGSjRmd05sR2hqVnNYN29rMjlrdmt0RUZ2SmViRl9UNW1kN2o2QldHT3lvc19rdXJjWE1ObHVhc1VqVVY1TlhHNHBrTjcxd0RHWkdwcEc2UU5J?oc=5",
-      "description": "Why oil prices aren’t what you think – and what it means for global supply Al Jazeera",
-      "publishedAt": "Mon, 13 Apr 2026 08:18:51 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
       "title": "U.S. blockade of Strait of Hormuz causes oil-price jump - The Globe and Mail",
       "source": "The Globe and Mail",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbzlMMlRCNnlUbENRWHoxUHpSNFZGd0o1NE9VTXVpVUZwa0NmZjBRTkl0QVRVTlJxWW1OS0JscFNITktPejFodmZFY2wzalJoMlQwdWdXSFktNTdoVXJXTlRnMW9GZGgta2VFMUZlaHZUcGdlb0Jza2dTeENvbjlzMHdYTXJ5c0FMdEJLMzdkSHE2bkxCY3p3NlhGdlNfX2lacEdkZEw3bm1aMHp5WEZR?oc=5",
@@ -206,20 +197,29 @@
       "impact": "medium"
     },
     {
-      "title": "How long will it take for gas, oil prices to stabilize? Petroleum analyst says ‘about two months’ - CTV News",
-      "source": "CTV News",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOblZoblJaNWNOVTNiTWlTaGNVRDkyT2VoQjlTb3pGZDVsVk9ISkkzUVJlZ1k3WjF6TThveGUtZHE1ZXJqckNtZDdKeTBhcUdPNVhZSFo5Uy1ZTUdEQ19qcDI4RTFTbFZkVV9CeUlKM05VLWoxcUdmOWFyY1NhckpFMDdta2FsdXU1eDhPZHRvSzRkWVFMMjdDaUFwWkk3dW4tMzAtczVlWHQ2akVxNWg4VGdYNERtX2xSNGUydjA3WUliZTJUbjhWc1MwODRZSDA?oc=5",
-      "description": "How long will it take for gas, oil prices to stabilize? Petroleum analyst says ‘about two months’ CTV News",
-      "publishedAt": "Fri, 10 Apr 2026 13:52:23 GMT",
+      "title": "Stock market makes gains despite ongoing U.S.-Iran tensions, reversing losses from war - CBC",
+      "source": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ETWFDMzF4Z0hTdUxxS3o0THR2bWVWRXVvQjE1NlFxNWtUNEdKbkc5WVRXZVNnYkpOY09Za0Z1TURfaEVVQVllaEtLUDFUMWU0UTgxVXJINDY2REM0LXpPRkJ3dVFCN3FxU1dr?oc=5",
+      "description": "Stock market makes gains despite ongoing U.S.-Iran tensions, reversing losses from war CBC",
+      "publishedAt": "Mon, 13 Apr 2026 21:34:07 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "OPEC+ to hike crude output: Will it make a difference to oil prices? - Euronews.com",
-      "source": "Euronews.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaF9INHgxNFJteEkyRUdNYmhueGNmOTdQMjlQQ2dFcXFkZ0JLU0dqVHNrU3dUUHUtYmFzQ2lWMG90WWZBUVVMWk5rcy05cXhFSFZrSmc0dHFQSG95M1FwYVBsMlYtdTQ1bzF2S2tGYkduMTB6b1VlVXU3NmgycUFiYlVrbFhCeWxVdFBZLXlLUFQ5Z1JTbGNQTE1Rck13YzVBODl6djc1UTdJU2Y3dTd3?oc=5",
-      "description": "OPEC+ to hike crude output: Will it make a difference to oil prices? Euronews.com",
-      "publishedAt": "Mon, 06 Apr 2026 11:33:10 GMT",
+      "title": "Oil prices drop sharply, but Canadian drivers won’t see any relief at the pumps for a few days - CTV News",
+      "source": "CTV News",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTkpaYjZoQWoxNk9RbzVEcHMxR210X2lxN09KVUZteDJzczk4MHZfa2tEUXk1UVFyX2N3ZDhrVTNXNEM1WnU1Z1RibXhmZHNVVG95ajhrdkFUZUJtN3p0bGpSY2J3RmUxaFEyeGlyZGlEVFdKUmNGa09OMDl1aG95dU9fSDBxRGt2STRIUjc4bzBPenZlcUZXcElJSkI3a2l4ZTlocmxCTFNBZ1VRT3ROQUNKM1ZFSVU5Q1FLTlFNM2o3NnMzN1did3hrSmJ1UQ?oc=5",
+      "description": "Oil prices drop sharply, but Canadian drivers won’t see any relief at the pumps for a few days CTV News",
+      "publishedAt": "Wed, 08 Apr 2026 18:15:14 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil prices surge past $103 a barrel after US announces blockade of Iran - Al Jazeera",
+      "source": "Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdWFpUXJxTUtvSUpZTmozSndEYm8wdWg2LUlkS1JDY0FlOHEtZXlDM1ppLThWS0xLeFZESjlOT3ZpUDNPSmZnMXpTNmptZGpVSDZMUHN4VlJ0OWZ5dU8tVWdfcHd5Y1J6cU9xSHFDck5tMzk3WS1wVGxtQTk1a3lWdkdNZEFlMnRBNEpWNWxSX2JraEpkSzZQcENOSGJtZmtPVHVLNzZ4UER1X1NTTGZaNDhrcWPSAboBQVVfeXFMT2xVem5LZ3A4T3JZNTBhdUVMb2pxcmJaaE91RGpzRVBQd1BNLTVzWDBHNmZwanAwTTZyeG1xNlliZjR5T0drYVlZbHVIcnlWNW9saHBCcTVLU0dQNlRwZXpRUHBnWE5VSjl0NFI2aVk1Vlp4YWhfSzZFc2tJSG1lZERsd2gwd2VsU2pGQUJUdTRXN2Ftc0J3U0xHazEwN3VUUG1zSDlNVlhGa2RlX3c5X1lLNTlSRV9GNWZR?oc=5",
+      "description": "Oil prices surge past $103 a barrel after US announces blockade of Iran Al Jazeera",
+      "publishedAt": "Mon, 13 Apr 2026 04:29:40 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -242,38 +242,38 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices surge after Trump says U.S. will blockade the Strait of Hormuz - NBC News",
-      "source": "NBC News",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdndMN1Jmb1ZTWlV1Z1BPZkNOVnhPaWEyTmFaOU1rT3hHVDBQdUhDdEJDS1NOZDdZZUJRV1R0WEFrcFRCbnFJOUtjdk9nMzdLMGNMby15TUxvZW9CTGRJa09NZkxfSVoyVFBkQlAxTndndHdHa19RMnF6YmNMc2RSS2hWYmhhV0dhRTRYdmZuQ1B0S2JIQl9qTzdEY2R1R2FYUERSREpXVWJzTkxoSE1n?oc=5",
-      "description": "Oil prices surge after Trump says U.S. will blockade the Strait of Hormuz NBC News",
-      "publishedAt": "Sun, 12 Apr 2026 22:45:51 GMT",
+      "title": "Why high oil prices are good for oil companies — until they aren’t - NPR",
+      "source": "NPR",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc2JMQTE1eHozMkh3QWRtNUc3Q0ptazBRcEVxZHNkXzFOV0Q4VG5sckJqN1oxWXFwYzJpVFdfN0pVVHFkOFBfbXRtS1ZkcUFEVlFlMnYzQWt5ZXFvZXNTYVJNMGlvR2pxSDA3UHZvRzVwMnhjdVJMelJyNkJobXIyU3RxVU1NQ0k?oc=5",
+      "description": "Why high oil prices are good for oil companies — until they aren’t NPR",
+      "publishedAt": "Thu, 09 Apr 2026 09:00:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil prices drop sharply, but Canadian drivers won’t see any relief at the pumps for a few days - BNN Bloomberg",
+      "title": "Current price of oil as of April 13, 2026 - Fortune",
+      "source": "Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxSEhNSzJsV3RXMnJNcmxfOFZzTGRrdVgxeFY3cUxuTGNXRHRPd0RxbjMzOGx6TXY2MzBSU2d4ZW9oLW9uSWl0VHFzbG1iendHN0FJaGpxQTlrSVNXc1lNMkdn?oc=5",
+      "description": "Current price of oil as of April 13, 2026 Fortune",
+      "publishedAt": "Mon, 13 Apr 2026 12:53:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Stocks drift lower and oil prices ease ahead of planned U.S.-Iran talks - BNN Bloomberg",
       "source": "BNN Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObklqTnB3T0hGcjR5c0ZtazBzenhiZm9LTFNZODJMTnY0UFFBM1lxSlhPWWdVWXdDdV9ELUE0aVlIWmdzVXc1bkdlTE9ldGUzS1J6b3Zzd1JYMERuR0hxM1hsX0swRkk2Rmw2N2x3dkZDaGFsTWtsUVdIbDJqb21kd0E0RDNnSmVxcXlKYjZsS2ctNktmc0NJOWxDSUtGNThxOVczQjdLc0QxZFUySDZUQkFBanBoUFltUnBDY3RUV0t4NmZLVmlaV2Z1NHhpS3RyU1UzLU1URkhUbFJW?oc=5",
-      "description": "Oil prices drop sharply, but Canadian drivers won’t see any relief at the pumps for a few days BNN Bloomberg",
-      "publishedAt": "Wed, 08 Apr 2026 19:30:01 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdTFjeEFDNDd3TlZFM0ZhRnJONW1WUTk0Y09TeW9hS1BQbXRYQVE2eE43VHRXRTBQOWhKYVNGaHV5QmxFTWY5Z09VaXh6b2RDcEdSU24yUUFLUnJMUFlhX2JuOENqbmpINGx4eS15RldzeGRfcjdIVk5ueEd3MlE5NThsNktrZEpxNDNNRlI4YWMzVC1lRHdMakwyUklxNlBHMnFWUFZlWWpCZ0YyMFc1ZjdpNC1kVk5mZEE?oc=5",
+      "description": "Stocks drift lower and oil prices ease ahead of planned U.S.-Iran talks BNN Bloomberg",
+      "publishedAt": "Fri, 10 Apr 2026 21:01:34 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil prices drop sharply, but drivers won’t see any relief at the pumps for a few days - BOE Report",
-      "source": "BOE Report",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVFFHdThqWVU1LTc5YldUWGU2S1h5cHdaTXFZUWVBVUxYazQwNGtYMXdkVU5FcFJRXzN5OWpJTjE4NklodXBxN2Y0bGU3TnNMWWhVNkp3aV8yWmNYQnZicGFua3JjaHNBWDFYWGlSeTJTTWlKa05NQ05XYUdtanFFZnA4bDhCVTVHS3NxTF8xb09GcklBd1dTVHhXV2JFc2M3NjNZaWxuMFlScTVNQnZucnpYendDRnB50gG-AUFVX3lxTE52SFd2dDhuX0ZBUXBxS0tPMFQ4bjFsak4wUGJVcTg1SXk3b05qWFhlOVdicEM5Ql8wQ2R4ZnRQZ0poYk5sVk10dDVVVXZpY0VDb3pFWGs5LTV1NkpkdDJ0Z09uS19HYTVhYVdYUlBMbGNkUXpRbnBXUUk4QjBMOUdVRVlFbjFiVlVYM1dzX1FMcElvYU42VGhtZEZuOUVRSXY0SllXbDRpbmNpSXp6M3U3REJXM3MtV0V5QlpzWHc?oc=5",
-      "description": "Oil prices drop sharply, but drivers won’t see any relief at the pumps for a few days BOE Report",
-      "publishedAt": "Wed, 08 Apr 2026 17:11:19 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices choppy after expletive-laden Trump threat to Iran - BBC",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlMklmQWJEMTZBTEt5NnNVOFdzdlV1WldRVWVEckFqdnh6MkVWOUtxbEJsSi1XX3BIZURrSkd2RldGRXpCb1l5WkI2S1liMnNTOG5uVUk2TW1Edw?oc=5",
-      "description": "Oil prices choppy after expletive-laden Trump threat to Iran BBC",
-      "publishedAt": "Mon, 06 Apr 2026 19:31:20 GMT",
+      "title": "Oil prices expected to rise as hope fades of end to Iran war - Financial Times",
+      "source": "Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VVmlBc0xQcGxNUzVPTEh6bEtTT3ZuZUhTYkFvR0t4N2lVamNJSHVzRHhqZGgxbHFhcG9FSkV4YVo4OUFMcjFiT1JyQUY3QWxfX2dQNGtNMGlHeVlYWEV1RDUzUElLakQxX1BhcG1ERkc?oc=5",
+      "description": "Oil prices expected to rise as hope fades of end to Iran war Financial Times",
+      "publishedAt": "Sun, 12 Apr 2026 16:21:46 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
