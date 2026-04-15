@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-04-14 09:05 UTC",
+  "generatedAt": "2026-04-15 09:06 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 173.9,
-    "premium": 191.9,
-    "diesel": 184.4
+    "regular": 176.9,
+    "premium": 194.9,
+    "diesel": 187.4
   },
   "history": {
     "labels": [
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Apr 14"
+      "Apr 15"
     ],
     "regular": [
       150.7,
@@ -75,7 +75,7 @@
       155.9,
       174.9,
       186.9,
-      173.9
+      176.9
     ],
     "premium": [
       168.7,
@@ -110,7 +110,7 @@
       173.9,
       192.9,
       204.9,
-      191.9
+      194.9
     ],
     "diesel": [
       161.2,
@@ -145,45 +145,45 @@
       166.4,
       185.4,
       197.4,
-      184.4
+      187.4
     ]
   },
   "prediction": {
     "labels": [
-      "Apr 15",
       "Apr 16",
       "Apr 17",
       "Apr 18",
       "Apr 19",
       "Apr 20",
-      "Apr 21"
+      "Apr 21",
+      "Apr 22"
     ],
     "regular": [
-      174.9,
-      175.8,
-      176.8,
-      177.7,
-      178.7,
-      179.7,
-      180.6
+      177.9,
+      178.8,
+      179.8,
+      180.7,
+      181.7,
+      182.7,
+      183.6
     ],
     "premium": [
-      192.9,
-      193.8,
-      194.8,
-      195.7,
-      196.7,
-      197.7,
-      198.6
+      195.9,
+      196.8,
+      197.8,
+      198.7,
+      199.7,
+      200.7,
+      201.6
     ],
     "diesel": [
-      185.4,
-      186.3,
-      187.3,
-      188.2,
-      189.2,
-      190.2,
-      191.1
+      188.4,
+      189.3,
+      190.3,
+      191.2,
+      192.2,
+      193.2,
+      194.1
     ]
   },
   "news": [
@@ -197,20 +197,11 @@
       "impact": "medium"
     },
     {
-      "title": "Stock market makes gains despite ongoing U.S.-Iran tensions, reversing losses from war - CBC",
-      "source": "CBC",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ETWFDMzF4Z0hTdUxxS3o0THR2bWVWRXVvQjE1NlFxNWtUNEdKbkc5WVRXZVNnYkpOY09Za0Z1TURfaEVVQVllaEtLUDFUMWU0UTgxVXJINDY2REM0LXpPRkJ3dVFCN3FxU1dr?oc=5",
-      "description": "Stock market makes gains despite ongoing U.S.-Iran tensions, reversing losses from war CBC",
-      "publishedAt": "Mon, 13 Apr 2026 21:34:07 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
       "title": "Oil prices drop sharply, but Canadian drivers won’t see any relief at the pumps for a few days - CTV News",
       "source": "CTV News",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTkpaYjZoQWoxNk9RbzVEcHMxR210X2lxN09KVUZteDJzczk4MHZfa2tEUXk1UVFyX2N3ZDhrVTNXNEM1WnU1Z1RibXhmZHNVVG95ajhrdkFUZUJtN3p0bGpSY2J3RmUxaFEyeGlyZGlEVFdKUmNGa09OMDl1aG95dU9fSDBxRGt2STRIUjc4bzBPenZlcUZXcElJSkI3a2l4ZTlocmxCTFNBZ1VRT3ROQUNKM1ZFSVU5Q1FLTlFNM2o3NnMzN1did3hrSmJ1UQ?oc=5",
       "description": "Oil prices drop sharply, but Canadian drivers won’t see any relief at the pumps for a few days CTV News",
-      "publishedAt": "Wed, 08 Apr 2026 18:15:14 GMT",
+      "publishedAt": "Wed, 08 Apr 2026 19:30:01 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -224,20 +215,20 @@
       "impact": "medium"
     },
     {
-      "title": "Crude oil and petroleum product prices increased sharply in the first quarter of 2026 - U.S. Energy Information Administration (EIA) (.gov)",
-      "source": "U.S. Energy Information Administration (EIA) (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1MUUtYRngtNFBMNjQ4Zkg0NzFqNXJVVVlnUkc2blhMQ09LdUF4U3hBX3hOWkVKdExMYjBzeVUxdG5UeGFuejVaaHgzRDlXQVdCaWMxVV9nSWZvaE1LaER5WTZnZw?oc=5",
-      "description": "Crude oil and petroleum product prices increased sharply in the first quarter of 2026 U.S. Energy Information Administration (EIA) (.gov)",
-      "publishedAt": "Tue, 07 Apr 2026 13:04:46 GMT",
+      "title": "Iran-U.S. talk hopes push U.S. stocks near record highs, oil prices ease - National - Global News",
+      "source": "Global News",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jMHM4YzBPN3M4N21aX0l5bDhxbktMUmc5eXlzNmtrZ3ZqNV9pdmZjZWhPUk1JU0tYbDdPd1E1RjJNOElqQVhQY2xuSk1SR3RnOS01MWpCbFhJY3JhR1BNdHhId1Vmd0haMnVBcDNCQmxVZVRXZThZd0d6SGVydw?oc=5",
+      "description": "Iran-U.S. talk hopes push U.S. stocks near record highs, oil prices ease - National Global News",
+      "publishedAt": "Tue, 14 Apr 2026 20:36:54 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Strait of Hormuz Constraints Keep Oil Prices Elevated - Crude Oil Prices Today | OilPrice.com",
+      "title": "$1B Bet On Falling Oil Prices Pre-Ceasefire Now Under Investigation - Crude Oil Prices Today | OilPrice.com",
       "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS281aElPN0g4b19DUl9XbjZCSmZVZ0o0WEgtVHVwanNtTERjUThDNVZ1YnN1b1VUamtCRzVfbEdYVXpITmo3NUN5LWVNVDRRSWViMVBTemFfU3pkR2hDNXlYZEFzRVA1dlZkRlRtTDhMb012dFpISDg5Y0ViQkJzNlV1V1F4NnpWaUxfU2tKRXhCRTJzUUlBelJIZEJfd9IBowFBVV95cUxPODhTRlV5czRIREdKNjVpdXhIaVZZRG1CcFhMQnpXQXgtT0t4MVU4TzhwTkp1eE1lX3hhTWFiR2hkbUd0eWhPSGdKSXkzODZOZ1Y5aDl6QzVLOXk5ZFcyeVJjSmxZSGRPd09CeWVtUndQeUgwdm5FUU9PT1ZvNlhRX3ZqX1FHMTFVT2x3V1BpeUJzOHpRUlJwRk9vYzZWZktUX3Zv?oc=5",
-      "description": "Strait of Hormuz Constraints Keep Oil Prices Elevated Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Fri, 10 Apr 2026 20:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLVdsSEhNMmlmUDlQZ212TXozTll0bC1IUkZNZUtoSHNLcVpJbHZGSVJfb1hBWVVCRFhtMDJBaHc3VE1ZU3l6ZENNa3dzdFZ6bHByUF9CZDA0ejAxNmhKSGx5LVFVQ0JHT21ZcU84aUgxNEtpZkVFbk9BYkZkNHh1LUtnSWRvTkVfRzdoSzlNb2hsakY4bUlta2lXbjJaeUJxTHJWVGw2MUJVWWhxWVQtR3lQbG5hc1d3Ti05ZWVzSdIBxAFBVV95cUxQbTNCR3Y0S0dMWTdFLWxwNzhMQkFESG5lM3AtelhxblhEM2psdlFfc2l1Smw3bHdCMERZQzdId3hwWGNfX0FOcnRTZlZzZHNPYlc1UHB5ZlJQMUNoX3hJRUFMZTB2a3hKWV9jOFNWRE9SYVlEWHBpZ0pRdkNBSVlYN3p4TUJaWjR2UzFEcnJDOEpDY2lLMFpxbmh6bDFEV2xxcWlqdGxBMVFocmhMX1NTRHh2bjh4dU44U0tUNUxhbmVpeldF?oc=5",
+      "description": "$1B Bet On Falling Oil Prices Pre-Ceasefire Now Under Investigation Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Tue, 14 Apr 2026 19:30:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -251,11 +242,29 @@
       "impact": "medium"
     },
     {
-      "title": "Current price of oil as of April 13, 2026 - Fortune",
+      "title": "Current price of oil as of April 14, 2026 - Fortune",
       "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxSEhNSzJsV3RXMnJNcmxfOFZzTGRrdVgxeFY3cUxuTGNXRHRPd0RxbjMzOGx6TXY2MzBSU2d4ZW9oLW9uSWl0VHFzbG1iendHN0FJaGpxQTlrSVNXc1lNMkdn?oc=5",
-      "description": "Current price of oil as of April 13, 2026 Fortune",
-      "publishedAt": "Mon, 13 Apr 2026 12:53:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LYkZQb2JXYjN1VTVCRGQwbjZBZ3gxbjhLS0g1Qzg4MS11emNfV1VlbWZfVGRCeUl6NmhWVFlTR3Jld2VmTUtGVlNYQVg1cy1nUkNUWGpMcE5welJPcWVWM3FR?oc=5",
+      "description": "Current price of oil as of April 14, 2026 Fortune",
+      "publishedAt": "Tue, 14 Apr 2026 12:08:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "European, African crude oil prices hit records on supply disruptions despite ceasefire - BOE Report",
+      "source": "BOE Report",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWW5pRENxMlFZNWZCX0diclhYUWhQSDJzWGZ0WDVkNWxaM3JMOEtucjdIdWpvUlBRN3Riay1jeVR3MHQzSDZJOWdsb0NWVUMxR1lfNTJhQUladERwczExUndaazZkOHNka3dscFViWkNTSXlLVHZPWUsyUkF1Y2dLQzh6ZDB0aWVtVUdyOTMwYUs0U2NqZnFOMi1uZUdlZGxaeFUtdGJFT2YxQW9YSk9SZzU1bVE2NXREczZz0gHAAUFVX3lxTE9nQkpPeGlLNVRfSGI2aHptUlBJU2YxMEtFYkFTdzhYTFR3SWhJWVh5VkJMTDBVWXBCczYwT3pUNE5BZnNXYXFwQTlxaGM2RGZyWWJyTTcwMV9tNGRXcjlBWGNUdE44al9hbXBDQmtyOTZuVFJZY2d3cTJETUJOMDJUX2c1YWxCLUN3c2tSanV4T1lMU0ZzejdiUWM3R18yZ1pXRVNrQVRPN1hkTFZpdmtYUXd0Nkl1cENaX053bE5qQg?oc=5",
+      "description": "European, African crude oil prices hit records on supply disruptions despite ceasefire BOE Report",
+      "publishedAt": "Thu, 09 Apr 2026 11:22:37 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil prices continue to fall on hopes of new US-Iran peace talks - BBC",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaZm0yS0pIek5VdmExM0NxQ01WS01MaDE1dzNicDE3M013U1M2bFRJaTV1a3NjOURsbXRLWEdvQV9rWHpsRVRMWWdUMGdGS1BCUmRWQnRGbjRIQQ?oc=5",
+      "description": "Oil prices continue to fall on hopes of new US-Iran peace talks BBC",
+      "publishedAt": "Tue, 14 Apr 2026 16:23:29 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -265,15 +274,6 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdTFjeEFDNDd3TlZFM0ZhRnJONW1WUTk0Y09TeW9hS1BQbXRYQVE2eE43VHRXRTBQOWhKYVNGaHV5QmxFTWY5Z09VaXh6b2RDcEdSU24yUUFLUnJMUFlhX2JuOENqbmpINGx4eS15RldzeGRfcjdIVk5ueEd3MlE5NThsNktrZEpxNDNNRlI4YWMzVC1lRHdMakwyUklxNlBHMnFWUFZlWWpCZ0YyMFc1ZjdpNC1kVk5mZEE?oc=5",
       "description": "Stocks drift lower and oil prices ease ahead of planned U.S.-Iran talks BNN Bloomberg",
       "publishedAt": "Fri, 10 Apr 2026 21:01:34 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices expected to rise as hope fades of end to Iran war - Financial Times",
-      "source": "Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VVmlBc0xQcGxNUzVPTEh6bEtTT3ZuZUhTYkFvR0t4N2lVamNJSHVzRHhqZGgxbHFhcG9FSkV4YVo4OUFMcjFiT1JyQUY3QWxfX2dQNGtNMGlHeVlYWEV1RDUzUElLakQxX1BhcG1ERkc?oc=5",
-      "description": "Oil prices expected to rise as hope fades of end to Iran war Financial Times",
-      "publishedAt": "Sun, 12 Apr 2026 16:21:46 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
