@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-04-16 09:05 UTC",
+  "generatedAt": "2026-04-17 09:04 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 172.9,
-    "premium": 190.9,
-    "diesel": 183.4
+    "regular": 173.9,
+    "premium": 191.9,
+    "diesel": 184.4
   },
   "history": {
     "labels": [
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Apr 16"
+      "Apr 17"
     ],
     "regular": [
       150.7,
@@ -75,7 +75,7 @@
       155.9,
       174.9,
       186.9,
-      172.9
+      173.9
     ],
     "premium": [
       168.7,
@@ -110,7 +110,7 @@
       173.9,
       192.9,
       204.9,
-      190.9
+      191.9
     ],
     "diesel": [
       161.2,
@@ -145,45 +145,45 @@
       166.4,
       185.4,
       197.4,
-      183.4
+      184.4
     ]
   },
   "prediction": {
     "labels": [
-      "Apr 17",
       "Apr 18",
       "Apr 19",
       "Apr 20",
       "Apr 21",
       "Apr 22",
-      "Apr 23"
+      "Apr 23",
+      "Apr 24"
     ],
     "regular": [
-      173.9,
-      174.8,
+      174.9,
       175.8,
-      176.7,
+      176.8,
       177.7,
       178.7,
-      179.6
+      179.7,
+      180.6
     ],
     "premium": [
-      191.9,
-      192.8,
+      192.9,
       193.8,
-      194.7,
+      194.8,
       195.7,
       196.7,
-      197.6
+      197.7,
+      198.6
     ],
     "diesel": [
-      184.4,
-      185.3,
+      185.4,
       186.3,
-      187.2,
+      187.3,
       188.2,
       189.2,
-      190.1
+      190.2,
+      191.1
     ]
   },
   "news": [
@@ -206,29 +206,29 @@
       "impact": "medium"
     },
     {
-      "title": "IEA Chief Issues Stark Warning on Oil Prices - Crude Oil Prices Today | OilPrice.com",
+      "title": "Trump's Waiver Of Jones Act Fails To Cool Oil Prices - Crude Oil Prices Today | OilPrice.com",
       "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSzBZMmhtRXhLSVN0MGZoWlE1R0s5WmRYeWhSdlNaNVRfWkRQM1hmdEZlM1JOSEU0Z0ROb0FnX0pDWndpTnFSZDlkeTdNRjRsOTg3NktIQ3UxUWlTZGktbmJLbUh3cmJMYllGLXd2OVlwNm1zOXM4dUFVWjRvTkVPSVQ3eThmdm9wUV96aVQwUi1kMWFLRVY40gGcAUFVX3lxTE1NQlViN3pfQkJZeHpFQjg0VnZ5cVNYc085NzlweGZLRzZMSVVZWl9IWm56TVVrckh5Tkw3WFh1dWtLZ1VxTGpQU0U1TzRpT1RGdWhlTTBRVkVwYmhWNDVkS0VseHk2ckVaUUp3SUVLX2RZYmpSTFkwRjY2dk5IZDNCSVNsMXNXanRuUnVVXzBUTG9FcEtlc2V0R2tKTQ?oc=5",
-      "description": "IEA Chief Issues Stark Warning on Oil Prices Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Tue, 14 Apr 2026 19:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZWRwT0EyM1NWUHFkUG9SVHV5VUNuQzkxanZ6eXQwczQwVnZXcGxadTZpY1QxN1JOcXRRaWJ5Z0dmQVRfcjU0a3BTeDk0NkRzNmhvOExKWXFYMDFBdHYzVFRGRjhUTklUa0M5a19nSlBhUG1QRXd4QTJDUTRwNXhFUTRqSGJ4ZGpvZDlzV2t2ZFNVRFNOTm5NRVZ30gGfAUFVX3lxTE5sNVRIZE9EbXdqWE9ZZjc2YWt6UUlZRnh2Y0xuWE5sR2FhVzJfeTNKYkR0T2VmUVhLT2dpM2RSX2xjR0hrRHFyUTAyS0JFUzlWdHNYemhHM19uUk91bVlqeVVGZzhpUk9mZGRCSE5ta1ZkeURCLVZKeVdGckdYbHlvZzlWWFRmcTZYbDVOa0NXUEpyRy1zdVlrZ3A5XzhBUQ?oc=5",
+      "description": "Trump's Waiver Of Jones Act Fails To Cool Oil Prices Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Wed, 15 Apr 2026 18:30:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "How long will it take for gas, oil prices to stabilize? Petroleum analyst says ‘about two months’ - CTV News",
-      "source": "CTV News",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOblZoblJaNWNOVTNiTWlTaGNVRDkyT2VoQjlTb3pGZDVsVk9ISkkzUVJlZ1k3WjF6TThveGUtZHE1ZXJqckNtZDdKeTBhcUdPNVhZSFo5Uy1ZTUdEQ19qcDI4RTFTbFZkVV9CeUlKM05VLWoxcUdmOWFyY1NhckpFMDdta2FsdXU1eDhPZHRvSzRkWVFMMjdDaUFwWkk3dW4tMzAtczVlWHQ2akVxNWg4VGdYNERtX2xSNGUydjA3WUliZTJUbjhWc1MwODRZSDA?oc=5",
-      "description": "How long will it take for gas, oil prices to stabilize? Petroleum analyst says ‘about two months’ CTV News",
-      "publishedAt": "Fri, 10 Apr 2026 19:57:33 GMT",
+      "title": "Current price of oil as of April 14, 2026 - Fortune",
+      "source": "Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LYkZQb2JXYjN1VTVCRGQwbjZBZ3gxbjhLS0g1Qzg4MS11emNfV1VlbWZfVGRCeUl6NmhWVFlTR3Jld2VmTUtGVlNYQVg1cy1nUkNUWGpMcE5welJPcWVWM3FR?oc=5",
+      "description": "Current price of oil as of April 14, 2026 Fortune",
+      "publishedAt": "Tue, 14 Apr 2026 12:08:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "European, African crude oil prices hit records on supply disruptions despite ceasefire - BOE Report",
-      "source": "BOE Report",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWW5pRENxMlFZNWZCX0diclhYUWhQSDJzWGZ0WDVkNWxaM3JMOEtucjdIdWpvUlBRN3Riay1jeVR3MHQzSDZJOWdsb0NWVUMxR1lfNTJhQUladERwczExUndaazZkOHNka3dscFViWkNTSXlLVHZPWUsyUkF1Y2dLQzh6ZDB0aWVtVUdyOTMwYUs0U2NqZnFOMi1uZUdlZGxaeFUtdGJFT2YxQW9YSk9SZzU1bVE2NXREczZz0gHAAUFVX3lxTE9nQkpPeGlLNVRfSGI2aHptUlBJU2YxMEtFYkFTdzhYTFR3SWhJWVh5VkJMTDBVWXBCczYwT3pUNE5BZnNXYXFwQTlxaGM2RGZyWWJyTTcwMV9tNGRXcjlBWGNUdE44al9hbXBDQmtyOTZuVFJZY2d3cTJETUJOMDJUX2c1YWxCLUN3c2tSanV4T1lMU0ZzejdiUWM3R18yZ1pXRVNrQVRPN1hkTFZpdmtYUXd0Nkl1cENaX053bE5qQg?oc=5",
-      "description": "European, African crude oil prices hit records on supply disruptions despite ceasefire BOE Report",
-      "publishedAt": "Thu, 09 Apr 2026 11:22:37 GMT",
+      "title": "Oil prices rise as stocks erase losses sparked by Iran war - NBC News",
+      "source": "NBC News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdndMN1Jmb1ZTWlV1Z1BPZkNOVnhPaWEyTmFaOU1rT3hHVDBQdUhDdEJDS1NOZDdZZUJRV1R0WEFrcFRCbnFJOUtjdk9nMzdLMGNMby15TUxvZW9CTGRJa09NZkxfSVoyVFBkQlAxTndndHdHa19RMnF6YmNMc2RSS2hWYmhhV0dhRTRYdmZuQ1B0S2JIQl9qTzdEY2R1R2FYUERSREpXVWJzTkxoSE1n?oc=5",
+      "description": "Oil prices rise as stocks erase losses sparked by Iran war NBC News",
+      "publishedAt": "Mon, 13 Apr 2026 20:09:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -242,20 +242,11 @@
       "impact": "medium"
     },
     {
-      "title": "Current price of oil as of April 15, 2026 - Fortune",
-      "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4yYlg2Y1FFQ0FDU2hfeDQ4TXpBZDdfTXY0ejJSLW5aTl9NR3VJbFJZZDF4X1o1emMzTjh2YzZaNFJfOFVVRmFWODB0ajctYmZPcFdXREdQYlkxUDJ6YXZ6Q3NR?oc=5",
-      "description": "Current price of oil as of April 15, 2026 Fortune",
-      "publishedAt": "Wed, 15 Apr 2026 13:03:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices continue to fall on hopes of new US-Iran peace talks - BBC",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaZm0yS0pIek5VdmExM0NxQ01WS01MaDE1dzNicDE3M013U1M2bFRJaTV1a3NjOURsbXRLWEdvQV9rWHpsRVRMWWdUMGdGS1BCUmRWQnRGbjRIQQ?oc=5",
-      "description": "Oil prices continue to fall on hopes of new US-Iran peace talks BBC",
-      "publishedAt": "Tue, 14 Apr 2026 16:23:29 GMT",
+      "title": "Oil Prices Fall on Fresh Hopes for Iran War Resolution - Barron's",
+      "source": "Barron's",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRGF1UDIxb205eEVPY2tpdnVPYjA0RjcyYXhwVXVWa0RLTDQ5VzZ5TE9vWUpvOTZDYWtEQnBxLWRRUVppckhHTFFRekZLMkxUZ3gyQ2tpdmdsQ1R2eHdKOHZ5eEtsaGk0VERKRGdiTklpWnNWWEJaNTA2RTdfT3dPX3haUlZ3Vk14NlRiMkhMUFhqTmVaNE0yX1lIYUg?oc=5",
+      "description": "Oil Prices Fall on Fresh Hopes for Iran War Resolution Barron's",
+      "publishedAt": "Tue, 14 Apr 2026 19:37:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -269,11 +260,20 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices may be starting to come down for a worrisome reason - NBC News",
-      "source": "NBC News",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLVNCc2VzQy1ZUlZQMGgwWlpEYkhMeWpvdlUzQTR2N09kZHZlRVRXazFLME4yWTN5Ung5VUFZNUdlSlM1QWpoVWx6NXdUTTBKdE1Rc0hYUGp2eVNDZ3lqZTBRWk4yZnZRLUFUS3JHdmJUX2pHdFlubnVqVnUzdEVWZ0djaXBSRkdYM2hrMmwzbUwtZmdGQzBSd0RCd0ZSQQ?oc=5",
-      "description": "Oil prices may be starting to come down for a worrisome reason NBC News",
-      "publishedAt": "Tue, 14 Apr 2026 16:01:31 GMT",
+      "title": "Oil prices continue to fall on hopes of new US-Iran peace talks - BBC",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaZm0yS0pIek5VdmExM0NxQ01WS01MaDE1dzNicDE3M013U1M2bFRJaTV1a3NjOURsbXRLWEdvQV9rWHpsRVRMWWdUMGdGS1BCUmRWQnRGbjRIQQ?oc=5",
+      "description": "Oil prices continue to fall on hopes of new US-Iran peace talks BBC",
+      "publishedAt": "Tue, 14 Apr 2026 16:23:29 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Wall Street edges up to another record even as oil prices climb - North Shore News",
+      "source": "North Shore News",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOWF3V24ySFJKUVV5T21NMnN5UHotNHlJYTJVRGprZkxrT3ZBUXZYTXREakc4TjBSdFRIV1VrNE5JZWY5VDBUR2YyUEpEblJWYkc2TkY3LWZEaU8zOS1IcW53RmE3ZUcxZU9hOW9MMmVOU194MkNLTmdFRy1JSXJCUk9pYjdQS29wTlk3aURMMHZIN3MtdGZqUHB6UHpEa3NmdkNYNlRR?oc=5",
+      "description": "Wall Street edges up to another record even as oil prices climb North Shore News",
+      "publishedAt": "Thu, 16 Apr 2026 20:05:28 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
