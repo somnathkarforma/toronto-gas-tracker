@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-04-20 10:21 UTC",
+  "generatedAt": "2026-04-21 09:14 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 174.9,
-    "premium": 192.9,
-    "diesel": 185.4
+    "regular": 163.9,
+    "premium": 181.9,
+    "diesel": 174.4
   },
   "history": {
     "labels": [
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Apr 20"
+      "Apr 21"
     ],
     "regular": [
       150.7,
@@ -75,7 +75,7 @@
       155.9,
       174.9,
       186.9,
-      174.9
+      163.9
     ],
     "premium": [
       168.7,
@@ -110,7 +110,7 @@
       173.9,
       192.9,
       204.9,
-      192.9
+      181.9
     ],
     "diesel": [
       161.2,
@@ -145,48 +145,57 @@
       166.4,
       185.4,
       197.4,
-      185.4
+      174.4
     ]
   },
   "prediction": {
     "labels": [
-      "Apr 21",
       "Apr 22",
       "Apr 23",
       "Apr 24",
       "Apr 25",
       "Apr 26",
-      "Apr 27"
+      "Apr 27",
+      "Apr 28"
     ],
     "regular": [
-      175.9,
-      176.8,
-      177.8,
-      178.7,
-      179.7,
-      180.7,
-      181.6
+      164.5,
+      165.2,
+      165.8,
+      166.4,
+      167.1,
+      167.7,
+      168.3
     ],
     "premium": [
-      193.9,
-      194.8,
-      195.8,
-      196.7,
-      197.7,
-      198.7,
-      199.6
+      182.5,
+      183.2,
+      183.8,
+      184.4,
+      185.1,
+      185.7,
+      186.3
     ],
     "diesel": [
-      186.4,
-      187.3,
-      188.3,
-      189.2,
-      190.2,
-      191.2,
-      192.1
+      175.0,
+      175.7,
+      176.3,
+      176.9,
+      177.6,
+      178.2,
+      178.8
     ]
   },
   "news": [
+    {
+      "title": "When oil prices spike, where does the money go? - The Conversation",
+      "source": "The Conversation",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbExhSVBYV3ExY2xUYW5RYTd6VTA4MHZNcS1mam10OGJNUEg4bGlMVnRrZGxfMTRCNjN2VmhISWMxaFB5bDdFRGxQRDhjeGtVQnI1VDR5MVRhWHczQUx4eS05ZVdqZ0hmQUxxQnE3bjAwUUVaSGlWOUwyV2ZMUHExLVMyNGIyQXc?oc=5",
+      "description": "When oil prices spike, where does the money go? The Conversation",
+      "publishedAt": "Mon, 20 Apr 2026 12:30:46 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
     {
       "title": "Iran declares Strait of Hormuz open amid ceasefire, oil prices plunge - Global News",
       "source": "Global News",
@@ -197,20 +206,20 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices surge amid mixed signals on US-Iran peace talks - Al Jazeera",
-      "source": "Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNUcybmNFa1lzdDlrZlBZN18zUU9tM0RaMDA5eE1lMWRiVlBNRlJVa0RZczZaYjl2T3Vnc3FQdXlNb19HMUZTNjV2NGtCczFfSmtkWDBPdGcycmRuRTY1WGRmamZPNU5uamRUSjk0NjlpdG9pQnFDaGNzWnF1ZWdYMjVWSm5YcmZGSGdCSVlDTjExSFVmNEgwNEI3cWNzem1UZl9RVNIBqgFBVV95cUxPZ1pjc2dnSWRIeHhxVmFST0ZJMV84ZWZyUlowUWhURHFwVU9IY242YWx5OUgtNlR0MXh0eVNoM2RPNmxxNmZyc3dLbVFJR1h5OGZQaG9kVERtMTJrUEdIdzlVMmhGSG9VVXVoSkRxa2lnenpxWDN2U1lnUlozQTVGU2hXSjVGRWlpSnIzVm1BamtzMVlyUWo4aW1FUWdlVkg1SFM3dDVTRWtRZw?oc=5",
-      "description": "Oil prices surge amid mixed signals on US-Iran peace talks Al Jazeera",
-      "publishedAt": "Mon, 20 Apr 2026 02:51:33 GMT",
+      "title": "U.S. oil price plunges below $84 as Iran declares Strait of Hormuz open, easing supply fears - CNBC",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU1pXclRGd3pwblR5dWptWWI0LWloeUxpWnVKdFVnTE9tcklpSEExXzJnYnl6aVZqeUlqa0c0SjJfZHZ6eGl1TFBQdEpGaUtMeGo3bG5OSmxKSFNKLWdlclZkNGJnSFJPUm5Dd1FBYmhqQ0dBYTYyeWRlb2s5cXZqQTVLR0NsYXRhNkNvdzk1Mzdvd9IBlwFBVV95cUxNN0dTdndfMTVmcnU3RXVFcXhlVmoxZkNQcmlBeVYtWGE2YWV0aWtqU2lJSm9VbkY2WWZBSzBUUmRnSzRrNHBfNUV1NWJOUDN0U2IxenUwSHNsNi1UMEhoLUJ0VFltcUxFTnBla1k5Uk4zQ0E3Y0Y3dEtucmVaQ1hTRUN3MDRTWnpqd2R4Nk1hRXlJX0M4XzFj?oc=5",
+      "description": "U.S. oil price plunges below $84 as Iran declares Strait of Hormuz open, easing supply fears CNBC",
+      "publishedAt": "Fri, 17 Apr 2026 00:40:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil prices drop 9 per cent and Wall Street rallies to a record after Iran reopens the Strait of Hormuz - BNN Bloomberg",
-      "source": "BNN Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQUVUSmlydWlFVFYtRkR0VXVTMngtY3loTmpiLXBRY216d1Zyc1g2Qld0aEpxV1Q3eVFPVkEwQUQ1anl3UW93Szhna2dtTXYtVW1aSlR2Y0NZSHU1YVB3VVg2QlRRMHJ6Y1JKdGJPbVBTYWFiYmJ3QmloZWsxRG0tT0g4X016N3VHdW1oNkNyN09HX2JkdXRuOXJyMFlIYl9EWjIzZV8zazNjeEJVRmRrMjh1MzR1S1J1dS0ydWpWRERlQjAtR0hQN25mV0N0V2UzRktqOFhn?oc=5",
-      "description": "Oil prices drop 9 per cent and Wall Street rallies to a record after Iran reopens the Strait of Hormuz BNN Bloomberg",
-      "publishedAt": "Fri, 17 Apr 2026 20:23:35 GMT",
+      "title": "As oil prices plunge below $91 after weeks, a new Hormuz crisis emerges - Al Jazeera",
+      "source": "Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcWp4UGdnV1JqSzhHSWV0dTRSbWhqcktzeU5uNUZEdFJkQ3NtNV96ak5BOHVJdHdpaXlGQkhrY19oVWR4T3FBVUhabWRtQ183X29NRkVxYlJlaFpya2lTRjNvVDNCUGVqUUQ2WWY5bG5pUVh6X3hrQ0prVkcxaVM3SmJia3FCUUZvRnVlZzdYcXMyYXdjZVpmTG1NQ0lUdDZWeFpWUXN2bWdCOVhhVmRNb0Ewd9IBuAFBVV95cUxQTWowRGRSQ0JDVG5ILVlvaDdqU2hUc2RNOElobTh4SmV2Z2xld3NTLV9mdjlNX3l4U3N2NUpZNHJINUdIRUF6dzhHcXBucXhKdm9YTzU0NUVoUEZQQTRUdm9fUnJTMEVmUWxFTmx3NFpSVjNjaGNlY1AtaE5DTnliSklQSDFPUldpQnU5RDhBa1d0SS0zQkVWaW9Lb0Z6SkVHOVZqa2gtaEg3WW83bXpsdmlYMWt5Q1U1?oc=5",
+      "description": "As oil prices plunge below $91 after weeks, a new Hormuz crisis emerges Al Jazeera",
+      "publishedAt": "Sat, 18 Apr 2026 10:31:21 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -224,56 +233,47 @@
       "impact": "medium"
     },
     {
-      "title": "The loonie-oil price disconnect - Investment Executive",
-      "source": "Investment Executive",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBqNjZoRDFQY3NvNFpnSmd6aDVteXJFZ2Q0XzRJR1drdlhqMnZCdnBYSjc4U0RncG8zblJVb2d0cmQ2MjhzY1k2ZTUxdWlLVVNSbm9pbXF2SDV4SHZpNW9DS1U1OEN4dXVjenduRDNzYS02V1NGbVhYSTE5d2tKZw?oc=5",
-      "description": "The loonie-oil price disconnect Investment Executive",
-      "publishedAt": "Fri, 17 Apr 2026 19:06:19 GMT",
+      "title": "Oil prices rise and US stocks give back a bit of their record-breaking rally - Coast Reporter",
+      "source": "Coast Reporter",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOVpYOV9sZkZJTm5jQk5tcDNWV0l0dzlENDBxeVREZm1xTUtrSUV4X1h0eHFhcW1FZElzQjdmWG9xeW9neDZ0bE92ZThlUGZxNkZfY2Viakx1WWpQelV6bERFdzBaSi1OUndDNkV2UXZPWkNFY3NkZjNqakhLbGN5UWZlTENvTUE0VXg1YWJ2QUN2UnFTUERwZU5kdkpmRzRRX3poOXpEVzYwMXp5M3lPaGxXclRKUHlUWGQxejVsZnc?oc=5",
+      "description": "Oil prices rise and US stocks give back a bit of their record-breaking rally Coast Reporter",
+      "publishedAt": "Mon, 20 Apr 2026 20:05:59 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil prices jump amid renewed tensions over the Strait of Hormuz - NBC News",
-      "source": "NBC News",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbGNIc09VeXBDZGhfVUNEd25aRl9tQ2RYcVhLYWJuNC00OXBwSWQteE9wWjQ2U1k3SG9rdTczUV9ibDhqMndvYk5xNGFJOU56QlJSR2V2Q1BJODRYemhLNF9OZEtxVXJ6Z1FQZDM2TDNHeXhNZkpzZTExU19TY3phLUFBWnRWcktsV1JUMm92NnEzZERnWk42QzBMV21QRTA?oc=5",
-      "description": "Oil prices jump amid renewed tensions over the Strait of Hormuz NBC News",
-      "publishedAt": "Sun, 19 Apr 2026 22:53:27 GMT",
+      "title": "Current price of oil as of April 14, 2026 - Fortune",
+      "source": "Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LYkZQb2JXYjN1VTVCRGQwbjZBZ3gxbjhLS0g1Qzg4MS11emNfV1VlbWZfVGRCeUl6NmhWVFlTR3Jld2VmTUtGVlNYQVg1cy1nUkNUWGpMcE5welJPcWVWM3FR?oc=5",
+      "description": "Current price of oil as of April 14, 2026 Fortune",
+      "publishedAt": "Tue, 14 Apr 2026 12:08:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil prices plunge as Iran says Strait of Hormuz 'open' during ceasefire - BBC",
+      "title": "Oil prices jump after Trump says Iranian ship seized - BBC",
       "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lcGI2VEVhSWFzLWZ1UExlN2JqWjBvQ3ZCLWc1WDBYNG5NMWFPZlZfT0hFcnNfVTF6dHk3NmtuSGQ0a19uVnRMSENZdk1vQ3h3REFKSFlaOXhpQQ?oc=5",
-      "description": "Oil prices plunge as Iran says Strait of Hormuz 'open' during ceasefire BBC",
-      "publishedAt": "Sat, 18 Apr 2026 06:06:38 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yR2laSVRwLW45ZkMyS3VXdmFMc1Z4cVBrclZjZkprdEVsYlMxMURWcW1fWUIycGR3QjQtTTRoZVBrUzBRMUdIQXJROVZsTjNzVDVmYlVQMVVidw?oc=5",
+      "description": "Oil prices jump after Trump says Iranian ship seized BBC",
+      "publishedAt": "Mon, 20 Apr 2026 20:33:01 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Posthaste: Why Canadians might be doomed to suffer a 'new normal' for oil prices - Financial Post",
-      "source": "Financial Post",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZMUlrbFdETEVIcDc4WnVtbXhIMFhQclZyMlgzM2VtM1EtZF9SMkZicTI0Q1JQQVVETzVrcm5iWDZxcS1rVFNxZlJiMDFpcGlCQzAyeFd2MEFfdkxMZzNlQ252REh2cTBoSTJpOGxVeFdIWWh0ZzZhSXkydXd0Zw?oc=5",
-      "description": "Posthaste: Why Canadians might be doomed to suffer a 'new normal' for oil prices Financial Post",
-      "publishedAt": "Sat, 18 Apr 2026 05:44:20 GMT",
+      "title": "Will oil prices ever truly go back to ‘normal’? - The Conversation",
+      "source": "The Conversation",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRk1Od1Z4Nl9WSk5NZlN1M1hjY2t4MVhmRm5ZT3ZEcjFBQTBkc1hIMlNBdGEtUkZiY1pIZnJ3Y1d5SWhQeUtuNUlnVGJjWUN0WlRENFltYnhlTEZXLVRJV3RJem5jR2RESkl6YmcwYXg5ekF3bGJ4OS1mTGkwVVZEalZFZTdJdw?oc=5",
+      "description": "Will oil prices ever truly go back to ‘normal’? The Conversation",
+      "publishedAt": "Wed, 15 Apr 2026 03:55:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "The big chart: How oil prices have reacted to world events since the 1980s - The World Economic Forum",
-      "source": "The World Economic Forum",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcVp3dmpEMFVqQXJmdUlrVG41RHBDVEsxRFo0eXIzX0xBMzlJb29rYmFpc0ttVDZNOEZWMk1VUEFSQXhwSFdTU0xQQ2wtWklPT0ZEdVJkRG9lbTkwVGNLN3dVdnloV2hVcGJNMGtqVFRKdTBnWWRFYTZIdHFSaWVVQjB1YTFHVTFuWFo4?oc=5",
-      "description": "The big chart: How oil prices have reacted to world events since the 1980s The World Economic Forum",
-      "publishedAt": "Fri, 17 Apr 2026 07:00:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices fall as U.S.-Iran dialogue hopes ease supply concerns - CNBC",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQi1MZ3lWSlhqRkNzNDVxOV9reXhFeEVtRFR3UnJ3Ri1ELUkxM1JiWklCU1ZabllCLTJVOTJ3MlZuR0xmT1hxX1NfMGg4aHhmODhhV0VXNndJaGQ3UTUwRTBQNi1vSUtKTmtmT0JGaWxGREt6MHczTElvYWQxSFB1QUsxZGNTNWh1ejVfRWY3UDFQWXBzcXpZdUd6TGg3LVgy0gGmAUFVX3lxTE1DSzlhRDNfWXY5amNBaHJSYmtBb3kwYlNuQkxiMUE5aHZrRzdVRlVtQkxnekhHUTZQUEhVaWlpNVNFeXVDMkQ5bTZTSTdVNTdoT1BQVmNmTGhITktzd0hKOVR6aVJkX21YNW9YcUhLczhnX2NYNG5DdDZ3NnhCSEFCb3VMd2laMHktVm1QNFFxd1QwNmFnM2xVRzhHYnVnUElvc2lKX1E?oc=5",
-      "description": "Oil prices fall as U.S.-Iran dialogue hopes ease supply concerns CNBC",
-      "publishedAt": "Tue, 14 Apr 2026 01:45:00 GMT",
+      "title": "Oil prices surge amid mixed signals on US-Iran peace talks - Al Jazeera",
+      "source": "Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNUcybmNFa1lzdDlrZlBZN18zUU9tM0RaMDA5eE1lMWRiVlBNRlJVa0RZczZaYjl2T3Vnc3FQdXlNb19HMUZTNjV2NGtCczFfSmtkWDBPdGcycmRuRTY1WGRmamZPNU5uamRUSjk0NjlpdG9pQnFDaGNzWnF1ZWdYMjVWSm5YcmZGSGdCSVlDTjExSFVmNEgwNEI3cWNzem1UZl9RVNIBqgFBVV95cUxPZ1pjc2dnSWRIeHhxVmFST0ZJMV84ZWZyUlowUWhURHFwVU9IY242YWx5OUgtNlR0MXh0eVNoM2RPNmxxNmZyc3dLbVFJR1h5OGZQaG9kVERtMTJrUEdIdzlVMmhGSG9VVXVoSkRxa2lnenpxWDN2U1lnUlozQTVGU2hXSjVGRWlpSnIzVm1BamtzMVlyUWo4aW1FUWdlVkg1SFM3dDVTRWtRZw?oc=5",
+      "description": "Oil prices surge amid mixed signals on US-Iran peace talks Al Jazeera",
+      "publishedAt": "Mon, 20 Apr 2026 02:51:33 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
