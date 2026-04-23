@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-22 09:07 UTC",
+  "generatedAt": "2026-04-23 09:15 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
     "regular": 167.9,
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Apr 22"
+      "Apr 23"
     ],
     "regular": [
       150.7,
@@ -150,13 +150,13 @@
   },
   "prediction": {
     "labels": [
-      "Apr 23",
       "Apr 24",
       "Apr 25",
       "Apr 26",
       "Apr 27",
       "Apr 28",
-      "Apr 29"
+      "Apr 29",
+      "Apr 30"
     ],
     "regular": [
       168.8,
@@ -197,6 +197,15 @@
       "impact": "medium"
     },
     {
+      "title": "StanChart $95 Per Barrel Is The New Oil Price Equilibrium - Crude Oil Prices Today | OilPrice.com",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNLWRTZzFpelA1X2FlbkNCRnNFTl9lUTNfOUpxcjBpY0xGcHZ6S09rQnNxeHdYYVREWU5fcGp0TVdfSlJsRFVYYmlTaWZpTUsxNTVDM2s2RWJlSFpNa19TMExDLXNuNTVILVJjX3FraE5wamYyY0FpTjJIWnhpV3FndlFMX1hTbzVrWDlRSE5HWXpPTTZvWS1OQkNNUk9aOVhU0gGmAUFVX3lxTE5DTGJ5VmxTYUFlemxaS09LbGdvMWtyZ3BwMFNzb00wdm16MFhDM3FnZDkxcnNJb18zREpFQ1ZzYXByYmJMelpxd3pzT1Y5NmU2ZGdSZ3QxWGszejlybTJfR29NdGdCdGpQVTVlUy1vZjlDXzRMdzdTTkxXYjJhbWlCQnpTOWxESFk0STlrY29od1FueGpfY0pyT0p3RXdkTVktdllsS2c?oc=5",
+      "description": "StanChart $95 Per Barrel Is The New Oil Price Equilibrium Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Thu, 23 Apr 2026 00:00:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
       "title": "When oil prices spike, where does the money go? - The Conversation",
       "source": "The Conversation",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbExhSVBYV3ExY2xUYW5RYTd6VTA4MHZNcS1mam10OGJNUEg4bGlMVnRrZGxfMTRCNjN2VmhISWMxaFB5bDdFRGxQRDhjeGtVQnI1VDR5MVRhWHczQUx4eS05ZVdqZ0hmQUxxQnE3bjAwUUVaSGlWOUwyV2ZMUHExLVMyNGIyQXc?oc=5",
@@ -215,11 +224,20 @@
       "impact": "medium"
     },
     {
-      "title": "Trump's Waiver Of Jones Act Fails To Cool Oil Prices - Crude Oil Prices Today | OilPrice.com",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZWRwT0EyM1NWUHFkUG9SVHV5VUNuQzkxanZ6eXQwczQwVnZXcGxadTZpY1QxN1JOcXRRaWJ5Z0dmQVRfcjU0a3BTeDk0NkRzNmhvOExKWXFYMDFBdHYzVFRGRjhUTklUa0M5a19nSlBhUG1QRXd4QTJDUTRwNXhFUTRqSGJ4ZGpvZDlzV2t2ZFNVRFNOTm5NRVZ30gGfAUFVX3lxTE5sNVRIZE9EbXdqWE9ZZjc2YWt6UUlZRnh2Y0xuWE5sR2FhVzJfeTNKYkR0T2VmUVhLT2dpM2RSX2xjR0hrRHFyUTAyS0JFUzlWdHNYemhHM19uUk91bVlqeVVGZzhpUk9mZGRCSE5ta1ZkeURCLVZKeVdGckdYbHlvZzlWWFRmcTZYbDVOa0NXUEpyRy1zdVlrZ3A5XzhBUQ?oc=5",
-      "description": "Trump's Waiver Of Jones Act Fails To Cool Oil Prices Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Wed, 15 Apr 2026 18:30:00 GMT",
+      "title": "Oil prices drop 9 per cent and Wall Street rallies to a record after Iran reopens the Strait of Hormuz - BNN Bloomberg",
+      "source": "BNN Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQUVUSmlydWlFVFYtRkR0VXVTMngtY3loTmpiLXBRY216d1Zyc1g2Qld0aEpxV1Q3eVFPVkEwQUQ1anl3UW93Szhna2dtTXYtVW1aSlR2Y0NZSHU1YVB3VVg2QlRRMHJ6Y1JKdGJPbVBTYWFiYmJ3QmloZWsxRG0tT0g4X016N3VHdW1oNkNyN09HX2JkdXRuOXJyMFlIYl9EWjIzZV8zazNjeEJVRmRrMjh1MzR1S1J1dS0ydWpWRERlQjAtR0hQN25mV0N0V2UzRktqOFhn?oc=5",
+      "description": "Oil prices drop 9 per cent and Wall Street rallies to a record after Iran reopens the Strait of Hormuz BNN Bloomberg",
+      "publishedAt": "Fri, 17 Apr 2026 20:23:35 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Current price of oil as of April 22, 2026 - Fortune",
+      "source": "Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrZzhGSFJRLUcyUFpEd1RZNEdlblJfVEpfTk5BdlVicnZsUm9rdlczMW9pTWZtajFmUEdwR0w3TEs2NzJkeUFrWUNteWFSc2xWU3NjeHU2NFNjd0Q2M29jakhn?oc=5",
+      "description": "Current price of oil as of April 22, 2026 Fortune",
+      "publishedAt": "Wed, 22 Apr 2026 13:00:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -233,24 +251,6 @@
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Today: Brent Falls Back Below $100 on Cease-Fire Extension. - Barron's",
-      "source": "Barron's",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ScGpzdldQRU01bFJfVGc2dFRwWTM2NERweFFPNVYwSkE2cWtDX19YRHB4OGNYZlMtay1OTkcycEJPWjJ2WUdJVnF2S2Fvd2ZDLWxEdDZFT0dxSzBjZ3RPcFBDT0w2U19obTc3RFZPZFV0SkZlY0pybW1GNA?oc=5",
-      "description": "Oil Prices Today: Brent Falls Back Below $100 on Cease-Fire Extension. Barron's",
-      "publishedAt": "Tue, 21 Apr 2026 21:03:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Current price of oil as of April 21, 2026 - Fortune",
-      "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBCVWZkUnBNanFrYUdHVWszMjVvMDUtZ1VCc1NsY2FIVTVJNVN0Qk1UaGdrWFVuYXZLUTBNU3JvMHhEeVlEN1BPOE8zOGlVWV9zN2JNNlBxT3NmQ01GcVZpNEln?oc=5",
-      "description": "Current price of oil as of April 21, 2026 Fortune",
-      "publishedAt": "Tue, 21 Apr 2026 12:49:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
       "title": "Oil prices rise after Trump says Iranian ship seized - BBC",
       "source": "BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yR2laSVRwLW45ZkMyS3VXdmFMc1Z4cVBrclZjZkprdEVsYlMxMURWcW1fWUIycGR3QjQtTTRoZVBrUzBRMUdIQXJROVZsTjNzVDVmYlVQMVVidw?oc=5",
@@ -260,11 +260,11 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices spike again following latest standoff in the Strait of Hormuz - PBS",
+      "title": "Oil prices rise and stocks give back part of record-breaking rally following latest Iran tensions - PBS",
       "source": "PBS",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZUN5N2FhVDRtZU9yZkxoWHNMMkZNV0N5amhfUjVSYWsyUXE3N2owLVJvX3FYSVlwZEZ2RVk1V01hSHp4OGJrdkhaVnNIWHYzWHdfdnBtUFp0blJPM0JwUEFJanM3TU0ydlB5RmRrdU0tZmFaLXc0eWxKV1p4VGFPU08wV1lGLVU0eDRqbDY3OEdfcG4tLUN0Rm1TeGdsRm9iTFZIT3B5NWdfeXM?oc=5",
-      "description": "Oil prices spike again following latest standoff in the Strait of Hormuz PBS",
-      "publishedAt": "Sun, 19 Apr 2026 23:07:42 GMT",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMXJ2M1pvSFZLQ1lCZmR2Y1hfazVUUFNXcV9vUHdwYmFlTGRHNE9UeXBYZk5CNXItcUlBTkRxN0lQTDhqY2lNWEN3MExYUUpjS1RvTVVZRmNOTnMteGdDQUZDMUxSaW91OGFwVGxBaEM2X0lHUEp2QWo0dDZodmpKRnFlWGdiQ1o4TE9XLVdoSEQ3bnRfMGhTZW9NZzBCZG5LWWc0V2hmUEozVGdHMEV6eU8xOHpSZW1qVUlrUFBhak4yUTBuUnd5SnAzckx5UQ?oc=5",
+      "description": "Oil prices rise and stocks give back part of record-breaking rally following latest Iran tensions PBS",
+      "publishedAt": "Mon, 20 Apr 2026 18:44:27 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
