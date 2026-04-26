@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-25 07:56 UTC",
+  "generatedAt": "2026-04-26 08:21 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
     "regular": 176.9,
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Apr 25"
+      "Apr 26"
     ],
     "regular": [
       150.7,
@@ -150,13 +150,13 @@
   },
   "prediction": {
     "labels": [
-      "Apr 26",
       "Apr 27",
       "Apr 28",
       "Apr 29",
       "Apr 30",
       "May 01",
-      "May 02"
+      "May 02",
+      "May 03"
     ],
     "regular": [
       177.9,
@@ -197,15 +197,6 @@
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Set for Another Weekly Decline as Iran Risks Recede - EnergyNow",
-      "source": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbEV5UWVIMG41ZnplUlJEbTNFRURkN05GQVVzazBxNVZpNHJqZVp4X2pXWGtCXzdyNmVlVWtUUEVfbC1DSmFySWo3QmVxMVhLWGtYUFRRNXlwN1Q4UVFGX0tid2tPNDl2RzVBSElEeUdLbXNZTjdKMkROcmF0bjZQLUlQVUlYLWU1bE9iREt1U3huVFRvMW5z?oc=5",
-      "description": "Oil Prices Set for Another Weekly Decline as Iran Risks Recede EnergyNow",
-      "publishedAt": "Thu, 23 Apr 2026 22:44:04 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
       "title": "When oil prices spike, where does the money go? - The Conversation",
       "source": "The Conversation",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbExhSVBYV3ExY2xUYW5RYTd6VTA4MHZNcS1mam10OGJNUEg4bGlMVnRrZGxfMTRCNjN2VmhISWMxaFB5bDdFRGxQRDhjeGtVQnI1VDR5MVRhWHczQUx4eS05ZVdqZ0hmQUxxQnE3bjAwUUVaSGlWOUwyV2ZMUHExLVMyNGIyQXc?oc=5",
@@ -215,20 +206,20 @@
       "impact": "medium"
     },
     {
-      "title": "As oil prices plunge below $91 after weeks, a new Hormuz crisis emerges - Al Jazeera",
+      "title": "Trump government extends Jones Act waiver by 90 days to dampen oil prices - Al Jazeera",
       "source": "Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcWp4UGdnV1JqSzhHSWV0dTRSbWhqcktzeU5uNUZEdFJkQ3NtNV96ak5BOHVJdHdpaXlGQkhrY19oVWR4T3FBVUhabWRtQ183X29NRkVxYlJlaFpya2lTRjNvVDNCUGVqUUQ2WWY5bG5pUVh6X3hrQ0prVkcxaVM3SmJia3FCUUZvRnVlZzdYcXMyYXdjZVpmTG1NQ0lUdDZWeFpWUXN2bWdCOVhhVmRNb0Ewd9IBuAFBVV95cUxQTWowRGRSQ0JDVG5ILVlvaDdqU2hUc2RNOElobTh4SmV2Z2xld3NTLV9mdjlNX3l4U3N2NUpZNHJINUdIRUF6dzhHcXBucXhKdm9YTzU0NUVoUEZQQTRUdm9fUnJTMEVmUWxFTmx3NFpSVjNjaGNlY1AtaE5DTnliSklQSDFPUldpQnU5RDhBa1d0SS0zQkVWaW9Lb0Z6SkVHOVZqa2gtaEg3WW83bXpsdmlYMWt5Q1U1?oc=5",
-      "description": "As oil prices plunge below $91 after weeks, a new Hormuz crisis emerges Al Jazeera",
-      "publishedAt": "Sat, 18 Apr 2026 10:31:21 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQLVZEcksxNE5sVnZ2dVdlOFBlYVNMRGpxLTIyMThOUnVtMkQ0YWtjMkYyQ2p2NzRRckhqV3E0ZWt5V0swOHhsQVZLWDJHM2huMGdfOWpFZDlKbnpJaVF1YTVQWEoxcGhweTBGZmFfb0dxTWItbmxPWUxaZDFVSlNqZzMyZHhHUkdrWnlvUllDTm9YMXlMd0pYZTZrZHB3Z0RvREdMVGdsYTdVZG9TMXJFZVNDLUZHaGNL0gG-AUFVX3lxTE5MV2toaU1USUNXYmNQRklvN2ZDaTdCQ1I0Z2VOQ0JFRGlhS0l1dHJsYXFnTktrcF9kRDgwTVpGaDRTVHFSWDZiRmdoNWlNOXo2eGw1VzFUQ3ZoNGRUTlFNeGcxZ21VeUw1STk1a3RmbmZQSjVlZGQyMDUxd1dubHFNNkVEaUd0LUlzeUpDLWk5QUkwZVFEcUFWSDI1a0hLbFdqektoVGJWbXJCZ2VDM2NNYi1La3Y0LTlwTUpPX3c?oc=5",
+      "description": "Trump government extends Jones Act waiver by 90 days to dampen oil prices Al Jazeera",
+      "publishedAt": "Fri, 24 Apr 2026 18:49:31 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Current price of oil as of April 20, 2026 - Fortune",
+      "title": "Current price of oil as of April 24, 2026 - Fortune",
       "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5DNWxxVV9JeGlsYkV0N3ZiM2pwbkd0bTNvWGVTamFNSmRhelplODJreUhCX3NlcG4zcm1aVENpVjViOGs0LVdVcWRRWEFMQVpDbDBGSjAxX1k5UFpNOHkwODRn?oc=5",
-      "description": "Current price of oil as of April 20, 2026 Fortune",
-      "publishedAt": "Mon, 20 Apr 2026 12:51:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9LQkZxSl9yallwbTJJOXFPNC1RbVVlbnlUUlRPWlZ6cnQ4ZjlQa1VaamRzcmtFbHJzZG81OXhqcHZnTG90TzhQdXB5LXlzZ0lNZnREOGc0cUZzQWt3aDU3UVBR?oc=5",
+      "description": "Current price of oil as of April 24, 2026 Fortune",
+      "publishedAt": "Fri, 24 Apr 2026 12:58:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -260,11 +251,11 @@
       "impact": "medium"
     },
     {
-      "title": "Stocks mostly decline as the Iran war standoff pushes oil prices higher - BNN Bloomberg",
-      "source": "BNN Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUVVxWjZtQXktNlVSRDdFRk5RSlNNTURDTjdWbXlIeGtTa0hEd0ZGM192RWpPQ2RXdVY1R1RQSzRicGNTZUtaTWVQeVZJaFMtRDFMc1N2dTAzdjdkRUJhZHo2YlJDNmpVY2o3LXlGY1RiLXY0ZnhNS2xPczZwTjIxVnhqaF9Vc3hxZm1mZnFWZjFBWjhlZVo4N014ZzF4a0YwQXN3X2VOb1NESWZJYzRUZnhWWkpMazE0QndF?oc=5",
-      "description": "Stocks mostly decline as the Iran war standoff pushes oil prices higher BNN Bloomberg",
-      "publishedAt": "Fri, 24 Apr 2026 09:56:20 GMT",
+      "title": "North Dakota crude output to rise as operators eye high oil prices - BOE Report",
+      "source": "BOE Report",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdGFCTGNkR3BoNzd2RHpIQXM1R2o1Q29GUnNOdGNiby05QTRHTS1ucFdHWS1PejV2Zy1Ud0VYNEh6VDhrSEhRajZtcHkwLVp3QUJGVm1OQ2Vqbm9MWkduZ2MtVm4tZTNhMDI1cDg1Y0pkVGdEMl9YWTJwN1J2RThsOENESzZHRldEMzlNZ1J4WkNYcDZwNmhVaVFKQlRBc3JuUnfSAacBQVVfeXFMT0hYSWtJU05hOWpXc2dtb292cllGMDhGNHZYNHdsdmE3amFBbWtDaFktZ2htUGlVZEZUVWRuLTNRcmxtd1BkSElOVDA2bE1aVlFSbkdNdDVmS1d2TjZQOXMybmdUSFRVMUt5WFlvVXd5N0RMVE43el9aSVFaRTNpS2pfVnhxZXJTSzQxdDk1VTR2TEdMNTFjZDdWQlJ6c3dkaU43cUd4Nzg?oc=5",
+      "description": "North Dakota crude output to rise as operators eye high oil prices BOE Report",
+      "publishedAt": "Tue, 21 Apr 2026 16:52:15 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -274,6 +265,15 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOU0xHaGRYbVZtQkhSWW9EUHhFYmk5U1o5NUJ5SGlfYjhQTzRORW1hdlVfaTNsbDJrSUIxZTExUlRLN181SHRqMF9NTHhPRU00Qk41NXl6ZE9CNXJjRVEwUExWUHJmN21nQVhfeUlzR0gwUUJmRjlzUTd3dTgyTjJaVHV6MU5NMHNuQjhES1FVYWlWc2l3MGVfOVYzNEhlUdIBowFBVV95cUxQNVdnYkZPR1AxaTgwQVAwQ1VsRmNTTlI0aGU1amJoeDE0TWM0WGxEYjhTZEtNSlV5UHhGS3pYeThWdkxxdHZRa0xscmNWaWVDQWdUdTlaUEJqWExRaG9Pa18xYklIMWE2clhkaXByUHp5bHlQX1gzWEdtOGdIMld4TllrRGU1aEVVNzBEdTI5U0VySDlwYmVRRnh6RzIwQ2NPVU9n?oc=5",
       "description": "Oil prices mixed as U.S. and Iran expected to hold talks in Pakistan CNBC",
       "publishedAt": "Fri, 24 Apr 2026 01:55:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil prices set to rise once again across the GTA - CP24",
+      "source": "CP24",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdjN4dEZNSkVoMkVpeUVxVHhkMmhiM2RLMnBHczdDVEZ6X2RhdnpLc1A4bWxPSF9nMXBWcXQ3WC1zVHd2azVQSVRXdEhDTWhMeDNhb1pVOGZ1VktsaWRTVFM1Tm9xbkxMamlUV1JUT1dZOHBhZ0hHR0s3eVZkYmR3QVdkUmk4czFtNjBqTjhfVWI?oc=5",
+      "description": "Oil prices set to rise once again across the GTA CP24",
+      "publishedAt": "Thu, 23 Apr 2026 11:58:16 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
