@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-26 08:21 UTC",
+  "generatedAt": "2026-04-27 11:19 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
     "regular": 176.9,
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Apr 26"
+      "Apr 27"
     ],
     "regular": [
       150.7,
@@ -150,13 +150,13 @@
   },
   "prediction": {
     "labels": [
-      "Apr 27",
       "Apr 28",
       "Apr 29",
       "Apr 30",
       "May 01",
       "May 02",
-      "May 03"
+      "May 03",
+      "May 04"
     ],
     "regular": [
       177.9,
@@ -206,11 +206,20 @@
       "impact": "medium"
     },
     {
-      "title": "Trump government extends Jones Act waiver by 90 days to dampen oil prices - Al Jazeera",
+      "title": "Oil prices rise amid stalled US-Iran peace talks - Al Jazeera",
       "source": "Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQLVZEcksxNE5sVnZ2dVdlOFBlYVNMRGpxLTIyMThOUnVtMkQ0YWtjMkYyQ2p2NzRRckhqV3E0ZWt5V0swOHhsQVZLWDJHM2huMGdfOWpFZDlKbnpJaVF1YTVQWEoxcGhweTBGZmFfb0dxTWItbmxPWUxaZDFVSlNqZzMyZHhHUkdrWnlvUllDTm9YMXlMd0pYZTZrZHB3Z0RvREdMVGdsYTdVZG9TMXJFZVNDLUZHaGNL0gG-AUFVX3lxTE5MV2toaU1USUNXYmNQRklvN2ZDaTdCQ1I0Z2VOQ0JFRGlhS0l1dHJsYXFnTktrcF9kRDgwTVpGaDRTVHFSWDZiRmdoNWlNOXo2eGw1VzFUQ3ZoNGRUTlFNeGcxZ21VeUw1STk1a3RmbmZQSjVlZGQyMDUxd1dubHFNNkVEaUd0LUlzeUpDLWk5QUkwZVFEcUFWSDI1a0hLbFdqektoVGJWbXJCZ2VDM2NNYi1La3Y0LTlwTUpPX3c?oc=5",
-      "description": "Trump government extends Jones Act waiver by 90 days to dampen oil prices Al Jazeera",
-      "publishedAt": "Fri, 24 Apr 2026 18:49:31 GMT",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV25GWjMzUGZKdEVfT0xUWHJzeWJRNW9fbHlYOG9hNHg5NTExSENjZGRjYmlCODMwMW5Zc2FCc0hVQlZhR282Yzl5SVZaV0N5NTZTTzJlaDRvclJ1c3FuVjhVclFDWTdIYzVYQnA4UlZJMzZEOVhCa1NOalVaamwyNlFtOTRvZUd3aUVOdWlMM3NQUDc4VzFYYUhyb3pqaHND0gGmAUFVX3lxTE1oa2RHOVJHQXp0ZHZxVmpRT2N6WTdsa2VrV2pTQk9sZ21NV1hyU1IzZlBnMThEWUdiUEJ6S3dVSE1BbGhUR2R4aS1QenkzZHlMM29FUll5alEyT19LLWR5TTBYaWtlV2p3U2lZbXFlQmhTZEhhc0l0VUx5Q2FIQXlXMnJaMzU1TlRORWVQRVRVbnoySlAxSDJJdUVUbm5EdVFtN3VSU0E?oc=5",
+      "description": "Oil prices rise amid stalled US-Iran peace talks Al Jazeera",
+      "publishedAt": "Mon, 27 Apr 2026 06:47:53 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "How to Interpret Wartime Oil Prices - CSIS | Center for Strategic and International Studies",
+      "source": "CSIS | Center for Strategic and International Studies",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1wdWdIXzNkTW1ZSkh3WXlDZHh4OXhnZGpHNXNRenFRZ0RzUVlhbkF2QXdadE1ZeGRISE9obU5OSGs4b0V3RUx3ZlNqY3ctVDVMeV9obWZvMjh1b0RpWENmM3dIVlp5Z1Awb3ZQdlRXWQ?oc=5",
+      "description": "How to Interpret Wartime Oil Prices CSIS | Center for Strategic and International Studies",
+      "publishedAt": "Fri, 24 Apr 2026 15:45:35 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -233,15 +242,6 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices rise after Trump says Iranian ship seized - BBC",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yR2laSVRwLW45ZkMyS3VXdmFMc1Z4cVBrclZjZkprdEVsYlMxMURWcW1fWUIycGR3QjQtTTRoZVBrUzBRMUdIQXJROVZsTjNzVDVmYlVQMVVidw?oc=5",
-      "description": "Oil prices rise after Trump says Iranian ship seized BBC",
-      "publishedAt": "Mon, 20 Apr 2026 20:33:01 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
       "title": "Oil prices jump amid renewed tensions over the Strait of Hormuz - NBC News",
       "source": "NBC News",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbGNIc09VeXBDZGhfVUNEd25aRl9tQ2RYcVhLYWJuNC00OXBwSWQteE9wWjQ2U1k3SG9rdTczUV9ibDhqMndvYk5xNGFJOU56QlJSR2V2Q1BJODRYemhLNF9OZEtxVXJ6Z1FQZDM2TDNHeXhNZkpzZTExU19TY3phLUFBWnRWcktsV1JUMm92NnEzZERnWk42QzBMV21QRTA?oc=5",
@@ -251,11 +251,11 @@
       "impact": "medium"
     },
     {
-      "title": "North Dakota crude output to rise as operators eye high oil prices - BOE Report",
-      "source": "BOE Report",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdGFCTGNkR3BoNzd2RHpIQXM1R2o1Q29GUnNOdGNiby05QTRHTS1ucFdHWS1PejV2Zy1Ud0VYNEh6VDhrSEhRajZtcHkwLVp3QUJGVm1OQ2Vqbm9MWkduZ2MtVm4tZTNhMDI1cDg1Y0pkVGdEMl9YWTJwN1J2RThsOENESzZHRldEMzlNZ1J4WkNYcDZwNmhVaVFKQlRBc3JuUnfSAacBQVVfeXFMT0hYSWtJU05hOWpXc2dtb292cllGMDhGNHZYNHdsdmE3amFBbWtDaFktZ2htUGlVZEZUVWRuLTNRcmxtd1BkSElOVDA2bE1aVlFSbkdNdDVmS1d2TjZQOXMybmdUSFRVMUt5WFlvVXd5N0RMVE43el9aSVFaRTNpS2pfVnhxZXJTSzQxdDk1VTR2TEdMNTFjZDdWQlJ6c3dkaU43cUd4Nzg?oc=5",
-      "description": "North Dakota crude output to rise as operators eye high oil prices BOE Report",
-      "publishedAt": "Tue, 21 Apr 2026 16:52:15 GMT",
+      "title": "Oil prices rise after Trump says Iranian ship seized - BBC",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yR2laSVRwLW45ZkMyS3VXdmFMc1Z4cVBrclZjZkprdEVsYlMxMURWcW1fWUIycGR3QjQtTTRoZVBrUzBRMUdIQXJROVZsTjNzVDVmYlVQMVVidw?oc=5",
+      "description": "Oil prices rise after Trump says Iranian ship seized BBC",
+      "publishedAt": "Mon, 20 Apr 2026 20:33:01 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -269,11 +269,11 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices set to rise once again across the GTA - CP24",
-      "source": "CP24",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdjN4dEZNSkVoMkVpeUVxVHhkMmhiM2RLMnBHczdDVEZ6X2RhdnpLc1A4bWxPSF9nMXBWcXQ3WC1zVHd2azVQSVRXdEhDTWhMeDNhb1pVOGZ1VktsaWRTVFM1Tm9xbkxMamlUV1JUT1dZOHBhZ0hHR0s3eVZkYmR3QVdkUmk4czFtNjBqTjhfVWI?oc=5",
-      "description": "Oil prices set to rise once again across the GTA CP24",
-      "publishedAt": "Thu, 23 Apr 2026 11:58:16 GMT",
+      "title": "Garry Marr: When it comes to summer vacation planning, we're all commodities traders now - Financial Post",
+      "source": "Financial Post",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQalNUTGUxYXVpdkp1U0M4N0dEdnVqRUxDUU1xY0EtbnBneEZ0ckdhUTBRSGpyWWNKX0RkTzA1SkxNeS1icWxZazZJay1HeTVIUHp4MHBoZXRIWWNGdDhvLS10bURZQnZ2Yks1R296YnI2cWVRel96ME9pa2FfUHNVNTU4M1NoR1F2Qk9n?oc=5",
+      "description": "Garry Marr: When it comes to summer vacation planning, we're all commodities traders now Financial Post",
+      "publishedAt": "Tue, 21 Apr 2026 18:54:18 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
