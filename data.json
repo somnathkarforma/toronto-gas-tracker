@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-27 11:19 UTC",
+  "generatedAt": "2026-04-28 11:19 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
     "regular": 176.9,
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Apr 27"
+      "Apr 28"
     ],
     "regular": [
       150.7,
@@ -150,13 +150,13 @@
   },
   "prediction": {
     "labels": [
-      "Apr 28",
       "Apr 29",
       "Apr 30",
       "May 01",
       "May 02",
       "May 03",
-      "May 04"
+      "May 04",
+      "May 05"
     ],
     "regular": [
       177.9,
@@ -197,20 +197,29 @@
       "impact": "medium"
     },
     {
-      "title": "When oil prices spike, where does the money go? - The Conversation",
-      "source": "The Conversation",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbExhSVBYV3ExY2xUYW5RYTd6VTA4MHZNcS1mam10OGJNUEg4bGlMVnRrZGxfMTRCNjN2VmhISWMxaFB5bDdFRGxQRDhjeGtVQnI1VDR5MVRhWHczQUx4eS05ZVdqZ0hmQUxxQnE3bjAwUUVaSGlWOUwyV2ZMUHExLVMyNGIyQXc?oc=5",
-      "description": "When oil prices spike, where does the money go? The Conversation",
-      "publishedAt": "Mon, 20 Apr 2026 12:30:46 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
       "title": "Oil prices rise amid stalled US-Iran peace talks - Al Jazeera",
       "source": "Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV25GWjMzUGZKdEVfT0xUWHJzeWJRNW9fbHlYOG9hNHg5NTExSENjZGRjYmlCODMwMW5Zc2FCc0hVQlZhR282Yzl5SVZaV0N5NTZTTzJlaDRvclJ1c3FuVjhVclFDWTdIYzVYQnA4UlZJMzZEOVhCa1NOalVaamwyNlFtOTRvZUd3aUVOdWlMM3NQUDc4VzFYYUhyb3pqaHND0gGmAUFVX3lxTE1oa2RHOVJHQXp0ZHZxVmpRT2N6WTdsa2VrV2pTQk9sZ21NV1hyU1IzZlBnMThEWUdiUEJ6S3dVSE1BbGhUR2R4aS1QenkzZHlMM29FUll5alEyT19LLWR5TTBYaWtlV2p3U2lZbXFlQmhTZEhhc0l0VUx5Q2FIQXlXMnJaMzU1TlRORWVQRVRVbnoySlAxSDJJdUVUbm5EdVFtN3VSU0E?oc=5",
       "description": "Oil prices rise amid stalled US-Iran peace talks Al Jazeera",
-      "publishedAt": "Mon, 27 Apr 2026 06:47:53 GMT",
+      "publishedAt": "Mon, 27 Apr 2026 16:19:02 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil Prices Set for Another Weekly Decline as Iran Risks Recede - EnergyNow",
+      "source": "EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbEV5UWVIMG41ZnplUlJEbTNFRURkN05GQVVzazBxNVZpNHJqZVp4X2pXWGtCXzdyNmVlVWtUUEVfbC1DSmFySWo3QmVxMVhLWGtYUFRRNXlwN1Q4UVFGX0tid2tPNDl2RzVBSElEeUdLbXNZTjdKMkROcmF0bjZQLUlQVUlYLWU1bE9iREt1U3huVFRvMW5z?oc=5",
+      "description": "Oil Prices Set for Another Weekly Decline as Iran Risks Recede EnergyNow",
+      "publishedAt": "Mon, 27 Apr 2026 14:20:25 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Average monthly Brent crude oil price from August 2023 to March 2026 - Statista",
+      "source": "Statista",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSml3c2ZEWWw3QlhZN2FnTXBtcVhiYWJfOWxUVWZHWkJhUWVaTG1oaVhCZVZjLXJIZ3d0NmptZnQxU0V1djVnWFdpcEM1MktjQ2R1THZmYk5Ec1l2SnU1M3laclZuQ0lXelV1bm9MTWVhWWRMOWNBOHg4TjZWMGNhaWVYTEFUd1BjY1EyMnJkbnJNUQ?oc=5",
+      "description": "Average monthly Brent crude oil price from August 2023 to March 2026 Statista",
+      "publishedAt": "Fri, 24 Apr 2026 07:00:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -233,47 +242,38 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices rise and stocks give back part of record-breaking rally following latest Iran tensions - PBS",
-      "source": "PBS",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMXJ2M1pvSFZLQ1lCZmR2Y1hfazVUUFNXcV9vUHdwYmFlTGRHNE9UeXBYZk5CNXItcUlBTkRxN0lQTDhqY2lNWEN3MExYUUpjS1RvTVVZRmNOTnMteGdDQUZDMUxSaW91OGFwVGxBaEM2X0lHUEp2QWo0dDZodmpKRnFlWGdiQ1o4TE9XLVdoSEQ3bnRfMGhTZW9NZzBCZG5LWWc0V2hmUEozVGdHMEV6eU8xOHpSZW1qVUlrUFBhak4yUTBuUnd5SnAzckx5UQ?oc=5",
-      "description": "Oil prices rise and stocks give back part of record-breaking rally following latest Iran tensions PBS",
-      "publishedAt": "Mon, 20 Apr 2026 18:44:27 GMT",
+      "title": "U.S. stocks inch to more records as oil prices rise ahead of a blockbuster week for Wall Street - BNN Bloomberg",
+      "source": "BNN Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWHdTLVU2MDRmbmlONUI1ZHhVdzE2UGZaRHNUNFlDRkFyak5GWVNmT3U1UzVob3RWMS1kTmFtYzdUWW5TSzVkdEMzUGZUejZCalVTM2NUbDFTLXF4dUVyQ2xXM1pBTk40WXdlV1YwVDRMcTdNN3FBMDV4X0RPcFhnYWUyMEFrYktKVGw2VDNyNTF2WkxZX0RGZ183aFNUZUFycV9YME1DRm5hTVhfbWxFMndkM1huc29WRnFPX2g2TkZwcko5SUR6YQ?oc=5",
+      "description": "U.S. stocks inch to more records as oil prices rise ahead of a blockbuster week for Wall Street BNN Bloomberg",
+      "publishedAt": "Mon, 27 Apr 2026 21:13:58 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil prices jump amid renewed tensions over the Strait of Hormuz - NBC News",
-      "source": "NBC News",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbGNIc09VeXBDZGhfVUNEd25aRl9tQ2RYcVhLYWJuNC00OXBwSWQteE9wWjQ2U1k3SG9rdTczUV9ibDhqMndvYk5xNGFJOU56QlJSR2V2Q1BJODRYemhLNF9OZEtxVXJ6Z1FQZDM2TDNHeXhNZkpzZTExU19TY3phLUFBWnRWcktsV1JUMm92NnEzZERnWk42QzBMV21QRTA?oc=5",
-      "description": "Oil prices jump amid renewed tensions over the Strait of Hormuz NBC News",
-      "publishedAt": "Mon, 20 Apr 2026 17:27:00 GMT",
+      "title": "Gold (XAU/USD) Selloff Deepens: Technical breakdown and rising Oil prices accelerates bearish momentum - marketpulse.com",
+      "source": "marketpulse.com",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZEZPbm9GbnhlNTNhWExRUUNyWnhmNjU1VnNKcFVmUUFRR2lLSE1LTDNxQXlFV1JkVFlnMXZ0Yjg5UjlIQnQ3RUhVWlZ4TXNkNDM5MUxzVkVsUDU4VV84TFJ1RlZ0bEQyT3BIX2tPVVpaZDFRY0IxMnFNZjJ6WVMwdVk2RDFlU3RJTWZzOUJSMEpxa0RIRE1GRzZ5WDNWdzJDc0R3c29nV2g5U0dwT0tYVS1VclNoZXFiNFMtcTlDOHNQU21NTDFXanVsVWMtb2xs?oc=5",
+      "description": "Gold (XAU/USD) Selloff Deepens: Technical breakdown and rising Oil prices accelerates bearish momentum marketpulse.com",
+      "publishedAt": "Sun, 26 Apr 2026 07:00:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil prices rise after Trump says Iranian ship seized - BBC",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yR2laSVRwLW45ZkMyS3VXdmFMc1Z4cVBrclZjZkprdEVsYlMxMURWcW1fWUIycGR3QjQtTTRoZVBrUzBRMUdIQXJROVZsTjNzVDVmYlVQMVVidw?oc=5",
-      "description": "Oil prices rise after Trump says Iranian ship seized BBC",
-      "publishedAt": "Mon, 20 Apr 2026 20:33:01 GMT",
+      "title": "US stocks drift in early trading as crude oil prices rise - Powell River Peak",
+      "source": "Powell River Peak",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUmNHem1pMk1MX0ZxeGhmLURtLWs3UVB4TV8zSWs5Nm5XRGVEOGZtYno1dzFwSnBBYXVBeWNCNnVzWUk2ZmQ3dmNqUWdfM3FETlpvbW95U05YZjRIWGRWSGxHUTJPbjFDclpyQ3B6NG9EQ25DN3FtMzJhSzNhX3U4QmtUV3h2dzBGRkcxQ3U2dzRDUEFycDAzRXl3MUxnOU9UcldmLWJNNnVBaVE?oc=5",
+      "description": "US stocks drift in early trading as crude oil prices rise Powell River Peak",
+      "publishedAt": "Mon, 27 Apr 2026 13:37:24 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil prices mixed as U.S. and Iran expected to hold talks in Pakistan - CNBC",
+      "title": "Brent oil rises above $100 after Iran seizes container ships, U.S. maintains naval blockade - CNBC",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOU0xHaGRYbVZtQkhSWW9EUHhFYmk5U1o5NUJ5SGlfYjhQTzRORW1hdlVfaTNsbDJrSUIxZTExUlRLN181SHRqMF9NTHhPRU00Qk41NXl6ZE9CNXJjRVEwUExWUHJmN21nQVhfeUlzR0gwUUJmRjlzUTd3dTgyTjJaVHV6MU5NMHNuQjhES1FVYWlWc2l3MGVfOVYzNEhlUdIBowFBVV95cUxQNVdnYkZPR1AxaTgwQVAwQ1VsRmNTTlI0aGU1amJoeDE0TWM0WGxEYjhTZEtNSlV5UHhGS3pYeThWdkxxdHZRa0xscmNWaWVDQWdUdTlaUEJqWExRaG9Pa18xYklIMWE2clhkaXByUHp5bHlQX1gzWEdtOGdIMld4TllrRGU1aEVVNzBEdTI5U0VySDlwYmVRRnh6RzIwQ2NPVU9n?oc=5",
-      "description": "Oil prices mixed as U.S. and Iran expected to hold talks in Pakistan CNBC",
-      "publishedAt": "Fri, 24 Apr 2026 01:55:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Garry Marr: When it comes to summer vacation planning, we're all commodities traders now - Financial Post",
-      "source": "Financial Post",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQalNUTGUxYXVpdkp1U0M4N0dEdnVqRUxDUU1xY0EtbnBneEZ0ckdhUTBRSGpyWWNKX0RkTzA1SkxNeS1icWxZazZJay1HeTVIUHp4MHBoZXRIWWNGdDhvLS10bURZQnZ2Yks1R296YnI2cWVRel96ME9pa2FfUHNVNTU4M1NoR1F2Qk9n?oc=5",
-      "description": "Garry Marr: When it comes to summer vacation planning, we're all commodities traders now Financial Post",
-      "publishedAt": "Tue, 21 Apr 2026 18:54:18 GMT",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTENqdl9zMzR6dkctaTdnMFlfQXc0eGJoTkZmVkRwQzRJNjJHdXpQRGV0ZS1NRFcxblI4cHV2cUVXS2c1a2lweUNZdXEzYkduaFlCd3Z2R2xrRkt4TU5JMU9FRGhmOENFVjJYRnRJQ3RCSzdNb1QzeU9JUnp1T25uS3RNdGJJbEdIWHdEN3JfNllWTFlaTnhreHJWZWnSAaIBQVVfeXFMUGRSbWx6Z3FWSDJLb2trVGx5WHZ4TnFWblU2RlM1WWgyRnFNSE96OFRhZ0g2UGpLWkFWZzlHUWo0WW5PcmFLRktvN0Q1ZEUxbDBKYmFjRl85Vk5ONVNxUDJKNk9SelRqcUpENk9Banl4ZGNIX0tUek5qXzVTREZkSkVaNVlsTm9uaWRGdlNrMmx3ZnZlZmVJOV93T2tkeDFBdkxn?oc=5",
+      "description": "Brent oil rises above $100 after Iran seizes container ships, U.S. maintains naval blockade CNBC",
+      "publishedAt": "Wed, 22 Apr 2026 00:57:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
