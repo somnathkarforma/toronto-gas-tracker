@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-28 11:19 UTC",
+  "generatedAt": "2026-04-29 10:32 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
     "regular": 176.9,
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Apr 28"
+      "Apr 29"
     ],
     "regular": [
       150.7,
@@ -150,13 +150,13 @@
   },
   "prediction": {
     "labels": [
-      "Apr 29",
       "Apr 30",
       "May 01",
       "May 02",
       "May 03",
       "May 04",
-      "May 05"
+      "May 05",
+      "May 06"
     ],
     "regular": [
       177.9,
@@ -206,20 +206,11 @@
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Set for Another Weekly Decline as Iran Risks Recede - EnergyNow",
-      "source": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbEV5UWVIMG41ZnplUlJEbTNFRURkN05GQVVzazBxNVZpNHJqZVp4X2pXWGtCXzdyNmVlVWtUUEVfbC1DSmFySWo3QmVxMVhLWGtYUFRRNXlwN1Q4UVFGX0tid2tPNDl2RzVBSElEeUdLbXNZTjdKMkROcmF0bjZQLUlQVUlYLWU1bE9iREt1U3huVFRvMW5z?oc=5",
-      "description": "Oil Prices Set for Another Weekly Decline as Iran Risks Recede EnergyNow",
-      "publishedAt": "Mon, 27 Apr 2026 14:20:25 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Average monthly Brent crude oil price from August 2023 to March 2026 - Statista",
-      "source": "Statista",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSml3c2ZEWWw3QlhZN2FnTXBtcVhiYWJfOWxUVWZHWkJhUWVaTG1oaVhCZVZjLXJIZ3d0NmptZnQxU0V1djVnWFdpcEM1MktjQ2R1THZmYk5Ec1l2SnU1M3laclZuQ0lXelV1bm9MTWVhWWRMOWNBOHg4TjZWMGNhaWVYTEFUd1BjY1EyMnJkbnJNUQ?oc=5",
-      "description": "Average monthly Brent crude oil price from August 2023 to March 2026 Statista",
-      "publishedAt": "Fri, 24 Apr 2026 07:00:00 GMT",
+      "title": "Here’s what an expert thinks about the UAE’s OPEC exit - CTV News",
+      "source": "CTV News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSWVtSWxrT0YzZHZNYy1Jc2kyOVZjbWw1VVJUODZ6TGhQYTdpcVk0MlV4UERfdE9pc3FfNi1iMHQ5OU81dTRzNXVVMEFuMl9zWWt4UnNQN3Awamg4Q084OUlReGFLc29HSnFhdkd0eWtQRW9pOFlPNmdFaTNRSklqclNEQ3ZhbmRmWHBQMXdyVWJlMWNGRmZBdWI3bTk0VWdSaWhIbEdzLUJVN0N5MEE?oc=5",
+      "description": "Here’s what an expert thinks about the UAE’s OPEC exit CTV News",
+      "publishedAt": "Tue, 28 Apr 2026 18:26:39 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -251,11 +242,20 @@
       "impact": "medium"
     },
     {
-      "title": "Gold (XAU/USD) Selloff Deepens: Technical breakdown and rising Oil prices accelerates bearish momentum - marketpulse.com",
-      "source": "marketpulse.com",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZEZPbm9GbnhlNTNhWExRUUNyWnhmNjU1VnNKcFVmUUFRR2lLSE1LTDNxQXlFV1JkVFlnMXZ0Yjg5UjlIQnQ3RUhVWlZ4TXNkNDM5MUxzVkVsUDU4VV84TFJ1RlZ0bEQyT3BIX2tPVVpaZDFRY0IxMnFNZjJ6WVMwdVk2RDFlU3RJTWZzOUJSMEpxa0RIRE1GRzZ5WDNWdzJDc0R3c29nV2g5U0dwT0tYVS1VclNoZXFiNFMtcTlDOHNQU21NTDFXanVsVWMtb2xs?oc=5",
-      "description": "Gold (XAU/USD) Selloff Deepens: Technical breakdown and rising Oil prices accelerates bearish momentum marketpulse.com",
-      "publishedAt": "Sun, 26 Apr 2026 07:00:00 GMT",
+      "title": "UAE's shock OPEC exit: What it means for the oil cartel's future and for crude prices - CNBC",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9YYWFLSFlHSk1QWGxCZVNtWnVqcTZQdk9jb3RGYnJuRTV3NDh1S1VzNEVKSzBmWDN2cDlNZ2k5bS1oSjNRdWozeXVjMllsQnlUQTFpaE9jMmdMU0FGTWxKdzg3SUVBOTVpeXExWjVtWdIBdEFVX3lxTE5zV3NmcXZLRGMwQjQ3VzBfYW9YeFNZd0NiZEE3cW5tQUdBNU1GLWxKSU16WF9OaTNEa1Y1Y0NnbXNmRzcyWDJOdUQtV1JPekhRcXQtRW9faUZGMEpSMnAxNnRIajRBaXh0bDZkSXg3YVJ1aDFE?oc=5",
+      "description": "UAE's shock OPEC exit: What it means for the oil cartel's future and for crude prices CNBC",
+      "publishedAt": "Tue, 28 Apr 2026 19:17:44 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "U.A.E. quits OPEC: Here’s what it means for oil prices and the economy - MarketWatch",
+      "source": "MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMl9DOXNlR21EVXpSXzg0QVNLSkpjb2ZlQWlneHBMdlJzdzNLQUdZY2VoOV85OVR2MzN3UDZYdmxHVVVsZzN3cHpEV0R1ZmFUU3Q0X0R1N2ZkdkxWc25oN0NCTHRQUElaLTN1WmpNdXJnd0JzWFQ4M3N5eUt2TXMxY1dwLXR1NFg4SFRtMHREVTd3aUZoZkZwTDZ6OFkydjcyQ0xPakxndW1ZeGVfMnpxYmJB?oc=5",
+      "description": "U.A.E. quits OPEC: Here’s what it means for oil prices and the economy MarketWatch",
+      "publishedAt": "Tue, 28 Apr 2026 13:32:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -269,11 +269,11 @@
       "impact": "medium"
     },
     {
-      "title": "Brent oil rises above $100 after Iran seizes container ships, U.S. maintains naval blockade - CNBC",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTENqdl9zMzR6dkctaTdnMFlfQXc0eGJoTkZmVkRwQzRJNjJHdXpQRGV0ZS1NRFcxblI4cHV2cUVXS2c1a2lweUNZdXEzYkduaFlCd3Z2R2xrRkt4TU5JMU9FRGhmOENFVjJYRnRJQ3RCSzdNb1QzeU9JUnp1T25uS3RNdGJJbEdIWHdEN3JfNllWTFlaTnhreHJWZWnSAaIBQVVfeXFMUGRSbWx6Z3FWSDJLb2trVGx5WHZ4TnFWblU2RlM1WWgyRnFNSE96OFRhZ0g2UGpLWkFWZzlHUWo0WW5PcmFLRktvN0Q1ZEUxbDBKYmFjRl85Vk5ONVNxUDJKNk9SelRqcUpENk9Banl4ZGNIX0tUek5qXzVTREZkSkVaNVlsTm9uaWRGdlNrMmx3ZnZlZmVJOV93T2tkeDFBdkxn?oc=5",
-      "description": "Brent oil rises above $100 after Iran seizes container ships, U.S. maintains naval blockade CNBC",
-      "publishedAt": "Wed, 22 Apr 2026 00:57:00 GMT",
+      "title": "Higher oil prices set to give feds a 'windfall' in next budget - CBC",
+      "source": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQUQxZmNndzcxQUxhc3lJODNib3IzWjRXOFlaa0FoSFYtRHM1UVJxbTdvX1k4TXY3bWpqZWdkMzlMbTdkR0d6VE1nQ1lMckN2U0VLTkYxUlAwVDMyMGp5aUJZcnI0NExOdzJRQXhTWGhCbEV5OUttZDluVTBFaXRNV09Hcw?oc=5",
+      "description": "Higher oil prices set to give feds a 'windfall' in next budget CBC",
+      "publishedAt": "Wed, 29 Apr 2026 08:00:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
