@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-04-30 10:29 UTC",
+  "generatedAt": "2026-05-01 06:33 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 179.9,
-    "premium": 197.9,
-    "diesel": 190.4
+    "regular": 186.9,
+    "premium": 204.9,
+    "diesel": 197.4
   },
   "history": {
     "labels": [
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Apr 30"
+      "May 01"
     ],
     "regular": [
       150.7,
@@ -75,7 +75,7 @@
       155.9,
       174.9,
       186.9,
-      179.9
+      186.9
     ],
     "premium": [
       168.7,
@@ -110,7 +110,7 @@
       173.9,
       192.9,
       204.9,
-      197.9
+      204.9
     ],
     "diesel": [
       161.2,
@@ -145,54 +145,63 @@
       166.4,
       185.4,
       197.4,
-      190.4
+      197.4
     ]
   },
   "prediction": {
     "labels": [
-      "May 01",
       "May 02",
       "May 03",
       "May 04",
       "May 05",
       "May 06",
-      "May 07"
+      "May 07",
+      "May 08"
     ],
     "regular": [
-      180.9,
-      181.8,
-      182.8,
-      183.7,
-      184.7,
-      185.7,
-      186.6
+      187.9,
+      188.8,
+      189.8,
+      190.7,
+      191.7,
+      192.7,
+      193.6
     ],
     "premium": [
-      198.9,
-      199.8,
-      200.8,
-      201.7,
-      202.7,
-      203.7,
-      204.6
+      205.9,
+      206.8,
+      207.8,
+      208.7,
+      209.7,
+      210.7,
+      211.6
     ],
     "diesel": [
-      191.4,
-      192.3,
-      193.3,
-      194.2,
-      195.2,
-      196.2,
-      197.1
+      198.4,
+      199.3,
+      200.3,
+      201.2,
+      202.2,
+      203.2,
+      204.1
     ]
   },
   "news": [
     {
-      "title": "Higher oil prices set to give feds a 'windfall' in next budget - CBC",
+      "title": "Oil prices hit new wartime high before easing, as gas prices expected to go up - CBC",
       "source": "CBC",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQUQxZmNndzcxQUxhc3lJODNib3IzWjRXOFlaa0FoSFYtRHM1UVJxbTdvX1k4TXY3bWpqZWdkMzlMbTdkR0d6VE1nQ1lMckN2U0VLTkYxUlAwVDMyMGp5aUJZcnI0NExOdzJRQXhTWGhCbEV5OUttZDluVTBFaXRNV09Hcw?oc=5",
-      "description": "Higher oil prices set to give feds a 'windfall' in next budget CBC",
-      "publishedAt": "Wed, 29 Apr 2026 11:42:38 GMT",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9GYnRRN016OTd1VFJVbkY4MjNzNWc1OC1ndjRncm4xN1NUNWNDZlhiY05USV9QMkVmMFAxV2FBUWNzZVdHdEt4cGtBRXVITl9zcnZWbHJsMlNrTFA1cVIzcWtfOEFUczBBWm1jV3JKX1RXUE9o?oc=5",
+      "description": "Oil prices hit new wartime high before easing, as gas prices expected to go up CBC",
+      "publishedAt": "Thu, 30 Apr 2026 20:30:11 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Crude prices could surge to around US$150 per barrel: TD - BNN Bloomberg",
+      "source": "BNN Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeWF4SXBKSl9fSGtGejYwSlJKNDBfYTRrajVreXZLN3JHQzNtM1Fzc2FkU0pFRGtFZ18tNnpsV0VjWHozcHNwUUFZOWZDak5QQmlLaXMyQW9UZlFTdWUzN044d3N3TkFmMUNLZDBUeG9iZTMzY2NicHlweEkyUENlQXdVTG8xc3UtZ1JkNFZVVzZNV193NGkyOUpkZXRfYk51emt1bDBQZHozRjJOa3JrWF94SUhPVXdOQVE?oc=5",
+      "description": "Crude prices could surge to around US$150 per barrel: TD BNN Bloomberg",
+      "publishedAt": "Wed, 29 Apr 2026 20:14:48 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -206,20 +215,11 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices soar on fears of long supply disruption, US siege of Iran ports - Al Jazeera",
+      "title": "Oil prices rise amid stalled US-Iran peace talks - Al Jazeera",
       "source": "Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYjctTjZZNnQ5NElPYUZmZDFENEtoLTNRV3NsZ2lHVzVNN3dsSEhzckNZaG5HOGozalVBc1pBb3hUZVBiWnVhM2ZFZkM2by1RWTVhLUp3XzduSWp0RmlFbGZ0eHR1S042MFlWbUZqTlRnVTJUcW8wTkI3TkE5bDNSWl95SkU4Z3YwbThCdjRYY3EzNjdobjNuUG1LdWZvZndRcVJNOWd1T3pkRlN1MzhiLUI5UE_SAboBQVVfeXFMT3Njb3RfOFhZcUpGTktFVDc5S0JsZVVhZnowaUEwSmZWVlZSTnBuS3BTWTByZUlVNFozTnVrZDJ0ZXYxNHRpQTdXaUlyaUMybUJ3Q21aLVFUeDI3SWNlWEZ1LTY5S210TWhMcE96cTZfYnR5QWluZHJYMXlidF9abHltM2tmX0xCVW9BcXpTMnlEMy1KRHo2VU4xbWpQdzBmbnFWZzRJbXpzX3NTbzQtRVYwc0FSVE9GU0t3?oc=5",
-      "description": "Oil prices soar on fears of long supply disruption, US siege of Iran ports Al Jazeera",
-      "publishedAt": "Thu, 30 Apr 2026 04:11:30 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "How to Interpret Wartime Oil Prices - CSIS | Center for Strategic and International Studies",
-      "source": "CSIS | Center for Strategic and International Studies",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1wdWdIXzNkTW1ZSkh3WXlDZHh4OXhnZGpHNXNRenFRZ0RzUVlhbkF2QXdadE1ZeGRISE9obU5OSGs4b0V3RUx3ZlNqY3ctVDVMeV9obWZvMjh1b0RpWENmM3dIVlp5Z1Awb3ZQdlRXWQ?oc=5",
-      "description": "How to Interpret Wartime Oil Prices CSIS | Center for Strategic and International Studies",
-      "publishedAt": "Fri, 24 Apr 2026 15:45:35 GMT",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV25GWjMzUGZKdEVfT0xUWHJzeWJRNW9fbHlYOG9hNHg5NTExSENjZGRjYmlCODMwMW5Zc2FCc0hVQlZhR282Yzl5SVZaV0N5NTZTTzJlaDRvclJ1c3FuVjhVclFDWTdIYzVYQnA4UlZJMzZEOVhCa1NOalVaamwyNlFtOTRvZUd3aUVOdWlMM3NQUDc4VzFYYUhyb3pqaHND0gGmAUFVX3lxTE1oa2RHOVJHQXp0ZHZxVmpRT2N6WTdsa2VrV2pTQk9sZ21NV1hyU1IzZlBnMThEWUdiUEJ6S3dVSE1BbGhUR2R4aS1QenkzZHlMM29FUll5alEyT19LLWR5TTBYaWtlV2p3U2lZbXFlQmhTZEhhc0l0VUx5Q2FIQXlXMnJaMzU1TlRORWVQRVRVbnoySlAxSDJJdUVUbm5EdVFtN3VSU0E?oc=5",
+      "description": "Oil prices rise amid stalled US-Iran peace talks Al Jazeera",
+      "publishedAt": "Mon, 27 Apr 2026 16:19:02 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -233,11 +233,38 @@
       "impact": "medium"
     },
     {
-      "title": "U.S. stocks inch to more records as oil prices rise ahead of a blockbuster week for Wall Street - BNN Bloomberg",
-      "source": "BNN Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWHdTLVU2MDRmbmlONUI1ZHhVdzE2UGZaRHNUNFlDRkFyak5GWVNmT3U1UzVob3RWMS1kTmFtYzdUWW5TSzVkdEMzUGZUejZCalVTM2NUbDFTLXF4dUVyQ2xXM1pBTk40WXdlV1YwVDRMcTdNN3FBMDV4X0RPcFhnYWUyMEFrYktKVGw2VDNyNTF2WkxZX0RGZ183aFNUZUFycV9YME1DRm5hTVhfbWxFMndkM1huc29WRnFPX2g2TkZwcko5SUR6YQ?oc=5",
-      "description": "U.S. stocks inch to more records as oil prices rise ahead of a blockbuster week for Wall Street BNN Bloomberg",
-      "publishedAt": "Mon, 27 Apr 2026 21:13:58 GMT",
+      "title": "How to Interpret Wartime Oil Prices - CSIS | Center for Strategic and International Studies",
+      "source": "CSIS | Center for Strategic and International Studies",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1wdWdIXzNkTW1ZSkh3WXlDZHh4OXhnZGpHNXNRenFRZ0RzUVlhbkF2QXdadE1ZeGRISE9obU5OSGs4b0V3RUx3ZlNqY3ctVDVMeV9obWZvMjh1b0RpWENmM3dIVlp5Z1Awb3ZQdlRXWQ?oc=5",
+      "description": "How to Interpret Wartime Oil Prices CSIS | Center for Strategic and International Studies",
+      "publishedAt": "Fri, 24 Apr 2026 15:45:35 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "In five charts - How UAE's exit could affect Opec's influence over the oil price - BBC",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WVzdkVmt5dDAxZ1gwUkJhOUVRWEdKd3FEQUlDNDhoTERhREFrSFdNQ09qaldvY09xdzRmV2xiSXQxMkZ1UnhYRWxZMlFFWE5YaVdRbUo3LUpxUQ?oc=5",
+      "description": "In five charts - How UAE's exit could affect Opec's influence over the oil price BBC",
+      "publishedAt": "Wed, 29 Apr 2026 16:37:08 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Current price of oil as of April 29, 2026 - Fortune",
+      "source": "Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1SbHRoaGVBUlYyeHlpQWhQOHM1TzVGRDNOcEN3MEJJZzRUeExrWUNZdkx6ZTlwU2xPeFl3OGYxakhvOG5EOFhRc3VFNGZpWmQ4Wm0xUTJQZFJ0MUJxdkJEMUJB?oc=5",
+      "description": "Current price of oil as of April 29, 2026 Fortune",
+      "publishedAt": "Wed, 29 Apr 2026 12:58:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Why oil prices predicted by financial markets are missing the mark - marketplace.org",
+      "source": "marketplace.org",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY3JHR2xOVG5HR1RPVGFFczBUT2ZHb2hheWItLXNGZ1Q5QnhqS0xqRmctanp1TEk5TllyMWhWbC1hNlNRaGxkNXBPX2ZtdjVya3lVZFByYnduWHFHYUFWakFlT094SkpPNjJKRmdCMFhhVE83elhjZ2tUNXljMVRpLUFldlpWOWpWdVI1QTJ4WUZnTGJTbWtIdklfbWhuU0xEMmZXeGJHZUtXNDdGcDJWeA?oc=5",
+      "description": "Why oil prices predicted by financial markets are missing the mark marketplace.org",
+      "publishedAt": "Thu, 30 Apr 2026 21:05:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -247,33 +274,6 @@
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9YYWFLSFlHSk1QWGxCZVNtWnVqcTZQdk9jb3RGYnJuRTV3NDh1S1VzNEVKSzBmWDN2cDlNZ2k5bS1oSjNRdWozeXVjMllsQnlUQTFpaE9jMmdMU0FGTWxKdzg3SUVBOTVpeXExWjVtWdIBdEFVX3lxTE5zV3NmcXZLRGMwQjQ3VzBfYW9YeFNZd0NiZEE3cW5tQUdBNU1GLWxKSU16WF9OaTNEa1Y1Y0NnbXNmRzcyWDJOdUQtV1JPekhRcXQtRW9faUZGMEpSMnAxNnRIajRBaXh0bDZkSXg3YVJ1aDFE?oc=5",
       "description": "UAE's shock OPEC exit: What it means for the oil cartel's future and for crude prices CNBC",
       "publishedAt": "Tue, 28 Apr 2026 19:17:44 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "US stocks drift in early trading as crude oil prices rise - Powell River Peak",
-      "source": "Powell River Peak",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUmNHem1pMk1MX0ZxeGhmLURtLWs3UVB4TV8zSWs5Nm5XRGVEOGZtYno1dzFwSnBBYXVBeWNCNnVzWUk2ZmQ3dmNqUWdfM3FETlpvbW95U05YZjRIWGRWSGxHUTJPbjFDclpyQ3B6NG9EQ25DN3FtMzJhSzNhX3U4QmtUV3h2dzBGRkcxQ3U2dzRDUEFycDAzRXl3MUxnOU9UcldmLWJNNnVBaVE?oc=5",
-      "description": "US stocks drift in early trading as crude oil prices rise Powell River Peak",
-      "publishedAt": "Mon, 27 Apr 2026 13:37:24 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil jumps to highest price since 2022 after report Trump to be briefed on new Iran options - BBC",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsbzF3QzZBT2o2cXFBNG5fNGpwYlJwVnhndmg0ZE9DV1hSaTJvXzdsRjVNTEt4cmZqNVJDZjJQamVZYVZFWkc3bE9aS0R6S29VYVFqSy1FU3pUZw?oc=5",
-      "description": "Oil jumps to highest price since 2022 after report Trump to be briefed on new Iran options BBC",
-      "publishedAt": "Thu, 30 Apr 2026 09:51:52 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil price tops $126 a barrel after Trump warns Iran blockade could last ‘months’ - The Guardian",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdW5OMHhKMTZRcWVCZ2NNQWJmWWl6d2VvSkhoOEZWeXFNQTRFSkN5MHNaV3BXV0ZEempTdW9LUEtSWE5PVm5PNVIwbWw3V2JqSjJiUG9fMXB5NmRRellNcXZYdFpKblMtNWxfUlU2My1ZcmtkNEdodV8wdmdNdGtpak5EU2JOSlJoTzFPd3l2cTg1ZTBmTkRYQkpscmpsOUdWNmNOZ2dnQUZoM2VDREpxak1QY0k?oc=5",
-      "description": "Oil price tops $126 a barrel after Trump warns Iran blockade could last ‘months’ The Guardian",
-      "publishedAt": "Thu, 30 Apr 2026 02:55:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
