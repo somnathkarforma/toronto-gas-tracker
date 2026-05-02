@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01 06:33 UTC",
+  "generatedAt": "2026-05-02 06:02 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
     "regular": 186.9,
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "May 01"
+      "May 02"
     ],
     "regular": [
       150.7,
@@ -150,13 +150,13 @@
   },
   "prediction": {
     "labels": [
-      "May 02",
       "May 03",
       "May 04",
       "May 05",
       "May 06",
       "May 07",
-      "May 08"
+      "May 08",
+      "May 09"
     ],
     "regular": [
       187.9,
@@ -206,11 +206,11 @@
       "impact": "medium"
     },
     {
-      "title": "JPMorgan Says Oil Prices Still Have Further to Rise - Crude Oil Prices Today | OilPrice.com",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWmJ2QVprR3ZyOHhMU0U4UTUxMW0ybTFrNUlZd095RHpubzNzTjNqN1RIWHVJOVN3TVRGLUQ5LVlKVW1DTGRRZ0RGU01MVEFMV2NwVjUzLWNtX2NyWUFKdDZMVzFaUGI3dmdoS2hFSGxiaTFZa18xUFl6amY4LW9fSEhoTG94NlJHeS1pM29DcDJZSWVyZ0dtVXZfMGtLXzlTYzVBbUQ2U2o1Y03SAbABQVVfeXFMUEoyUi1XUzcxeVNpMWRYY090YVV2Qm5HeEtTRm1TRmpET3NLRmdVdGJ6QzduU2ZMS203V1FrTExlcUNiLWRLQXRTazNtQkxuX1Vkckd6S3haV19EVnU3emh2RXZvc19kbWUyc2pTdzVyYkpaRi0yUUhYeDZoQXpXRjdlNnQzVV9XMzhWaG1JaWoxdmMtenlxOTBoSV9TS2NNa29RR2QyOERrMmFEakR1V28?oc=5",
-      "description": "JPMorgan Says Oil Prices Still Have Further to Rise Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Fri, 24 Apr 2026 14:30:00 GMT",
+      "title": "Oil Prices Set for Another Weekly Decline as Iran Risks Recede - EnergyNow",
+      "source": "EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbEV5UWVIMG41ZnplUlJEbTNFRURkN05GQVVzazBxNVZpNHJqZVp4X2pXWGtCXzdyNmVlVWtUUEVfbC1DSmFySWo3QmVxMVhLWGtYUFRRNXlwN1Q4UVFGX0tid2tPNDl2RzVBSElEeUdLbXNZTjdKMkROcmF0bjZQLUlQVUlYLWU1bE9iREt1U3huVFRvMW5z?oc=5",
+      "description": "Oil Prices Set for Another Weekly Decline as Iran Risks Recede EnergyNow",
+      "publishedAt": "Thu, 30 Apr 2026 22:38:31 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -224,20 +224,11 @@
       "impact": "medium"
     },
     {
-      "title": "Soaring oil prices might force ‘consecutive’ rate hikes, Macklem warns - Global News",
-      "source": "Global News",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPc0tQSFJQREhOMjZMME5ELVN2d1lRYm5xWV9ITVFuMzBmQllTdWlnVDA0NVFJYmczNTZxYVg4VlVYSVdaTUY4YnpiN0cwNlBTaG5QeVg2NklQV213UlRFai1nYm1STWk2bkVCMGVjVWc1QjBBLXJuV2hkUTkxTjBiZlhR?oc=5",
-      "description": "Soaring oil prices might force ‘consecutive’ rate hikes, Macklem warns Global News",
-      "publishedAt": "Wed, 29 Apr 2026 13:45:29 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "How to Interpret Wartime Oil Prices - CSIS | Center for Strategic and International Studies",
-      "source": "CSIS | Center for Strategic and International Studies",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1wdWdIXzNkTW1ZSkh3WXlDZHh4OXhnZGpHNXNRenFRZ0RzUVlhbkF2QXdadE1ZeGRISE9obU5OSGs4b0V3RUx3ZlNqY3ctVDVMeV9obWZvMjh1b0RpWENmM3dIVlp5Z1Awb3ZQdlRXWQ?oc=5",
-      "description": "How to Interpret Wartime Oil Prices CSIS | Center for Strategic and International Studies",
-      "publishedAt": "Fri, 24 Apr 2026 15:45:35 GMT",
+      "title": "Brent Tops $114 as Market Braces for Prolonged Disruption - Crude Oil Prices Today | OilPrice.com",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdkwxUy1lcmdycVByX1VLRlFJczA4ek1uR3JzZ04wdzFKSF9JdTJrSm5FdTlrRmNIZ0k5Z21LSjBOaU0xUDc5Y1hlaURsVkx6c1dfSUw4NmV5X0ZRQnFtOFUtVXRvblV5Rzllb2tVZ2ZoamNTLUdEelN3VGJmS1l3WnB1Z1p2a09jY0dSTEozdDlGUV91NUVPUWhnZTd2MlExM1JXakZkalhncXY2NTVfUXRLUGp5Y192enBtNmdJY9IBxAFBVV95cUxOdDEzTDVQaC1zYllrOUh2cGxuTXV5ZTM5Tk1UdHZVRUI3eTFVbFo3NDNpUVlPbWtLQThidEVfeUJqNkcwS1BqOF95c1BxblR0RnpITFhNRzhJRlhnWDNINkpuX1o1TGg4UVppYjZVX1RMV0hiN2RabzNKSC13dlljVVRiaGxieGJ3eWRzTlhkbklkSmh5UnBnT3M3X19PSzZjX0I2cVJjanJPSkw2MjdLaThCVmZSOHFNMVFsOFpZcXpzWHBv?oc=5",
+      "description": "Brent Tops $114 as Market Braces for Prolonged Disruption Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Wed, 29 Apr 2026 09:25:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -251,15 +242,6 @@
       "impact": "medium"
     },
     {
-      "title": "Current price of oil as of April 29, 2026 - Fortune",
-      "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1SbHRoaGVBUlYyeHlpQWhQOHM1TzVGRDNOcEN3MEJJZzRUeExrWUNZdkx6ZTlwU2xPeFl3OGYxakhvOG5EOFhRc3VFNGZpWmQ4Wm0xUTJQZFJ0MUJxdkJEMUJB?oc=5",
-      "description": "Current price of oil as of April 29, 2026 Fortune",
-      "publishedAt": "Wed, 29 Apr 2026 12:58:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
       "title": "Why oil prices predicted by financial markets are missing the mark - marketplace.org",
       "source": "marketplace.org",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY3JHR2xOVG5HR1RPVGFFczBUT2ZHb2hheWItLXNGZ1Q5QnhqS0xqRmctanp1TEk5TllyMWhWbC1hNlNRaGxkNXBPX2ZtdjVya3lVZFByYnduWHFHYUFWakFlT094SkpPNjJKRmdCMFhhVE83elhjZ2tUNXljMVRpLUFldlpWOWpWdVI1QTJ4WUZnTGJTbWtIdklfbWhuU0xEMmZXeGJHZUtXNDdGcDJWeA?oc=5",
@@ -269,11 +251,29 @@
       "impact": "medium"
     },
     {
-      "title": "UAE's shock OPEC exit: What it means for the oil cartel's future and for crude prices - CNBC",
+      "title": "Oil prices whipsaw while US stocks glide near their record heights - Coast Reporter",
+      "source": "Coast Reporter",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcmRiNll3OUQzUjB1U1dJakNOYXIydDRJUURlaUszMW9kSXBGVDdqZlNoQy01UkpqVWNyek5TeEVrdmRXSkZybFJocFl2VEpXTDZ6U09HdnlZXzZ6ckVEeXE1ck5vV2ZrWWxrYWdMT25WV1ZCVjJMOGdtTGl5VHVjVjNwVy05UWJrbW51WnlkX1gzdktyQnhhaVhYcXhFWFgwQkpvZEtkOG80aFhCRmZWM0t3aw?oc=5",
+      "description": "Oil prices whipsaw while US stocks glide near their record heights Coast Reporter",
+      "publishedAt": "Thu, 30 Apr 2026 13:37:26 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "How the UAE Leaving OPEC Reshapes Oil Prices and US Energy Stocks - Gotrade",
+      "source": "Gotrade",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVXYybkg1MkJBd1VUZ3NEVjdWR05FVE1uYnJENHRJYUtTZFR3MVE1aFZ5emxPWThrbDBHYkY5TElKVExSUFNyc2xOTDJJR1ItMFBKWnhROGpic2FYTVB1RS1XTHItd0NJUWlyeTJjQ0dDMjF5YUJfQzNhcm9CQ1FzVHp3?oc=5",
+      "description": "How the UAE Leaving OPEC Reshapes Oil Prices and US Energy Stocks Gotrade",
+      "publishedAt": "Thu, 30 Apr 2026 10:05:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Brent oil tops $118 after Trump says he will blockade Iran until it agrees to a nuclear deal - CNBC",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9YYWFLSFlHSk1QWGxCZVNtWnVqcTZQdk9jb3RGYnJuRTV3NDh1S1VzNEVKSzBmWDN2cDlNZ2k5bS1oSjNRdWozeXVjMllsQnlUQTFpaE9jMmdMU0FGTWxKdzg3SUVBOTVpeXExWjVtWdIBdEFVX3lxTE5zV3NmcXZLRGMwQjQ3VzBfYW9YeFNZd0NiZEE3cW5tQUdBNU1GLWxKSU16WF9OaTNEa1Y1Y0NnbXNmRzcyWDJOdUQtV1JPekhRcXQtRW9faUZGMEpSMnAxNnRIajRBaXh0bDZkSXg3YVJ1aDFE?oc=5",
-      "description": "UAE's shock OPEC exit: What it means for the oil cartel's future and for crude prices CNBC",
-      "publishedAt": "Tue, 28 Apr 2026 19:17:44 GMT",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4tdlIyb2xObS1YbXRpanVvbnV6MS1VbXpPQkFsT0g2UEFoYW11S0tHVHdHRGwxbjB0QkpOY3pFSlVoZHFMWEZuaGRYTlNVMG0tVXozM3RKTEFfYVdxMHVDYm5PU3lSbWYySjF6dVplSUNUR3BBNDBR0gF8QVVfeXFMTUNfeFpKNW5ocEhROUVFUDJibUZiZWV2UTY0T0dSa3JseGN2Nmk0MnlpUko3VXVaZC1Ta3JySzhBaE51U05IUk5iczdHYnI1SnpScG50RXRBWFZsU1RBOXhHaUcyU0ZCT3h0Y0FyV0JIRjFsRnVVdl9MRi13Zg?oc=5",
+      "description": "Brent oil tops $118 after Trump says he will blockade Iran until it agrees to a nuclear deal CNBC",
+      "publishedAt": "Wed, 29 Apr 2026 09:29:20 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
