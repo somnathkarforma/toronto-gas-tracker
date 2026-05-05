@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04 06:35 UTC",
+  "generatedAt": "2026-05-05 06:11 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
     "regular": 185.9,
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "May 04"
+      "May 05"
     ],
     "regular": [
       150.7,
@@ -150,13 +150,13 @@
   },
   "prediction": {
     "labels": [
-      "May 05",
       "May 06",
       "May 07",
       "May 08",
       "May 09",
       "May 10",
-      "May 11"
+      "May 11",
+      "May 12"
     ],
     "regular": [
       186.9,
@@ -206,11 +206,11 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices rise amid stalled US-Iran peace talks - Al Jazeera",
+      "title": "Oil prices surge as violence flares in Strait of Hormuz - Al Jazeera",
       "source": "Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV25GWjMzUGZKdEVfT0xUWHJzeWJRNW9fbHlYOG9hNHg5NTExSENjZGRjYmlCODMwMW5Zc2FCc0hVQlZhR282Yzl5SVZaV0N5NTZTTzJlaDRvclJ1c3FuVjhVclFDWTdIYzVYQnA4UlZJMzZEOVhCa1NOalVaamwyNlFtOTRvZUd3aUVOdWlMM3NQUDc4VzFYYUhyb3pqaHND0gGmAUFVX3lxTE1oa2RHOVJHQXp0ZHZxVmpRT2N6WTdsa2VrV2pTQk9sZ21NV1hyU1IzZlBnMThEWUdiUEJ6S3dVSE1BbGhUR2R4aS1QenkzZHlMM29FUll5alEyT19LLWR5TTBYaWtlV2p3U2lZbXFlQmhTZEhhc0l0VUx5Q2FIQXlXMnJaMzU1TlRORWVQRVRVbnoySlAxSDJJdUVUbm5EdVFtN3VSU0E?oc=5",
-      "description": "Oil prices rise amid stalled US-Iran peace talks Al Jazeera",
-      "publishedAt": "Mon, 27 Apr 2026 16:19:02 GMT",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd3A4TkdnV09VZjZvRlJyRDlzTTdHdjFZWkhOYWMyY3NfSmFDazAwcENOQzJaQVowNXBVU2lXWE5xazZzbnRpc1h4NWQ2NDVtclY4MENfVG5iV3JxemlTREdPQVVuY1Q5RU5XbFJmSmM1bFdQY1FhM21nWElDVmRlQWw1dGFZTmFLaDF4SGV0LWQyTU50MTRrRUNqVGNkZUXSAaQBQVVfeXFMUDFnSUQyQTZpTUxKRmhIOEVoNVlaVEI0N2I4Ykc1UW8zdXRWeV9uRU4wM2lpTkloNUxwT05aOWpLTnBDUGpQdHZ3YXExdXVjbW00Mmc5VVQ2cmxiendBRE5QYW41VGZjVzVhUlpYS05tZXBFOV9BVFNqMnJqVHdEenN0bUx3eGNFUllIZlR1RkZxYkY5N1haQkhoNHcxN1YtYi1tRHM?oc=5",
+      "description": "Oil prices surge as violence flares in Strait of Hormuz Al Jazeera",
+      "publishedAt": "Tue, 05 May 2026 03:31:12 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -224,20 +224,11 @@
       "impact": "medium"
     },
     {
-      "title": "WHIPLASH - Oil Prices Surge to Highest Since 2022 at Over $119 a Barrel on Middle East War, Then Settle - EnergyNow",
-      "source": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMXlrUWZhZEw5eVdEUzlpQ2ZjSW83aG1WTWhITURDaFZxbzFuYzU4OFYxb2RMbDRPUWFvZzhGNFl0WHI3UUszcnNPbDAzMkk2ZG9DT3hzVHpWTmlxMUlCQTNsSFF4ekpDanZVWmhDSFN4Ykd0ZnZoVkVLZDR3dGRfeFo5QmRWcUFNYk5Cdm9zZDJSZDRubHRnUUp5SG1GcERsSW9xYjVTYXN0elpleFlqdXlsaVVhd1lvVG9oWWxRQjk3NWcwZTRENA?oc=5",
-      "description": "WHIPLASH - Oil Prices Surge to Highest Since 2022 at Over $119 a Barrel on Middle East War, Then Settle EnergyNow",
-      "publishedAt": "Sat, 02 May 2026 01:13:31 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices mixed in choppy trade as Trump plans to 'free' ships stranded due to Mideast conflict - CNBC",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRFNEVE8wRVhCZWpHV0RqYzhNTmNDb3hQQXhoRGVFazRtWUNneGhGa1NadldvWFZnSlgzNUhlb182cjJBb3FCVlNoRjZDczBsNUNtcEhGNlM2bEdzYXhhN2JYcUJTZ3g2OWtpbE1oSldxQWtmcG5TTm1sUUl6bl9oMEk3NEJhM251WWxYdtIBkgFBVV95cUxPUUFqdlhBVEdrcHpFOVBVMkFiTndRRW9GbWtTeWZ3UU5kYUk2OEdYNTVSVjhocE5pM0tWbjJSbGlEV1lfWkRnRDE3WEgtMzRlQXBCM25uSWh0a2VTSWEwVWVXOFNvbmpoZmNrUWxwc1JKVWlxc0NoVTJaanZmWktmS2JLLXRlN1RCSnJlQXdnLXQ4dw?oc=5",
-      "description": "Oil prices mixed in choppy trade as Trump plans to 'free' ships stranded due to Mideast conflict CNBC",
-      "publishedAt": "Mon, 04 May 2026 00:48:00 GMT",
+      "title": "Oil prices whipsaw while stocks hit new highs amid U.S.-Iran blockades - Global News",
+      "source": "Global News",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOR1JiM3RWblE0a21uUGRyaEtEYUpHNlVBbFlDdmk3MlJwZUdLZ3ktWWVrT3RKY0I3eEU5TVhRSS01UE9GWkNhZVlTcThvUnExWTVCSUJIMzdHM2dJN3hhTXJGRFRjNEhnWXBfRzQwOGpfNF9lVmNDZ1I0ZlhJZWJFeDln?oc=5",
+      "description": "Oil prices whipsaw while stocks hit new highs amid U.S.-Iran blockades Global News",
+      "publishedAt": "Thu, 30 Apr 2026 17:07:39 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -251,29 +242,38 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices whipsaw while US stocks glide near their record heights - Coast Reporter",
-      "source": "Coast Reporter",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcmRiNll3OUQzUjB1U1dJakNOYXIydDRJUURlaUszMW9kSXBGVDdqZlNoQy01UkpqVWNyek5TeEVrdmRXSkZybFJocFl2VEpXTDZ6U09HdnlZXzZ6ckVEeXE1ck5vV2ZrWWxrYWdMT25WV1ZCVjJMOGdtTGl5VHVjVjNwVy05UWJrbW51WnlkX1gzdktyQnhhaVhYcXhFWFgwQkpvZEtkOG80aFhCRmZWM0t3aw?oc=5",
-      "description": "Oil prices whipsaw while US stocks glide near their record heights Coast Reporter",
-      "publishedAt": "Thu, 30 Apr 2026 13:37:26 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil price rises above $120 after reports of 'extended' Iran blockade - BBC",
+      "title": "In five charts: How UAE's exit could affect Opec's influence over the oil price - BBC",
       "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53aEJrRTBraHBRbGY5MndDTUxWc1JJWnVKQnlWYmdKUmpCZ2JjbW9wNWxGeHlNTHhTM2d6cG5fbnJ4eTJCSTBVVllCMEJET1c4LWpld2lBZmFiQQ?oc=5",
-      "description": "Oil price rises above $120 after reports of 'extended' Iran blockade BBC",
-      "publishedAt": "Wed, 29 Apr 2026 22:49:19 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WVzdkVmt5dDAxZ1gwUkJhOUVRWEdKd3FEQUlDNDhoTERhREFrSFdNQ09qaldvY09xdzRmV2xiSXQxMkZ1UnhYRWxZMlFFWE5YaVdRbUo3LUpxUQ?oc=5",
+      "description": "In five charts: How UAE's exit could affect Opec's influence over the oil price BBC",
+      "publishedAt": "Sun, 03 May 2026 12:06:34 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "US stocks drift in early trading as crude oil prices rise - Powell River Peak",
-      "source": "Powell River Peak",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUmNHem1pMk1MX0ZxeGhmLURtLWs3UVB4TV8zSWs5Nm5XRGVEOGZtYno1dzFwSnBBYXVBeWNCNnVzWUk2ZmQ3dmNqUWdfM3FETlpvbW95U05YZjRIWGRWSGxHUTJPbjFDclpyQ3B6NG9EQ25DN3FtMzJhSzNhX3U4QmtUV3h2dzBGRkcxQ3U2dzRDUEFycDAzRXl3MUxnOU9UcldmLWJNNnVBaVE?oc=5",
-      "description": "US stocks drift in early trading as crude oil prices rise Powell River Peak",
-      "publishedAt": "Mon, 27 Apr 2026 13:37:24 GMT",
+      "title": "Crude Oil prices surge as Iran reportedly hits US warship - FXStreet",
+      "source": "FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMWJIRjJCVzdEMTNqZlpBb05OVUJoRzlvQVdYRlAya2J5SjNoWkcwTHFybXZtZGVIRHZ4X1lHdVFMcUxVeVRmOFgwbGJQa0JsYktTYUk4UEpkR1FaNEVkUEVTRHNES0NlcUZycGk5ZXFrc2E4RUpoUFdPQnNpTWhVTEZHelktcnQ4TUs5SWtBbmZuR2llNXZOOTRqNFVLREZpTEE?oc=5",
+      "description": "Crude Oil prices surge as Iran reportedly hits US warship FXStreet",
+      "publishedAt": "Mon, 04 May 2026 10:29:14 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Wall Street hesitates and oil prices climb with uncertainty about the Strait of Hormuz - Castanet",
+      "source": "Castanet",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNldrYkdvcHhjd3NGYUhVRGRZMHF6emluZVFfb0dSSy1WQmwtLWFQUEszR1ZHVWVPTXBOc2hDbXcxelB6MW1yQXVELU1uUHJQZWpqajUxM0Noc0lXZ1V1NGdNV1FCVVI1YkVoZmZUaXJJNTZ0dmxlWGkxVnpvU001cmFjcHlILWZfRUV3bHpUeDlkX3l2WTktQl9xNHp2U0ZvTUdMN1MwMGFFNUtGT1BXSjFyS2NsNXhhYXY2S2RvdEcta2E0TVpscWNYX0U?oc=5",
+      "description": "Wall Street hesitates and oil prices climb with uncertainty about the Strait of Hormuz Castanet",
+      "publishedAt": "Mon, 04 May 2026 15:29:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Spirit Airlines shuts down after oil price spike derailed restructuring plan - The Globe and Mail",
+      "source": "The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUXAxVURSZXJxSXJDRUh0dEkxck1oQ2s5aTZfZGVUa3F4YWZnUGVNNmFNMFRmdzY1WHc2ZVJNRzJSd3hYd0otd2VaYVRoZ3hianFjaEw0WjcyTENzMTRiRm9HVXRFeDVZSDhkZHpLNUtPTFNwb2xvVjA1bEdxbHYycmNNVnpWLUg3LXNkMDB2WXZtbmtVUnNHRk85MC1KQVhiTnhxelBWZTJGNEhtdnBJUDlnUkdaemFHUXlRVDFPblkxUQ?oc=5",
+      "description": "Spirit Airlines shuts down after oil price spike derailed restructuring plan The Globe and Mail",
+      "publishedAt": "Sat, 02 May 2026 11:30:41 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
