@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-05-05 06:11 UTC",
+  "generatedAt": "2026-05-06 06:26 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 185.9,
-    "premium": 203.9,
-    "diesel": 196.4
+    "regular": 195.9,
+    "premium": 213.9,
+    "diesel": 206.4
   },
   "history": {
     "labels": [
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "May 05"
+      "May 06"
     ],
     "regular": [
       150.7,
@@ -75,7 +75,7 @@
       155.9,
       174.9,
       186.9,
-      185.9
+      195.9
     ],
     "premium": [
       168.7,
@@ -110,7 +110,7 @@
       173.9,
       192.9,
       204.9,
-      203.9
+      213.9
     ],
     "diesel": [
       161.2,
@@ -145,45 +145,45 @@
       166.4,
       185.4,
       197.4,
-      196.4
+      206.4
     ]
   },
   "prediction": {
     "labels": [
-      "May 06",
       "May 07",
       "May 08",
       "May 09",
       "May 10",
       "May 11",
-      "May 12"
+      "May 12",
+      "May 13"
     ],
     "regular": [
-      186.9,
-      187.8,
-      188.8,
-      189.7,
-      190.7,
-      191.7,
-      192.6
+      196.9,
+      197.8,
+      198.8,
+      199.7,
+      200.7,
+      201.7,
+      202.6
     ],
     "premium": [
-      204.9,
-      205.8,
-      206.8,
-      207.7,
-      208.7,
-      209.7,
-      210.6
+      214.9,
+      215.8,
+      216.8,
+      217.7,
+      218.7,
+      219.7,
+      220.6
     ],
     "diesel": [
-      197.4,
-      198.3,
-      199.3,
-      200.2,
-      201.2,
-      202.2,
-      203.1
+      207.4,
+      208.3,
+      209.3,
+      210.2,
+      211.2,
+      212.2,
+      213.1
     ]
   },
   "news": [
@@ -197,20 +197,20 @@
       "impact": "medium"
     },
     {
-      "title": "Crude prices could surge to around US$150 per barrel: TD - BNN Bloomberg",
-      "source": "BNN Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeWF4SXBKSl9fSGtGejYwSlJKNDBfYTRrajVreXZLN3JHQzNtM1Fzc2FkU0pFRGtFZ18tNnpsV0VjWHozcHNwUUFZOWZDak5QQmlLaXMyQW9UZlFTdWUzN044d3N3TkFmMUNLZDBUeG9iZTMzY2NicHlweEkyUENlQXdVTG8xc3UtZ1JkNFZVVzZNV193NGkyOUpkZXRfYk51emt1bDBQZHozRjJOa3JrWF94SUhPVXdOQVE?oc=5",
-      "description": "Crude prices could surge to around US$150 per barrel: TD BNN Bloomberg",
-      "publishedAt": "Wed, 29 Apr 2026 20:14:48 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
       "title": "Oil prices surge as violence flares in Strait of Hormuz - Al Jazeera",
       "source": "Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd3A4TkdnV09VZjZvRlJyRDlzTTdHdjFZWkhOYWMyY3NfSmFDazAwcENOQzJaQVowNXBVU2lXWE5xazZzbnRpc1h4NWQ2NDVtclY4MENfVG5iV3JxemlTREdPQVVuY1Q5RU5XbFJmSmM1bFdQY1FhM21nWElDVmRlQWw1dGFZTmFLaDF4SGV0LWQyTU50MTRrRUNqVGNkZUXSAaQBQVVfeXFMUDFnSUQyQTZpTUxKRmhIOEVoNVlaVEI0N2I4Ykc1UW8zdXRWeV9uRU4wM2lpTkloNUxwT05aOWpLTnBDUGpQdHZ3YXExdXVjbW00Mmc5VVQ2cmxiendBRE5QYW41VGZjVzVhUlpYS05tZXBFOV9BVFNqMnJqVHdEenN0bUx3eGNFUllIZlR1RkZxYkY5N1haQkhoNHcxN1YtYi1tRHM?oc=5",
       "description": "Oil prices surge as violence flares in Strait of Hormuz Al Jazeera",
       "publishedAt": "Tue, 05 May 2026 03:31:12 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "The UAE is leaving the OPEC oil cartel. What could that mean for oil prices? - The Conversation",
+      "source": "The Conversation",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMmVmUnJrekhjS1BKUGdMVTFrVnU3cDVQZ0ozMFZ2cG9wVGsyY0thbmtrTlBQcno4QVAtdEdObEVhWWVaNDRoVXloNktwUEVlaW9xem9GU25mSXpaWi1wQnJrZnZlbTloQTJCQjZhcm1aYmdrVlB5cFJIdk9idngzQ0Q3RG1ZMFEwTmtNOVJ4WFJMajA3NnhhWXd4aTFvSU8zM0Z0aEs2b1Bzb0dtbHc?oc=5",
+      "description": "The UAE is leaving the OPEC oil cartel. What could that mean for oil prices? The Conversation",
+      "publishedAt": "Wed, 29 Apr 2026 20:11:22 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -224,11 +224,20 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices whipsaw while stocks hit new highs amid U.S.-Iran blockades - Global News",
-      "source": "Global News",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOR1JiM3RWblE0a21uUGRyaEtEYUpHNlVBbFlDdmk3MlJwZUdLZ3ktWWVrT3RKY0I3eEU5TVhRSS01UE9GWkNhZVlTcThvUnExWTVCSUJIMzdHM2dJN3hhTXJGRFRjNEhnWXBfRzQwOGpfNF9lVmNDZ1I0ZlhJZWJFeDln?oc=5",
-      "description": "Oil prices whipsaw while stocks hit new highs amid U.S.-Iran blockades Global News",
-      "publishedAt": "Thu, 30 Apr 2026 17:07:39 GMT",
+      "title": "Will oil prices ever return to pre-Iran war levels? - BNN Bloomberg",
+      "source": "BNN Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNlMwd0RCSHFzbVhMWktEUF9xWFFIZkxQZm1XclI1WWJSQ2ZKT3k3OXF5VkJmVzV5MGFveTBKdGs4R2JJaGZBR1c3cTZDZTBtQ3k0dnZGd1RvSWxCamRDY1Uwa0tOZklNVmJvUU4tWktyY2dNZTU5V3BlY0RxMjJjcDBaYk9BMTExUXVuM0xtTmdSdFVyVzlBd1lkWmZsUXVhLUx4LUl0bkpHakRjX21hNw?oc=5",
+      "description": "Will oil prices ever return to pre-Iran war levels? BNN Bloomberg",
+      "publishedAt": "Mon, 04 May 2026 15:51:28 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Current price of oil as of April 29, 2026 - Fortune",
+      "source": "Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1SbHRoaGVBUlYyeHlpQWhQOHM1TzVGRDNOcEN3MEJJZzRUeExrWUNZdkx6ZTlwU2xPeFl3OGYxakhvOG5EOFhRc3VFNGZpWmQ4Wm0xUTJQZFJ0MUJxdkJEMUJB?oc=5",
+      "description": "Current price of oil as of April 29, 2026 Fortune",
+      "publishedAt": "Wed, 29 Apr 2026 12:58:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -260,20 +269,11 @@
       "impact": "medium"
     },
     {
-      "title": "Wall Street hesitates and oil prices climb with uncertainty about the Strait of Hormuz - Castanet",
-      "source": "Castanet",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNldrYkdvcHhjd3NGYUhVRGRZMHF6emluZVFfb0dSSy1WQmwtLWFQUEszR1ZHVWVPTXBOc2hDbXcxelB6MW1yQXVELU1uUHJQZWpqajUxM0Noc0lXZ1V1NGdNV1FCVVI1YkVoZmZUaXJJNTZ0dmxlWGkxVnpvU001cmFjcHlILWZfRUV3bHpUeDlkX3l2WTktQl9xNHp2U0ZvTUdMN1MwMGFFNUtGT1BXSjFyS2NsNXhhYXY2S2RvdEcta2E0TVpscWNYX0U?oc=5",
-      "description": "Wall Street hesitates and oil prices climb with uncertainty about the Strait of Hormuz Castanet",
-      "publishedAt": "Mon, 04 May 2026 15:29:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Spirit Airlines shuts down after oil price spike derailed restructuring plan - The Globe and Mail",
-      "source": "The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUXAxVURSZXJxSXJDRUh0dEkxck1oQ2s5aTZfZGVUa3F4YWZnUGVNNmFNMFRmdzY1WHc2ZVJNRzJSd3hYd0otd2VaYVRoZ3hianFjaEw0WjcyTENzMTRiRm9HVXRFeDVZSDhkZHpLNUtPTFNwb2xvVjA1bEdxbHYycmNNVnpWLUg3LXNkMDB2WXZtbmtVUnNHRk85MC1KQVhiTnhxelBWZTJGNEhtdnBJUDlnUkdaemFHUXlRVDFPblkxUQ?oc=5",
-      "description": "Spirit Airlines shuts down after oil price spike derailed restructuring plan The Globe and Mail",
-      "publishedAt": "Sat, 02 May 2026 11:30:41 GMT",
+      "title": "Higher oil prices set to give feds a 'windfall' in next budget - CBC",
+      "source": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQUQxZmNndzcxQUxhc3lJODNib3IzWjRXOFlaa0FoSFYtRHM1UVJxbTdvX1k4TXY3bWpqZWdkMzlMbTdkR0d6VE1nQ1lMckN2U0VLTkYxUlAwVDMyMGp5aUJZcnI0NExOdzJRQXhTWGhCbEV5OUttZDluVTBFaXRNV09Hcw?oc=5",
+      "description": "Higher oil prices set to give feds a 'windfall' in next budget CBC",
+      "publishedAt": "Wed, 29 Apr 2026 11:42:38 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
