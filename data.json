@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-05-06 06:26 UTC",
+  "generatedAt": "2026-05-07 06:31 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 195.9,
-    "premium": 213.9,
-    "diesel": 206.4
+    "regular": 189.9,
+    "premium": 207.9,
+    "diesel": 200.4
   },
   "history": {
     "labels": [
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "May 06"
+      "May 07"
     ],
     "regular": [
       150.7,
@@ -75,7 +75,7 @@
       155.9,
       174.9,
       186.9,
-      195.9
+      189.9
     ],
     "premium": [
       168.7,
@@ -110,7 +110,7 @@
       173.9,
       192.9,
       204.9,
-      213.9
+      207.9
     ],
     "diesel": [
       161.2,
@@ -145,45 +145,45 @@
       166.4,
       185.4,
       197.4,
-      206.4
+      200.4
     ]
   },
   "prediction": {
     "labels": [
-      "May 07",
       "May 08",
       "May 09",
       "May 10",
       "May 11",
       "May 12",
-      "May 13"
+      "May 13",
+      "May 14"
     ],
     "regular": [
-      196.9,
-      197.8,
-      198.8,
-      199.7,
-      200.7,
-      201.7,
-      202.6
+      190.9,
+      191.8,
+      192.8,
+      193.7,
+      194.7,
+      195.7,
+      196.6
     ],
     "premium": [
-      214.9,
-      215.8,
-      216.8,
-      217.7,
-      218.7,
-      219.7,
-      220.6
+      208.9,
+      209.8,
+      210.8,
+      211.7,
+      212.7,
+      213.7,
+      214.6
     ],
     "diesel": [
-      207.4,
-      208.3,
-      209.3,
-      210.2,
-      211.2,
-      212.2,
-      213.1
+      201.4,
+      202.3,
+      203.3,
+      204.2,
+      205.2,
+      206.2,
+      207.1
     ]
   },
   "news": [
@@ -206,20 +206,11 @@
       "impact": "medium"
     },
     {
-      "title": "The UAE is leaving the OPEC oil cartel. What could that mean for oil prices? - The Conversation",
-      "source": "The Conversation",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMmVmUnJrekhjS1BKUGdMVTFrVnU3cDVQZ0ozMFZ2cG9wVGsyY0thbmtrTlBQcno4QVAtdEdObEVhWWVaNDRoVXloNktwUEVlaW9xem9GU25mSXpaWi1wQnJrZnZlbTloQTJCQjZhcm1aYmdrVlB5cFJIdk9idngzQ0Q3RG1ZMFEwTmtNOVJ4WFJMajA3NnhhWXd4aTFvSU8zM0Z0aEs2b1Bzb0dtbHc?oc=5",
-      "description": "The UAE is leaving the OPEC oil cartel. What could that mean for oil prices? The Conversation",
-      "publishedAt": "Wed, 29 Apr 2026 20:11:22 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil Prices Fall as Trump Launches \"Project Freedom\" and OPEC Increases Output - Crude Oil Prices Today | OilPrice.com",
+      "title": "Oil Prices Edge Higher as Iran Deal Doubts Resurface - Crude Oil Prices Today | OilPrice.com",
       "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPb09BaUJzamI1eVRhWVF5Q01rQ2hqdWxrSTdaRUgxejBGQlY2SkNSOHJRWUkyLV9RV3Zzc0UxQWY3N20wR2xLNUt4RmhHZnlFVURGX1pxb1BIR3BBWllWRzB1VVowWFlUYzJoUE80VVltMk9HTmxUTUdTRlh6Z2wtQlJNVWNPTHZJYkh5VV9jekdpY1U1UmdfYkhwS1JQUGg5a0k2UEJjZEtHMHdJQmlrZk9TQ0dlWEl5MUpwVks4TnFUVlJmUzZIekN2ONIB0AFBVV95cUxNUFZJanQ2ZXN4cGdHOXJnWlI0ckgzdkpEaHVBdjE2bVMyRjRheFFwUDJRVXJrcU0zNk9IdkdyVmo4WlBvakRpelN0S1ZJUzhwTGlEY1QxSm1WOHRXS3dzSWlFdmZEYTRrc3ZSbGhDLTFuckxTUkxiamhfTDdjTUxiSkNaak9NZkRNd3haOE52ZmMxYWVEYkRfdXdfUE5NTkpXR2hkMTBINnlTT0F2NTdEMnUxNXQwSzJFbGNpdlBTcHBFb0NRVjRRSDhYQ0JsbnAw?oc=5",
-      "description": "Oil Prices Fall as Trump Launches \"Project Freedom\" and OPEC Increases Output Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Mon, 04 May 2026 01:40:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZk4xbEd4Y0pacjNuWWJocHdtX1JYeS00UW40QlVydDA2LXZOT1F6UTh5MEtERVUyX2FMaGNuVmcyT1g1eUo2Wm9FUWxGM056RVlOQUo1Z2tDQWw1U3JDS2RIdF9RbXB6bjJ5bTVmcXVYdzBNRU0wTEFVOW04WGtfb3hkOUVBZG02NVFoQWdDRVVGSi1KbGpwWkdYX29mamxReGV6T1FLN00zX0ZG0gGyAUFVX3lxTE5nY0NMLUI2ZlViZFNWUnpfLUYyNVBEQ1hWMHpmc0R5dXJ3bnJmYTE3S3hZYWpOVzVqd2J0N0lUQTJ6Y0tFR1NPSHlJWXpGYXU3TmZER1ZWOFN6ZFhVM2lGa0pZczdzNFBYWG5wVXJCZ2NZYVNEXzlZUGJjZnh5ODNPSDN0Y1J4VVl4ckJCNDNncXMxWlpjVTM1N2JiN3htMjFUd3VuZDM0T1pYV0twcGd3YWc?oc=5",
+      "description": "Oil Prices Edge Higher as Iran Deal Doubts Resurface Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Thu, 07 May 2026 02:07:40 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -229,15 +220,6 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNlMwd0RCSHFzbVhMWktEUF9xWFFIZkxQZm1XclI1WWJSQ2ZKT3k3OXF5VkJmVzV5MGFveTBKdGs4R2JJaGZBR1c3cTZDZTBtQ3k0dnZGd1RvSWxCamRDY1Uwa0tOZklNVmJvUU4tWktyY2dNZTU5V3BlY0RxMjJjcDBaYk9BMTExUXVuM0xtTmdSdFVyVzlBd1lkWmZsUXVhLUx4LUl0bkpHakRjX21hNw?oc=5",
       "description": "Will oil prices ever return to pre-Iran war levels? BNN Bloomberg",
       "publishedAt": "Mon, 04 May 2026 15:51:28 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Current price of oil as of April 29, 2026 - Fortune",
-      "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1SbHRoaGVBUlYyeHlpQWhQOHM1TzVGRDNOcEN3MEJJZzRUeExrWUNZdkx6ZTlwU2xPeFl3OGYxakhvOG5EOFhRc3VFNGZpWmQ4Wm0xUTJQZFJ0MUJxdkJEMUJB?oc=5",
-      "description": "Current price of oil as of April 29, 2026 Fortune",
-      "publishedAt": "Wed, 29 Apr 2026 12:58:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -260,6 +242,24 @@
       "impact": "medium"
     },
     {
+      "title": "Oil prices whipsaw while stocks hit new highs amid U.S.-Iran blockades - Global News",
+      "source": "Global News",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOR1JiM3RWblE0a21uUGRyaEtEYUpHNlVBbFlDdmk3MlJwZUdLZ3ktWWVrT3RKY0I3eEU5TVhRSS01UE9GWkNhZVlTcThvUnExWTVCSUJIMzdHM2dJN3hhTXJGRFRjNEhnWXBfRzQwOGpfNF9lVmNDZ1I0ZlhJZWJFeDln?oc=5",
+      "description": "Oil prices whipsaw while stocks hit new highs amid U.S.-Iran blockades Global News",
+      "publishedAt": "Thu, 30 Apr 2026 17:07:39 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Current price of oil as of May 6, 2026 - Fortune",
+      "source": "Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE10TDJNYkNneWJBMFRLZXFnanhMNWI5NUVxQ0xIemdIa29FYVFTM2RpbW83eGdOclBRLWlYVmhhQVB5S3k3M0Z1b3NxNmdMTE94ejl1UERERXp5WXJsaVpIVG53?oc=5",
+      "description": "Current price of oil as of May 6, 2026 Fortune",
+      "publishedAt": "Wed, 06 May 2026 12:29:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
       "title": "Crude Oil prices surge as Iran reportedly hits US warship - FXStreet",
       "source": "FXStreet",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMWJIRjJCVzdEMTNqZlpBb05OVUJoRzlvQVdYRlAya2J5SjNoWkcwTHFybXZtZGVIRHZ4X1lHdVFMcUxVeVRmOFgwbGJQa0JsYktTYUk4UEpkR1FaNEVkUEVTRHNES0NlcUZycGk5ZXFrc2E4RUpoUFdPQnNpTWhVTEZHelktcnQ4TUs5SWtBbmZuR2llNXZOOTRqNFVLREZpTEE?oc=5",
@@ -269,11 +269,11 @@
       "impact": "medium"
     },
     {
-      "title": "Higher oil prices set to give feds a 'windfall' in next budget - CBC",
-      "source": "CBC",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQUQxZmNndzcxQUxhc3lJODNib3IzWjRXOFlaa0FoSFYtRHM1UVJxbTdvX1k4TXY3bWpqZWdkMzlMbTdkR0d6VE1nQ1lMckN2U0VLTkYxUlAwVDMyMGp5aUJZcnI0NExOdzJRQXhTWGhCbEV5OUttZDluVTBFaXRNV09Hcw?oc=5",
-      "description": "Higher oil prices set to give feds a 'windfall' in next budget CBC",
-      "publishedAt": "Wed, 29 Apr 2026 11:42:38 GMT",
+      "title": "Spirit Airlines shuts down after oil price spike derailed restructuring plan - The Globe and Mail",
+      "source": "The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUXAxVURSZXJxSXJDRUh0dEkxck1oQ2s5aTZfZGVUa3F4YWZnUGVNNmFNMFRmdzY1WHc2ZVJNRzJSd3hYd0otd2VaYVRoZ3hianFjaEw0WjcyTENzMTRiRm9HVXRFeDVZSDhkZHpLNUtPTFNwb2xvVjA1bEdxbHYycmNNVnpWLUg3LXNkMDB2WXZtbmtVUnNHRk85MC1KQVhiTnhxelBWZTJGNEhtdnBJUDlnUkdaemFHUXlRVDFPblkxUQ?oc=5",
+      "description": "Spirit Airlines shuts down after oil price spike derailed restructuring plan The Globe and Mail",
+      "publishedAt": "Sat, 02 May 2026 11:30:41 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
