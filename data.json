@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-05-09 06:11 UTC",
+  "generatedAt": "2026-05-10 06:29 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 183.9,
-    "premium": 201.9,
-    "diesel": 194.4
+    "regular": 186.9,
+    "premium": 204.9,
+    "diesel": 197.4
   },
   "history": {
     "labels": [
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "May 09"
+      "May 10"
     ],
     "regular": [
       150.7,
@@ -75,7 +75,7 @@
       155.9,
       174.9,
       186.9,
-      183.9
+      186.9
     ],
     "premium": [
       168.7,
@@ -110,7 +110,7 @@
       173.9,
       192.9,
       204.9,
-      201.9
+      204.9
     ],
     "diesel": [
       161.2,
@@ -145,45 +145,45 @@
       166.4,
       185.4,
       197.4,
-      194.4
+      197.4
     ]
   },
   "prediction": {
     "labels": [
-      "May 10",
       "May 11",
       "May 12",
       "May 13",
       "May 14",
       "May 15",
-      "May 16"
+      "May 16",
+      "May 17"
     ],
     "regular": [
-      184.9,
-      185.8,
-      186.8,
-      187.7,
-      188.7,
-      189.7,
-      190.6
+      187.9,
+      188.8,
+      189.8,
+      190.7,
+      191.7,
+      192.7,
+      193.6
     ],
     "premium": [
-      202.9,
-      203.8,
-      204.8,
-      205.7,
-      206.7,
-      207.7,
-      208.6
+      205.9,
+      206.8,
+      207.8,
+      208.7,
+      209.7,
+      210.7,
+      211.6
     ],
     "diesel": [
-      195.4,
-      196.3,
-      197.3,
-      198.2,
-      199.2,
-      200.2,
-      201.1
+      198.4,
+      199.3,
+      200.3,
+      201.2,
+      202.2,
+      203.2,
+      204.1
     ]
   },
   "news": [
@@ -206,20 +206,20 @@
       "impact": "medium"
     },
     {
-      "title": "Fixed mortgage rates follow falling oil prices - Financial Post",
-      "source": "Financial Post",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTnpsV1RSbzFWWXA0bUJuMlVMUGpkeGtUZU9adTVqYUZEZmphM0ZnMHB0Qi13Z3MwNkFWQVVtaWt4LW5naDI5WF9ydngyTFZlc2htWGVhdDV4Y19tM0JUOGp3dWZVLTRpcllhSXZxaWI1U2dTVGZEUkFZbmVWN0UyYWtaUU1MOUMwcmxCT3VfY1UxVzVqUEhuZEtKS1RobkFjanBiNEFiRGk1YnEtSWc?oc=5",
-      "description": "Fixed mortgage rates follow falling oil prices Financial Post",
-      "publishedAt": "Fri, 08 May 2026 03:10:03 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
       "title": "Oil Prices Whipsaw as U.S.-Iran Conflict Shakes Markets - Crude Oil Prices Today | OilPrice.com",
       "source": "Crude Oil Prices Today | OilPrice.com",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTkotdEhPdWpSOFRiVDlwZlQ4WHBLRmRNc29VQ01YNndWV0dzazBhYWd6X0h5RGZNM0hoQ0NkcDU4U1BDRElDSzBhNE53N3QwXzFzX2NDZjJfcWs1WXFiRUIyLW1sdjBBczFDcFVBamxWMldNU002cXVpMGx3N3Y3T1JFeTc4bjh6a0V2eVdVbThyZE9jajRySXpZU0drYUg4dzdV0gGoAUFVX3lxTE95YUxBZ3ZSbU1ZWGwtN1huM1VBUC0xTkNzNmtPZEFtTnF0Y0xqQ09JZ2tWT2ZYYVA3TVE0QjRCSkx5aWlSVEdzclE1VFpKb0pQVHdNUUhBM2ZTX1o0Qnc2cGFUQ25iTldsTUx3dmFGaEdRX0VKWTJYVWJOTmVVN0RhZW1vOEtmc1Utdm1sYXpfWUtMcm13U1g0LXAxbklLSElXcThYbG5Xbg?oc=5",
       "description": "Oil Prices Whipsaw as U.S.-Iran Conflict Shakes Markets Crude Oil Prices Today | OilPrice.com",
       "publishedAt": "Fri, 08 May 2026 11:30:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Will oil prices ever return to pre-Iran war levels? - BNN Bloomberg",
+      "source": "BNN Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNlMwd0RCSHFzbVhMWktEUF9xWFFIZkxQZm1XclI1WWJSQ2ZKT3k3OXF5VkJmVzV5MGFveTBKdGs4R2JJaGZBR1c3cTZDZTBtQ3k0dnZGd1RvSWxCamRDY1Uwa0tOZklNVmJvUU4tWktyY2dNZTU5V3BlY0RxMjJjcDBaYk9BMTExUXVuM0xtTmdSdFVyVzlBd1lkWmZsUXVhLUx4LUl0bkpHakRjX21hNw?oc=5",
+      "description": "Will oil prices ever return to pre-Iran war levels? BNN Bloomberg",
+      "publishedAt": "Mon, 04 May 2026 15:51:28 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -233,20 +233,20 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices fall and stocks rise on hopes for a deal to allow crude to flow from the Persian Gulf - BNN Bloomberg",
-      "source": "BNN Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdVlNYjloZ0ZfVHFETGliYlJGZW5CdjhEYXFzRE1CVVlwT3B3LXZDVXltMl9GZlJ5ajEzSl9XSTdJTXlQT1hxUjQtSXRBUExnYzhiMnVSMVdwa2FHN3lSWl9MYWFWbnhCOWUwbVQxYTlxOW9xNTRuWERRUHQ3LVF4aV9MWHR3WTNFMUVMRkFDbFp0aVZQX2cwcllZQ3JnUWlpTUF4b0Z3SVBDd2FQUWdCSUZ1dklIOWM2SldyNjduM0hGdnFCV3Z5ZUF3bk1vZ21UOUdockViWEpxSTQw?oc=5",
-      "description": "Oil prices fall and stocks rise on hopes for a deal to allow crude to flow from the Persian Gulf BNN Bloomberg",
-      "publishedAt": "Wed, 06 May 2026 13:47:38 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
       "title": "Current price of oil as of May 8, 2026 - Fortune",
       "source": "Fortune",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1lc1NDUW1pUllOWndfLWRfX3Z5UGFlVVVJYnJtSUZKZXNZZ0RQMXAxQlVsaTBGY2lGeFNmdW5CWWNjbHJkN1lQR0hvR0dVbjY1SEc0eEZPTFFvSmtzLVVpNGdB?oc=5",
       "description": "Current price of oil as of May 8, 2026 Fortune",
       "publishedAt": "Fri, 08 May 2026 12:58:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "US stocks fall from their records as oil prices yo-yo - Coast Reporter",
+      "source": "Coast Reporter",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUnNCNGdMT0JoRGwxNjdJUXRGZVRLbzU3a1FEZUJwRkwtWEVUd28zTmJRNWlaU1NCa2VoS1RkUTFFdkpCNll3eVNaS3dVZllDbGpKSjB0d0RWckpfWXBtQ3dyQTA2UnlhUmd4Tmk0czdzZk13YUFXRElUVlNrNWVNVU9JVlNHN1RTSVlzUU9ocWRCYnJFMDU3MFRZcjZsbEpKWDdCaEs2VjBGZjA3NVNV?oc=5",
+      "description": "US stocks fall from their records as oil prices yo-yo Coast Reporter",
+      "publishedAt": "Thu, 07 May 2026 20:07:12 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -260,20 +260,20 @@
       "impact": "medium"
     },
     {
-      "title": "Spirit Airlines shuts down after oil price spike derailed restructuring plan - The Globe and Mail",
-      "source": "The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUXAxVURSZXJxSXJDRUh0dEkxck1oQ2s5aTZfZGVUa3F4YWZnUGVNNmFNMFRmdzY1WHc2ZVJNRzJSd3hYd0otd2VaYVRoZ3hianFjaEw0WjcyTENzMTRiRm9HVXRFeDVZSDhkZHpLNUtPTFNwb2xvVjA1bEdxbHYycmNNVnpWLUg3LXNkMDB2WXZtbmtVUnNHRk85MC1KQVhiTnhxelBWZTJGNEhtdnBJUDlnUkdaemFHUXlRVDFPblkxUQ?oc=5",
-      "description": "Spirit Airlines shuts down after oil price spike derailed restructuring plan The Globe and Mail",
-      "publishedAt": "Sat, 02 May 2026 11:30:41 GMT",
+      "title": "US stocks edge up toward more records as crude oil prices ease - Powell River Peak",
+      "source": "Powell River Peak",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObDdwYUZ3ZmR1MnBIZW9RZjloMDVWSlQ0Y3UwdUZkWGFCVkJDQ3RIbmxTSzdwSTlzR1VoSFFpVjVyZGl5MExQV1pIZ2Mwc2k3SDAzMm1uT2xSWGxXVFQ1bDVGb3NWRUNJU2tFa3QtNDNmbVhoSFhRMG5ra21NOU1hM3B3UlhGd3k1a0lYMUpudER5WW4ybEtLNWhLdEJkeTROWFEwSWNfSTdRRGQzcEZsWFFR?oc=5",
+      "description": "US stocks edge up toward more records as crude oil prices ease Powell River Peak",
+      "publishedAt": "Tue, 05 May 2026 13:35:46 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil prices jump as US, Iran trade fire in Strait of Hormuz - Al Jazeera",
-      "source": "Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV2lma3B2X1hJTVJOUUpHZUpSTWNXd1Vjbzd5ZDkxM1hmSkhacFAzN3ppVW12akg1S09kQWkyM0VfVHZ1RnVrbHNGckh0VExoNzBQaV9iSFdZdjRIX09JQ0M5TGF4VFRGeXJGN3o5NXNpSW5FSUZ5Vm4yNkxLYzdZQ2hUd0c5VFViNjh0ZDdXSjJoaDBleUF4eHBIeTZndEQ1RVHSAacBQVVfeXFMTlJxZVF1ckRKQ1U1bXBYMDY5ZGtyZF9qTjJnWW1mNUUyWU8yT3ZqQjQ5ZjdjUXFNcjZjOEdNNWpnb2hKVlNDUklFX3Z0SVptYk4xTmU3cnBLYUdjWEVpMThKdmJzcEdoZjJlMTgyQ3laVnhWN3AxZEUxNzVYVjBlUFFDcVFrQ1lhOE5wTjlyb2ZIbjFrR2pCNG1pVThtNnJKeTc1ZW12Zmc?oc=5",
-      "description": "Oil prices jump as US, Iran trade fire in Strait of Hormuz Al Jazeera",
-      "publishedAt": "Fri, 08 May 2026 03:09:33 GMT",
+      "title": "Oil prices edge lower as U.S. waits for Iran response to deal proposal - CNBC",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOc3llbWp3WFFObWpJUjU4WTdiSDNLVXJCLUtMZXp4bnc0TG52b0t6RFhMT0lYWUdtUVFhM2dLeW91Z0NCVHhmeW12MVhRV3VIWDFxN3hGV213ZlJmVkYyRGVMVGdzV2RUbzN4aXRaSVQ5QUNPWlNxOUNOY1M2Nzl4ZkQzRmR4RVhIbkQyaWpqMTBHN2wwY214UmYyVHhkUdIBowFBVV95cUxQand4U0xBYnMtVEhTS1RRc0hTMTNodHdBRE9BMUhuR1JmczEzT3hjSWdkeExzX2FlX3lsQTk0T3VhVjh6bk5HVnA4LXhMOVdydXlPTENDZDFYcHE4QkU3TFFEd0hpbE1NaWk5SFU5WkpWdVJhQWJkd3VTWmQwMzl2czFZWUN5M01pWkVrcjd0VFh6ZGh6TmJ4M0JMNENGQmVUblI0?oc=5",
+      "description": "Oil prices edge lower as U.S. waits for Iran response to deal proposal CNBC",
+      "publishedAt": "Thu, 07 May 2026 00:55:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
