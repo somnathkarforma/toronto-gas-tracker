@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10 06:29 UTC",
+  "generatedAt": "2026-05-11 07:36 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
     "regular": 186.9,
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "May 10"
+      "May 11"
     ],
     "regular": [
       150.7,
@@ -150,13 +150,13 @@
   },
   "prediction": {
     "labels": [
-      "May 11",
       "May 12",
       "May 13",
       "May 14",
       "May 15",
       "May 16",
-      "May 17"
+      "May 17",
+      "May 18"
     ],
     "regular": [
       187.9,
@@ -206,11 +206,20 @@
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Whipsaw as U.S.-Iran Conflict Shakes Markets - Crude Oil Prices Today | OilPrice.com",
+      "title": "Oil Prices Jump After U.S. and Iran Exchange Fire in Strait of Hormuz - Crude Oil Prices Today | OilPrice.com",
       "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTkotdEhPdWpSOFRiVDlwZlQ4WHBLRmRNc29VQ01YNndWV0dzazBhYWd6X0h5RGZNM0hoQ0NkcDU4U1BDRElDSzBhNE53N3QwXzFzX2NDZjJfcWs1WXFiRUIyLW1sdjBBczFDcFVBamxWMldNU002cXVpMGx3N3Y3T1JFeTc4bjh6a0V2eVdVbThyZE9jajRySXpZU0drYUg4dzdV0gGoAUFVX3lxTE95YUxBZ3ZSbU1ZWGwtN1huM1VBUC0xTkNzNmtPZEFtTnF0Y0xqQ09JZ2tWT2ZYYVA3TVE0QjRCSkx5aWlSVEdzclE1VFpKb0pQVHdNUUhBM2ZTX1o0Qnc2cGFUQ25iTldsTUx3dmFGaEdRX0VKWTJYVWJOTmVVN0RhZW1vOEtmc1Utdm1sYXpfWUtMcm13U1g0LXAxbklLSElXcThYbG5Xbg?oc=5",
-      "description": "Oil Prices Whipsaw as U.S.-Iran Conflict Shakes Markets Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Fri, 08 May 2026 11:30:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdzJpdWktWkRNTnFOWWx0b0dXOG5sNll0WlhjQ3FBUXRjX3VoNVZSVGFmM0pvbmd2UXJXaDBXa3RGTGdZTC1LeTNFZ2xSZkhpMmxaMk0tSzVjTENkczBlT2V2X0RVU1diSjFxLURDR1c5Ri1jUV9qLURsSkFXSDZBZ0o3OFkxNzFwbkU2cjk4LUxUNzBTdThVeWtjTGZoMWl1c1VMRHVIVWM4QU84eTA5cjI0MGI0WXk2MkN1bl9saFnSAcYBQVVfeXFMTmotQWE2Y2JWTUh0Tmo4bjI0Yi1OdkZUSjhkUHBVMFRtd1JhNzBmdGhCZHJIcVhfNXNFZml4bm5hUV9sM0J4Rmo5VzdLbmJzX2RsQjFmVnFmTU43VmNGQ3p2SkVPcVRHOWNrZzByVU5OSmlISVcteXFrc1ktQXNzRDczckhDTjh2TmNKelUzY3V5SGszQWhJS0tnWGJPMjlwN1FVdEtyd2hIRzh1OERtendkMnQ0SzZHaHQzYnZMNFJZU1NFelFR?oc=5",
+      "description": "Oil Prices Jump After U.S. and Iran Exchange Fire in Strait of Hormuz Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Fri, 08 May 2026 01:21:53 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil and Gas Prices - Oil Sands Magazine",
+      "source": "Oil Sands Magazine",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oX2Z0dXd5SU9OM05IN2YwZGVucTRZUU03OEdTOFUwYmFnbmVvb0hFX182ZVRYWDNkYzlRQS0yM2U2NlNKRHJ2VW5WOExVOWQyZlBsbzBzVkNKMkR0Q3RPbEUxNWFqanNTaG5Lb1NEWGU1NU9KajdfeQ?oc=5",
+      "description": "Oil and Gas Prices Oil Sands Magazine",
+      "publishedAt": "Fri, 08 May 2026 07:00:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -224,20 +233,11 @@
       "impact": "medium"
     },
     {
-      "title": "In five charts: How UAE's exit could affect Opec's influence over the oil price - BBC",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WVzdkVmt5dDAxZ1gwUkJhOUVRWEdKd3FEQUlDNDhoTERhREFrSFdNQ09qaldvY09xdzRmV2xiSXQxMkZ1UnhYRWxZMlFFWE5YaVdRbUo3LUpxUQ?oc=5",
-      "description": "In five charts: How UAE's exit could affect Opec's influence over the oil price BBC",
-      "publishedAt": "Sun, 03 May 2026 12:06:34 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Current price of oil as of May 8, 2026 - Fortune",
-      "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1lc1NDUW1pUllOWndfLWRfX3Z5UGFlVVVJYnJtSUZKZXNZZ0RQMXAxQlVsaTBGY2lGeFNmdW5CWWNjbHJkN1lQR0hvR0dVbjY1SEc0eEZPTFFvSmtzLVVpNGdB?oc=5",
-      "description": "Current price of oil as of May 8, 2026 Fortune",
-      "publishedAt": "Fri, 08 May 2026 12:58:00 GMT",
+      "title": "Oil jumps over 4% as Netanyahu and Trump remarks stoke worries of prolonged Middle East conflict - CNBC",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTF9PT3huRzZTdWdfdHhnTzM0V0p4bThpeHBSN2JpTURzZkYyWXlxOENfd3VaVlVFSnhDVVh4T0VHNUVvMmhBQlNVWjg3X2NqZnliYkpNbFY1Y0NFZmxNX1h0VkdOU3dSaFN1ZzRzbkZUTmhqWWhySmlCYk92OXlxVkt0b9IBiAFBVV95cUxOZDhjOWlxd1RUNzdLaDlxRDhtenFpUS1LNnQ3OUNGMnZJUF9zSnUzV0xWdHBUZHZnUU9GdUJDXzRjQ0N0T0Z0UkpPYVkwU1J3c1JDem9pOVBpeHowZlNzZ3ZVQWphUDJ1eGFkMVA4ZDRZdldWbTUzaW9Xb0RZVVRGNmQ1RTJVR01k?oc=5",
+      "description": "Oil jumps over 4% as Netanyahu and Trump remarks stoke worries of prolonged Middle East conflict CNBC",
+      "publishedAt": "Sun, 10 May 2026 23:51:01 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -269,11 +269,11 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices edge lower as U.S. waits for Iran response to deal proposal - CNBC",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOc3llbWp3WFFObWpJUjU4WTdiSDNLVXJCLUtMZXp4bnc0TG52b0t6RFhMT0lYWUdtUVFhM2dLeW91Z0NCVHhmeW12MVhRV3VIWDFxN3hGV213ZlJmVkYyRGVMVGdzV2RUbzN4aXRaSVQ5QUNPWlNxOUNOY1M2Nzl4ZkQzRmR4RVhIbkQyaWpqMTBHN2wwY214UmYyVHhkUdIBowFBVV95cUxQand4U0xBYnMtVEhTS1RRc0hTMTNodHdBRE9BMUhuR1JmczEzT3hjSWdkeExzX2FlX3lsQTk0T3VhVjh6bk5HVnA4LXhMOVdydXlPTENDZDFYcHE4QkU3TFFEd0hpbE1NaWk5SFU5WkpWdVJhQWJkd3VTWmQwMzl2czFZWUN5M01pWkVrcjd0VFh6ZGh6TmJ4M0JMNENGQmVUblI0?oc=5",
-      "description": "Oil prices edge lower as U.S. waits for Iran response to deal proposal CNBC",
-      "publishedAt": "Thu, 07 May 2026 00:55:00 GMT",
+      "title": "Oil prices drop and stock markets rise after reports of deal to end Iran war - BBC",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sNFBjN1p4T0psWXNqc0pBajZfVmNMUGlJTE5UeUZRdVVsVjBkT2Uzc1Q1aEZKakhWQ214YlRucEhZcjFTOG5VcWpzVE5BQ3dSMkZ5b3ZFVG9FQQ?oc=5",
+      "description": "Oil prices drop and stock markets rise after reports of deal to end Iran war BBC",
+      "publishedAt": "Wed, 06 May 2026 16:11:44 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
