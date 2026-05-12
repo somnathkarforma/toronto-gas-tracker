@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11 07:36 UTC",
+  "generatedAt": "2026-05-12 06:33 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
     "regular": 186.9,
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "May 11"
+      "May 12"
     ],
     "regular": [
       150.7,
@@ -150,13 +150,13 @@
   },
   "prediction": {
     "labels": [
-      "May 12",
       "May 13",
       "May 14",
       "May 15",
       "May 16",
       "May 17",
-      "May 18"
+      "May 18",
+      "May 19"
     ],
     "regular": [
       187.9,
@@ -197,15 +197,6 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices surge as violence flares in Strait of Hormuz - Al Jazeera",
-      "source": "Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd3A4TkdnV09VZjZvRlJyRDlzTTdHdjFZWkhOYWMyY3NfSmFDazAwcENOQzJaQVowNXBVU2lXWE5xazZzbnRpc1h4NWQ2NDVtclY4MENfVG5iV3JxemlTREdPQVVuY1Q5RU5XbFJmSmM1bFdQY1FhM21nWElDVmRlQWw1dGFZTmFLaDF4SGV0LWQyTU50MTRrRUNqVGNkZUXSAaQBQVVfeXFMUDFnSUQyQTZpTUxKRmhIOEVoNVlaVEI0N2I4Ykc1UW8zdXRWeV9uRU4wM2lpTkloNUxwT05aOWpLTnBDUGpQdHZ3YXExdXVjbW00Mmc5VVQ2cmxiendBRE5QYW41VGZjVzVhUlpYS05tZXBFOV9BVFNqMnJqVHdEenN0bUx3eGNFUllIZlR1RkZxYkY5N1haQkhoNHcxN1YtYi1tRHM?oc=5",
-      "description": "Oil prices surge as violence flares in Strait of Hormuz Al Jazeera",
-      "publishedAt": "Tue, 05 May 2026 03:31:12 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
       "title": "Oil Prices Jump After U.S. and Iran Exchange Fire in Strait of Hormuz - Crude Oil Prices Today | OilPrice.com",
       "source": "Crude Oil Prices Today | OilPrice.com",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdzJpdWktWkRNTnFOWWx0b0dXOG5sNll0WlhjQ3FBUXRjX3VoNVZSVGFmM0pvbmd2UXJXaDBXa3RGTGdZTC1LeTNFZ2xSZkhpMmxaMk0tSzVjTENkczBlT2V2X0RVU1diSjFxLURDR1c5Ri1jUV9qLURsSkFXSDZBZ0o3OFkxNzFwbkU2cjk4LUxUNzBTdThVeWtjTGZoMWl1c1VMRHVIVWM4QU84eTA5cjI0MGI0WXk2MkN1bl9saFnSAcYBQVVfeXFMTmotQWE2Y2JWTUh0Tmo4bjI0Yi1OdkZUSjhkUHBVMFRtd1JhNzBmdGhCZHJIcVhfNXNFZml4bm5hUV9sM0J4Rmo5VzdLbmJzX2RsQjFmVnFmTU43VmNGQ3p2SkVPcVRHOWNrZzByVU5OSmlISVcteXFrc1ktQXNzRDczckhDTjh2TmNKelUzY3V5SGszQWhJS0tnWGJPMjlwN1FVdEtyd2hIRzh1OERtendkMnQ0SzZHaHQzYnZMNFJZU1NFelFR?oc=5",
@@ -215,28 +206,37 @@
       "impact": "medium"
     },
     {
-      "title": "Oil and Gas Prices - Oil Sands Magazine",
-      "source": "Oil Sands Magazine",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oX2Z0dXd5SU9OM05IN2YwZGVucTRZUU03OEdTOFUwYmFnbmVvb0hFX182ZVRYWDNkYzlRQS0yM2U2NlNKRHJ2VW5WOExVOWQyZlBsbzBzVkNKMkR0Q3RPbEUxNWFqanNTaG5Lb1NEWGU1NU9KajdfeQ?oc=5",
-      "description": "Oil and Gas Prices Oil Sands Magazine",
-      "publishedAt": "Fri, 08 May 2026 07:00:00 GMT",
+      "title": "Oil prices jump as US, Iran trade fire in Strait of Hormuz - Al Jazeera",
+      "source": "Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV2lma3B2X1hJTVJOUUpHZUpSTWNXd1Vjbzd5ZDkxM1hmSkhacFAzN3ppVW12akg1S09kQWkyM0VfVHZ1RnVrbHNGckh0VExoNzBQaV9iSFdZdjRIX09JQ0M5TGF4VFRGeXJGN3o5NXNpSW5FSUZ5Vm4yNkxLYzdZQ2hUd0c5VFViNjh0ZDdXSjJoaDBleUF4eHBIeTZndEQ1RVHSAacBQVVfeXFMTlJxZVF1ckRKQ1U1bXBYMDY5ZGtyZF9qTjJnWW1mNUUyWU8yT3ZqQjQ5ZjdjUXFNcjZjOEdNNWpnb2hKVlNDUklFX3Z0SVptYk4xTmU3cnBLYUdjWEVpMThKdmJzcEdoZjJlMTgyQ3laVnhWN3AxZEUxNzVYVjBlUFFDcVFrQ1lhOE5wTjlyb2ZIbjFrR2pCNG1pVThtNnJKeTc1ZW12Zmc?oc=5",
+      "description": "Oil prices jump as US, Iran trade fire in Strait of Hormuz Al Jazeera",
+      "publishedAt": "Fri, 08 May 2026 03:09:33 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Will oil prices ever return to pre-Iran war levels? - BNN Bloomberg",
-      "source": "BNN Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNlMwd0RCSHFzbVhMWktEUF9xWFFIZkxQZm1XclI1WWJSQ2ZKT3k3OXF5VkJmVzV5MGFveTBKdGs4R2JJaGZBR1c3cTZDZTBtQ3k0dnZGd1RvSWxCamRDY1Uwa0tOZklNVmJvUU4tWktyY2dNZTU5V3BlY0RxMjJjcDBaYk9BMTExUXVuM0xtTmdSdFVyVzlBd1lkWmZsUXVhLUx4LUl0bkpHakRjX21hNw?oc=5",
-      "description": "Will oil prices ever return to pre-Iran war levels? BNN Bloomberg",
-      "publishedAt": "Mon, 04 May 2026 15:51:28 GMT",
+      "title": "Fixed mortgage rates follow falling oil prices - Financial Post",
+      "source": "Financial Post",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTnpsV1RSbzFWWXA0bUJuMlVMUGpkeGtUZU9adTVqYUZEZmphM0ZnMHB0Qi13Z3MwNkFWQVVtaWt4LW5naDI5WF9ydngyTFZlc2htWGVhdDV4Y19tM0JUOGp3dWZVLTRpcllhSXZxaWI1U2dTVGZEUkFZbmVWN0UyYWtaUU1MOUMwcmxCT3VfY1UxVzVqUEhuZEtKS1RobkFjanBiNEFiRGk1YnEtSWc?oc=5",
+      "description": "Fixed mortgage rates follow falling oil prices Financial Post",
+      "publishedAt": "Fri, 08 May 2026 03:10:03 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil jumps over 4% as Netanyahu and Trump remarks stoke worries of prolonged Middle East conflict - CNBC",
+      "title": "Current price of oil as of May 11, 2026 - Fortune",
+      "source": "Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9rc0poVG9ON2xpQjc4Slh4dUhMWEgyQ2F5LWh5SmtqZFlYTmM4QlJGSm1SOHIxTGQ1MDh0T24wUXVMM0lCSnh1Y1ZpdmpfdnlHUVY1VV9nLVJKR2RCNVBObElR?oc=5",
+      "description": "Current price of oil as of May 11, 2026 Fortune",
+      "publishedAt": "Mon, 11 May 2026 12:56:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Brent oil tops $104 after Trump says ceasefire with Iran is on 'life support' - CNBC",
       "source": "CNBC",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTF9PT3huRzZTdWdfdHhnTzM0V0p4bThpeHBSN2JpTURzZkYyWXlxOENfd3VaVlVFSnhDVVh4T0VHNUVvMmhBQlNVWjg3X2NqZnliYkpNbFY1Y0NFZmxNX1h0VkdOU3dSaFN1ZzRzbkZUTmhqWWhySmlCYk92OXlxVkt0b9IBiAFBVV95cUxOZDhjOWlxd1RUNzdLaDlxRDhtenFpUS1LNnQ3OUNGMnZJUF9zSnUzV0xWdHBUZHZnUU9GdUJDXzRjQ0N0T0Z0UkpPYVkwU1J3c1JDem9pOVBpeHowZlNzZ3ZVQWphUDJ1eGFkMVA4ZDRZdldWbTUzaW9Xb0RZVVRGNmQ1RTJVR01k?oc=5",
-      "description": "Oil jumps over 4% as Netanyahu and Trump remarks stoke worries of prolonged Middle East conflict CNBC",
+      "description": "Brent oil tops $104 after Trump says ceasefire with Iran is on 'life support' CNBC",
       "publishedAt": "Sun, 10 May 2026 23:51:01 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
@@ -247,6 +247,15 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUnNCNGdMT0JoRGwxNjdJUXRGZVRLbzU3a1FEZUJwRkwtWEVUd28zTmJRNWlaU1NCa2VoS1RkUTFFdkpCNll3eVNaS3dVZllDbGpKSjB0d0RWckpfWXBtQ3dyQTA2UnlhUmd4Tmk0czdzZk13YUFXRElUVlNrNWVNVU9JVlNHN1RTSVlzUU9ocWRCYnJFMDU3MFRZcjZsbEpKWDdCaEs2VjBGZjA3NVNV?oc=5",
       "description": "US stocks fall from their records as oil prices yo-yo Coast Reporter",
       "publishedAt": "Thu, 07 May 2026 20:07:12 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil prices climb after Trump dismisses Iran’s response to peace plan - The Guardian",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU2k0MS1kUG1yY0Q1N2VnU0d2R182VWRkWjRwT0twTGpwQ2dnM1JDV1pZcVhfSF84WGJac3lRQXB4a1Q1SWJ0Y2RkNGozZy1sNTgyLU5lWEdNS2FqcGhXS09BUUVYenNWNk9aNVI5MjNhbUNaMExQcC1lcS01N3JFc2NUUXJMdVFSUUNaRW5wcDNNWlR2YjNPOUlHV1NtNVdLN1JpNWFlMEVvdHZPQnc?oc=5",
+      "description": "Oil prices climb after Trump dismisses Iran’s response to peace plan The Guardian",
+      "publishedAt": "Mon, 11 May 2026 08:49:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -265,15 +274,6 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObDdwYUZ3ZmR1MnBIZW9RZjloMDVWSlQ0Y3UwdUZkWGFCVkJDQ3RIbmxTSzdwSTlzR1VoSFFpVjVyZGl5MExQV1pIZ2Mwc2k3SDAzMm1uT2xSWGxXVFQ1bDVGb3NWRUNJU2tFa3QtNDNmbVhoSFhRMG5ra21NOU1hM3B3UlhGd3k1a0lYMUpudER5WW4ybEtLNWhLdEJkeTROWFEwSWNfSTdRRGQzcEZsWFFR?oc=5",
       "description": "US stocks edge up toward more records as crude oil prices ease Powell River Peak",
       "publishedAt": "Tue, 05 May 2026 13:35:46 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices drop and stock markets rise after reports of deal to end Iran war - BBC",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sNFBjN1p4T0psWXNqc0pBajZfVmNMUGlJTE5UeUZRdVVsVjBkT2Uzc1Q1aEZKakhWQ214YlRucEhZcjFTOG5VcWpzVE5BQ3dSMkZ5b3ZFVG9FQQ?oc=5",
-      "description": "Oil prices drop and stock markets rise after reports of deal to end Iran war BBC",
-      "publishedAt": "Wed, 06 May 2026 16:11:44 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
