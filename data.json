@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-05-12 06:33 UTC",
+  "generatedAt": "2026-05-13 06:43 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 186.9,
-    "premium": 204.9,
-    "diesel": 197.4
+    "regular": 188.9,
+    "premium": 206.9,
+    "diesel": 199.4
   },
   "history": {
     "labels": [
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "May 12"
+      "May 13"
     ],
     "regular": [
       150.7,
@@ -75,7 +75,7 @@
       155.9,
       174.9,
       186.9,
-      186.9
+      188.9
     ],
     "premium": [
       168.7,
@@ -110,7 +110,7 @@
       173.9,
       192.9,
       204.9,
-      204.9
+      206.9
     ],
     "diesel": [
       161.2,
@@ -145,45 +145,45 @@
       166.4,
       185.4,
       197.4,
-      197.4
+      199.4
     ]
   },
   "prediction": {
     "labels": [
-      "May 13",
       "May 14",
       "May 15",
       "May 16",
       "May 17",
       "May 18",
-      "May 19"
+      "May 19",
+      "May 20"
     ],
     "regular": [
-      187.9,
-      188.8,
-      189.8,
-      190.7,
-      191.7,
+      189.9,
+      190.8,
+      191.8,
       192.7,
-      193.6
+      193.7,
+      194.7,
+      195.6
     ],
     "premium": [
-      205.9,
-      206.8,
-      207.8,
-      208.7,
-      209.7,
+      207.9,
+      208.8,
+      209.8,
       210.7,
-      211.6
+      211.7,
+      212.7,
+      213.6
     ],
     "diesel": [
-      198.4,
-      199.3,
-      200.3,
-      201.2,
-      202.2,
+      200.4,
+      201.3,
+      202.3,
       203.2,
-      204.1
+      204.2,
+      205.2,
+      206.1
     ]
   },
   "news": [
@@ -210,7 +210,7 @@
       "source": "Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV2lma3B2X1hJTVJOUUpHZUpSTWNXd1Vjbzd5ZDkxM1hmSkhacFAzN3ppVW12akg1S09kQWkyM0VfVHZ1RnVrbHNGckh0VExoNzBQaV9iSFdZdjRIX09JQ0M5TGF4VFRGeXJGN3o5NXNpSW5FSUZ5Vm4yNkxLYzdZQ2hUd0c5VFViNjh0ZDdXSjJoaDBleUF4eHBIeTZndEQ1RVHSAacBQVVfeXFMTlJxZVF1ckRKQ1U1bXBYMDY5ZGtyZF9qTjJnWW1mNUUyWU8yT3ZqQjQ5ZjdjUXFNcjZjOEdNNWpnb2hKVlNDUklFX3Z0SVptYk4xTmU3cnBLYUdjWEVpMThKdmJzcEdoZjJlMTgyQ3laVnhWN3AxZEUxNzVYVjBlUFFDcVFrQ1lhOE5wTjlyb2ZIbjFrR2pCNG1pVThtNnJKeTc1ZW12Zmc?oc=5",
       "description": "Oil prices jump as US, Iran trade fire in Strait of Hormuz Al Jazeera",
-      "publishedAt": "Fri, 08 May 2026 03:09:33 GMT",
+      "publishedAt": "Fri, 08 May 2026 03:03:52 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -224,20 +224,11 @@
       "impact": "medium"
     },
     {
-      "title": "Current price of oil as of May 11, 2026 - Fortune",
-      "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9rc0poVG9ON2xpQjc4Slh4dUhMWEgyQ2F5LWh5SmtqZFlYTmM4QlJGSm1SOHIxTGQ1MDh0T24wUXVMM0lCSnh1Y1ZpdmpfdnlHUVY1VV9nLVJKR2RCNVBObElR?oc=5",
-      "description": "Current price of oil as of May 11, 2026 Fortune",
-      "publishedAt": "Mon, 11 May 2026 12:56:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Brent oil tops $104 after Trump says ceasefire with Iran is on 'life support' - CNBC",
+      "title": "U.S. crude oil tops $100 again as hope fades for a U.S.-Iran peace deal - CNBC",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTF9PT3huRzZTdWdfdHhnTzM0V0p4bThpeHBSN2JpTURzZkYyWXlxOENfd3VaVlVFSnhDVVh4T0VHNUVvMmhBQlNVWjg3X2NqZnliYkpNbFY1Y0NFZmxNX1h0VkdOU3dSaFN1ZzRzbkZUTmhqWWhySmlCYk92OXlxVkt0b9IBiAFBVV95cUxOZDhjOWlxd1RUNzdLaDlxRDhtenFpUS1LNnQ3OUNGMnZJUF9zSnUzV0xWdHBUZHZnUU9GdUJDXzRjQ0N0T0Z0UkpPYVkwU1J3c1JDem9pOVBpeHowZlNzZ3ZVQWphUDJ1eGFkMVA4ZDRZdldWbTUzaW9Xb0RZVVRGNmQ1RTJVR01k?oc=5",
-      "description": "Brent oil tops $104 after Trump says ceasefire with Iran is on 'life support' CNBC",
-      "publishedAt": "Sun, 10 May 2026 23:51:01 GMT",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMkxmWTI1ZTZZT1dGX2J3eV9oYXNsc3ltdlJmT1BLY0R3bmczdHFoTm1ESTgtelYtQ3V1bFhRanZkSUV4eHJYYjVqWGljcVFyOWNyN29zRUlQbkxyUFB6R3hEdVhka01weVhLVjUxRnh6eE5CcFk4LXVjVUN5T1hBUWZFRGpIaWx0Vmk1aDFn0gGTAUFVX3lxTE9SUXF1blN0N1cxaE84VVpQWENPS2NMLVZBaTFaR0tBMWpXb3RfeGFveVZCWTd1aG9qNHJPM0ZOcDVkMGhMVjJVaEx3UTVBR3l2ZHROMlJINDRKS2NQcnF4R3Z0S2ZiV0wzS015eGU2VFhIS1p3dnJaN0Q5VFlnYmRNM2VWX1puQ1cycWwzamdWUk5DMA?oc=5",
+      "description": "U.S. crude oil tops $100 again as hope fades for a U.S.-Iran peace deal CNBC",
+      "publishedAt": "Tue, 12 May 2026 00:21:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -251,6 +242,15 @@
       "impact": "medium"
     },
     {
+      "title": "Current price of oil as of May 12, 2026 - Fortune",
+      "source": "Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBEN0xQSDhnLXplZEFGWUpRd1A4dm9nVnZYZUQxNTYtY0FSQzczMC1kRmpaVEhHUEZYcnpTVUo2bExTeTRtdnlNcUJLYlptT0N6SHEyS19GalljY1IzZ3lZM3hR?oc=5",
+      "description": "Current price of oil as of May 12, 2026 Fortune",
+      "publishedAt": "Tue, 12 May 2026 12:59:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
       "title": "Oil prices climb after Trump dismisses Iran’s response to peace plan - The Guardian",
       "source": "The Guardian",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU2k0MS1kUG1yY0Q1N2VnU0d2R182VWRkWjRwT0twTGpwQ2dnM1JDV1pZcVhfSF84WGJac3lRQXB4a1Q1SWJ0Y2RkNGozZy1sNTgyLU5lWEdNS2FqcGhXS09BUUVYenNWNk9aNVI5MjNhbUNaMExQcC1lcS01N3JFc2NUUXJMdVFSUUNaRW5wcDNNWlR2YjNPOUlHV1NtNVdLN1JpNWFlMEVvdHZPQnc?oc=5",
@@ -260,20 +260,20 @@
       "impact": "medium"
     },
     {
-      "title": "‘We take the hit’: Montreal’s small businesses absorb rising costs as oil prices climb - CityNews Montreal",
-      "source": "CityNews Montreal",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT2pYVUdleFJwYU1LdEVtRFpDdGQwR1YyNjY2QVc0eElwb09ibVppWklTUmI3V2RMcVdBQzYxV2lTRE9lV1J5ZnE2QTVVbzl5b1VpUVlZUHd0NWcyVmk2UElRUWdqZnF1MC1kMGpLUDhHVlNMdjkzRXZLZU11UXFkUnN5d0hmMDBx?oc=5",
-      "description": "‘We take the hit’: Montreal’s small businesses absorb rising costs as oil prices climb CityNews Montreal",
-      "publishedAt": "Thu, 07 May 2026 21:08:52 GMT",
+      "title": "Oil price predicted to remain above $100 for rest of year - BBC",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XeEduVHJVeUVialhUMFRNYTNiUl92bF90d2pfNEJNa29TVEJMaHhERllmbFVFOWdmaGJOU2w1c1FwR2JqNFVzY09jbXZtXzZ6VGhlbXN3d01LUQ?oc=5",
+      "description": "Oil price predicted to remain above $100 for rest of year BBC",
+      "publishedAt": "Mon, 11 May 2026 16:57:15 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "US stocks edge up toward more records as crude oil prices ease - Powell River Peak",
-      "source": "Powell River Peak",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObDdwYUZ3ZmR1MnBIZW9RZjloMDVWSlQ0Y3UwdUZkWGFCVkJDQ3RIbmxTSzdwSTlzR1VoSFFpVjVyZGl5MExQV1pIZ2Mwc2k3SDAzMm1uT2xSWGxXVFQ1bDVGb3NWRUNJU2tFa3QtNDNmbVhoSFhRMG5ra21NOU1hM3B3UlhGd3k1a0lYMUpudER5WW4ybEtLNWhLdEJkeTROWFEwSWNfSTdRRGQzcEZsWFFR?oc=5",
-      "description": "US stocks edge up toward more records as crude oil prices ease Powell River Peak",
-      "publishedAt": "Tue, 05 May 2026 13:35:46 GMT",
+      "title": "U.S. stocks fall from their records as oil prices yo-yo - BNN Bloomberg",
+      "source": "BNN Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUEVwU1pjeVRxWUNFem53eTd5dFBKUE16TFhZT3VUN0N3Y3ZtcmhucUhUSUdDbjltX01qVUUzU2JZZHNwVFRRV0EzMFNzbUZWZUtKZEFwNmREcHp5LUVEWHdUU24zNXhqbkV1NDA0aDBMdVlkZEs0XzBwMk1FSmRGM25ERWtvLUpqdE9zS19qWWFFVHdEcVQ3SDhnMWxFc0V5T3ZmTnpHNXkzX2dvS1d4VF9Ucm81OHM?oc=5",
+      "description": "U.S. stocks fall from their records as oil prices yo-yo BNN Bloomberg",
+      "publishedAt": "Thu, 07 May 2026 20:07:20 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
