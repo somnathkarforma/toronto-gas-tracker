@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-05-14 06:42 UTC",
+  "generatedAt": "2026-05-15 06:51 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 192.9,
-    "premium": 210.9,
-    "diesel": 203.4
+    "regular": 189.9,
+    "premium": 207.9,
+    "diesel": 200.4
   },
   "history": {
     "labels": [
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "May 14"
+      "May 15"
     ],
     "regular": [
       150.7,
@@ -75,7 +75,7 @@
       155.9,
       174.9,
       186.9,
-      192.9
+      189.9
     ],
     "premium": [
       168.7,
@@ -110,7 +110,7 @@
       173.9,
       192.9,
       204.9,
-      210.9
+      207.9
     ],
     "diesel": [
       161.2,
@@ -145,81 +145,72 @@
       166.4,
       185.4,
       197.4,
-      203.4
+      200.4
     ]
   },
   "prediction": {
     "labels": [
-      "May 15",
       "May 16",
       "May 17",
       "May 18",
       "May 19",
       "May 20",
-      "May 21"
+      "May 21",
+      "May 22"
     ],
     "regular": [
-      193.9,
-      194.8,
-      195.8,
-      196.7,
-      197.7,
-      198.7,
-      199.6
+      190.9,
+      191.8,
+      192.8,
+      193.7,
+      194.7,
+      195.7,
+      196.6
     ],
     "premium": [
-      211.9,
-      212.8,
-      213.8,
-      214.7,
-      215.7,
-      216.7,
-      217.6
+      208.9,
+      209.8,
+      210.8,
+      211.7,
+      212.7,
+      213.7,
+      214.6
     ],
     "diesel": [
-      204.4,
-      205.3,
-      206.3,
-      207.2,
-      208.2,
-      209.2,
-      210.1
+      201.4,
+      202.3,
+      203.3,
+      204.2,
+      205.2,
+      206.2,
+      207.1
     ]
   },
   "news": [
     {
-      "title": "Fixed mortgage rates follow falling oil prices - Financial Post",
-      "source": "Financial Post",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTnpsV1RSbzFWWXA0bUJuMlVMUGpkeGtUZU9adTVqYUZEZmphM0ZnMHB0Qi13Z3MwNkFWQVVtaWt4LW5naDI5WF9ydngyTFZlc2htWGVhdDV4Y19tM0JUOGp3dWZVLTRpcllhSXZxaWI1U2dTVGZEUkFZbmVWN0UyYWtaUU1MOUMwcmxCT3VfY1UxVzVqUEhuZEtKS1RobkFjanBiNEFiRGk1YnEtSWc?oc=5",
-      "description": "Fixed mortgage rates follow falling oil prices Financial Post",
-      "publishedAt": "Fri, 08 May 2026 03:10:03 GMT",
+      "title": "Oil prices could soon rise convulsively - The Economist",
+      "source": "The Economist",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdERWR1ZGQ3AtaW5aLWRaTXRtTmFwY1lxNkM1ZHhnTk1sNldxT05hckRER1FwRVJydTE3b0d1eVpHX00xbGhUNWJZd1FFVTN0QW5CSnpic0UwQnVOajQ3b25EQXVoV2dlbzFhWDlHVk96MGhrYlZkMW16QTgwRWNWTVlpQWxScU92LW04SQ?oc=5",
+      "description": "Oil prices could soon rise convulsively The Economist",
+      "publishedAt": "Thu, 14 May 2026 09:20:04 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Waver as Market Weighs Chances of U.S.-Iran Deal - Crude Oil Prices Today | OilPrice.com",
+      "title": "Oil Prices Surge After Trump Rejects Iran Peace Offer - Crude Oil Prices Today | OilPrice.com",
       "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQk83NFNXYk9qV19sUXVydlB5Qzd6ZDI3VEVtdHNJRnV0RC1PUkpZYWUzRWtfVzVYUjlvU0RBdWJpRkJVdGZ4N2gxRklZV0dJT2phajF3bngxc2k3X25ZUk42MXRqQVdyUDd1Q0Jpdkc0V19FdktXbllGQ0txdm1RMFp6TDVDUXp1c1g1ZU9YUDRzakkxRGFReUZBQWZJaTB3al9YVUwxS0tnZ09EbUdyU3VDd9IBuAFBVV95cUxQNGFDeS1nVlpncVBVM2RUcGo0SFh1emUyVWJrWWxSc0dNMm1lQ0xycjBSY28wdUU2eWJvQUZXVm5lc0tjNV96dVNlQUJXaFFWOGRPR2xHWFVBNTBJbkVDazdoUUV2cUliOG15QzRfNHozWlNzYjZkVkY3NEZJTFdzdjQyVDlPdmIwV01felhZTjlfd3ZIX0dIMTJOQUlrcXctenh6bVNGN19vOU1FbV9lYUhSM0pyYklQ?oc=5",
-      "description": "Oil Prices Waver as Market Weighs Chances of U.S.-Iran Deal Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Thu, 07 May 2026 10:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONXVyQ0NiTFhVY0xrOTh4ZEZrVHhHd0N3eHViMWlSZDgyQzdTRGxxUXlYN2x6Y1RlVGpsQ2dscm9pNHd6MDh4RTRyZjJldkVCcG9Wb3VSOFBjQnpWQ2lsSjJlNW12RmhTTnFLZGh0Uzk1WkJhanppQXIwcFJ3RkJCb0tKZ1JPY2xjYU5vTzVIc2dmemE1dWcwLVJsSWh0bktjZTA2cmNXWHQwTVhWZkHSAbMBQVVfeXFMTTM3RXVhRnhSc196dWZ1bmhObElKUXVhYW9YNUJsakdOYm41bHc0SEUyVW80OWszdE1NVE8xOWVLV0Z2c2hfODBnNnNKRDhLdlhEbmw2X0kxbUREWkFzZnJFZnRKdnIyNlZFaklyYWJDR09zM2RVdmlPZWdsTVNzY1l5aHBFUHhJYzFqaExYNjFMT1NGMXVySDhsRjV5bzFjcE8zR044eHBGS2hWSllDZkN3WUU?oc=5",
+      "description": "Oil Prices Surge After Trump Rejects Iran Peace Offer Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Mon, 11 May 2026 01:32:03 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil price spike turmoil far from over, IEA says as inventories are depleted at “record pace\" - CNBC",
+      "title": "Brent oil tops $104 after Trump says ceasefire with Iran is on 'life support' - CNBC",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CS1o3NFdRUk5nNVdkdlZTcHZ5VlVibmtvRnA5U3BCLTgxVEQyZ2dncXlCQTdTQzRaRXZTdmtuSkZVN1VmOThJOUhoUFhqb0xmWUZJME9reHlsVjBtdE1pNmxJZ1ZIekVQbkJCWnNOVmZvdVJELXZkS3d2clhqQdIBgwFBVV95cUxNX2FjdzJCbjNvUTQ2TTZtZ19lRVN4M3RxOUxuZ2xoS29hV1I1UFZubkREeHhKR1BKNDhaMW5DOTRvVDhFQWZTT2E2WGpWV3o1b0VLU3NiQ0tvR0UyMDd3dTZyRTBnYkdXUXVCTGsteFZ6RFNmSC1taEdlM3Nwb1FNUUloYw?oc=5",
-      "description": "Oil price spike turmoil far from over, IEA says as inventories are depleted at “record pace\" CNBC",
-      "publishedAt": "Wed, 13 May 2026 12:12:32 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "‘We take the hit’: Montreal’s small businesses absorb rising costs as oil prices climb - CityNews Montreal",
-      "source": "CityNews Montreal",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT2pYVUdleFJwYU1LdEVtRFpDdGQwR1YyNjY2QVc0eElwb09ibVppWklTUmI3V2RMcVdBQzYxV2lTRE9lV1J5ZnE2QTVVbzl5b1VpUVlZUHd0NWcyVmk2UElRUWdqZnF1MC1kMGpLUDhHVlNMdjkzRXZLZU11UXFkUnN5d0hmMDBx?oc=5",
-      "description": "‘We take the hit’: Montreal’s small businesses absorb rising costs as oil prices climb CityNews Montreal",
-      "publishedAt": "Thu, 07 May 2026 21:08:52 GMT",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTF9PT3huRzZTdWdfdHhnTzM0V0p4bThpeHBSN2JpTURzZkYyWXlxOENfd3VaVlVFSnhDVVh4T0VHNUVvMmhBQlNVWjg3X2NqZnliYkpNbFY1Y0NFZmxNX1h0VkdOU3dSaFN1ZzRzbkZUTmhqWWhySmlCYk92OXlxVkt0b9IBiAFBVV95cUxOZDhjOWlxd1RUNzdLaDlxRDhtenFpUS1LNnQ3OUNGMnZJUF9zSnUzV0xWdHBUZHZnUU9GdUJDXzRjQ0N0T0Z0UkpPYVkwU1J3c1JDem9pOVBpeHowZlNzZ3ZVQWphUDJ1eGFkMVA4ZDRZdldWbTUzaW9Xb0RZVVRGNmQ1RTJVR01k?oc=5",
+      "description": "Brent oil tops $104 after Trump says ceasefire with Iran is on 'life support' CNBC",
+      "publishedAt": "Sun, 10 May 2026 23:51:01 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -233,29 +224,11 @@
       "impact": "medium"
     },
     {
-      "title": "Summary of Governing Council deliberations: Fixed announcement date of April 29, 2026 - Bank of Canada",
-      "source": "Bank of Canada",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX09KTU94SVlaaEtWVS1aNXMwTHZFcXAzUThEdFUyWUREY1dtNVlvdWlaQWtUbWJBc1dRX1BMOGNVUjRGbVNFWmJyeWo3VHZ2cGw0aUNTd19zVDBkX255M2MzdkpLZENpVk1KR0J2bFloLVI3by0tam5GYW9NUXdKSnhYYnJ6OG0zeEFudEZtWGFyUC02d3JqUDJvMUZscGcyNlJ6bzMwYmIwajRnSjdJV0tsMkY5R3ZJYVh5bQ?oc=5",
-      "description": "Summary of Governing Council deliberations: Fixed announcement date of April 29, 2026 Bank of Canada",
-      "publishedAt": "Wed, 13 May 2026 17:32:27 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "US stocks fall from their records as oil prices yo-yo - Coast Reporter",
-      "source": "Coast Reporter",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUnNCNGdMT0JoRGwxNjdJUXRGZVRLbzU3a1FEZUJwRkwtWEVUd28zTmJRNWlaU1NCa2VoS1RkUTFFdkpCNll3eVNaS3dVZllDbGpKSjB0d0RWckpfWXBtQ3dyQTA2UnlhUmd4Tmk0czdzZk13YUFXRElUVlNrNWVNVU9JVlNHN1RTSVlzUU9ocWRCYnJFMDU3MFRZcjZsbEpKWDdCaEs2VjBGZjA3NVNV?oc=5",
-      "description": "US stocks fall from their records as oil prices yo-yo Coast Reporter",
-      "publishedAt": "Thu, 07 May 2026 20:07:12 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil Prices Climb on Pessimism Over Quick End to Iran War - Transport Topics",
-      "source": "Transport Topics",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92enBGMUpIUDB6SHBkLUxBV0hqT3JpcUZNM1o2cllsbGhrWllBMDNLa2hvRlVUZmxuWENuQ2VrN3RodGlfN1FLejZpN2RJWFVFQ3BKY01yNUxxRWdzdnZENHJnWHh5Z29TbGc?oc=5",
-      "description": "Oil Prices Climb on Pessimism Over Quick End to Iran War Transport Topics",
-      "publishedAt": "Tue, 12 May 2026 18:12:00 GMT",
+      "title": "Wall Street mixed early, oil prices steady - Investment Executive",
+      "source": "Investment Executive",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPblB1SlVJbi1qczNmaEdCM2N0UF9SeGdqclFydHptZWpFODdNdjktU2FXbm4tODdtb196eU1xMzFoYjc2SV9oLVIzX29nX2duSlNHQVdQd1dwQlJSOUF2ZlowZExXbXlHV3dLbDg1YjJXcnRQLTlFMWRfSDdGM2hlalhHY2pHQ0ZHNmNJREY2ZHBFbU5aQ0RBQU9CclR3Q2pya0RFQVVuSQ?oc=5",
+      "description": "Wall Street mixed early, oil prices steady Investment Executive",
+      "publishedAt": "Wed, 13 May 2026 13:21:34 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -269,11 +242,38 @@
       "impact": "medium"
     },
     {
+      "title": "Oil Prices Climb on Pessimism Over Quick End to Iran War - Transport Topics",
+      "source": "Transport Topics",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92enBGMUpIUDB6SHBkLUxBV0hqT3JpcUZNM1o2cllsbGhrWllBMDNLa2hvRlVUZmxuWENuQ2VrN3RodGlfN1FLejZpN2RJWFVFQ3BKY01yNUxxRWdzdnZENHJnWHh5Z29TbGc?oc=5",
+      "description": "Oil Prices Climb on Pessimism Over Quick End to Iran War Transport Topics",
+      "publishedAt": "Tue, 12 May 2026 18:12:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
       "title": "Oil prices rise as the Iran war drags on, but U.S. stocks inch to more records - BNN Bloomberg",
       "source": "BNN Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQb0w3OVhCR1BjZnQybkMwMUpzSlRFU3BvN0VNY1hsVG5kelI4UXc1T2NkNmJtdjczN3hQejN4Q0x5ZmZpWGJzQkhSNFhMZV9QeXYzTlVVc2NZdnV5OEUtTjVfazRoYUN4MHlLUGJtd0U5dWRTMFRpMmFlTlFHX0ZWamdGNzlObEYxMlYzZGozSVNHRS03bWhJSkVnR1RReVE5M2VidFBhVVRndjZyUmxBalZ4YTdaOVhUWUtaN2xCU1c4OGNGTXNUMVc4OFNzd2JJRm84UDFvSGJkZw?oc=5",
       "description": "Oil prices rise as the Iran war drags on, but U.S. stocks inch to more records BNN Bloomberg",
       "publishedAt": "Mon, 11 May 2026 20:21:25 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil price predicted to remain above $100 for rest of year - BBC",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XeEduVHJVeUVialhUMFRNYTNiUl92bF90d2pfNEJNa29TVEJMaHhERllmbFVFOWdmaGJOU2w1c1FwR2JqNFVzY09jbXZtXzZ6VGhlbXN3d01LUQ?oc=5",
+      "description": "Oil price predicted to remain above $100 for rest of year BBC",
+      "publishedAt": "Mon, 11 May 2026 16:57:15 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Canadian and U.S. stock markets inch higher despite gains in oil prices - Business in Vancouver",
+      "source": "Business in Vancouver",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRUpJOV9Sb3dmQURtcGtZOGxGWjN6d0Yxdk1Wa0tmLUcyMmdKM19qeWNzcVBnVXhrT1ljaFRHeUVkRUNVVE9Xd0pPUmJJb3l6YnpybVVINVE0WUF5N0poNC1IdnZXa0F1RkpJaldRTjNlVnMwU28tWmFxOFRqdFRJYW1FSkpMQjFvMXh6UnpSWmIzamNUQWx3RGhHZXRpTE03aFhlVXBB?oc=5",
+      "description": "Canadian and U.S. stock markets inch higher despite gains in oil prices Business in Vancouver",
+      "publishedAt": "Mon, 11 May 2026 21:07:23 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
