@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17 06:41 UTC",
+  "generatedAt": "2026-05-18 07:57 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
     "regular": 192.9,
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "May 17"
+      "May 18"
     ],
     "regular": [
       150.7,
@@ -150,13 +150,13 @@
   },
   "prediction": {
     "labels": [
-      "May 18",
       "May 19",
       "May 20",
       "May 21",
       "May 22",
       "May 23",
-      "May 24"
+      "May 24",
+      "May 25"
     ],
     "regular": [
       193.9,
@@ -188,6 +188,15 @@
   },
   "news": [
     {
+      "title": "Oil Prices Set for Another Weekly Decline as Iran Risks Recede - EnergyNow",
+      "source": "EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbEV5UWVIMG41ZnplUlJEbTNFRURkN05GQVVzazBxNVZpNHJqZVp4X2pXWGtCXzdyNmVlVWtUUEVfbC1DSmFySWo3QmVxMVhLWGtYUFRRNXlwN1Q4UVFGX0tid2tPNDl2RzVBSElEeUdLbXNZTjdKMkROcmF0bjZQLUlQVUlYLWU1bE9iREt1U3huVFRvMW5z?oc=5",
+      "description": "Oil Prices Set for Another Weekly Decline as Iran Risks Recede EnergyNow",
+      "publishedAt": "Sun, 17 May 2026 10:13:19 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
       "title": "Commodities Quick-Take - TD Economics",
       "source": "TD Economics",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xdzhQMEluOXcyYldUZm5tZnNrU2R1QTRGQkt6UVYzUEVpamVHcXJHWFJPaDF6b095Yk1iU0NlbU9YQlVONnhRb1l3M04xWFJmOVRLMFdSYTZDeDA?oc=5",
@@ -197,11 +206,11 @@
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Surge as Hormuz Shutdown Keeps Supply Fears Alive - Crude Oil Prices Today | OilPrice.com",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVkJERG5QLVFqRDc5RmRqUlhCSmhRWE1Ob3V3ZFRPQVB3czFtZE1nSVZhRTZuODgtMUZuMzVuLWlXcUY2LXBOVWRlR1ZPWE1FWHgzUHZudVdKM08zYVV2TmJFcUVnWE5iQTF1c1lVWFFRN0hUcWw2R0I0MjhLVXVaRC1lTVhJWlRoajNDOVN3MXFxYXhpY3BTcXZCOWY4T0ozMEpydktzRnduam9I0gGyAUFVX3lxTE4zcGxaUDNyWW1XQmlERkdfSzJFQUtGNmFtRGRPd0djZVROSnFNQ0lObEdGRmFJSzRtTldpd2poMDdlbXphRHJEZTVkMUdrWHZRUlUzZF9pUzFUeUx0TjJ3akRRcFduSmk0OUtHMXpHeGdPd0tJdnZLUWxqZjA3WVo0enBNcU16Z2pVbW8wcElVN2JXWUkyUVlrdWxQTW40czhiSllPZmQyWnI1a3F4WjliR2c?oc=5",
-      "description": "Oil Prices Surge as Hormuz Shutdown Keeps Supply Fears Alive Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Fri, 15 May 2026 11:30:00 GMT",
+      "title": "Oil price spike turmoil far from over, IEA says as inventories are depleted at “record pace\" - CNBC",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CS1o3NFdRUk5nNVdkdlZTcHZ5VlVibmtvRnA5U3BCLTgxVEQyZ2dncXlCQTdTQzRaRXZTdmtuSkZVN1VmOThJOUhoUFhqb0xmWUZJME9reHlsVjBtdE1pNmxJZ1ZIekVQbkJCWnNOVmZvdVJELXZkS3d2clhqQdIBgwFBVV95cUxNX2FjdzJCbjNvUTQ2TTZtZ19lRVN4M3RxOUxuZ2xoS29hV1I1UFZubkREeHhKR1BKNDhaMW5DOTRvVDhFQWZTT2E2WGpWV3o1b0VLU3NiQ0tvR0UyMDd3dTZyRTBnYkdXUXVCTGsteFZ6RFNmSC1taEdlM3Nwb1FNUUloYw?oc=5",
+      "description": "Oil price spike turmoil far from over, IEA says as inventories are depleted at “record pace\" CNBC",
+      "publishedAt": "Wed, 13 May 2026 12:12:32 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -215,11 +224,11 @@
       "impact": "medium"
     },
     {
-      "title": "Brent oil tops $104 after Trump says ceasefire with Iran is on 'life support' - CNBC",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTF9PT3huRzZTdWdfdHhnTzM0V0p4bThpeHBSN2JpTURzZkYyWXlxOENfd3VaVlVFSnhDVVh4T0VHNUVvMmhBQlNVWjg3X2NqZnliYkpNbFY1Y0NFZmxNX1h0VkdOU3dSaFN1ZzRzbkZUTmhqWWhySmlCYk92OXlxVkt0b9IBiAFBVV95cUxOZDhjOWlxd1RUNzdLaDlxRDhtenFpUS1LNnQ3OUNGMnZJUF9zSnUzV0xWdHBUZHZnUU9GdUJDXzRjQ0N0T0Z0UkpPYVkwU1J3c1JDem9pOVBpeHowZlNzZ3ZVQWphUDJ1eGFkMVA4ZDRZdldWbTUzaW9Xb0RZVVRGNmQ1RTJVR01k?oc=5",
-      "description": "Brent oil tops $104 after Trump says ceasefire with Iran is on 'life support' CNBC",
-      "publishedAt": "Sun, 10 May 2026 23:51:01 GMT",
+      "title": "Oil Prices Surge as Hormuz Shutdown Keeps Supply Fears Alive - Crude Oil Prices Today | OilPrice.com",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVkJERG5QLVFqRDc5RmRqUlhCSmhRWE1Ob3V3ZFRPQVB3czFtZE1nSVZhRTZuODgtMUZuMzVuLWlXcUY2LXBOVWRlR1ZPWE1FWHgzUHZudVdKM08zYVV2TmJFcUVnWE5iQTF1c1lVWFFRN0hUcWw2R0I0MjhLVXVaRC1lTVhJWlRoajNDOVN3MXFxYXhpY3BTcXZCOWY4T0ozMEpydktzRnduam9I0gGyAUFVX3lxTE4zcGxaUDNyWW1XQmlERkdfSzJFQUtGNmFtRGRPd0djZVROSnFNQ0lObEdGRmFJSzRtTldpd2poMDdlbXphRHJEZTVkMUdrWHZRUlUzZF9pUzFUeUx0TjJ3akRRcFduSmk0OUtHMXpHeGdPd0tJdnZLUWxqZjA3WVo0enBNcU16Z2pVbW8wcElVN2JXWUkyUVlrdWxQTW40czhiSllPZmQyWnI1a3F4WjliR2c?oc=5",
+      "description": "Oil Prices Surge as Hormuz Shutdown Keeps Supply Fears Alive Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Fri, 15 May 2026 11:30:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -242,20 +251,11 @@
       "impact": "medium"
     },
     {
-      "title": "Current price of oil as of May 15, 2026 - Fortune",
-      "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9YeVJTQWJidE5FRV9HcllNclN3NGNEaTBWbDBPY09zMmNmRzdiSW1NQlltdlRiN2FOQWZZdmpMSkJkVzVnS3ZZaVpqTFlFM1ljSzFfbG5TOXhIdFZ0QlYxZFdB?oc=5",
-      "description": "Current price of oil as of May 15, 2026 Fortune",
-      "publishedAt": "Fri, 15 May 2026 12:52:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices climb after Trump dismisses Iran’s response to peace plan - The Guardian",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU2k0MS1kUG1yY0Q1N2VnU0d2R182VWRkWjRwT0twTGpwQ2dnM1JDV1pZcVhfSF84WGJac3lRQXB4a1Q1SWJ0Y2RkNGozZy1sNTgyLU5lWEdNS2FqcGhXS09BUUVYenNWNk9aNVI5MjNhbUNaMExQcC1lcS01N3JFc2NUUXJMdVFSUUNaRW5wcDNNWlR2YjNPOUlHV1NtNVdLN1JpNWFlMEVvdHZPQnc?oc=5",
-      "description": "Oil prices climb after Trump dismisses Iran’s response to peace plan The Guardian",
-      "publishedAt": "Mon, 11 May 2026 08:49:00 GMT",
+      "title": "High oil prices could turn $9.4B Alberta deficit into $6B surplus: report - CTV News",
+      "source": "CTV News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOclVTWEYwa0VoYzNRRnVlVFBYVVI1RHZmWlJBaWN3cFljaGJYNTBZYzZSMHB2Mk1aY25qTHpWUERXbTJfTUk0c2o0U3NEOHhiVkJGWU1uaG1GSXZ6X0htU2Y0NElqQ1dNbHl3X0l5QW5aY0YtV1owTUN4ZlgyUWhZQ094bHZMa3BaVWNKWUg3dTlCYk83MEt3NGRDR2RyRC1vVDZyUDJfUU1xLTlBcnc?oc=5",
+      "description": "High oil prices could turn $9.4B Alberta deficit into $6B surplus: report CTV News",
+      "publishedAt": "Wed, 13 May 2026 14:57:36 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
