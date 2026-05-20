@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19 07:40 UTC",
+  "generatedAt": "2026-05-20 07:38 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
     "regular": 192.9,
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "May 19"
+      "May 20"
     ],
     "regular": [
       150.7,
@@ -150,13 +150,13 @@
   },
   "prediction": {
     "labels": [
-      "May 20",
       "May 21",
       "May 22",
       "May 23",
       "May 24",
       "May 25",
-      "May 26"
+      "May 26",
+      "May 27"
     ],
     "regular": [
       193.9,
@@ -188,20 +188,29 @@
   },
   "news": [
     {
-      "title": "Oil prices could soon rise convulsively - The Economist",
-      "source": "The Economist",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdERWR1ZGQ3AtaW5aLWRaTXRtTmFwY1lxNkM1ZHhnTk1sNldxT05hckRER1FwRVJydTE3b0d1eVpHX00xbGhUNWJZd1FFVTN0QW5CSnpic0UwQnVOajQ3b25EQXVoV2dlbzFhWDlHVk96MGhrYlZkMW16QTgwRWNWTVlpQWxScU92LW04SQ?oc=5",
-      "description": "Oil prices could soon rise convulsively The Economist",
-      "publishedAt": "Thu, 14 May 2026 09:20:04 GMT",
+      "title": "Motor oil prices are on the rise, experts say. The Strait of Hormuz is why - Global News",
+      "source": "Global News",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTnhoalJjWlVCNWpCXzBBSmVtRldYU2IwT1IydDMxMl91R3AyRnVMeU84M1VPY3pXX3EwN0hTa0Z0WFZpOUx0MFRKWGtLdFRuUndVcWNzNXg0SFFkX09NQVZuOVRnQ1pjR0poVWx1c2hUUnV6SUhaamtydjUzQi1UODVNMA?oc=5",
+      "description": "Motor oil prices are on the rise, experts say. The Strait of Hormuz is why Global News",
+      "publishedAt": "Tue, 19 May 2026 19:52:47 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil price spike turmoil far from over, IEA says as inventories are depleted at “record pace\" - CNBC",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CS1o3NFdRUk5nNVdkdlZTcHZ5VlVibmtvRnA5U3BCLTgxVEQyZ2dncXlCQTdTQzRaRXZTdmtuSkZVN1VmOThJOUhoUFhqb0xmWUZJME9reHlsVjBtdE1pNmxJZ1ZIekVQbkJCWnNOVmZvdVJELXZkS3d2clhqQdIBgwFBVV95cUxNX2FjdzJCbjNvUTQ2TTZtZ19lRVN4M3RxOUxuZ2xoS29hV1I1UFZubkREeHhKR1BKNDhaMW5DOTRvVDhFQWZTT2E2WGpWV3o1b0VLU3NiQ0tvR0UyMDd3dTZyRTBnYkdXUXVCTGsteFZ6RFNmSC1taEdlM3Nwb1FNUUloYw?oc=5",
-      "description": "Oil price spike turmoil far from over, IEA says as inventories are depleted at “record pace\" CNBC",
-      "publishedAt": "Wed, 13 May 2026 12:12:32 GMT",
+      "title": "Oil Prices Set to Rise Further on Monday as Mideast War Escalates - EnergyNow",
+      "source": "EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcGMwU2NHdGU1RXdDQkF5Vmk3Y3NvU2wwWDJHeURSOUF1SkNZNmo3VGs1SElzaWFkbVRQLTRLTG81TkR1RTlmdnhoNEw3c1ZTcldEV1RuUkdlRVl0RHJNM3FLc2J0cFFMVnpiS3RIZC1rVWRIR1Z5V0lMV1RmNEdJdWRNREdjeWdiVWZDZmVFS3FHOC1uSEJ2b3ZBRQ?oc=5",
+      "description": "Oil Prices Set to Rise Further on Monday as Mideast War Escalates EnergyNow",
+      "publishedAt": "Sat, 16 May 2026 15:50:40 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Current price of oil as of May 19, 2026 - Fortune",
+      "source": "Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1DWURMeDY4Y3hMVU5UblNMSVJIa2g1Y1dJN05SaWRIZ1ZBSWw3bkd4Y3ZyNmJQdlR6Yk9WX2lzUkh6dndBZ0EzREVLRndTaThpOGY5MFVQSXRLWFpxZjRKbGZ3?oc=5",
+      "description": "Current price of oil as of May 19, 2026 Fortune",
+      "publishedAt": "Tue, 19 May 2026 13:24:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -215,38 +224,29 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices keep swinging, and so do stocks worldwide - Castanet",
-      "source": "Castanet",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeWtERGpBUGdENzBYLU9TWEVnMDVySDZnZHUzRWhhby0wVncydFp1Nl9aVjVaUHhGSHBDTTJzLTlnTkt0VFRBVk0tQ3BHNy1RcDlGdzFTLVdZcjkyYTJtSUVSc3NoOFNZN3dQVUtjVVRmQ0xSakdFdEM1ZGVyR0REQkE2ODdxNWJPRkxkeDF3bDlMbURKajNvaHV1MW9PUQ?oc=5",
-      "description": "Oil prices keep swinging, and so do stocks worldwide Castanet",
-      "publishedAt": "Mon, 18 May 2026 21:17:00 GMT",
+      "title": "Oil price spike turmoil far from over, IEA says as inventories are depleted at “record pace\" - CNBC",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CS1o3NFdRUk5nNVdkdlZTcHZ5VlVibmtvRnA5U3BCLTgxVEQyZ2dncXlCQTdTQzRaRXZTdmtuSkZVN1VmOThJOUhoUFhqb0xmWUZJME9reHlsVjBtdE1pNmxJZ1ZIekVQbkJCWnNOVmZvdVJELXZkS3d2clhqQdIBgwFBVV95cUxNX2FjdzJCbjNvUTQ2TTZtZ19lRVN4M3RxOUxuZ2xoS29hV1I1UFZubkREeHhKR1BKNDhaMW5DOTRvVDhFQWZTT2E2WGpWV3o1b0VLU3NiQ0tvR0UyMDd3dTZyRTBnYkdXUXVCTGsteFZ6RFNmSC1taEdlM3Nwb1FNUUloYw?oc=5",
+      "description": "Oil price spike turmoil far from over, IEA says as inventories are depleted at “record pace\" CNBC",
+      "publishedAt": "Wed, 13 May 2026 12:12:32 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Current price of oil as of May 18, 2026 - Fortune",
-      "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YNU1Ya0NUZ1dLeVIxNnNON3lVZXYzMmd5UkJOZlNkT3FzWGFuaEtIc0VIaE8xcmprVWRpVGpmNkJZak94cU9vTW55dHlZUjdUc2lfeEc3RVFJa0NwSHNFdUlB?oc=5",
-      "description": "Current price of oil as of May 18, 2026 Fortune",
-      "publishedAt": "Mon, 18 May 2026 13:09:00 GMT",
+      "title": "Oil prices could soon rise convulsively - The Economist",
+      "source": "The Economist",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdERWR1ZGQ3AtaW5aLWRaTXRtTmFwY1lxNkM1ZHhnTk1sNldxT05hckRER1FwRVJydTE3b0d1eVpHX00xbGhUNWJZd1FFVTN0QW5CSnpic0UwQnVOajQ3b25EQXVoV2dlbzFhWDlHVk96MGhrYlZkMW16QTgwRWNWTVlpQWxScU92LW04SQ?oc=5",
+      "description": "Oil prices could soon rise convulsively The Economist",
+      "publishedAt": "Thu, 14 May 2026 09:20:04 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "A reversal in oil prices helps stock markets worldwide to steady - BNN Bloomberg",
+      "title": "Wall Street points lower and oil prices remain above US$100 with Iran a dominant force in markets - BNN Bloomberg",
       "source": "BNN Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVWUzQ2Mtbmo3aGZEMlgtQVBwUmtaMzdLUy1talFCVG5WRkM0Y29Vbi1DOTRYeWZ5Z3piQlZENVBBOGxiWEpmOWJhaFZ4MFVfV1JFMGJnUDJ0Nm9fa1RWZ3o0RmNKbzRsUFVQdjkyNG9BVlVEYUFMSGFIUFFBN0NYYnFFN19hYS1FVDQ2VHNOYmVJUHl1SVctN3RveWtMaG1jVGJGVzh4R3QwZy13NVNJVTNR?oc=5",
-      "description": "A reversal in oil prices helps stock markets worldwide to steady BNN Bloomberg",
-      "publishedAt": "Mon, 18 May 2026 13:59:46 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil price slumps as Trump says he called off Iran attacks - BBC",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CZTFpdHFrYklXZGo5N3lvc09jN3phUGdlOHdtdWctSXVybzdiLWlVNXV0a2poRW9SRnZLRnFOVXExVDlQd0R5OFBGZGxHY0R1ZElsbmZ3WXY0UQ?oc=5",
-      "description": "Oil price slumps as Trump says he called off Iran attacks BBC",
-      "publishedAt": "Mon, 18 May 2026 20:20:29 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYXZPVGFqV2NKdzk1V3NoNUhrMHZqRjE0UHRDZENLamZNblZKNmNBZTRrUVZQNkdsaEMtZkM3VTZSR3JaQ0JQSXV2OXEwcVhDbVBjQ3VnUy1pUFpXMU5BVXhZVENpQ3ItUkRlZXJPbzlVSlNmRkFtRHVoNkZjMnV5WEZINGZFSTFmdHNGMkJucWxQbmIwUER0em9jVU5zM0RYR1VFbE92VVdTNlg5LTNRMXZzN2szUGppWk1sOGNLOXBRRVpoUGU5YVM1anhodjRMbnEzYjdQdWJjbEcx?oc=5",
+      "description": "Wall Street points lower and oil prices remain above US$100 with Iran a dominant force in markets BNN Bloomberg",
+      "publishedAt": "Tue, 19 May 2026 12:13:47 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -260,20 +260,20 @@
       "impact": "medium"
     },
     {
-      "title": "Gasoline up more than 4 cents a litre, Diesel Rises by over 3 Cents, as World Oil Prices Spiral Higher - 989 XFM",
-      "source": "989 XFM",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa0piemlMNzh2azRSaVBCTVNqcWlHbzZ2dTdVUjFGVnFNZFFXYkFIQlBUWndIam9KV2NKUTk1b1JpdjBGLWRKX0ZzZnNfVjlESEZFMUhHTlFORl9VTE4xTXQ2NzI3ZUIxLWo1MVV3bHZPU3JyT3pYT3docGFfNDYtT2dHRXE2ZXNWMVJMTDRQUVJBempHTWV1dGhrUUo1bkltOXRJdmluN3JmYmRFOTBkUGJNVEdGTmk3WlVKTU9TU2UxZw?oc=5",
-      "description": "Gasoline up more than 4 cents a litre, Diesel Rises by over 3 Cents, as World Oil Prices Spiral Higher 989 XFM",
-      "publishedAt": "Fri, 15 May 2026 12:06:08 GMT",
+      "title": "Oil price slumps as Trump says he called off Iran attacks - BBC",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CZTFpdHFrYklXZGo5N3lvc09jN3phUGdlOHdtdWctSXVybzdiLWlVNXV0a2poRW9SRnZLRnFOVXExVDlQd0R5OFBGZGxHY0R1ZElsbmZ3WXY0UQ?oc=5",
+      "description": "Oil price slumps as Trump says he called off Iran attacks BBC",
+      "publishedAt": "Mon, 18 May 2026 20:20:29 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil prices rise and bonds wobble as Iran war stokes inflation fears - The Guardian",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWVdDZlVYQlJrWDg0N3drdW9KVW1TOWFWSXBPcnF2WmY2cWxQbEhKX1VnamxBLVZYeU9RazltOFNNVUg5bDNYNDAwV2V4czBpM2s2THlrX3FTczJKMVJpeU5SSWdWYkdYejVpcHBkZjFRdmxkdU5haHN3ZDI4U3hiVkswV2NmbnVzeVc2YjRaRHkyazNBSkx5SVJreVFVZ2dEVDlkaG1lYVVURFFGbHFjbE1IZ1FtMDJsRUp1UlVYQ3hnQTVjT0E?oc=5",
-      "description": "Oil prices rise and bonds wobble as Iran war stokes inflation fears The Guardian",
-      "publishedAt": "Mon, 18 May 2026 08:56:00 GMT",
+      "title": "Posthaste: These 5 reasons are holding back oil prices for now, economists say - Financial Post",
+      "source": "Financial Post",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbHVWSFZLOW43N0dFam1WWDFTUElXYkVQUGh1a3dFampDTTB6ZjhLcFcwTGZPTTV3d0V6b0UxeHRhVTNlSWVHUHNFMzZhcU1xbkQ4UGJWM0c5WDI5dGN1VXVpaU9rbThYb3E3LTRYV3pYRks5TlhLZ0l2QlFxMTV5OWpiVnRCdGI4Rjk4?oc=5",
+      "description": "Posthaste: These 5 reasons are holding back oil prices for now, economists say Financial Post",
+      "publishedAt": "Tue, 19 May 2026 12:05:11 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
