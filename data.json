@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-05-23 06:30 UTC",
+  "generatedAt": "2026-05-24 06:55 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 179.9,
-    "premium": 197.9,
-    "diesel": 190.4
+    "regular": 182.9,
+    "premium": 200.9,
+    "diesel": 193.4
   },
   "history": {
     "labels": [
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "May 23"
+      "May 24"
     ],
     "regular": [
       150.7,
@@ -75,7 +75,7 @@
       155.9,
       174.9,
       186.9,
-      179.9
+      182.9
     ],
     "premium": [
       168.7,
@@ -110,7 +110,7 @@
       173.9,
       192.9,
       204.9,
-      197.9
+      200.9
     ],
     "diesel": [
       161.2,
@@ -145,45 +145,45 @@
       166.4,
       185.4,
       197.4,
-      190.4
+      193.4
     ]
   },
   "prediction": {
     "labels": [
-      "May 24",
       "May 25",
       "May 26",
       "May 27",
       "May 28",
       "May 29",
-      "May 30"
+      "May 30",
+      "May 31"
     ],
     "regular": [
-      180.9,
-      181.8,
-      182.8,
-      183.7,
-      184.7,
-      185.7,
-      186.6
+      183.9,
+      184.8,
+      185.8,
+      186.7,
+      187.7,
+      188.7,
+      189.6
     ],
     "premium": [
-      198.9,
-      199.8,
-      200.8,
-      201.7,
-      202.7,
-      203.7,
-      204.6
+      201.9,
+      202.8,
+      203.8,
+      204.7,
+      205.7,
+      206.7,
+      207.6
     ],
     "diesel": [
-      191.4,
-      192.3,
-      193.3,
-      194.2,
-      195.2,
-      196.2,
-      197.1
+      194.4,
+      195.3,
+      196.3,
+      197.2,
+      198.2,
+      199.2,
+      200.1
     ]
   },
   "news": [
@@ -197,6 +197,15 @@
       "impact": "medium"
     },
     {
+      "title": "Oil Prices Keep Climbing as Expanding Conflict Heightens Supply Risks - EnergyNow",
+      "source": "EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN3hQcmZTem1ULVZRTTNiTjhQeURjdkZFYUJmMVIwWW9tMFRNcHpxX0VaQklLNzcxZW1BS0YySlh0R1hUVEpFSHZrQ0pJazNya0cxNmUwZXN4bmx6OXNydGpoOG1tYTJmakNpblliWXN5NGJ4b2pBeFQ4bEFxOENaV01ESVFzT1dnTTJYY2NsdDNyQUZ6TGFmb0RlY0J1ai10?oc=5",
+      "description": "Oil Prices Keep Climbing as Expanding Conflict Heightens Supply Risks EnergyNow",
+      "publishedAt": "Sat, 23 May 2026 08:59:44 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
       "title": "Traders Expect Oil Prices to Remain Above $81 for the Next 12 Months - Crude Oil Prices Today | OilPrice.com",
       "source": "Crude Oil Prices Today | OilPrice.com",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT0lVYVpnOGFXWFQ4WWVzQ3FyM1BBdVU2ZmFhSDVGazZTMHJ1NGhucHhRaWFLLWdtaVFlNUoxaGI5NmppSVRSWmduZ1l5RGczMk55dGZsMlNLSkdxVW14N1NreVVyTG45Z0tHVVpNbFlfaXMtb2wxVWhabG5lRkEwS1VCY1NVYlEtWnEyeEVTeTdnR0ZtMjJBZ18tTkhWRHZPWjBJSHZrWWtCbVlXbEt5N3pBUnF2OTdpelBwQUZlY3rSAcYBQVVfeXFMUDF1c1RlUExhMHNjWnE3MFh3MWZQdTQxdG9iQXRsS3JWT05HYVhwenQ0X01SbGt0QjZ0LWpfRTdNZ0pjbGdfX29PNFFqSzN3TjlNUGdzbnpXRHE0MV91dTZaOXVhQ09tYlFlS3Q4dTRSMTNQeDRLa3JjTkhJQm5YdXJFRTh2YjZ5TDFBQzZkUy1QSV83T2tkczJ2MzJ3aGVWTE9tSkM3MlE1N2E0QjNYOEwtQW5kUWhycVNCMERSZHhiZzlkNzlR?oc=5",
@@ -206,11 +215,11 @@
       "impact": "medium"
     },
     {
-      "title": "Current price of oil as of May 21, 2026 - Fortune",
-      "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB0ZTBfUlNEaUJNYmQ5R08zWk1UR3BRSWx2d1dNLWY0aTE4a21BWUNRVFJ1aW5YNlJsc0VHbW9ZMERhN2VoczlWRTVuT3hsYTFMcEFIcTFlUU5VQTBwek9fVWdR?oc=5",
-      "description": "Current price of oil as of May 21, 2026 Fortune",
-      "publishedAt": "Thu, 21 May 2026 13:00:00 GMT",
+      "title": "Christopher Liew: Practical moves you can make to absorb the squeeze of rising oil prices - BNN Bloomberg",
+      "source": "BNN Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSy1ib2ljcnE3b2dZblFNbmRoN28zckE3d0hMV0hoeHNiWkxDZC1wWEwxY29WSHBYQ1JaMXR4aGtZcWVjWTYzTktYUDZjb2lERlM3VU5hcVkyWmhqdUVreXV1bFhaejhUS2l6SXhjazhpdHl3Ylo0ZmF6RG5VcmxxbURXalNPMmJaQTUyWGNsc1NDRHhWWGNLM19jdWFHWXhjNDh6Ti1JenRlby00azFpYjFZWTQzLVNVbnJDdzlXM3BCNXljRGxhc0RZcEluZ3VKaGlfakQyRmV2ODFyME5aOQ?oc=5",
+      "description": "Christopher Liew: Practical moves you can make to absorb the squeeze of rising oil prices BNN Bloomberg",
+      "publishedAt": "Tue, 19 May 2026 09:00:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -224,11 +233,11 @@
       "impact": "medium"
     },
     {
-      "title": "The loonie-oil price disconnect - Advisor.ca",
-      "source": "Advisor.ca",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdk1IeVdDNGJzLUN3blYteDBUQzBFcm1Kc3A0bEJJYVlwTWVSTURUZlFiYXlUbWtPa3BNUVpFZVp0YkxKYUV5TXNKLXZkN0FrWUppdDdmQnExVFZwN3ZCcjh0SkczTjJtbkk3WS12SG9PX2xReW5WNkk4ZVNlOWF4cGZsRmJlZw?oc=5",
-      "description": "The loonie-oil price disconnect Advisor.ca",
-      "publishedAt": "Tue, 19 May 2026 07:00:00 GMT",
+      "title": "Current price of oil as of May 22, 2026 - Fortune",
+      "source": "Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzZFhpenUzbDljcXhFc3JGenQ3TmU3dTFidmpBemhfWFBDMDVPUkxGZ1BFbHZtNW5udk9IaFpQdkVJSHVHQXhuZ1htcGEyRld5cTJkOEFOcnQ2YXBVRV83WG93?oc=5",
+      "description": "Current price of oil as of May 22, 2026 Fortune",
+      "publishedAt": "Fri, 22 May 2026 12:59:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -251,29 +260,20 @@
       "impact": "medium"
     },
     {
-      "title": "World shares track Wall Street gains and oil prices climb on uncertainty over the Iran war - BNN Bloomberg",
-      "source": "BNN Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPU2lIWjY1aF9wMEtJZ25ST1UxODhVT0hFUHF2ZHhIUWpVd2dNektublVrSXgzNFMxQWRXRFpoUlpYeVNkamM3T0xTbVp0WDlXOVVoMS1iZnlDSW93RHlDM2lpY2hVMmdiTjd4RDFfWm9KV0hVUXM1N2FBWHNSanBQZEhNUFpWX3IyS0Vnd00wMlV1SGtZTW5rTi01aXc1NUpVLXdjSW1tVHBkOC1ybGZUTGZvOHZKSURlQkd2QmpwR3B5Wnp5bURrU0Y1amVPbEcxbUFaRw?oc=5",
-      "description": "World shares track Wall Street gains and oil prices climb on uncertainty over the Iran war BNN Bloomberg",
-      "publishedAt": "Fri, 22 May 2026 10:05:04 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Crude Oil Outlook: Brent Teases Bears at Elevated Prices - FOREX.com",
-      "source": "FOREX.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObUp1MVVObkM1MFNGYmxHNmIydnZwRm5relQwT2R6djZmdGw1UU5YZjM1RmRwZXlxbXVDWmgzSzR2NEFIRVQzd050ZnI5LURZekt2WDlRRkFLbk5KLUlVOG9EN20ya2FTanI0UUNDLXRlSXJaSmF6TW9MMzRHemNIS3JfcXRUQVBKdkR2UGZncWg2a2FpQTVyb2c0QlNMX09LclpCT0V0a1RJaHJQSUY0UdIBsAFBVV95cUxObUp1MVVObkM1MFNGYmxHNmIydnZwRm5relQwT2R6djZmdGw1UU5YZjM1RmRwZXlxbXVDWmgzSzR2NEFIRVQzd050ZnI5LURZekt2WDlRRkFLbk5KLUlVOG9EN20ya2FTanI0UUNDLXRlSXJaSmF6TW9MMzRHemNIS3JfcXRUQVBKdkR2UGZncWg2a2FpQTVyb2c0QlNMX09LclpCT0V0a1RJaHJQSUY0UQ?oc=5",
-      "description": "Crude Oil Outlook: Brent Teases Bears at Elevated Prices FOREX.com",
-      "publishedAt": "Thu, 21 May 2026 03:05:28 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
       "title": "Oil Prices Drop as Trump Says Iran Negotiations Are in ‘Final Stages’ - Barron's",
       "source": "Barron's",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPckpGRXRNbFdxd2pJRWFGZm9aVjkwc08wQTNPZXZ4clhwTU50SFdISG9qdEtKZmw5dVQ1N2xobEY2cXNaYVZ2SFJBY2l5UnZodVBJVTAtRFl3Zi16QVhoUmZEa2V3Zk96aXVHNE8wNG5pRzBiVDQ1d2RwWTlGQklOUTdpejA1dXc?oc=5",
       "description": "Oil Prices Drop as Trump Says Iran Negotiations Are in ‘Final Stages’ Barron's",
       "publishedAt": "Wed, 20 May 2026 20:04:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil price slumps as Trump says he called off Iran attacks - BBC",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CZTFpdHFrYklXZGo5N3lvc09jN3phUGdlOHdtdWctSXVybzdiLWlVNXV0a2poRW9SRnZLRnFOVXExVDlQd0R5OFBGZGxHY0R1ZElsbmZ3WXY0UQ?oc=5",
+      "description": "Oil price slumps as Trump says he called off Iran attacks BBC",
+      "publishedAt": "Mon, 18 May 2026 20:20:29 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
