@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-05-27 07:57 UTC",
+  "generatedAt": "2026-05-28 07:51 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 182.9,
-    "premium": 200.9,
-    "diesel": 193.4
+    "regular": 173.9,
+    "premium": 191.9,
+    "diesel": 184.4
   },
   "history": {
     "labels": [
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "May 27"
+      "May 28"
     ],
     "regular": [
       150.7,
@@ -75,7 +75,7 @@
       155.9,
       174.9,
       186.9,
-      182.9
+      173.9
     ],
     "premium": [
       168.7,
@@ -110,7 +110,7 @@
       173.9,
       192.9,
       204.9,
-      200.9
+      191.9
     ],
     "diesel": [
       161.2,
@@ -145,45 +145,45 @@
       166.4,
       185.4,
       197.4,
-      193.4
+      184.4
     ]
   },
   "prediction": {
     "labels": [
-      "May 28",
       "May 29",
       "May 30",
       "May 31",
       "Jun 01",
       "Jun 02",
-      "Jun 03"
+      "Jun 03",
+      "Jun 04"
     ],
     "regular": [
-      183.9,
-      184.8,
-      185.8,
-      186.7,
-      187.7,
-      188.7,
-      189.6
+      174.9,
+      175.8,
+      176.8,
+      177.7,
+      178.7,
+      179.7,
+      180.6
     ],
     "premium": [
-      201.9,
-      202.8,
-      203.8,
-      204.7,
-      205.7,
-      206.7,
-      207.6
+      192.9,
+      193.8,
+      194.8,
+      195.7,
+      196.7,
+      197.7,
+      198.6
     ],
     "diesel": [
-      194.4,
-      195.3,
-      196.3,
-      197.2,
-      198.2,
-      199.2,
-      200.1
+      185.4,
+      186.3,
+      187.3,
+      188.2,
+      189.2,
+      190.2,
+      191.1
     ]
   },
   "news": [
@@ -193,6 +193,15 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSnI4ZlBUSThENmYycUJ5VmRKYjFValhoc3VTbGpPci1wSWppckNjSVdKOURFRG01dXByR2d0SURHNmk0M2NBc0JTRF9XSTUyYnJsQTViS1k0WHNjdzNyTDluMS0ydWxNSWpMaW01YUptUnNyWWNYb3hYVlRzc2MxM2gtVnZGejdvN2NNM182a2htNDJydlBGeXdLYVVxOHh4a0VKcDdfSDI0eVMxWlNXOHk5SThXRnM?oc=5",
       "description": "'I do believe that oil prices will come down shortly': Lee BNN Bloomberg",
       "publishedAt": "Mon, 25 May 2026 14:52:11 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil Prices Set for Another Weekly Decline as Iran Risks Recede - EnergyNow",
+      "source": "EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbEV5UWVIMG41ZnplUlJEbTNFRURkN05GQVVzazBxNVZpNHJqZVp4X2pXWGtCXzdyNmVlVWtUUEVfbC1DSmFySWo3QmVxMVhLWGtYUFRRNXlwN1Q4UVFGX0tid2tPNDl2RzVBSElEeUdLbXNZTjdKMkROcmF0bjZQLUlQVUlYLWU1bE9iREt1U3huVFRvMW5z?oc=5",
+      "description": "Oil Prices Set for Another Weekly Decline as Iran Risks Recede EnergyNow",
+      "publishedAt": "Wed, 27 May 2026 23:31:50 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -215,11 +224,11 @@
       "impact": "medium"
     },
     {
-      "title": "Current price of oil as of May 26, 2026 - Fortune",
-      "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBjd1ZTZjdEb29hNk1QQ0tpbmVXTk1VZUhqNXhRQXBmQkZsYlBFMFBCS0dqRDk4UFJVMVpzRTlISV9XU09uUnZxaFpxTnk3d2djamI2eGplZmdzS2FXWGx2NmNn?oc=5",
-      "description": "Current price of oil as of May 26, 2026 Fortune",
-      "publishedAt": "Tue, 26 May 2026 13:14:00 GMT",
+      "title": "Oil Prices Drop on Prospect of Iran Deal, but Investors Aren’t Celebrating Yet - WSJ",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ1pYMGprSjVZUlM3ZTUzd1VzZmZqcTgycWJzci1hVlltV0p6Rk95TzB5N3JsMmN3WmNjMW1SMHpoMzdzQkcxcXdjQ3FBNzNyWEdOaXk3c2c0QWV1VHVTX2NNVUhrRHAtTkNrYTFaUHp0b2pQT1p2VlFSR3FQZjFlTDlzRFVDTFhXZnR4YlM4SzlyTEp6dmloeUlLcUlWMVNGblY3MkRSRGhfNFFYQWltY1UtZw?oc=5",
+      "description": "Oil Prices Drop on Prospect of Iran Deal, but Investors Aren’t Celebrating Yet WSJ",
+      "publishedAt": "Mon, 25 May 2026 21:36:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -233,11 +242,11 @@
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Drop on Prospect of Iran Deal, but Investors Aren’t Celebrating Yet - WSJ",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ1pYMGprSjVZUlM3ZTUzd1VzZmZqcTgycWJzci1hVlltV0p6Rk95TzB5N3JsMmN3WmNjMW1SMHpoMzdzQkcxcXdjQ3FBNzNyWEdOaXk3c2c0QWV1VHVTX2NNVUhrRHAtTkNrYTFaUHp0b2pQT1p2VlFSR3FQZjFlTDlzRFVDTFhXZnR4YlM4SzlyTEp6dmloeUlLcUlWMVNGblY3MkRSRGhfNFFYQWltY1UtZw?oc=5",
-      "description": "Oil Prices Drop on Prospect of Iran Deal, but Investors Aren’t Celebrating Yet WSJ",
-      "publishedAt": "Mon, 25 May 2026 21:36:00 GMT",
+      "title": "Current price of oil as of May 27, 2026 - Fortune",
+      "source": "Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBuUHJfNF9aX0FYMmJhWEk3NGJqLXJJLWxIX1c4TW5UekNJWXRqRXNjbTFabzAxdnJONjFqUHJMSmJQUHVTODVtZFRZUmFSdEpMamJCanQyemhDaE96eTU4aGVn?oc=5",
+      "description": "Current price of oil as of May 27, 2026 Fortune",
+      "publishedAt": "Wed, 27 May 2026 13:04:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -251,29 +260,20 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices slide after Trump says US-Iran negotiations in 'final stages' - Reuters",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbTZ0TjE5WjliV2w5YkY5aHlEUHVnVkdYNmx2ajdNd041OEZIdjA2MEpsT2tPaHRheVM1a3VaWmJSMjYzcEpENmxnb21Da2g3QVkxbGptaGJFOTRTcnpMVHZIUkgzRWVYdHdfbFpMSUZHZEhReV8xcTJzdXFGbWEzVzNrS0JsQjgtejAzSWM5VDFUTVZXdE15Q2xCT21QQzVfakp1N3RPUVpoSkxWdndXclp6Nzc3VktBeGc?oc=5",
-      "description": "Oil prices slide after Trump says US-Iran negotiations in 'final stages' Reuters",
-      "publishedAt": "Wed, 20 May 2026 23:50:10 GMT",
+      "title": "Traders Expect Oil Prices to Remain Above $81 for the Next 12 Months - Crude Oil Prices Today | OilPrice.com",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT0lVYVpnOGFXWFQ4WWVzQ3FyM1BBdVU2ZmFhSDVGazZTMHJ1NGhucHhRaWFLLWdtaVFlNUoxaGI5NmppSVRSWmduZ1l5RGczMk55dGZsMlNLSkdxVW14N1NreVVyTG45Z0tHVVpNbFlfaXMtb2wxVWhabG5lRkEwS1VCY1NVYlEtWnEyeEVTeTdnR0ZtMjJBZ18tTkhWRHZPWjBJSHZrWWtCbVlXbEt5N3pBUnF2OTdpelBwQUZlY3rSAcYBQVVfeXFMUDF1c1RlUExhMHNjWnE3MFh3MWZQdTQxdG9iQXRsS3JWT05HYVhwenQ0X01SbGt0QjZ0LWpfRTdNZ0pjbGdfX29PNFFqSzN3TjlNUGdzbnpXRHE0MV91dTZaOXVhQ09tYlFlS3Q4dTRSMTNQeDRLa3JjTkhJQm5YdXJFRTh2YjZ5TDFBQzZkUy1QSV83T2tkczJ2MzJ3aGVWTE9tSkM3MlE1N2E0QjNYOEwtQW5kUWhycVNCMERSZHhiZzlkNzlR?oc=5",
+      "description": "Traders Expect Oil Prices to Remain Above $81 for the Next 12 Months Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Thu, 21 May 2026 09:00:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Drop as Trump Says Iran Negotiations Are in ‘Final Stages’ - Barron's",
-      "source": "Barron's",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPckpGRXRNbFdxd2pJRWFGZm9aVjkwc08wQTNPZXZ4clhwTU50SFdISG9qdEtKZmw5dVQ1N2xobEY2cXNaYVZ2SFJBY2l5UnZodVBJVTAtRFl3Zi16QVhoUmZEa2V3Zk96aXVHNE8wNG5pRzBiVDQ1d2RwWTlGQklOUTdpejA1dXc?oc=5",
-      "description": "Oil Prices Drop as Trump Says Iran Negotiations Are in ‘Final Stages’ Barron's",
-      "publishedAt": "Wed, 20 May 2026 20:04:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices fall after Trump says Iran negotiations in final stages - The Guardian",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53MDFMMlhHYmlodzAzdzl2bkNGblRCazdxYVBSNUpsT1pBX3FmRFRtbTBNM3piNjh3TjRXc1BhQ3RyVDhPNXNnNmdzQ1pWdUNONXh4bFRmM3d0ejV6NGRubWh5MlZ3YjBjR3UzRnJCU1poTnhKNms0NllRZTNyVW8?oc=5",
-      "description": "Oil prices fall after Trump says Iran negotiations in final stages The Guardian",
-      "publishedAt": "Wed, 20 May 2026 18:57:00 GMT",
+      "title": "Oil Prices Rise as Hormuz Stays Shut Ahead of Trump Deadline, Strikes on Iran Intensify - EnergyNow",
+      "source": "EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVndRdlBIVWNXNnd1cXNDVmIwbjBrWmItNkt4MFVWYm5NLU90MFlFa3hLUF9ISmM5N0tjQzhWcGt5SlB2dnpVcElqYl9DYV80U2hWdWt3Z1l2TU5OMmx5ZUZvSWN2NnFqamFYVTl4NXJFLTFPcFlhM0ZCVlFPWWtrcmswQXJNb1V6cVhTQVZXZTN3VGl5akVfRjFBcV85VF9yYkpWTmJSU2hzV3VtOUVsQUU0a1UtMmM?oc=5",
+      "description": "Oil Prices Rise as Hormuz Stays Shut Ahead of Trump Deadline, Strikes on Iran Intensify EnergyNow",
+      "publishedAt": "Wed, 27 May 2026 23:04:55 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
