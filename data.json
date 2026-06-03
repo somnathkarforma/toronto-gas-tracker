@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-02 08:22 UTC",
+  "generatedAt": "2026-06-03 08:49 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 169.9,
-    "premium": 187.9,
-    "diesel": 180.4
+    "regular": 177.9,
+    "premium": 195.9,
+    "diesel": 188.4
   },
   "history": {
     "labels": [
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Jun 02"
+      "Jun 03"
     ],
     "regular": [
       150.7,
@@ -75,7 +75,7 @@
       155.9,
       174.9,
       186.9,
-      169.9
+      177.9
     ],
     "premium": [
       168.7,
@@ -110,7 +110,7 @@
       173.9,
       192.9,
       204.9,
-      187.9
+      195.9
     ],
     "diesel": [
       161.2,
@@ -145,45 +145,45 @@
       166.4,
       185.4,
       197.4,
-      180.4
+      188.4
     ]
   },
   "prediction": {
     "labels": [
-      "Jun 03",
       "Jun 04",
       "Jun 05",
       "Jun 06",
       "Jun 07",
       "Jun 08",
-      "Jun 09"
+      "Jun 09",
+      "Jun 10"
     ],
     "regular": [
-      170.9,
-      171.8,
-      172.8,
-      173.7,
-      174.7,
-      175.7,
-      176.6
+      178.9,
+      179.8,
+      180.8,
+      181.7,
+      182.7,
+      183.7,
+      184.6
     ],
     "premium": [
-      188.9,
-      189.8,
-      190.8,
-      191.7,
-      192.7,
-      193.7,
-      194.6
+      196.9,
+      197.8,
+      198.8,
+      199.7,
+      200.7,
+      201.7,
+      202.6
     ],
     "diesel": [
-      181.4,
-      182.3,
-      183.3,
-      184.2,
-      185.2,
-      186.2,
-      187.1
+      189.4,
+      190.3,
+      191.3,
+      192.2,
+      193.2,
+      194.2,
+      195.1
     ]
   },
   "news": [
@@ -197,24 +197,6 @@
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Set for Another Weekly Decline as Iran Risks Recede - EnergyNow",
-      "source": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbEV5UWVIMG41ZnplUlJEbTNFRURkN05GQVVzazBxNVZpNHJqZVp4X2pXWGtCXzdyNmVlVWtUUEVfbC1DSmFySWo3QmVxMVhLWGtYUFRRNXlwN1Q4UVFGX0tid2tPNDl2RzVBSElEeUdLbXNZTjdKMkROcmF0bjZQLUlQVUlYLWU1bE9iREt1U3huVFRvMW5z?oc=5",
-      "description": "Oil Prices Set for Another Weekly Decline as Iran Risks Recede EnergyNow",
-      "publishedAt": "Mon, 01 Jun 2026 09:10:18 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil Prices Suffer Biggest Weekly Collapse in Two Months - Crude Oil Prices Today | OilPrice.com",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVFBmRzk0Um1EUUpnbzB0aUZ6bWhzWFhoUWpJc3g3Wjgtdl8wdFMzdVQ5TjloaVY1UDladDg4aTdSWEFSSmF2THVOSml3TS1Va0VhSXB2ODV3SjhuSFhZLUM2TXFDem81bGpzRmI4cHpFRkZXSmIxS3RaUTBvSFhfUi1pNDY3NXRZT1JleVJKeU9mRGU5bHRIdnp4UlEwbS1SZ1BSNndn0gGrAUFVX3lxTE1vazZ6ejVRZjFMMUg1NEkzTUF2cGttZVZ4end3U19GTmFBZU9DbWdoWHN3Wl9Fd3FjSWNDeEpsLXItV1Z3YWMzeUhPZE5WY3pFTEhtdkMyTkJpODNDSzBvdGJTOG9CTUVLcVdZaG1ZZ0N0YmhzcG80OVp5NXNuVXBoSVUtZC11cXBZelpCM2dvOVhaSjJNczI1SDZlV0sxa0x6TnJrZC1SQ0Noaw?oc=5",
-      "description": "Oil Prices Suffer Biggest Weekly Collapse in Two Months Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Fri, 29 May 2026 15:30:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
       "title": "Crude oil prices rise after latest US-Iran fighting, and US stocks slip - Castanet",
       "source": "Castanet",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc2lGNHdpOFdheXEzaTZEUFV0U0p1MUJPQWtteG9wQ0VmbXd4NzdqR1Vuc2NzRnl5Rl94WnFWX0xNMVhnMGdRQms4Nnp6aFdQZGtMS01HeTFwWG5zTk96YnhYRU1pN2tJSkJpMWxXbUNvOUJlXzZsdl9QN3Utbm1DdTYyQzRCbkZTOW4wNm1malF3X3FFWXEzd0V0Wm5FOHc0NGlLLTdNTVZ5ZEQzaHRFeHBIRndmTEk?oc=5",
@@ -224,11 +206,11 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices rise, but not by enough to keep Wall Street from more records - BNN Bloomberg",
-      "source": "BNN Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdVF2dlBTVVlmM3VGVVpPRkY2dU9henBnTWxmOGVLNUlqUnFROVA4RXk2ck1Bamx6MlJWaFRsTlRJVFBhNkdPVUdFY0haeWJnMm5MandmaTVNd09tT1JYZlgxUEFiT2dnN2tBM3VPUndCMDVWaXNaYm5ySUJ5OW5KN0JkTkoydWdZYmp0NVlEa3JBV3oyaUhidEhsUm0tYk1FQTk1RHdqSU05Q09xU1FPY2RXaGtzczRlUUZBc2owQjdYbGFacjhnNDMwNA?oc=5",
-      "description": "Oil prices rise, but not by enough to keep Wall Street from more records BNN Bloomberg",
-      "publishedAt": "Mon, 01 Jun 2026 20:31:01 GMT",
+      "title": "Oil Prices Fall as Traders Bet on U.S.-Iran Deal - Crude Oil Prices Today | OilPrice.com",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORlVTRDIzSU91d1VOT0d6MFVBZHFSNkF3NVp2WGxEb0xXYk1tdEh3OE5NM04tQW5qaEVBQmZXZTRqVER4OG95bUtVWXUxZjJWQ1dGRTZfMkl5SFpWZGw4RHZJRllNc3JEbXA0bDBuV0Z0X3czdEQtX0xqM1llbXpRbHpacjkzckhaa0RvYzFLaFdpNFBxc1NidDJ5WGhrdlo1RE5IetIBqgFBVV95cUxQazdDMEd3MG1iTVc5aFlMY3Z6cF9NYnIydXRpV3RKMmw3SDdyaFV0RTdtMzVYLVEwTTY0UVJtOVdRYlI4V295cnpDamg1a1ZlYWcteTY2V1ZQU3RIS0RiaFU0LWhXN2ZTd3B4bmtQWktTenFrMEl2bjRqbGxTcHhzNkloZnZDR2FFWm9EeFNKV1d1V3VJVW9oRVVobHdjaU5ORWZsc2p1WFpkZw?oc=5",
+      "description": "Oil Prices Fall as Traders Bet on U.S.-Iran Deal Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Wed, 27 May 2026 09:00:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -242,11 +224,38 @@
       "impact": "medium"
     },
     {
+      "title": "Goldman Sachs Flags Upside Risks to Oil Prices in Near Term and Into 2027 - EnergyNow",
+      "source": "EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWW8tYzVtSnZuaWZSR0lrUFN3UXF5YVVOVDFJbHZMVFBFd1NFN01RUGxud3ZBUHp3VnFaNHh5eEtvZDkxcGY4MmZCZ29kQ0x3dS1EUFZLalQxbnpQUlJVRml5NkhFTXI2T2c3d0w3LXVDQmdMdktqSV85WEwtbFI2aDN2ekZybmN6b1hUTXJWWktfSHhNRXdSYTJONWQxNndzWjZEeHFn?oc=5",
+      "description": "Goldman Sachs Flags Upside Risks to Oil Prices in Near Term and Into 2027 EnergyNow",
+      "publishedAt": "Tue, 02 Jun 2026 20:41:34 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
       "title": "Guyana poised for oil windfall as Iran crisis lifts crude prices - The Globe and Mail",
       "source": "The Globe and Mail",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNjNCVDliVGZZZnA2RXllbVkweEpmS0RLOTRVZ3EwWFdRSld0QXdFSC1fVDFWbjRfenFSRm5tTmtHcUFFTkNJQnZLMXhDVkt1MGkxclRTdFJVeVp4ODdaVmVNQTN4OC02RU1ReDU3cXNMbnBJODRhZDk0SlJWUWQ3TG5KdmliZjcyTTU4VFN4M3hwdktUWUE2bl9qX0doU2h2NGR6dEhzTmZ1OUxrZlZIVzBMYzE?oc=5",
       "description": "Guyana poised for oil windfall as Iran crisis lifts crude prices The Globe and Mail",
       "publishedAt": "Sat, 30 May 2026 16:18:59 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Basic materials stocks weigh on TSX, as U.S. markets gain and oil prices rise - BNN Bloomberg",
+      "source": "BNN Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWktDVS1CclM3UVNpWUdpZmlLNTQ3NHdWNVhROVh1QTRTdHB0SzV1SGJEaC1zeHIwSFRfSEhnbTRIMjVhdHNIZGstRkhGbzJUMEE4NE1WcWlyd3Nrc291RHpqOTRTYUhTbXBRZGVUX2hfR28tdEJnandRX1FYUmRXc1hDLVpubjBSOWFVa1pvNE00ZlVWcWdpVjZhdjZnQ0RtaHJxMUdLTm1FOHZIalFCSGJmYw?oc=5",
+      "description": "Basic materials stocks weigh on TSX, as U.S. markets gain and oil prices rise BNN Bloomberg",
+      "publishedAt": "Mon, 01 Jun 2026 20:50:05 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil Prices Jump as Middle East Tensions Build - The New York Times",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWHBvbzY2eGRWUzluZkFndlZJWEduak9fN0xnM0dVbUdmQ0hHRi1ZRlRWS1VGZXpGck03UFo4R24xOHRkeE9QUzZfTVZlaVV0bTZ5dTJsU2tHbUo5X1dYSC15cXJHSWQwaE1tdURBNTRSOXFlNFpDN3ZYUTgydVhaaGdjV3R1VVFxT0NfcWpMQzA?oc=5",
+      "description": "Oil Prices Jump as Middle East Tensions Build The New York Times",
+      "publishedAt": "Mon, 01 Jun 2026 18:31:51 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -260,20 +269,11 @@
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Slip Amid Trump Demands; Exxon Warns Of Nasty Surprise - Investor's Business Daily",
-      "source": "Investor's Business Daily",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObFlZeVVHNFFHa3B1QlNudzFjTktjbGdFd2hmZHRLNXNHS2lfZzlNbG4zRy1UNGMxdTREUDFlT0dXcDNJbFhRX0hFUHQyU1YxbDRDc19IWENnMXQtNTkwVmJWanJ6OTdzekc3MWFxaGd4b0ZfSWUxSVVDb1Q5SEtEemxUcXVibkg5MWRjVzJBLUp2Y1pKanVNM2pSaDVxbGc?oc=5",
-      "description": "Oil Prices Slip Amid Trump Demands; Exxon Warns Of Nasty Surprise Investor's Business Daily",
-      "publishedAt": "Fri, 29 May 2026 15:21:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices fall after report of breakthrough in US-Iran talks - BBC",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vdWpUMXVBcWRfWUNOUUFEemM1RXhmZU9zdm1yZGp4ZkpncnZyRVo3cFYtMllWdUNtTjNrMDJPZFZ6V1Rad2p2alVpN0ROSU1IcnFPX1l5RGFQdw?oc=5",
-      "description": "Oil prices fall after report of breakthrough in US-Iran talks BBC",
-      "publishedAt": "Thu, 28 May 2026 14:45:46 GMT",
+      "title": "ADNOC trading chief flags August as tipping point for oil prices - BOE Report",
+      "source": "BOE Report",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUFRJVFAxVW0tZV9Cc2ZHVlFYOFlnZ0RHeDV5SF9GSlhFQXFVb2RaUTdhVmpyQ3RuZmptZWlEbWN4NmQ1QndCakNJNW1ydmZXSll6aDBybGZCQ0Jwck12dFFrUGo3YV82UXV5VnJ5RExWbjB6TGlLem96cE5sRDhiSkRGY21BTDVUeVlPNTVVM3d2N1dPTzYwdVd0cTBKMzDSAaQBQVVfeXFMTlE1ZUQxN3ZSOUEzTld0dHZFck9VdkZDckdPbnJ1YXF2ZGFGNWpZeHgzX0ZkOUxnNmlGdkFPa2wybjhPZlczUjVmbnJ5Z3prUkpFSU51V1kzYWZCSXBhdDRhenpTZGp1VFZVWVE3TU9naDZXTnRqOXB0SnBFZ3pmci14TkdnR2FJY0xrNy1BUV9xSEFzS2poVmFDVXN5S0pVZzBhZ0g?oc=5",
+      "description": "ADNOC trading chief flags August as tipping point for oil prices BOE Report",
+      "publishedAt": "Tue, 02 Jun 2026 10:03:32 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
