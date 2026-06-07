@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-06 06:48 UTC",
+  "generatedAt": "2026-06-07 07:50 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 172.9,
-    "premium": 190.9,
-    "diesel": 183.4
+    "regular": 170.9,
+    "premium": 188.9,
+    "diesel": 181.4
   },
   "history": {
     "labels": [
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Jun 06"
+      "Jun 07"
     ],
     "regular": [
       150.7,
@@ -75,7 +75,7 @@
       155.9,
       174.9,
       186.9,
-      172.9
+      170.9
     ],
     "premium": [
       168.7,
@@ -110,7 +110,7 @@
       173.9,
       192.9,
       204.9,
-      190.9
+      188.9
     ],
     "diesel": [
       161.2,
@@ -145,45 +145,45 @@
       166.4,
       185.4,
       197.4,
-      183.4
+      181.4
     ]
   },
   "prediction": {
     "labels": [
-      "Jun 07",
       "Jun 08",
       "Jun 09",
       "Jun 10",
       "Jun 11",
       "Jun 12",
-      "Jun 13"
+      "Jun 13",
+      "Jun 14"
     ],
     "regular": [
-      173.9,
-      174.8,
-      175.8,
+      171.9,
+      172.8,
+      173.8,
+      174.7,
+      175.7,
       176.7,
-      177.7,
-      178.7,
-      179.6
+      177.6
     ],
     "premium": [
-      191.9,
-      192.8,
-      193.8,
+      189.9,
+      190.8,
+      191.8,
+      192.7,
+      193.7,
       194.7,
-      195.7,
-      196.7,
-      197.6
+      195.6
     ],
     "diesel": [
-      184.4,
-      185.3,
-      186.3,
+      182.4,
+      183.3,
+      184.3,
+      185.2,
+      186.2,
       187.2,
-      188.2,
-      189.2,
-      190.1
+      188.1
     ]
   },
   "news": [
@@ -193,6 +193,15 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM3ZkRXJ2WndKWjgwWDlPOVZvX0VxS2o4ckxRYkdibGQtT0t4eERwd3Vfd0FoaTVmemNOX05lN2lVQnV1T2RkZ2ZMdVlaUzRhaEdsRFprS1RzSlhzcFpkenNaRDdLajRhcGtjYV9UNHJpOU1fYUhudWc1WFBFcUVOUFQyVXE2Z1IzbUJnelF3cDZSOFMzcXIzV1p3UWgwMjk1VEUtTWJpcWtoOG5sWHM1OA?oc=5",
       "description": "Oil Prices End The Week Lower On U.S.-Iran Diplomatic Moves Forbes",
       "publishedAt": "Fri, 05 Jun 2026 19:32:12 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil industry warns Trump administration of price spikes within weeks - Politico",
+      "source": "Politico",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUG9pR1paZ21yckdlU01WSXdsa25GeG1zODk1eEtobkFQYm80RVd6NGYxc1hIa1AyMS03bnFqa01ST21YcGk1MzdNYlRDazhfSnc1bF9GVzZHbThpNWYxVUtEaks4ODZGR1gzSXE4b3NLcWtvVjBINjlCV2F2WmN0LV96YVNqSC1acnczYg?oc=5",
+      "description": "Oil industry warns Trump administration of price spikes within weeks Politico",
+      "publishedAt": "Thu, 04 Jun 2026 11:28:38 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -215,6 +224,15 @@
       "impact": "medium"
     },
     {
+      "title": "Oil prices jump after U.S.-Iran talks reportedly collapse, erasing recent declines - NBC News",
+      "source": "NBC News",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUVp5WnZEQjExSTZhNElhM29vRHZGbGZEVXZkeDA1NEw2UldEZ0l1a3A2dlRsNW5CTE1WX1Ytb1A0UFF3NERxRXA4Z05XMkRiN2ZfV2M5akFtNm9kUzNrRUQ3aDFEOWpScHd5WTZicjl6THEzTGtyUTVDc0hjUEQyVWdBb19malg0OHBtVURsc3M?oc=5",
+      "description": "Oil prices jump after U.S.-Iran talks reportedly collapse, erasing recent declines NBC News",
+      "publishedAt": "Mon, 01 Jun 2026 19:04:17 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
       "title": "Strait of Hormuz Disruptions: The burden of oil price shocks on vulnerable economies | - UN Trade and Development (UNCTAD)",
       "source": "UN Trade and Development (UNCTAD)",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORzNfV3NaNEc4aWNEd3l1Y1lCeFhLRHVDSEd5eFhXd3BrODVFWFEydGRZUzlkMWluUDZTTkdPZUR4NXNWM1o5OU0yN2JUOWZjNlF2clZMTlFkdFRObnFZUXdRSTFUVm90VzVOSDRjdlRRMWlQWDRVNjZmajlleHI3MVU0MUFFOEtCTXpNS2c5S0JIcWRyNFZ0VS1GWmNTSVNWdUI0?oc=5",
@@ -224,11 +242,11 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices jump after U.S.-Iran talks reportedly collapse, erasing recent declines - NBC News",
-      "source": "NBC News",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUVp5WnZEQjExSTZhNElhM29vRHZGbGZEVXZkeDA1NEw2UldEZ0l1a3A2dlRsNW5CTE1WX1Ytb1A0UFF3NERxRXA4Z05XMkRiN2ZfV2M5akFtNm9kUzNrRUQ3aDFEOWpScHd5WTZicjl6THEzTGtyUTVDc0hjUEQyVWdBb19malg0OHBtVURsc3M?oc=5",
-      "description": "Oil prices jump after U.S.-Iran talks reportedly collapse, erasing recent declines NBC News",
-      "publishedAt": "Mon, 01 Jun 2026 19:04:17 GMT",
+      "title": "Oil Prices Jump as Middle East Tensions Build - The New York Times",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWHBvbzY2eGRWUzluZkFndlZJWEduak9fN0xnM0dVbUdmQ0hHRi1ZRlRWS1VGZXpGck03UFo4R24xOHRkeE9QUzZfTVZlaVV0bTZ5dTJsU2tHbUo5X1dYSC15cXJHSWQwaE1tdURBNTRSOXFlNFpDN3ZYUTgydVhaaGdjV3R1VVFxT0NfcWpMQzA?oc=5",
+      "description": "Oil Prices Jump as Middle East Tensions Build The New York Times",
+      "publishedAt": "Mon, 01 Jun 2026 18:31:51 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -242,15 +260,6 @@
       "impact": "medium"
     },
     {
-      "title": "Guyana poised for oil windfall as Iran crisis lifts crude prices - The Globe and Mail",
-      "source": "The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNjNCVDliVGZZZnA2RXllbVkweEpmS0RLOTRVZ3EwWFdRSld0QXdFSC1fVDFWbjRfenFSRm5tTmtHcUFFTkNJQnZLMXhDVkt1MGkxclRTdFJVeVp4ODdaVmVNQTN4OC02RU1ReDU3cXNMbnBJODRhZDk0SlJWUWQ3TG5KdmliZjcyTTU4VFN4M3hwdktUWUE2bl9qX0doU2h2NGR6dEhzTmZ1OUxrZlZIVzBMYzE?oc=5",
-      "description": "Guyana poised for oil windfall as Iran crisis lifts crude prices The Globe and Mail",
-      "publishedAt": "Sat, 30 May 2026 16:18:59 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
       "title": "Oil prices spike, stocks retreat from records as Iran ceasefire strained - Global News",
       "source": "Global News",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zZzA1LVNHR2I3S2w2Y1VzSDF6VmJFS0lTc1JoS2FGTDQzV09obXpPT05GRmw5ODdHZ2hWdVF3cTV4WEZobk5WX3U0VHAzTlVGR252SjZmOEhnSGtCdDRVQm5yci10YjZQRGdPWFhSVVhZUQ?oc=5",
@@ -260,20 +269,11 @@
       "impact": "medium"
     },
     {
-      "title": "Current price of oil as of June 5, 2026 - Fortune",
-      "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4XzZJRHQ0RXpYdWswdE4zb1RTanZxb1kzQTRfRjFaNzAwcUc2UkcwYTYxTG16c1QyaU4yNWd0V09xZWF5anJfeDZpTjJ6WUN2aUVtRW1DUUxCY0JFdzg3cXR3?oc=5",
-      "description": "Current price of oil as of June 5, 2026 Fortune",
-      "publishedAt": "Fri, 05 Jun 2026 13:01:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil Prices Jump as Middle East Tensions Build - The New York Times",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWHBvbzY2eGRWUzluZkFndlZJWEduak9fN0xnM0dVbUdmQ0hHRi1ZRlRWS1VGZXpGck03UFo4R24xOHRkeE9QUzZfTVZlaVV0bTZ5dTJsU2tHbUo5X1dYSC15cXJHSWQwaE1tdURBNTRSOXFlNFpDN3ZYUTgydVhaaGdjV3R1VVFxT0NfcWpMQzA?oc=5",
-      "description": "Oil Prices Jump as Middle East Tensions Build The New York Times",
-      "publishedAt": "Mon, 01 Jun 2026 18:31:51 GMT",
+      "title": "Motor oil prices rise, supply tightens with war in Iran - driving.ca",
+      "source": "driving.ca",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeTlldGtOVHVPLWF5Tl9QT0szTEZad3VrdDVaakoxeXZCbEszdzZYQW56cWh6bWtLQVV3R0p5NVFyZm14QlFpX2tzby15UGw3WFM4WFhUaEpBOHVQOVpHalFtdWRGb0lDY25UVGREaWo3eW9nbktVejVBbEtmOEd4RWc5U1A?oc=5",
+      "description": "Motor oil prices rise, supply tightens with war in Iran driving.ca",
+      "publishedAt": "Fri, 05 Jun 2026 18:07:22 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
