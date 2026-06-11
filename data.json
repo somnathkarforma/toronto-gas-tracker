@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-10 08:02 UTC",
+  "generatedAt": "2026-06-11 08:38 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 171.9,
-    "premium": 189.9,
-    "diesel": 182.4
+    "regular": 168.9,
+    "premium": 186.9,
+    "diesel": 179.4
   },
   "history": {
     "labels": [
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Jun 10"
+      "Jun 11"
     ],
     "regular": [
       150.7,
@@ -75,7 +75,7 @@
       155.9,
       174.9,
       186.9,
-      171.9
+      168.9
     ],
     "premium": [
       168.7,
@@ -110,7 +110,7 @@
       173.9,
       192.9,
       204.9,
-      189.9
+      186.9
     ],
     "diesel": [
       161.2,
@@ -145,45 +145,45 @@
       166.4,
       185.4,
       197.4,
-      182.4
+      179.4
     ]
   },
   "prediction": {
     "labels": [
-      "Jun 11",
       "Jun 12",
       "Jun 13",
       "Jun 14",
       "Jun 15",
       "Jun 16",
-      "Jun 17"
+      "Jun 17",
+      "Jun 18"
     ],
     "regular": [
-      172.9,
-      173.8,
-      174.8,
-      175.7,
-      176.7,
-      177.7,
-      178.6
+      169.8,
+      170.8,
+      171.7,
+      172.7,
+      173.6,
+      174.5,
+      175.5
     ],
     "premium": [
-      190.9,
-      191.8,
-      192.8,
-      193.7,
-      194.7,
-      195.7,
-      196.6
+      187.8,
+      188.8,
+      189.7,
+      190.7,
+      191.6,
+      192.5,
+      193.5
     ],
     "diesel": [
-      183.4,
-      184.3,
-      185.3,
-      186.2,
-      187.2,
-      188.2,
-      189.1
+      180.3,
+      181.3,
+      182.2,
+      183.2,
+      184.1,
+      185.0,
+      186.0
     ]
   },
   "news": [
@@ -192,25 +192,25 @@
       "source": "EnergyNow",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcGMwU2NHdGU1RXdDQkF5Vmk3Y3NvU2wwWDJHeURSOUF1SkNZNmo3VGs1SElzaWFkbVRQLTRLTG81TkR1RTlmdnhoNEw3c1ZTcldEV1RuUkdlRVl0RHJNM3FLc2J0cFFMVnpiS3RIZC1rVWRIR1Z5V0lMV1RmNEdJdWRNREdjeWdiVWZDZmVFS3FHOC1uSEJ2b3ZBRQ?oc=5",
       "description": "Oil Prices Set to Rise Further on Monday as Mideast War Escalates EnergyNow",
-      "publishedAt": "Fri, 05 Jun 2026 21:28:55 GMT",
+      "publishedAt": "Wed, 10 Jun 2026 22:40:10 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil prices climb back toward $100, but US stocks hang near their records - Castanet",
-      "source": "Castanet",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTTJWN2FvTld5YVF2Uk4wVGpHd3RKRGY5anZfRFRNY1VLdEV1ZUNfREdGX0F6SHVja2ZBTmppVGdXVGhsbnAxNC1GN0UxSnRLT3hkMDNEdkdxZm00aHRCLXB2YUwwMHBDYnVyOUJrMmk2M2M1Wm9BZVRnQ2wzNW9KU0xpOUFoN0dXMDg3bUFaS0hHYVRETzNNTzliR25qMlo0M3k5RjlON1Q2S29Bck1OcmtCOXJKS2M?oc=5",
-      "description": "Oil prices climb back toward $100, but US stocks hang near their records Castanet",
-      "publishedAt": "Wed, 03 Jun 2026 13:42:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "How Fake News Could Send Oil Prices Soaring - Crude Oil Prices Today | OilPrice.com",
+      "title": "Oil Prices Jump After U.S. Strikes Iran Over Downed Apache - Crude Oil Prices Today | OilPrice.com",
       "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVy01OEduNGVYMGhkX3JlTkplckw1QzdEU1E2Yk9UYnB4MWRnOHByRk0tZW1HcUZ0dDkwak1aZ0c5TGstUkhucjlBam1QV05iS1g0UDh0RnhOTk9ZNXI1cDJCQXNSdUNfMy0zeVMyQU40RWZTbk1XbFA3ZmlOcWctZ0c2NDduQ3I4c0tPZmpJeXRONVpTa0HSAZsBQVVfeXFMTm5BNDRhNkt5VDNEeEZQaXk2SEdJQ2tVUnV6TVFVVDluMlVsNnp0QWgwZUZvenp3empTTjNoTk9hM2otWWZuY0JzdC1RMTg3MHJwTGJoVTh2YkE1LUFxbGxHakdkQWJONnNiclpyZE1nTFpyeUlpdkY3dU1qeGF1ejF3Y0RBOGpmbFhLRXpDX0hFZVp1ZEd6ejI5cDg?oc=5",
-      "description": "How Fake News Could Send Oil Prices Soaring Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Tue, 09 Jun 2026 00:01:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUV9ick9MZ1FWRGxJbkFxQ1hKNXJCOVFuZDBNa0xzMjdLZjFnT0JTZjJ2cVZjU0JfYTUtVHI1dzdzcENjZ1JENUhNUUxWWkJjQmFRVzlNWDRoam5sVVEzazE3OTltN21rY1AtZ0xFWThvanZpTUVaY0pzQ0RISnVRdnZlSE5zOUUzeEtSbDBEdjItMm9xeTBwN1E0dm42WmZPZlNHLTlpUF9EamhhODhxR29R0gG3AUFVX3lxTFAybzlxVWtPMkthMTlIX0JweGtKZmR4SXRVMHM1bWtyLTZDOTJNNWlha0JCcHJkazY2Q3F1azNtSFltMEtvZy1UazVMejhpX2tveGdLQ2w2aU03Qk93cnF1NjFPSkl1N09QRURQMDBBNmtMQzBPQ09kVjd6TjVhLU5LdHRzODhHNE9lTVdXaFBhQ2tXWnhyWVpETjBrczN0S3FTcUtiN3VkMUNuaVpGY1hIOEliVU1RYw?oc=5",
+      "description": "Oil Prices Jump After U.S. Strikes Iran Over Downed Apache Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Wed, 10 Jun 2026 03:17:22 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Have Oil Prices Already Peaked? Three Things to Know - BloombergNEF",
+      "source": "BloombergNEF",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTUhBLWtScnQ5NjlWR0N4SHdiVEhLbUV5bDB6d3lrdjVsdm5Wb2xHQU42VFgwRFJrbGt4YmxJZDVwaUZzS0w5NjVXckJseEFoT2kzVXlpMHVWVEdpRy1nOEJUc2dlUUZ3LUpVdUlEa2NXUFYzMnVHY0VzcGZhU2hlOFdIYXI0MS1jS0ZzODdoY0kyMmpnZzh1UmVXb3I?oc=5",
+      "description": "Have Oil Prices Already Peaked? Three Things to Know BloombergNEF",
+      "publishedAt": "Wed, 10 Jun 2026 10:10:54 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -224,29 +224,38 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices spike, stocks retreat from records as Iran ceasefire strained - Global News",
-      "source": "Global News",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zZzA1LVNHR2I3S2w2Y1VzSDF6VmJFS0lTc1JoS2FGTDQzV09obXpPT05GRmw5ODdHZ2hWdVF3cTV4WEZobk5WX3U0VHAzTlVGR252SjZmOEhnSGtCdDRVQm5yci10YjZQRGdPWFhSVVhZUQ?oc=5",
-      "description": "Oil prices spike, stocks retreat from records as Iran ceasefire strained Global News",
-      "publishedAt": "Wed, 03 Jun 2026 13:41:00 GMT",
+      "title": "Merchandise trade surplus $2.7 billion in April as oil prices help boost exports - BOE Report",
+      "source": "BOE Report",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ09YdEt2R1VFOTZBNzBkb1dlTzlDTTR0aXZxc2tJUW82N1pEYmJ2eFVzVUw2R200UEw1LUhOY0VDRkVUUE9BbGFlaTNpVWs4b1V4T3VWVkh5Nk04S2I3eWdSNGdtZS1LRHNKOFVaY2xxcmlnQVp6SkZaWWdhMGpiYXEwYzhDZmpLNlJ5VnBDU3NSUW9odHF1UzNJVkZ6ZGR3R25TTC03UGR4ZXFLY1NrVDBmONIBuAFBVV95cUxNMk5mY3RfMHlnTUx5RmxrajgtQVB0SEk5V2FhWnFLbkRZRURuQTFrTlZ1dTB0TjZRV3VqRHI2VVNoNFNYVjFFV0Zra2hwalN0X3NMMHI0cDJpZVJnMWIxekZ2TksySTBXQnJZSGxMVjZhOEpQclBnTWRBdGtRdTdvSzZ0V1RCWC1EZVpheXlYQTAwSE5TakhRV1k2QU1JdTVqUVI1VDAzaGVaVlRHcG5ycEpYU0N5WGxL?oc=5",
+      "description": "Merchandise trade surplus $2.7 billion in April as oil prices help boost exports BOE Report",
+      "publishedAt": "Tue, 09 Jun 2026 13:22:30 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Head Downward After a Day of Increases - Transport Topics",
-      "source": "Transport Topics",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14ek9ycVVZMXUwUjRlNGM1YUc3ZkNWa2ZsbW8zV3pjWFdiRS1IT25HZ2lKZVpRaHdjamxJNVBxajJrUUFUdkY2WFBJYTdnNWtCbVNveldFVExTbk9sSGc0ZlQxMmFCa2M?oc=5",
-      "description": "Oil Prices Head Downward After a Day of Increases Transport Topics",
-      "publishedAt": "Tue, 09 Jun 2026 12:02:00 GMT",
+      "title": "World shares mostly advance as tech stocks rebound from sell-offs, while oil prices slip - BNN Bloomberg",
+      "source": "BNN Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZk9yX0hpbDlMSkhjTFNNNTk1Q0EwYXFQRTk0T1JCdkdpS3kxdHJIcDZOY1RLQ3B0bk9ZeHhEYkgxT21YbHcybDdaWmw0X3RMc19WSG1EV2lGVnU2c1FpbEdLc0doYkxZVjlKdXpQZ0laVS1mQndxM19ZY2lLeTlEdm9PSi1ObUxXbFF1WWdpNURUY3YzU1VLUHpaZVcydHNRVnhiclVSOFJTZkRaRE9IUGg1YUVPUjRWWk5MajZsYTlwc3BSeUJDbmpESjlQcHAw?oc=5",
+      "description": "World shares mostly advance as tech stocks rebound from sell-offs, while oil prices slip BNN Bloomberg",
+      "publishedAt": "Tue, 09 Jun 2026 10:07:20 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Goldman Sachs Flags Upside Risks to Oil Prices in Near Term and Into 2027 - EnergyNow",
+      "title": "Current price of oil as of June 10, 2026 - Fortune",
+      "source": "Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qRmJQbFJvdnA4RXlGTDZpTDFCd1c5bk5wYUR6Z1pCZFVPYlMySnhfQzNxUnlxbDh5M2hKbXNzTXE1V3hSdDZMXzY0ZjZuOG9wT2VPNDNKaFNlaVFDcjdKRzhR?oc=5",
+      "description": "Current price of oil as of June 10, 2026 Fortune",
+      "publishedAt": "Wed, 10 Jun 2026 13:04:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Steady Oil Prices Set for Weekly Gain as Iran War Rumbles On - EnergyNow",
       "source": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWW8tYzVtSnZuaWZSR0lrUFN3UXF5YVVOVDFJbHZMVFBFd1NFN01RUGxud3ZBUHp3VnFaNHh5eEtvZDkxcGY4MmZCZ29kQ0x3dS1EUFZLalQxbnpQUlJVRml5NkhFTXI2T2c3d0w3LXVDQmdMdktqSV85WEwtbFI2aDN2ekZybmN6b1hUTXJWWktfSHhNRXdSYTJONWQxNndzWjZEeHFn?oc=5",
-      "description": "Goldman Sachs Flags Upside Risks to Oil Prices in Near Term and Into 2027 EnergyNow",
-      "publishedAt": "Mon, 08 Jun 2026 19:28:11 GMT",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZy1ueGhJZEZWa1ZDdE1nNWZWQzg2WlREcHRDenZVYVgyZjFkTmhldVlDV2RKdm1CRk1WS1JwT0hCRE1heUwxeHRZakd0ZmZBQXo1RDc0eVdTY1dOMTlVRHlQREMwbHFiSWgwQUplV3Q3cEpSUjFPTWpJZUhIeVVQeDY0MTAxQTVpdmZPMHE0aWhhbVpk?oc=5",
+      "description": "Steady Oil Prices Set for Weekly Gain as Iran War Rumbles On EnergyNow",
+      "publishedAt": "Thu, 11 Jun 2026 03:08:44 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -260,20 +269,11 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices fall after U.S. Energy secretary says Hormuz ship traffic is increasing - CNBC",
+      "title": "Oil prices ease after Iran says military operations against Israel are over - CNBC",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYmNyNkVaRjNvSEhBRldiSEdIOF9YQlpZU085akw2dHlKYkFnMjE3T0R5d0FtaEhRSlRrSDJ0aFRRWUVjZThUZUY1N1oybHdvWkd4LWVFWDZEZmtwSWFRemVkM1EzTDZMSUg2cTJWZV9pX1UyZC1ucEZHel84RlN4TFc4YlJ3TzZ1THhrRTVqSll3cGY1VnfSAZsBQVVfeXFMTm5XdFhOellTYnQ0ejRRaG5tX2xpSHpEdlVoVk1OLVhzby1uSnFuSGVPVnhGQzJoZWs0UzdnUFRqMWh1dG5MOG42aXQ1VjBMalVZTF9OaGFGU01SdXdnNFcxRnltZmpxeEFtTk5FSVdSbndzUU8ySnI4dzBVSDFGYXpzLXdCM2FUOWFIcDJfQk9XaXNVRUxhYTVlRWM?oc=5",
-      "description": "Oil prices fall after U.S. Energy secretary says Hormuz ship traffic is increasing CNBC",
-      "publishedAt": "Tue, 09 Jun 2026 12:29:54 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "World shares mostly advance as tech stocks rebound from sell-offs, while oil prices slip - BNN Bloomberg",
-      "source": "BNN Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZk9yX0hpbDlMSkhjTFNNNTk1Q0EwYXFQRTk0T1JCdkdpS3kxdHJIcDZOY1RLQ3B0bk9ZeHhEYkgxT21YbHcybDdaWmw0X3RMc19WSG1EV2lGVnU2c1FpbEdLc0doYkxZVjlKdXpQZ0laVS1mQndxM19ZY2lLeTlEdm9PSi1ObUxXbFF1WWdpNURUY3YzU1VLUHpaZVcydHNRVnhiclVSOFJTZkRaRE9IUGg1YUVPUjRWWk5MajZsYTlwc3BSeUJDbmpESjlQcHAw?oc=5",
-      "description": "World shares mostly advance as tech stocks rebound from sell-offs, while oil prices slip BNN Bloomberg",
-      "publishedAt": "Tue, 09 Jun 2026 10:07:20 GMT",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPODlFZWItY3pEemtNS09GTlhkUTlRblJIV0RsQ0ZBdVhjZEs3cEl0SjVhMGJMbGticVpsMDJ2alJKZXlTZ3kzWlBGU1ZyaG9ocTNiSWRFRXdRWnJiWFNWQ3dPU0M4TzhMWVRJYk9vVDVfSHBlNmtDU05rNTNwWFNzZV9PRlhsaWx3ZFNVeUM3WEc4b3ZtbERHMNIBngFBVV95cUxOZWlNNFhpOEprblFsUkZQU0l0blU5akxkUkt1eGRoRFBDQ0tSdzU3SDUxR2VxcVZqZTVjUXVtV0xOOFkyeWYtbXNxZnV1UFRodGJ1enk5S3F6YmtWVHRLVkpKdDZCUHFhVXBCUDQwNFRSMlFYTUJseGVVQkZvZVBhSVpYMUhYMVlEN1FraUgwMFJBYTB3aERvMnVMZm1YUQ?oc=5",
+      "description": "Oil prices ease after Iran says military operations against Israel are over CNBC",
+      "publishedAt": "Mon, 08 Jun 2026 00:43:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
