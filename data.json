@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-13 07:41 UTC",
+  "generatedAt": "2026-06-14 08:11 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 168.9,
-    "premium": 186.9,
-    "diesel": 179.4
+    "regular": 166.9,
+    "premium": 184.9,
+    "diesel": 177.4
   },
   "history": {
     "labels": [
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Jun 13"
+      "Jun 14"
     ],
     "regular": [
       150.7,
@@ -75,7 +75,7 @@
       155.9,
       174.9,
       186.9,
-      168.9
+      166.9
     ],
     "premium": [
       168.7,
@@ -110,7 +110,7 @@
       173.9,
       192.9,
       204.9,
-      186.9
+      184.9
     ],
     "diesel": [
       161.2,
@@ -145,45 +145,45 @@
       166.4,
       185.4,
       197.4,
-      179.4
+      177.4
     ]
   },
   "prediction": {
     "labels": [
-      "Jun 14",
       "Jun 15",
       "Jun 16",
       "Jun 17",
       "Jun 18",
       "Jun 19",
-      "Jun 20"
+      "Jun 20",
+      "Jun 21"
     ],
     "regular": [
-      169.8,
-      170.8,
-      171.7,
-      172.7,
-      173.6,
-      174.5,
-      175.5
+      167.7,
+      168.5,
+      169.4,
+      170.2,
+      171.0,
+      171.8,
+      172.6
     ],
     "premium": [
-      187.8,
-      188.8,
-      189.7,
-      190.7,
-      191.6,
-      192.5,
-      193.5
+      185.7,
+      186.5,
+      187.4,
+      188.2,
+      189.0,
+      189.8,
+      190.6
     ],
     "diesel": [
-      180.3,
-      181.3,
-      182.2,
-      183.2,
-      184.1,
-      185.0,
-      186.0
+      178.2,
+      179.0,
+      179.9,
+      180.7,
+      181.5,
+      182.3,
+      183.1
     ]
   },
   "news": [
@@ -193,6 +193,15 @@
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONGdHUTJJMHp1blBSR2NoeXhjRUdSWGVXTE0tVVR4MzFBSVIzRUp1NXNwRFlPT2NUQ2dGM2RIQ0VuclF5cGs3QTFjUlFfM2hJTk5pc25ta0xoRlNTTkVSMEptd0ppc0NNOFlVT0hzQ29ZdjJXemtONzN1V3UyRXhnT1dHRUFOeVd6MXBuYzVfNG9IcVo0UU1HRGRsNWh4eUF6ekVJQVNOOEc2cWloYXhFQmJwUHZwZ1pQQzQwWEM1M3FtcUZiRkdtOE9B?oc=5",
       "description": "U.S. stocks jump to their best day in two months on hopes for a deal to get crude flowing globally again BNN Bloomberg",
       "publishedAt": "Thu, 11 Jun 2026 20:30:36 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Crude Oil Futures Overview - CME Group",
+      "source": "CME Group",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1OVHltWktpaTJQRXlsS281OXVOT19HMDFWWUtxa3hmRkQzT0VLZHMtazhvX0VOQkJwM0ZsVGZ2R1YtZnB2YmI3VHhvbjdPdjlfQ3g5Z0xiNVkzMnhYMmRxMGpNNFFIeXM2eEZDVnVnLUhYcEVBX09PZlhxTng?oc=5",
+      "description": "Crude Oil Futures Overview CME Group",
+      "publishedAt": "Fri, 12 Jun 2026 03:53:30 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -228,25 +237,25 @@
       "source": "WSJ",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU1NvNVpJU29xQjk0RVNqRGVkZzh0TlNGSWo0ODNzT1JwSFJFY1liQVoySU5hN2NVbUNMcWR3Mmh5X2pwWnBIM1ZDaHhtRmV3b1hDcFR1VDhFWVF3emZ5OGQzRG9xbzAwZTJtQ253RmN0SVVBZWx6ai1BZUNmbENrV1dWZ3gxSkFsb196bFNUWG9rNUhqRkxsVGY4cw?oc=5",
       "description": "Why Oil Prices Haven’t Shot Through the Roof—Yet WSJ",
-      "publishedAt": "Sat, 13 Jun 2026 02:00:00 GMT",
+      "publishedAt": "Sat, 13 Jun 2026 09:01:55 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Current price of oil as of June 11, 2026 - Fortune",
+      "title": "Current price of oil as of June 8, 2026 - Fortune",
       "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkM3Q3amVkU2tEbFZYVzdYUm9xOWpkb19aM1J3aUN2dGJ2NXNTemNORHdMTXo1ODhja0M4NUFzakQxYTlHMzRaNzl4T2dQTzVCTWVjUjhDdmdWMEt6RXYtaHBn?oc=5",
-      "description": "Current price of oil as of June 11, 2026 Fortune",
-      "publishedAt": "Thu, 11 Jun 2026 13:10:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAyd2ZsdjhMODBvdlBMT0FZaEtGNS0xUXlBNmtPOTVVVGhCTmI1OVRzbl9yRDBWUnk4VS1UZ3NsT0dHZThLdE5vbHVFeFJpZWFTRFV2UEY4bGtuVnFMcHNHT0Z3?oc=5",
+      "description": "Current price of oil as of June 8, 2026 Fortune",
+      "publishedAt": "Mon, 08 Jun 2026 13:11:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Jump After U.S. Strikes Iran Over Downed Apache - Crude Oil Prices Today | OilPrice.com",
+      "title": "The Oil Market Could Be Weeks From a Breaking Point - Crude Oil Prices Today | OilPrice.com",
       "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUV9ick9MZ1FWRGxJbkFxQ1hKNXJCOVFuZDBNa0xzMjdLZjFnT0JTZjJ2cVZjU0JfYTUtVHI1dzdzcENjZ1JENUhNUUxWWkJjQmFRVzlNWDRoam5sVVEzazE3OTltN21rY1AtZ0xFWThvanZpTUVaY0pzQ0RISnVRdnZlSE5zOUUzeEtSbDBEdjItMm9xeTBwN1E0dm42WmZPZlNHLTlpUF9EamhhODhxR29R0gG3AUFVX3lxTFAybzlxVWtPMkthMTlIX0JweGtKZmR4SXRVMHM1bWtyLTZDOTJNNWlha0JCcHJkazY2Q3F1azNtSFltMEtvZy1UazVMejhpX2tveGdLQ2w2aU03Qk93cnF1NjFPSkl1N09QRURQMDBBNmtMQzBPQ09kVjd6TjVhLU5LdHRzODhHNE9lTVdXaFBhQ2tXWnhyWVpETjBrczN0S3FTcUtiN3VkMUNuaVpGY1hIOEliVU1RYw?oc=5",
-      "description": "Oil Prices Jump After U.S. Strikes Iran Over Downed Apache Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Wed, 10 Jun 2026 03:17:22 GMT",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU2pWZ1Q4eEhYaTJXOFRrUFNYRnVtMWtDTWtZOEYxVXNVZUZTV2Z4MklPOGg2eVdaZFUwa0FNRmtURXlienQ5b01YYl9DUnpnWS1SdWdLTkNOQzlmbEQ1S0dVNXNfVVh4T3JxalFRQ0pVRDhndWhKV0dqeFVXd2gyWGZGdFNnSFh2aS1ZeVNyVVRuWEkzR1ZoQkln0gGfAUFVX3lxTE41aWJ2VWxLeF9BLVhCRVdfZk80cGFBc1VNeWprOUtnNDJOTWR2Yk81ZFUydkNUY25uTG9HSXN4cnBTYmRBY0dUajFhSWZvbmg4V3hIMXZXRXh4RjBXRS1zcjRUU2RvSmJlYTkycmdBcTZORFBLellqNzNHTDZsMC1jZUt5MmtjbWFOam04bWNxbXBKZVRhcVlMOHJNWlFjYw?oc=5",
+      "description": "The Oil Market Could Be Weeks From a Breaking Point Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Fri, 12 Jun 2026 23:00:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -260,20 +269,11 @@
       "impact": "medium"
     },
     {
-      "title": "Wall Street holds steadier as AI stocks recover some of their sell-off - BNN Bloomberg",
-      "source": "BNN Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeTI3WUtsd19JdldFZVh3TFVHRHNTcHdYQW9UdmlyVFV2WjRDMkg4WTBmN2NkZUV1TEpXVE1JeWV0V29EZ3l2YzA1eGlQQmZvZ0VaRGtyTExIR3FQWGlCdTdNSnc4TjF2TzNORHlxbzN0MVA2Sk5lTl9ieGlMc0Y5Qlp4aVYydzFfUmJiUXotS1hZMnljWjJtZ2todmw1b3ZvcjhYNExKdzVIUU84SFhLVzlvTm9RVjhlYUppbVNmZnd1NVFja2tBZFlKcDVuUkNyVGo1R0tR?oc=5",
-      "description": "Wall Street holds steadier as AI stocks recover some of their sell-off BNN Bloomberg",
-      "publishedAt": "Mon, 08 Jun 2026 20:20:29 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Current price of oil as of June 8, 2026 - Fortune",
+      "title": "Current price of oil as of June 12, 2026 - Fortune",
       "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAyd2ZsdjhMODBvdlBMT0FZaEtGNS0xUXlBNmtPOTVVVGhCTmI1OVRzbl9yRDBWUnk4VS1UZ3NsT0dHZThLdE5vbHVFeFJpZWFTRFV2UEY4bGtuVnFMcHNHT0Z3?oc=5",
-      "description": "Current price of oil as of June 8, 2026 Fortune",
-      "publishedAt": "Mon, 08 Jun 2026 13:11:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16NTVTVGpYejBJaC1UQnI4V3hJdFlJLVRsVTJjbjJSenk4MUpVQXN5LVZFaFQ2emJjbFpES3QxVVZielplRGJaVnlWNkFQUHV3SVd2dTBDVGJUTGJzUlgxYzRB?oc=5",
+      "description": "Current price of oil as of June 12, 2026 Fortune",
+      "publishedAt": "Fri, 12 Jun 2026 12:52:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
