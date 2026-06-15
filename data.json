@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14 08:11 UTC",
+  "generatedAt": "2026-06-15 09:55 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
     "regular": 166.9,
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Jun 14"
+      "Jun 15"
     ],
     "regular": [
       150.7,
@@ -150,13 +150,13 @@
   },
   "prediction": {
     "labels": [
-      "Jun 15",
       "Jun 16",
       "Jun 17",
       "Jun 18",
       "Jun 19",
       "Jun 20",
-      "Jun 21"
+      "Jun 21",
+      "Jun 22"
     ],
     "regular": [
       167.7,
@@ -197,15 +197,6 @@
       "impact": "medium"
     },
     {
-      "title": "Crude Oil Futures Overview - CME Group",
-      "source": "CME Group",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1OVHltWktpaTJQRXlsS281OXVOT19HMDFWWUtxa3hmRkQzT0VLZHMtazhvX0VOQkJwM0ZsVGZ2R1YtZnB2YmI3VHhvbjdPdjlfQ3g5Z0xiNVkzMnhYMmRxMGpNNFFIeXM2eEZDVnVnLUhYcEVBX09PZlhxTng?oc=5",
-      "description": "Crude Oil Futures Overview CME Group",
-      "publishedAt": "Fri, 12 Jun 2026 03:53:30 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
       "title": "Oil Prices Are Up. Investment Isn't Following - Crude Oil Prices Today | OilPrice.com",
       "source": "Crude Oil Prices Today | OilPrice.com",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQ2YzQ21qVWJ5MEs0ejh5S2VUZ3k4ZHJJeFBJU0dIbUp6UUhlWE04SnNrX2JmU0tFbzIzSTB4Qm9aYnE0ZFBMR0N3V1hGN0RVbE0zcEZKR3RYOHF6eGtHOXJnSFRBSEptZ3JKZHpidXFCZkRKU1cxSHF5QzFaWWVBMXM1M2pBRHp0Y2VUZFZfNNIBlAFBVV95cUxPOE05MEJyQTlfSFdleHE2azRCaUxub2JjbXU3UUQ1bzdqTTBHOHRDNFkzaXVoc1hoOUp4UmNOSlh6eFd5Vjl4VE1zWUNJRDdnanhJY2I4YXhWNFg1cnY0eHdkR0FTM3pydk51TWZoQ1VIeEpFQXRobjN6c2t3Qnp4d0RzSEItX1BiM1p3WTRJWWZWOS0x?oc=5",
@@ -219,43 +210,7 @@
       "source": "The Guardian",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObjVQeWNWa3dWYjhtQzBRYno0SlBpbzcxSVp2bkhnU1VzSFZnQm5qWDU3c2VsOWtkSk5LMm0tUUV4cW5BcDgwaUpILWU5bVJQYUV0aGNnMlczNlRVTkR0SE5FVjZtVm9JamE0Y1RreVBtSUI4azJUNDA4cXdsNDhER2dBWFBpTG9HM0MweUNLaGpGZ1hpMVA0cFRGWTVaZnh2djdmdDNxTjcybXZSNWhWOHExZTY?oc=5",
       "description": "Oil prices plummet as Trump claims he is close to US-Iran deal The Guardian",
-      "publishedAt": "Fri, 12 Jun 2026 11:07:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "U.S. crude oil falls below $85 as U.S. and Iran near a deal to reopen Hormuz - CNBC",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb2RWV1BMYVFMS1lybkdvQ0xHSllfcFdCNl9NZHFvdXUwSUh5THhPeTNTcHlfeXFPWXYxNFhMM0Jlc0gzY2duNHRFQlZGZ3ViSHRQVjk1ZjZ6TlJKdXdjN2hkYWlxVm9TemZvUENMV18zdTJKdkJaTC1yUjRWTHVmWEtRN0lMMTN1SWxNMVJmWmVZYUFRWWZySkd4WWhnR0p4MVh3WlNsVG43UdIBrwFBVV95cUxNU3U0bzNobE16b2MxQTYxNTJxUXNQalJka2pubXJWRnI1X0tlRGdPczVZWGtFSFJHNV9fclJhc1RyTlBqTkdWU2tCT2xpeGxuTVMtM3R6VVdxMVpGOWlHN2t1WjRRXzJ2c3NSc3RrU3FybFUxQUhXZ2JBaERWamZOdnlmeTJQTDQ5WkNYdGN4bXp0NnZval9IdW5MMk8xcklfOHJyTnE5R2VwMkpNY0hn?oc=5",
-      "description": "U.S. crude oil falls below $85 as U.S. and Iran near a deal to reopen Hormuz CNBC",
-      "publishedAt": "Fri, 12 Jun 2026 00:53:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Why Oil Prices Haven’t Shot Through the Roof—Yet - WSJ",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU1NvNVpJU29xQjk0RVNqRGVkZzh0TlNGSWo0ODNzT1JwSFJFY1liQVoySU5hN2NVbUNMcWR3Mmh5X2pwWnBIM1ZDaHhtRmV3b1hDcFR1VDhFWVF3emZ5OGQzRG9xbzAwZTJtQ253RmN0SVVBZWx6ai1BZUNmbENrV1dWZ3gxSkFsb196bFNUWG9rNUhqRkxsVGY4cw?oc=5",
-      "description": "Why Oil Prices Haven’t Shot Through the Roof—Yet WSJ",
-      "publishedAt": "Sat, 13 Jun 2026 09:01:55 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Current price of oil as of June 8, 2026 - Fortune",
-      "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAyd2ZsdjhMODBvdlBMT0FZaEtGNS0xUXlBNmtPOTVVVGhCTmI1OVRzbl9yRDBWUnk4VS1UZ3NsT0dHZThLdE5vbHVFeFJpZWFTRFV2UEY4bGtuVnFMcHNHT0Z3?oc=5",
-      "description": "Current price of oil as of June 8, 2026 Fortune",
-      "publishedAt": "Mon, 08 Jun 2026 13:11:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "The Oil Market Could Be Weeks From a Breaking Point - Crude Oil Prices Today | OilPrice.com",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU2pWZ1Q4eEhYaTJXOFRrUFNYRnVtMWtDTWtZOEYxVXNVZUZTV2Z4MklPOGg2eVdaZFUwa0FNRmtURXlienQ5b01YYl9DUnpnWS1SdWdLTkNOQzlmbEQ1S0dVNXNfVVh4T3JxalFRQ0pVRDhndWhKV0dqeFVXd2gyWGZGdFNnSFh2aS1ZeVNyVVRuWEkzR1ZoQkln0gGfAUFVX3lxTE41aWJ2VWxLeF9BLVhCRVdfZk80cGFBc1VNeWprOUtnNDJOTWR2Yk81ZFUydkNUY25uTG9HSXN4cnBTYmRBY0dUajFhSWZvbmg4V3hIMXZXRXh4RjBXRS1zcjRUU2RvSmJlYTkycmdBcTZORFBLellqNzNHTDZsMC1jZUt5MmtjbWFOam04bWNxbXBKZVRhcVlMOHJNWlFjYw?oc=5",
-      "description": "The Oil Market Could Be Weeks From a Breaking Point Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Fri, 12 Jun 2026 23:00:00 GMT",
+      "publishedAt": "Fri, 12 Jun 2026 11:50:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -269,11 +224,56 @@
       "impact": "medium"
     },
     {
-      "title": "Current price of oil as of June 12, 2026 - Fortune",
+      "title": "Crude oil futures drop after Trump promises an Iran deal will be signed Friday - NPR",
+      "source": "NPR",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5haEM4X1FiUnFNQmNfaWRyNDF4Wkt4X1FycGt0UVJYcWdib21PTmk2UlA2R0ZLeUU2Qlo3N3B3WnJJR2x5UkNHc2ZVUW1vTlNCendkNmU2VmFCOVNXaE54SlQ3cnZjcGhUR1UzaXB1QmZHejhqUTRRaC1zOA?oc=5",
+      "description": "Crude oil futures drop after Trump promises an Iran deal will be signed Friday NPR",
+      "publishedAt": "Mon, 15 Jun 2026 01:33:09 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Why Oil Prices Haven’t Shot Through the Roof—Yet - WSJ",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU1NvNVpJU29xQjk0RVNqRGVkZzh0TlNGSWo0ODNzT1JwSFJFY1liQVoySU5hN2NVbUNMcWR3Mmh5X2pwWnBIM1ZDaHhtRmV3b1hDcFR1VDhFWVF3emZ5OGQzRG9xbzAwZTJtQ253RmN0SVVBZWx6ai1BZUNmbENrV1dWZ3gxSkFsb196bFNUWG9rNUhqRkxsVGY4cw?oc=5",
+      "description": "Why Oil Prices Haven’t Shot Through the Roof—Yet WSJ",
+      "publishedAt": "Sat, 13 Jun 2026 02:00:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Current price of oil as of June 11, 2026 - Fortune",
       "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16NTVTVGpYejBJaC1UQnI4V3hJdFlJLVRsVTJjbjJSenk4MUpVQXN5LVZFaFQ2emJjbFpES3QxVVZielplRGJaVnlWNkFQUHV3SVd2dTBDVGJUTGJzUlgxYzRB?oc=5",
-      "description": "Current price of oil as of June 12, 2026 Fortune",
-      "publishedAt": "Fri, 12 Jun 2026 12:52:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkM3Q3amVkU2tEbFZYVzdYUm9xOWpkb19aM1J3aUN2dGJ2NXNTemNORHdMTXo1ODhja0M4NUFzakQxYTlHMzRaNzl4T2dQTzVCTWVjUjhDdmdWMEt6RXYtaHBn?oc=5",
+      "description": "Current price of oil as of June 11, 2026 Fortune",
+      "publishedAt": "Thu, 11 Jun 2026 13:10:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "The Oil Market Could Be Weeks From a Breaking Point - Crude Oil Prices Today | OilPrice.com",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU2pWZ1Q4eEhYaTJXOFRrUFNYRnVtMWtDTWtZOEYxVXNVZUZTV2Z4MklPOGg2eVdaZFUwa0FNRmtURXlienQ5b01YYl9DUnpnWS1SdWdLTkNOQzlmbEQ1S0dVNXNfVVh4T3JxalFRQ0pVRDhndWhKV0dqeFVXd2gyWGZGdFNnSFh2aS1ZeVNyVVRuWEkzR1ZoQkln0gGfAUFVX3lxTE41aWJ2VWxLeF9BLVhCRVdfZk80cGFBc1VNeWprOUtnNDJOTWR2Yk81ZFUydkNUY25uTG9HSXN4cnBTYmRBY0dUajFhSWZvbmg4V3hIMXZXRXh4RjBXRS1zcjRUU2RvSmJlYTkycmdBcTZORFBLellqNzNHTDZsMC1jZUt5MmtjbWFOam04bWNxbXBKZVRhcVlMOHJNWlFjYw?oc=5",
+      "description": "The Oil Market Could Be Weeks From a Breaking Point Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Fri, 12 Jun 2026 23:00:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil prices tumble and markets rally amid hopes strait of Hormuz will reopen - The Guardian",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeXp6QmltYmFGTDliSTBXRWtKdi1MTVhweXpyLUF5QUFWcjFqRk9OVHN0VnVhRnJscElYbTZBWXQ0c19RWXM1U2htZWJnelIydWpmaGpvTHdBLXhIdVBVVjg0ck4yQTRrQnNfQjhBeGhUaGtVeTZlaWZlTzRFM3Qyd24zdUxoVDN5dXpCOUJvdmJGQ3ZEdF9NNEplWnBPYWlLUmpiazRCekhmb1VBZ3FXU2hOaENiUm8?oc=5",
+      "description": "Oil prices tumble and markets rally amid hopes strait of Hormuz will reopen The Guardian",
+      "publishedAt": "Mon, 15 Jun 2026 04:06:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "U.S. crude oil falls below $85 as U.S. and Iran near a deal to reopen Hormuz - CNBC",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb2RWV1BMYVFMS1lybkdvQ0xHSllfcFdCNl9NZHFvdXUwSUh5THhPeTNTcHlfeXFPWXYxNFhMM0Jlc0gzY2duNHRFQlZGZ3ViSHRQVjk1ZjZ6TlJKdXdjN2hkYWlxVm9TemZvUENMV18zdTJKdkJaTC1yUjRWTHVmWEtRN0lMMTN1SWxNMVJmWmVZYUFRWWZySkd4WWhnR0p4MVh3WlNsVG43UdIBrwFBVV95cUxNU3U0bzNobE16b2MxQTYxNTJxUXNQalJka2pubXJWRnI1X0tlRGdPczVZWGtFSFJHNV9fclJhc1RyTlBqTkdWU2tCT2xpeGxuTVMtM3R6VVdxMVpGOWlHN2t1WjRRXzJ2c3NSc3RrU3FybFUxQUhXZ2JBaERWamZOdnlmeTJQTDQ5WkNYdGN4bXp0NnZval9IdW5MMk8xcklfOHJyTnE5R2VwMkpNY0hn?oc=5",
+      "description": "U.S. crude oil falls below $85 as U.S. and Iran near a deal to reopen Hormuz CNBC",
+      "publishedAt": "Fri, 12 Jun 2026 00:53:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
