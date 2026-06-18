@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-17 08:55 UTC",
+  "generatedAt": "2026-06-18 08:39 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 162.9,
-    "premium": 180.9,
-    "diesel": 173.4
+    "regular": 157.9,
+    "premium": 175.9,
+    "diesel": 168.4
   },
   "history": {
     "labels": [
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Jun 17"
+      "Jun 18"
     ],
     "regular": [
       150.7,
@@ -75,7 +75,7 @@
       155.9,
       174.9,
       186.9,
-      162.9
+      157.9
     ],
     "premium": [
       168.7,
@@ -110,7 +110,7 @@
       173.9,
       192.9,
       204.9,
-      180.9
+      175.9
     ],
     "diesel": [
       161.2,
@@ -145,63 +145,63 @@
       166.4,
       185.4,
       197.4,
-      173.4
+      168.4
     ]
   },
   "prediction": {
     "labels": [
-      "Jun 18",
       "Jun 19",
       "Jun 20",
       "Jun 21",
       "Jun 22",
       "Jun 23",
-      "Jun 24"
+      "Jun 24",
+      "Jun 25"
     ],
     "regular": [
-      163.5,
-      164.0,
-      164.6,
-      165.2,
-      165.8,
-      166.3,
-      166.9
+      158.2,
+      158.4,
+      158.7,
+      159.0,
+      159.2,
+      159.5,
+      159.8
     ],
     "premium": [
-      181.5,
-      182.0,
-      182.6,
-      183.2,
-      183.8,
-      184.3,
-      184.9
+      176.2,
+      176.4,
+      176.7,
+      177.0,
+      177.2,
+      177.5,
+      177.8
     ],
     "diesel": [
-      174.0,
-      174.5,
-      175.1,
-      175.7,
-      176.3,
-      176.8,
-      177.4
+      168.7,
+      168.9,
+      169.2,
+      169.5,
+      169.7,
+      170.0,
+      170.3
     ]
   },
   "news": [
-    {
-      "title": "Crude oil prices fall again, while US stocks drift near their all-time highs - Castanet",
-      "source": "Castanet",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTngwUXZmZVhzXzFwLW5KdmZhbzFTNklncjl1MFBxb3NTNTl1YkI1WFlGMnRDTWFIWmNCN2xHNXhpM3BHLVVGOUlEOTUtai1rWFhDN0hGaDFGQXkyTFpBamhuNk9mX0lFcnEyNXBZTFdydHRPbVdsNXFhck9sMGVGS2gyV19QRmlRS2t6WWlWTnlWWGVydWRsMjhYNXY2aEhHWHJkQ3RjUG9vb1pKQmdCeGZGNTJKZkN3SEdjTUVB?oc=5",
-      "description": "Crude oil prices fall again, while US stocks drift near their all-time highs Castanet",
-      "publishedAt": "Tue, 16 Jun 2026 13:41:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
     {
       "title": "Global stocks soar and oil prices drop as U.S., Iran reach tentative deal to end war - CBC",
       "source": "CBC",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JRWVtREpIRFdvYUpmaUlNR1p0Y1U0bFA1X2pRbi0taTVSYkVsdzlSN2JUMFBnSlFLa1FYS1BSckhNV2dUZ2FvYlVIR2REOHlZMWFLUXlfYzFUTGttS3hNRTNZZ1Z5dFJzQ3pKZFhOTkktVXZtTGZR?oc=5",
       "description": "Global stocks soar and oil prices drop as U.S., Iran reach tentative deal to end war CBC",
       "publishedAt": "Mon, 15 Jun 2026 20:46:06 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil prices fall, stocks rally as US, Iran sign framework to end war - Al Jazeera",
+      "source": "Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPN2p4U3V5MHpKTHNITFJNTDZxa3libWZYNjN4TXRUZzdIZlpiM3JWUWZ1V3pBOU9HdWJtQU5va3B4enY3T2VOVXh2UlFHYmNRRFE4M0h2QjBBTFJWSWNiWFl5UGJUQzFrd0ptT2xrZG53SGxVZ1JodGRfcm91Z093ZV9qa2xNLThiREdXb29saU5OR1Qzd1FiRVVudVlXWGluRFZ1WmJZN29McDJGVUHSAbMBQVVfeXFMTXRfcnlNNHVyOXF2WGd1emdEVF9md2JrVVF6elpWTHRtZkIzU0tKN1p0ektiRkVfN3NDbHZ3b2hRU2J1MDJ3RWhhMVdZcEg0WmV4S3VIRlRmRzRrLVFOakF4c3F1X2NNWUVuY1RxTnlPanF1M3llZnNoZjhlSi14eldsSHlhdmlpbTY2cDVjRktLY1Y4LWZjckNKVUlNSGRZZnZTU2R5SkpHNUVCMHVCakczQ28?oc=5",
+      "description": "Oil prices fall, stocks rally as US, Iran sign framework to end war Al Jazeera",
+      "publishedAt": "Thu, 18 Jun 2026 06:20:06 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -260,20 +260,20 @@
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Might Not Go Back to Normal Anytime Soon - The Atlantic",
-      "source": "The Atlantic",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBkRU5NdGpnaFp1RDBnQU1hejY0TzRqSHVxZVA0cmdHU0Z3OGpOY0Y0clJuSGc3SnE1MnhOVW5JRWw3WHJ1a3RVN1JkZ0NCSmdNSzdka1p2dDNlaXBud3dXTXNLQzdVNnVCQjNrZFNCV1RoTjRncGcyQnF0bw?oc=5",
-      "description": "Oil Prices Might Not Go Back to Normal Anytime Soon The Atlantic",
-      "publishedAt": "Tue, 16 Jun 2026 18:58:00 GMT",
+      "title": "Oil Prices Steady as Investors Weigh Peace Deal, IEA Glut Forecasts - EnergyNow",
+      "source": "EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSUsyRDEycFd1UUgtNkJuWUVod2tBYjFCSG1WaFZUZFhuRnJPOE0zMldKUWlxczBYTmxwSzlMcUVUOHBFdi16N0VxSEYtUGhXTGdPY2RSTUlScWRIVUViYjA5bElNN3l3aFgybkMxQWRaRzVvdHpNTEdrY2N0VFY1SndUUmpseHF5VnBrVlV2ZXlVcmp5MThteHZPTEM?oc=5",
+      "description": "Oil Prices Steady as Investors Weigh Peace Deal, IEA Glut Forecasts EnergyNow",
+      "publishedAt": "Wed, 17 Jun 2026 12:29:32 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil prices fall and shares jump after US-Iran deal announced - BBC",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZRzk1d1JURFJ5ZkJnb0lSTHlvQUdTWWxBTnBaZXpYS2JaVUpsZEY2MGRlbTZIWTd3OFNsZ0o4anhMUTktV3VBcjFTOHdpZkdFMTVkZGxKWmRiZw?oc=5",
-      "description": "Oil prices fall and shares jump after US-Iran deal announced BBC",
-      "publishedAt": "Mon, 15 Jun 2026 14:21:22 GMT",
+      "title": "Oil prices fall on Iran deal, but whether they go much lower ‘is highly questionable’ - NBC News",
+      "source": "NBC News",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVzEyNHZFamYzeV9nVXZ3RmJTZ3NMZUR6QTVmYXdhSDVXTnNGdUx4QldtbWxhZHNsWFFzNWQxM1hpRF9pU1Zod0htUlBUX1YxTkphOTl5Uk14Vy1wclNiY2NndEYtRjJ0azIyS2Z6dl8zeVo0czlGNGt6VXpaeHREXzBFd3U2MnRCbk1Del92TQ?oc=5",
+      "description": "Oil prices fall on Iran deal, but whether they go much lower ‘is highly questionable’ NBC News",
+      "publishedAt": "Mon, 15 Jun 2026 20:08:35 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
