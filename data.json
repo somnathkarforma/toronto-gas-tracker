@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-18 08:39 UTC",
+  "generatedAt": "2026-06-19 09:02 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 157.9,
-    "premium": 175.9,
-    "diesel": 168.4
+    "regular": 158.9,
+    "premium": 176.9,
+    "diesel": 169.4
   },
   "history": {
     "labels": [
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Jun 18"
+      "Jun 19"
     ],
     "regular": [
       150.7,
@@ -75,7 +75,7 @@
       155.9,
       174.9,
       186.9,
-      157.9
+      158.9
     ],
     "premium": [
       168.7,
@@ -110,7 +110,7 @@
       173.9,
       192.9,
       204.9,
-      175.9
+      176.9
     ],
     "diesel": [
       161.2,
@@ -145,137 +145,55 @@
       166.4,
       185.4,
       197.4,
-      168.4
+      169.4
     ]
   },
   "prediction": {
     "labels": [
-      "Jun 19",
       "Jun 20",
       "Jun 21",
       "Jun 22",
       "Jun 23",
       "Jun 24",
-      "Jun 25"
+      "Jun 25",
+      "Jun 26"
     ],
     "regular": [
-      158.2,
-      158.4,
-      158.7,
-      159.0,
       159.2,
-      159.5,
-      159.8
+      159.6,
+      159.9,
+      160.2,
+      160.5,
+      160.9,
+      161.2
     ],
     "premium": [
-      176.2,
-      176.4,
-      176.7,
-      177.0,
       177.2,
-      177.5,
-      177.8
+      177.6,
+      177.9,
+      178.2,
+      178.5,
+      178.9,
+      179.2
     ],
     "diesel": [
-      168.7,
-      168.9,
-      169.2,
-      169.5,
       169.7,
-      170.0,
-      170.3
+      170.1,
+      170.4,
+      170.7,
+      171.0,
+      171.4,
+      171.7
     ]
   },
   "news": [
     {
-      "title": "Global stocks soar and oil prices drop as U.S., Iran reach tentative deal to end war - CBC",
-      "source": "CBC",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JRWVtREpIRFdvYUpmaUlNR1p0Y1U0bFA1X2pRbi0taTVSYkVsdzlSN2JUMFBnSlFLa1FYS1BSckhNV2dUZ2FvYlVIR2REOHlZMWFLUXlfYzFUTGttS3hNRTNZZ1Z5dFJzQ3pKZFhOTkktVXZtTGZR?oc=5",
-      "description": "Global stocks soar and oil prices drop as U.S., Iran reach tentative deal to end war CBC",
-      "publishedAt": "Mon, 15 Jun 2026 20:46:06 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices fall, stocks rally as US, Iran sign framework to end war - Al Jazeera",
-      "source": "Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPN2p4U3V5MHpKTHNITFJNTDZxa3libWZYNjN4TXRUZzdIZlpiM3JWUWZ1V3pBOU9HdWJtQU5va3B4enY3T2VOVXh2UlFHYmNRRFE4M0h2QjBBTFJWSWNiWFl5UGJUQzFrd0ptT2xrZG53SGxVZ1JodGRfcm91Z093ZV9qa2xNLThiREdXb29saU5OR1Qzd1FiRVVudVlXWGluRFZ1WmJZN29McDJGVUHSAbMBQVVfeXFMTXRfcnlNNHVyOXF2WGd1emdEVF9md2JrVVF6elpWTHRtZkIzU0tKN1p0ektiRkVfN3NDbHZ3b2hRU2J1MDJ3RWhhMVdZcEg0WmV4S3VIRlRmRzRrLVFOakF4c3F1X2NNWUVuY1RxTnlPanF1M3llZnNoZjhlSi14eldsSHlhdmlpbTY2cDVjRktLY1Y4LWZjckNKVUlNSGRZZnZTU2R5SkpHNUVCMHVCakczQ28?oc=5",
-      "description": "Oil prices fall, stocks rally as US, Iran sign framework to end war Al Jazeera",
-      "publishedAt": "Thu, 18 Jun 2026 06:20:06 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil Prices Crash as Traders Bet the War Is Over - Crude Oil Prices Today | OilPrice.com",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTmVXXzIxTDRtckdWd1piVDJ3S0lfNUZRdERtTUJxQWRvcU1XYk9DRE1jRV96eTlfRnNlUEctX0djRThTektGS1NJZWNGMlgxaUtLODlkYkRvLS1scXRWQmZVRVNyTWRLeVQ4eWZMZU1wbXpvZmg5a0RqS3IzdUxZX0k2WmhFWmloNDNSaGJnRmtiX2hmUjloWnBIV2NGbFdZdmtVa2tB0gGrAUFVX3lxTE1xNmUxbEV2WlFsMGl3QnpfbGpzcmR1c0NEMHVEYzZOcERTdUxBTVFTU2s4NmtyeE05SDVOSkVoRnpoLTBOSHZuYURJZkhOVjhKZENpc3hwNGIyZ0MxMjZETDhiWFg0LVlBQnJzNTZmM2FRZDUxUko5dlhmTDlrempPOHBKdXpjeEtfMlVQOU9xZXN6dHM5VEhvUk55bE5haVFGVWU0ZDVKVWk2Yw?oc=5",
-      "description": "Oil Prices Crash as Traders Bet the War Is Over Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Tue, 16 Jun 2026 18:30:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "U.S. stocks jump to their best day in two months on hopes for a deal to get crude flowing globally again - BNN Bloomberg",
-      "source": "BNN Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONGdHUTJJMHp1blBSR2NoeXhjRUdSWGVXTE0tVVR4MzFBSVIzRUp1NXNwRFlPT2NUQ2dGM2RIQ0VuclF5cGs3QTFjUlFfM2hJTk5pc25ta0xoRlNTTkVSMEptd0ppc0NNOFlVT0hzQ29ZdjJXemtONzN1V3UyRXhnT1dHRUFOeVd6MXBuYzVfNG9IcVo0UU1HRGRsNWh4eUF6ekVJQVNOOEc2cWloYXhFQmJwUHZwZ1pQQzQwWEM1M3FtcUZiRkdtOE9B?oc=5",
-      "description": "U.S. stocks jump to their best day in two months on hopes for a deal to get crude flowing globally again BNN Bloomberg",
-      "publishedAt": "Thu, 11 Jun 2026 20:30:36 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices plummet as Trump claims he is close to US-Iran deal - The Guardian",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObjVQeWNWa3dWYjhtQzBRYno0SlBpbzcxSVp2bkhnU1VzSFZnQm5qWDU3c2VsOWtkSk5LMm0tUUV4cW5BcDgwaUpILWU5bVJQYUV0aGNnMlczNlRVTkR0SE5FVjZtVm9JamE0Y1RreVBtSUI4azJUNDA4cXdsNDhER2dBWFBpTG9HM0MweUNLaGpGZ1hpMVA0cFRGWTVaZnh2djdmdDNxTjcybXZSNWhWOHExZTY?oc=5",
-      "description": "Oil prices plummet as Trump claims he is close to US-Iran deal The Guardian",
-      "publishedAt": "Fri, 12 Jun 2026 11:50:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices fall back to US$80 per barrel amid optimism over Mideast peace deal - Global News",
-      "source": "Global News",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xVDYxQ3hPbGYxVnFuM1lBelZIcV91enFidWlXX2RTT2x5MWtsVEZFR3F3Ml80MXg4VVNpZTRUdXhiSm1QMThvT1Vqd2Vpbk1SaE9kbVdxYlJDZHNVYjluR3ZsTmFmakdaS28wU2xfNnh5QW02WXpaWUdtVQ?oc=5",
-      "description": "Oil prices fall back to US$80 per barrel amid optimism over Mideast peace deal Global News",
-      "publishedAt": "Tue, 16 Jun 2026 16:58:27 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Why Oil Prices Haven’t Shot Through the Roof—Yet - WSJ",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU1NvNVpJU29xQjk0RVNqRGVkZzh0TlNGSWo0ODNzT1JwSFJFY1liQVoySU5hN2NVbUNMcWR3Mmh5X2pwWnBIM1ZDaHhtRmV3b1hDcFR1VDhFWVF3emZ5OGQzRG9xbzAwZTJtQ253RmN0SVVBZWx6ai1BZUNmbENrV1dWZ3gxSkFsb196bFNUWG9rNUhqRkxsVGY4cw?oc=5",
-      "description": "Why Oil Prices Haven’t Shot Through the Roof—Yet WSJ",
-      "publishedAt": "Sat, 13 Jun 2026 02:01:33 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "U.S. crude oil falls below $85 as U.S. and Iran near a deal to reopen Hormuz - CNBC",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb2RWV1BMYVFMS1lybkdvQ0xHSllfcFdCNl9NZHFvdXUwSUh5THhPeTNTcHlfeXFPWXYxNFhMM0Jlc0gzY2duNHRFQlZGZ3ViSHRQVjk1ZjZ6TlJKdXdjN2hkYWlxVm9TemZvUENMV18zdTJKdkJaTC1yUjRWTHVmWEtRN0lMMTN1SWxNMVJmWmVZYUFRWWZySkd4WWhnR0p4MVh3WlNsVG43UdIBrwFBVV95cUxNU3U0bzNobE16b2MxQTYxNTJxUXNQalJka2pubXJWRnI1X0tlRGdPczVZWGtFSFJHNV9fclJhc1RyTlBqTkdWU2tCT2xpeGxuTVMtM3R6VVdxMVpGOWlHN2t1WjRRXzJ2c3NSc3RrU3FybFUxQUhXZ2JBaERWamZOdnlmeTJQTDQ5WkNYdGN4bXp0NnZval9IdW5MMk8xcklfOHJyTnE5R2VwMkpNY0hn?oc=5",
-      "description": "U.S. crude oil falls below $85 as U.S. and Iran near a deal to reopen Hormuz CNBC",
-      "publishedAt": "Fri, 12 Jun 2026 00:53:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil Prices Steady as Investors Weigh Peace Deal, IEA Glut Forecasts - EnergyNow",
-      "source": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSUsyRDEycFd1UUgtNkJuWUVod2tBYjFCSG1WaFZUZFhuRnJPOE0zMldKUWlxczBYTmxwSzlMcUVUOHBFdi16N0VxSEYtUGhXTGdPY2RSTUlScWRIVUViYjA5bElNN3l3aFgybkMxQWRaRzVvdHpNTEdrY2N0VFY1SndUUmpseHF5VnBrVlV2ZXlVcmp5MThteHZPTEM?oc=5",
-      "description": "Oil Prices Steady as Investors Weigh Peace Deal, IEA Glut Forecasts EnergyNow",
-      "publishedAt": "Wed, 17 Jun 2026 12:29:32 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices fall on Iran deal, but whether they go much lower ‘is highly questionable’ - NBC News",
-      "source": "NBC News",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVzEyNHZFamYzeV9nVXZ3RmJTZ3NMZUR6QTVmYXdhSDVXTnNGdUx4QldtbWxhZHNsWFFzNWQxM1hpRF9pU1Zod0htUlBUX1YxTkphOTl5Uk14Vy1wclNiY2NndEYtRjJ0azIyS2Z6dl8zeVo0czlGNGt6VXpaeHREXzBFd3U2MnRCbk1Del92TQ?oc=5",
-      "description": "Oil prices fall on Iran deal, but whether they go much lower ‘is highly questionable’ NBC News",
-      "publishedAt": "Mon, 15 Jun 2026 20:08:35 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
+      "title": "No live headlines available right now",
+      "source": "System fallback",
+      "link": "https://news.google.com/",
+      "publishedAt": "",
+      "summary": "The dashboard will refresh automatically on the next scheduled run.",
+      "impact": "low"
     }
   ]
 }
