@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20 07:45 UTC",
+  "generatedAt": "2026-06-21 08:23 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
     "regular": 162.9,
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Jun 20"
+      "Jun 21"
     ],
     "regular": [
       150.7,
@@ -150,13 +150,13 @@
   },
   "prediction": {
     "labels": [
-      "Jun 21",
       "Jun 22",
       "Jun 23",
       "Jun 24",
       "Jun 25",
       "Jun 26",
-      "Jun 27"
+      "Jun 27",
+      "Jun 28"
     ],
     "regular": [
       163.5,
@@ -197,11 +197,20 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices rise as Lebanon fighting erupts and Hormuz traffic still slow - Al Jazeera",
+      "title": "Higher oil prices likely to stick even with eventual reopening of Hormuz: experts - Castanet",
+      "source": "Castanet",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWS1TemlNVTJKaTZjTm5CSXlTUF81N2lJTDRKZXZBUVFrWWdURkhPTFVYd29uYkxjUFBZZ2JkOFJTRkJCdVJ3S0ZtWmhIcFpxdXM2Q2ZDOXdZSFhrRExOQnU0NHY3VWtHMkxIMV9hd0ZHOXU1bGh0eHlNMzVacmZHUGVlNDFvVVg3dDI5eTFqZ0J2Yk9FVXZMYjAtZGJvLV9rZFYySUNtbWl6ZmZmVl9qdG1CWWVoQ2tSdHZEeXM1eEhPQmJi?oc=5",
+      "description": "Higher oil prices likely to stick even with eventual reopening of Hormuz: experts Castanet",
+      "publishedAt": "Wed, 17 Jun 2026 19:16:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil prices continue slide amid hopes for peace, opening of Strait of Hormuz - Al Jazeera",
       "source": "Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZDc5WTlUa0loSVhxZGNiRUI5eGZnTm1YRG5xUmxIWlE4WVJoRG5yc2xQMXVGUVBmZ3YwNTNmMFhwajIzMzNFS1NHWmZZOHRhS19FU2VlMEdpemNQVnBrWkRFNmdNdk9WMTNLeERTTEp6dVh5VVBaT1NXc1BWaEtxSGdFTFVza3puLWFuM0g2cjdYS3JpODJVOGd3WUhYOTJfOExFUEZqcmdCMkFJZnFMd3hHY2lkcW_SAbwBQVVfeXFMT0Q3OEJ2eUVQX0xiZjdEbUoybXk1NWNSeXd5Z3J0ZUI2N0FtWU9TVEJYemZTWUlWbVRvV0VCeGZnaDVEZ1FCcmUtb2w3cHhfa2hpREhkb0lKSkNYaUVYXzlMT3Y5dEZMbk9zZzVqY2ZwancxLTllWngtRm1RUm5GY1NvR2cyODM2M2JQdGg4d3JkaWVkUVN2aUlnMEdPRzBNNDVCLW12NktJNm5HUXJKQWo4N2VOclRFUUFjUUE?oc=5",
-      "description": "Oil prices rise as Lebanon fighting erupts and Hormuz traffic still slow Al Jazeera",
-      "publishedAt": "Fri, 19 Jun 2026 07:22:55 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWTktbGxMSGNYcUJjUTFJT29YVXFKWk9OYkhYWVVQM1E1eEJOSWF4bFJMTHk0ZXZyM0R1RUl4eldVcUo2bGN5QzZaVWw2Z3E2b3NYZ3ZmNHBBeWp4SHktNUViQl9yamo3S3BfMTFtaXJhZDMzS2hjMzRKTmY1Q0t2MGlpOHZNaUttcE42ZjEtamYtOGdoOE9HalMxZTY0U3lnNS00aTNBUk1pT2Z3WTFTQWRaVWNBZHp6OEHSAb8BQVVfeXFMTTNrRGVlanpKRkRCYXVKVGpTREN5RTh4V3RSSE00ZVBxT3VTWEpfNE5ITU5fU2M3bVFFczJRNlVIdEdsSXM5aV95SVZXZFNYaEE5ZWx4QWRybU5RNTYyc0pGWmhCaDd0T3JUX1hWaG9FT2FPQjZVbjZBMFJFTkZYZExOcUxseHl2SFk3MW5NY1ViM1Jobi1sMUNDamdKUjIxTXoxZkRGQTdIQTJ0VEZvejlNa1RMcjkwV2JGa2h0RE0?oc=5",
+      "description": "Oil prices continue slide amid hopes for peace, opening of Strait of Hormuz Al Jazeera",
+      "publishedAt": "Wed, 17 Jun 2026 09:37:36 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -211,6 +220,15 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMU9PajZvdm1UX08wcEpTNkNhOGZBWmtwdGstWldWeEpsX0tYTlZyZjE4a1h3NzFidVB6MlMxS0tTSTBXYWthbWI0dnF2V1NiOVU1ek1FS2NjcGh3SGs2QWxBckExLXBCenNldDhhYmNnekdUNVowbE9keVJ2amRXeTFQQlFISzg1UnZaMVZBZ1dmUEV5b3lXQkJ0S204dnZqR2fSAacBQVVfeXFMUHdWUWQtcTVRWHh3cjFGdi1DN1E2N0F5Y0RrSUp6UUdMcUtGR2xxa0R3czZNdlF2WUc4Y0ktS2JwdXZMRHlxOUEzN1VKQnQ3RS1mYXUtU0k1UnRBYVdVeXA4d2U0aUlmR0JPdHJsaVNtd1JwZjJhQTFYa2ZaMmF3bnZkbHB5aGlxNzM5ZTRaVGdYTUxMT01MdnZNcm5MTF8td2tqZ2h6ZU0?oc=5",
       "description": "Why Oil Prices Are Falling Even as Tankers Remain Trapped Crude Oil Prices Today | OilPrice.com",
       "publishedAt": "Fri, 19 Jun 2026 16:10:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Stocks leap worldwide, and oil prices drop after the U.S. and Iran reach a tentative deal on their war - BNN Bloomberg",
+      "source": "BNN Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMmY5VHlFWm5qYVVTZHRHOWozM1VBc0dLS3FCS2ZQZUdEN0ZfdmFMM0tlaFpoS1dfWnFDd0t2dUpxMnZxYmNfWlFsbGliUkk2V25LTzBTZ3NCU0NheHZyUEM3VDVaZUF5cHAxNlgtVmZ6MFB0eFowMFhKc2RDQjBBN19TckdYck1xejA3RDJjN2o3bGd2NVlYVmZpbWVpc2RtMVludjVDeVU3ZmJtbzZlSnRNR29yTTliQjNyMm9maTdWazBNWnEyX0djVm8yTFVMakRobGpfTDNwMXhQT1I1Qg?oc=5",
+      "description": "Stocks leap worldwide, and oil prices drop after the U.S. and Iran reach a tentative deal on their war BNN Bloomberg",
+      "publishedAt": "Mon, 15 Jun 2026 20:10:44 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -242,15 +260,6 @@
       "impact": "medium"
     },
     {
-      "title": "Citi sees oil prices trending lower to $60 to $65 per barrel by first quarter of 2027 - BOE Report",
-      "source": "BOE Report",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLTA2RzA5X1FQcmJkeUZIbmREMHpYQ1hNMlJXMWZaNHNrdWZTMnVGWTNmS3JmaUpLTy1iUVNiQ2lmWV9ub1RUWEFpOFNhZGtQLU9kMFEtUUxxLVVJMDdWNF9WSGxWc0VhNTBoWnl1NjFraGNZMmk3NmJMbVktWk42LWx0NnF0OHVLbHV5TEdncFh0b0ZaVGRHMkZVZkF1U0RuS0dmeGxYX0lHVUZLVkNYZGZwNkpnWEZG0gG-AUFVX3lxTFBxczNoX25KSnlVNFgzaVFjZ1NNNU56cVZlSDc2Z3dDc09HQWxkSFpuNVo5Rm5SMmVnNlZuUW15djZoVlA5d1VtcWcxODhoQ2ZtSDVPenpSLWpYaVc0ZkJxS1M5Q25YRXRtaTRLQkRvVlV2cUFmR25LaE9uNXlmU29hUS00eTNaS3VkQ1ltRWVObzk1WG13LW9Ia1pCYk54eFFfVUtBaUNMNlNPV3ZyM1AyYzBMY1hjb0RaeHpEQ2c?oc=5",
-      "description": "Citi sees oil prices trending lower to $60 to $65 per barrel by first quarter of 2027 BOE Report",
-      "publishedAt": "Thu, 18 Jun 2026 21:30:55 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
       "title": "Oil prices drop to cheapest level since early days of Middle East conflict - NPR",
       "source": "NPR",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5haEM4X1FiUnFNQmNfaWRyNDF4Wkt4X1FycGt0UVJYcWdib21PTmk2UlA2R0ZLeUU2Qlo3N3B3WnJJR2x5UkNHc2ZVUW1vTlNCendkNmU2VmFCOVNXaE54SlQ3cnZjcGhUR1UzaXB1QmZHejhqUTRRaC1zOA?oc=5",
@@ -260,20 +269,11 @@
       "impact": "medium"
     },
     {
-      "title": "Higher oil prices likely to stick even with eventual reopening of Hormuz: experts - Castanet",
-      "source": "Castanet",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWS1TemlNVTJKaTZjTm5CSXlTUF81N2lJTDRKZXZBUVFrWWdURkhPTFVYd29uYkxjUFBZZ2JkOFJTRkJCdVJ3S0ZtWmhIcFpxdXM2Q2ZDOXdZSFhrRExOQnU0NHY3VWtHMkxIMV9hd0ZHOXU1bGh0eHlNMzVacmZHUGVlNDFvVVg3dDI5eTFqZ0J2Yk9FVXZMYjAtZGJvLV9rZFYySUNtbWl6ZmZmVl9qdG1CWWVoQ2tSdHZEeXM1eEhPQmJi?oc=5",
-      "description": "Higher oil prices likely to stick even with eventual reopening of Hormuz: experts Castanet",
-      "publishedAt": "Wed, 17 Jun 2026 19:16:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices are falling and stocks are up. Traders worry they’ve gone too far - CNN",
-      "source": "CNN",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRXl5UXdOanhQVGxnekUxRC1pSHZKLWxCbmRkbTMzTENwY3pUVFF2V2lUN0htUDB4c2ZmcW5TRzdrMm44OU9SWC1yTGk4aWFYOEVDRkNaSEZzdGVoZFVKOFJHX3laUEpxYXFraTRVR2Y2d2ZIZk1EbnpQX2dvWjNST1RfVGdLdw?oc=5",
-      "description": "Oil prices are falling and stocks are up. Traders worry they’ve gone too far CNN",
-      "publishedAt": "Fri, 19 Jun 2026 09:00:26 GMT",
+      "title": "Citi sees oil prices trending lower to $60 to $65 per barrel by first quarter of 2027 - BOE Report",
+      "source": "BOE Report",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLTA2RzA5X1FQcmJkeUZIbmREMHpYQ1hNMlJXMWZaNHNrdWZTMnVGWTNmS3JmaUpLTy1iUVNiQ2lmWV9ub1RUWEFpOFNhZGtQLU9kMFEtUUxxLVVJMDdWNF9WSGxWc0VhNTBoWnl1NjFraGNZMmk3NmJMbVktWk42LWx0NnF0OHVLbHV5TEdncFh0b0ZaVGRHMkZVZkF1U0RuS0dmeGxYX0lHVUZLVkNYZGZwNkpnWEZG0gG-AUFVX3lxTFBxczNoX25KSnlVNFgzaVFjZ1NNNU56cVZlSDc2Z3dDc09HQWxkSFpuNVo5Rm5SMmVnNlZuUW15djZoVlA5d1VtcWcxODhoQ2ZtSDVPenpSLWpYaVc0ZkJxS1M5Q25YRXRtaTRLQkRvVlV2cUFmR25LaE9uNXlmU29hUS00eTNaS3VkQ1ltRWVObzk1WG13LW9Ia1pCYk54eFFfVUtBaUNMNlNPV3ZyM1AyYzBMY1hjb0RaeHpEQ2c?oc=5",
+      "description": "Citi sees oil prices trending lower to $60 to $65 per barrel by first quarter of 2027 BOE Report",
+      "publishedAt": "Thu, 18 Jun 2026 21:30:55 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
