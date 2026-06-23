@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22 09:42 UTC",
+  "generatedAt": "2026-06-23 07:42 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
     "regular": 162.9,
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Jun 22"
+      "Jun 23"
     ],
     "regular": [
       150.7,
@@ -150,13 +150,13 @@
   },
   "prediction": {
     "labels": [
-      "Jun 23",
       "Jun 24",
       "Jun 25",
       "Jun 26",
       "Jun 27",
       "Jun 28",
-      "Jun 29"
+      "Jun 29",
+      "Jun 30"
     ],
     "regular": [
       163.5,
@@ -188,15 +188,6 @@
   },
   "news": [
     {
-      "title": "Global stocks soar and oil prices drop as U.S., Iran reach tentative deal to end war - CBC",
-      "source": "CBC",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JRWVtREpIRFdvYUpmaUlNR1p0Y1U0bFA1X2pRbi0taTVSYkVsdzlSN2JUMFBnSlFLa1FYS1BSckhNV2dUZ2FvYlVIR2REOHlZMWFLUXlfYzFUTGttS3hNRTNZZ1Z5dFJzQ3pKZFhOTkktVXZtTGZR?oc=5",
-      "description": "Global stocks soar and oil prices drop as U.S., Iran reach tentative deal to end war CBC",
-      "publishedAt": "Mon, 15 Jun 2026 20:46:06 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
       "title": "Oil prices continue slide amid hopes for peace, opening of Strait of Hormuz - Al Jazeera",
       "source": "Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWTktbGxMSGNYcUJjUTFJT29YVXFKWk9OYkhYWVVQM1E1eEJOSWF4bFJMTHk0ZXZyM0R1RUl4eldVcUo2bGN5QzZaVWw2Z3E2b3NYZ3ZmNHBBeWp4SHktNUViQl9yamo3S3BfMTFtaXJhZDMzS2hjMzRKTmY1Q0t2MGlpOHZNaUttcE42ZjEtamYtOGdoOE9HalMxZTY0U3lnNS00aTNBUk1pT2Z3WTFTQWRaVWNBZHp6OEHSAb8BQVVfeXFMTTNrRGVlanpKRkRCYXVKVGpTREN5RTh4V3RSSE00ZVBxT3VTWEpfNE5ITU5fU2M3bVFFczJRNlVIdEdsSXM5aV95SVZXZFNYaEE5ZWx4QWRybU5RNTYyc0pGWmhCaDd0T3JUX1hWaG9FT2FPQjZVbjZBMFJFTkZYZExOcUxseHl2SFk3MW5NY1ViM1Jobi1sMUNDamdKUjIxTXoxZkRGQTdIQTJ0VEZvejlNa1RMcjkwV2JGa2h0RE0?oc=5",
@@ -206,11 +197,20 @@
       "impact": "medium"
     },
     {
-      "title": "Why Oil Prices Are Falling Even as Tankers Remain Trapped - Crude Oil Prices Today | OilPrice.com",
+      "title": "Oil Prices Are Crashing. Inventories Tell A Different Story. - Crude Oil Prices Today | OilPrice.com",
       "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMU9PajZvdm1UX08wcEpTNkNhOGZBWmtwdGstWldWeEpsX0tYTlZyZjE4a1h3NzFidVB6MlMxS0tTSTBXYWthbWI0dnF2V1NiOVU1ek1FS2NjcGh3SGs2QWxBckExLXBCenNldDhhYmNnekdUNVowbE9keVJ2amRXeTFQQlFISzg1UnZaMVZBZ1dmUEV5b3lXQkJ0S204dnZqR2fSAacBQVVfeXFMUHdWUWQtcTVRWHh3cjFGdi1DN1E2N0F5Y0RrSUp6UUdMcUtGR2xxa0R3czZNdlF2WUc4Y0ktS2JwdXZMRHlxOUEzN1VKQnQ3RS1mYXUtU0k1UnRBYVdVeXA4d2U0aUlmR0JPdHJsaVNtd1JwZjJhQTFYa2ZaMmF3bnZkbHB5aGlxNzM5ZTRaVGdYTUxMT01MdnZNcm5MTF8td2tqZ2h6ZU0?oc=5",
-      "description": "Why Oil Prices Are Falling Even as Tankers Remain Trapped Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Fri, 19 Jun 2026 16:10:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWG1lOHBfTXV1SkFVQWtneXNDTVBiVXk0cEltMWlHMWl5T3VveThQS0c0Z0VKVlA0VndveU9fWm5Jb0pYMUJ0UHJYQTA5MHZLWExiNmVZdHdpUFVYaVVtNGZ4b2NhZU5sNGhJd3hNcTQ4M21ELWpTcVFrM05tQTJvRXRVQXJxRlNNOWpRTmpscUxYVzVOZkxyRmNwcTlwQ1dRSFNfZ0cyVmJRVVNSNVEzQWFYNk3SAboBQVVfeXFMTkdpU0REYjhtV2hndzh0d2FBWURheHlqT3BEUkZpdWp3bmhpSkhaUTQ0N21EQXRCZkNBTWhPSkRrQ0VfQVlEclFMRm1pWk1YVk5LQXB5dGp4U0xTaThVR3E3SHFaSWVyRHhMc0J6MHZFQkZmeWZDLUZ2NUFDX295VldfbXNSN1gtcGZoZE5sR1lYaTF1WDJfX1c2dXVaWWQ4dzVkemVUaXl6M0VFNTBWQlRwS2tGQ0Z0X2ln?oc=5",
+      "description": "Oil Prices Are Crashing. Inventories Tell A Different Story. Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Thu, 18 Jun 2026 17:30:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Why Hasn’t the Iran War Driven Oil Prices Even Higher? - Energy Institute Blog",
+      "source": "Energy Institute Blog",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRTRtbkU0VTVZY3FOTlZ0NTlIS1ZHNV9IZC1KaHhPMTZQcjQzNzRCV1JiLU51cEdYVmZsTTBKV0JYWDZScTNXNUdYYnJ5SzA3MjA4V29heWtoY3hOMjc4MVh0MTIwalAzVFFTWlRROTFHb041V25RaHUycm5fVnp5c01Uc3pGQ2lVdWpnUGdvejAyYlh0VlNVcmJBQ2lrcXFn?oc=5",
+      "description": "Why Hasn’t the Iran War Driven Oil Prices Even Higher? Energy Institute Blog",
+      "publishedAt": "Mon, 22 Jun 2026 13:30:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -233,29 +233,29 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices fall and shares jump after US-Iran deal announced - BBC",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZRzk1d1JURFJ5ZkJnb0lSTHlvQUdTWWxBTnBaZXpYS2JaVUpsZEY2MGRlbTZIWTd3OFNsZ0o4anhMUTktV3VBcjFTOHdpZkdFMTVkZGxKWmRiZw?oc=5",
-      "description": "Oil prices fall and shares jump after US-Iran deal announced BBC",
-      "publishedAt": "Mon, 15 Jun 2026 14:21:22 GMT",
+      "title": "Oil prices fall after U.S. authorizes Iranian crude sales - CNBC",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcDF3eWNGVGlZNEZwQVZvX0hwV0QyTGlYMDJfQ1BRempseTlFVVdieUs2V2xoWGZZNUxta2lPSExWMEZ3MWNwT3U4ZWZsR3dWQ1Myem14UEdTWWdNMUo5MkhETTl2Ql9HOXhadllCcGhlQ0lBSzJYb1B2UVRQVVhZeHczSlNiNFl0WGFQMXI4aEI4WkFsYmpvRk1DZGJWS2gycXU3Xy1R0gGrAUFVX3lxTE96el92MG1ndHhodHlFZXN4MEF4dHhOTGNIUDBOaWVrVGdfSHpULVBMQVZEVEh2QXlWRDE4aXg2ajBqX3p0dk9EVXdTUmVwSEliRzgxRE1TdFpPdXBJdXg4eG5xNDlCbVhoS21UdHk4WVFoaGwya1N3V1hRb2FCeTFLTUtFb1pBbTRTeDNOcFJWT3EzSng0M1ZxM1JKVktsWDBlam1SZUhjZ2Qycw?oc=5",
+      "description": "Oil prices fall after U.S. authorizes Iranian crude sales CNBC",
+      "publishedAt": "Mon, 22 Jun 2026 00:05:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil prices are falling and stocks are up. Traders worry they’ve gone too far - CNN",
+      "title": "The future of oil prices may depend on China - CNN",
       "source": "CNN",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRXl5UXdOanhQVGxnekUxRC1pSHZKLWxCbmRkbTMzTENwY3pUVFF2V2lUN0htUDB4c2ZmcW5TRzdrMm44OU9SWC1yTGk4aWFYOEVDRkNaSEZzdGVoZFVKOFJHX3laUEpxYXFraTRVR2Y2d2ZIZk1EbnpQX2dvWjNST1RfVGdLdw?oc=5",
-      "description": "Oil prices are falling and stocks are up. Traders worry they’ve gone too far CNN",
-      "publishedAt": "Fri, 19 Jun 2026 09:00:26 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOanNZUkhKSHE1M3JWWHNzdTZwdW5oRHpBT2FKcGZWM0tMcTZTU2RFcDZDdjNKZ1V1SkFBLUJsRHM0a2k2MWxKcFNuaE5iNnQyN3JONlpTaXMybTUtMm0teTk3azRLM3BBSmVVUzZKVFdUVllQYzVjcS1PUWFBV0lyQXZoR3Vfdi11NXc?oc=5",
+      "description": "The future of oil prices may depend on China CNN",
+      "publishedAt": "Mon, 22 Jun 2026 21:00:26 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil prices fall sharply on Iran deal, but whether they go much lower ‘is highly questionable’ - NBC News",
-      "source": "NBC News",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVzEyNHZFamYzeV9nVXZ3RmJTZ3NMZUR6QTVmYXdhSDVXTnNGdUx4QldtbWxhZHNsWFFzNWQxM1hpRF9pU1Zod0htUlBUX1YxTkphOTl5Uk14Vy1wclNiY2NndEYtRjJ0azIyS2Z6dl8zeVo0czlGNGt6VXpaeHREXzBFd3U2MnRCbk1Del92TQ?oc=5",
-      "description": "Oil prices fall sharply on Iran deal, but whether they go much lower ‘is highly questionable’ NBC News",
-      "publishedAt": "Mon, 15 Jun 2026 20:08:35 GMT",
+      "title": "U.S. stocks drift after oil prices ease and Big Tech stocks fall - BNN Bloomberg",
+      "source": "BNN Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPckdDYUNkUFpOQ0hlTEs3YnNjREdMY2xXbUJaM2M5YWlxclFPcUVzYzlnejVHOEdHWjhZZ3E2eFZFMU1NV2R2azVLVlhaWWlaN3Z6Wkh5RGprd1ZuUUR1QkE3dWVXLUJLUDQ5Z3lNLTdPOE5LMFRNMWx6MElXMnZRWU1CQWlSOE03VXM5UEtqcUNub1dfZEpORzV1YnR3WGthaUhIdWZEMA?oc=5",
+      "description": "U.S. stocks drift after oil prices ease and Big Tech stocks fall BNN Bloomberg",
+      "publishedAt": "Mon, 22 Jun 2026 20:24:56 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -269,11 +269,11 @@
       "impact": "medium"
     },
     {
-      "title": "Deal or no deal, oil prices will stay volatile for months - The Economist",
-      "source": "The Economist",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWUpMYXR4WlNlTmd4d2tjYXdMaWxfcGM1Z3p2d3VOX09RYjRJZTcyejRzaWJSM0RUMV80Uko1ajhLd2poRFpaQXNFT0JWbmZzZndnY1JUMXVmZ1BCLUNXSE1FWms5dHVDNjgtZWF6MHFFMnlSdldDaUxrWVVqTnlrRDdySllGakx5YlVJT3hHTFVmNkl4TWxFSVBzVFVxNkdXYzJabjlyOVIzYi1DbEQ0RmdWNWM0QQ?oc=5",
-      "description": "Deal or no deal, oil prices will stay volatile for months The Economist",
-      "publishedAt": "Tue, 16 Jun 2026 19:55:31 GMT",
+      "title": "Oil prices rise as Lebanon fighting erupts and Hormuz traffic still slow - Al Jazeera",
+      "source": "Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZDc5WTlUa0loSVhxZGNiRUI5eGZnTm1YRG5xUmxIWlE4WVJoRG5yc2xQMXVGUVBmZ3YwNTNmMFhwajIzMzNFS1NHWmZZOHRhS19FU2VlMEdpemNQVnBrWkRFNmdNdk9WMTNLeERTTEp6dVh5VVBaT1NXc1BWaEtxSGdFTFVza3puLWFuM0g2cjdYS3JpODJVOGd3WUhYOTJfOExFUEZqcmdCMkFJZnFMd3hHY2lkcW_SAbwBQVVfeXFMT0Q3OEJ2eUVQX0xiZjdEbUoybXk1NWNSeXd5Z3J0ZUI2N0FtWU9TVEJYemZTWUlWbVRvV0VCeGZnaDVEZ1FCcmUtb2w3cHhfa2hpREhkb0lKSkNYaUVYXzlMT3Y5dEZMbk9zZzVqY2ZwancxLTllWngtRm1RUm5GY1NvR2cyODM2M2JQdGg4d3JkaWVkUVN2aUlnMEdPRzBNNDVCLW12NktJNm5HUXJKQWo4N2VOclRFUUFjUUE?oc=5",
+      "description": "Oil prices rise as Lebanon fighting erupts and Hormuz traffic still slow Al Jazeera",
+      "publishedAt": "Fri, 19 Jun 2026 07:22:55 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
