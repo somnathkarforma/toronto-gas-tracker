@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-23 07:42 UTC",
+  "generatedAt": "2026-06-24 07:34 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 162.9,
-    "premium": 180.9,
-    "diesel": 173.4
+    "regular": 161.9,
+    "premium": 179.9,
+    "diesel": 172.4
   },
   "history": {
     "labels": [
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Jun 23"
+      "Jun 24"
     ],
     "regular": [
       150.7,
@@ -75,7 +75,7 @@
       155.9,
       174.9,
       186.9,
-      162.9
+      161.9
     ],
     "premium": [
       168.7,
@@ -110,7 +110,7 @@
       173.9,
       192.9,
       204.9,
-      180.9
+      179.9
     ],
     "diesel": [
       161.2,
@@ -145,45 +145,45 @@
       166.4,
       185.4,
       197.4,
-      173.4
+      172.4
     ]
   },
   "prediction": {
     "labels": [
-      "Jun 24",
       "Jun 25",
       "Jun 26",
       "Jun 27",
       "Jun 28",
       "Jun 29",
-      "Jun 30"
+      "Jun 30",
+      "Jul 01"
     ],
     "regular": [
-      163.5,
-      164.0,
-      164.6,
-      165.2,
-      165.8,
-      166.3,
-      166.9
+      162.4,
+      162.9,
+      163.4,
+      163.9,
+      164.5,
+      165.0,
+      165.5
     ],
     "premium": [
-      181.5,
-      182.0,
-      182.6,
-      183.2,
-      183.8,
-      184.3,
-      184.9
+      180.4,
+      180.9,
+      181.4,
+      181.9,
+      182.5,
+      183.0,
+      183.5
     ],
     "diesel": [
-      174.0,
-      174.5,
-      175.1,
-      175.7,
-      176.3,
-      176.8,
-      177.4
+      172.9,
+      173.4,
+      173.9,
+      174.4,
+      175.0,
+      175.5,
+      176.0
     ]
   },
   "news": [
@@ -197,11 +197,11 @@
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Are Crashing. Inventories Tell A Different Story. - Crude Oil Prices Today | OilPrice.com",
+      "title": "Oil Prices Continue to Slide as Peace Talks Progress - Crude Oil Prices Today | OilPrice.com",
       "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWG1lOHBfTXV1SkFVQWtneXNDTVBiVXk0cEltMWlHMWl5T3VveThQS0c0Z0VKVlA0VndveU9fWm5Jb0pYMUJ0UHJYQTA5MHZLWExiNmVZdHdpUFVYaVVtNGZ4b2NhZU5sNGhJd3hNcTQ4M21ELWpTcVFrM05tQTJvRXRVQXJxRlNNOWpRTmpscUxYVzVOZkxyRmNwcTlwQ1dRSFNfZ0cyVmJRVVNSNVEzQWFYNk3SAboBQVVfeXFMTkdpU0REYjhtV2hndzh0d2FBWURheHlqT3BEUkZpdWp3bmhpSkhaUTQ0N21EQXRCZkNBTWhPSkRrQ0VfQVlEclFMRm1pWk1YVk5LQXB5dGp4U0xTaThVR3E3SHFaSWVyRHhMc0J6MHZFQkZmeWZDLUZ2NUFDX295VldfbXNSN1gtcGZoZE5sR1lYaTF1WDJfX1c2dXVaWWQ4dzVkemVUaXl6M0VFNTBWQlRwS2tGQ0Z0X2ln?oc=5",
-      "description": "Oil Prices Are Crashing. Inventories Tell A Different Story. Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Thu, 18 Jun 2026 17:30:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOU9acE9fS3ZwNDd0b2piR090WHQyY0RwcTRfaTQxNE1VeEFmaUVUd2kxVU9Xa2o4MHJTRGw2NFBfTU9tdmlCNmU4dUg3cW16X0hmY242RGVNRjNrUTNPcGhtMUd0dXc1MU9XakM5cmRiQy1QOE5fLTlLbVZ3TjkwVWZhblJ5LV9vZzJITTBhRGdqZXBKRDVOT1ZvcXRmSDkzaUJNQkhXU1JwckI10gGyAUFVX3lxTE03Qlh5NmpKUXZuYTI1MkNoM3JaZmkzQVk0TVBMS2I1eVp6Tno3OE1kMDVpMERFZ1lCdmI5dnJVQ2ZNUU9uRVdGd19veklWMWlaY2liNVJJVnI5TzlkYzk4U2liVnpyWjIyVFlTd0dZT0M0V2ZEa0piN0w3aXdLOEh3V1FNaTU3Z2t5RXFMUkN1Zkc3VTdoSmFlMXpzamt6bk1wTjJGbEFfMktWdWlaVDhfMmc?oc=5",
+      "description": "Oil Prices Continue to Slide as Peace Talks Progress Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Tue, 23 Jun 2026 05:30:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -215,29 +215,11 @@
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Fall to Lowest Since War Began After Trump Signs Iran Deal - WSJ",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSGNZWXRPUVVmTDh4ZDd2TmsxVUZlZmJVZGR1QldlQnBVN3lKdUJwV0J0aHctNjRHTEJoazBGcnpaa0dLcUlsM0hZMXVmclV6NXJiSEdjcmt0aHNZOHFGV2FNUGUzaHRvRk1QeElJMU5RRmJpSnlSdHQwbkdmSzR1TERXSGxvS1hBbG1hWnA5ekhmT3dzUGtpcENucVRTMzlkaHZ5LWxzTFhwXzZfajdiSHljUTBNeW1pYUxtUjJqMWJsRFU?oc=5",
-      "description": "Oil Prices Fall to Lowest Since War Began After Trump Signs Iran Deal WSJ",
-      "publishedAt": "Thu, 18 Jun 2026 11:56:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices fall back to US$80 per barrel amid optimism over Mideast peace deal - Global News",
-      "source": "Global News",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xVDYxQ3hPbGYxVnFuM1lBelZIcV91enFidWlXX2RTT2x5MWtsVEZFR3F3Ml80MXg4VVNpZTRUdXhiSm1QMThvT1Vqd2Vpbk1SaE9kbVdxYlJDZHNVYjluR3ZsTmFmakdaS28wU2xfNnh5QW02WXpaWUdtVQ?oc=5",
-      "description": "Oil prices fall back to US$80 per barrel amid optimism over Mideast peace deal Global News",
-      "publishedAt": "Tue, 16 Jun 2026 16:58:27 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices fall after U.S. authorizes Iranian crude sales - CNBC",
+      "title": "Oil prices edge lower as market monitors tanker traffic through Strait of Hormuz - CNBC",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcDF3eWNGVGlZNEZwQVZvX0hwV0QyTGlYMDJfQ1BRempseTlFVVdieUs2V2xoWGZZNUxta2lPSExWMEZ3MWNwT3U4ZWZsR3dWQ1Myem14UEdTWWdNMUo5MkhETTl2Ql9HOXhadllCcGhlQ0lBSzJYb1B2UVRQVVhZeHczSlNiNFl0WGFQMXI4aEI4WkFsYmpvRk1DZGJWS2gycXU3Xy1R0gGrAUFVX3lxTE96el92MG1ndHhodHlFZXN4MEF4dHhOTGNIUDBOaWVrVGdfSHpULVBMQVZEVEh2QXlWRDE4aXg2ajBqX3p0dk9EVXdTUmVwSEliRzgxRE1TdFpPdXBJdXg4eG5xNDlCbVhoS21UdHk4WVFoaGwya1N3V1hRb2FCeTFLTUtFb1pBbTRTeDNOcFJWT3EzSng0M1ZxM1JKVktsWDBlam1SZUhjZ2Qycw?oc=5",
-      "description": "Oil prices fall after U.S. authorizes Iranian crude sales CNBC",
-      "publishedAt": "Mon, 22 Jun 2026 00:05:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObnk3bnlweGtJUG1mY2FWcWdsVHpfUnZCT3RmbGxXdTlWcl9SUjM3V1U1YjhIMFAtcTRuV2ZJakdXemJTUFlnWDcwUWx6aFlQOTFJbjVWeTBtY3NZNmNGM29rYnliUVNCUWFNLXFWcFhocmVJYWZUekpOWEVncF9vMFVYZ0VjVGwtb1drUVNTU18zSVlubmZZek5STFXSAaIBQVVfeXFMTm1lbDdpb2lhRXpBbmxSLXVFYzVnUXRHdlp2Y0l1QWlNM3dVTF9YUkIzLXVCR2x0UFZjWnNudk9zTGcweXZ6cUJ1TDZrVl9KV1BVRldwRGRFSGk3cnVqaklmMjVINUhGVVk1VGZ3WVBPMHV1aFhGSkwtdUkyNzVSSWstazZaVm45Q2hNMlJWUDVOM2UxOFAyVmF1R0dzYy1oa2d3?oc=5",
+      "description": "Oil prices edge lower as market monitors tanker traffic through Strait of Hormuz CNBC",
+      "publishedAt": "Tue, 23 Jun 2026 00:33:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -251,20 +233,38 @@
       "impact": "medium"
     },
     {
-      "title": "U.S. stocks drift after oil prices ease and Big Tech stocks fall - BNN Bloomberg",
+      "title": "Market Outlook: Falling oil prices and earnings strength support equities - BNN Bloomberg",
       "source": "BNN Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPckdDYUNkUFpOQ0hlTEs3YnNjREdMY2xXbUJaM2M5YWlxclFPcUVzYzlnejVHOEdHWjhZZ3E2eFZFMU1NV2R2azVLVlhaWWlaN3Z6Wkh5RGprd1ZuUUR1QkE3dWVXLUJLUDQ5Z3lNLTdPOE5LMFRNMWx6MElXMnZRWU1CQWlSOE03VXM5UEtqcUNub1dfZEpORzV1YnR3WGthaUhIdWZEMA?oc=5",
-      "description": "U.S. stocks drift after oil prices ease and Big Tech stocks fall BNN Bloomberg",
-      "publishedAt": "Mon, 22 Jun 2026 20:24:56 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQXzhfSk55dkFhaVFUNDliMkprRGE5WWU5Y1FsUlJzdFBxSmxxOU1zSnZxWVVWWVo4YW43bG1HWFJ5dlpCemo1UHE5ZklBX2tlLU0tdDlkRFpWYUVwQ1dwaHJCVTFWMlJTaVNZS2VvZ2s1MUdhdVNMSlpIN3dGT1I0eTBXVHc0VkczTTdKSkJ4M0ptM2ZicGpFMGRFQk9mdzdDaFJzVTFYQmlhb1ltMTBEcEJsaG9Fb2J4M09sWUhjVUdtNTJYTzhmTnFHRzhPRVhlQ0xR?oc=5",
+      "description": "Market Outlook: Falling oil prices and earnings strength support equities BNN Bloomberg",
+      "publishedAt": "Mon, 22 Jun 2026 19:22:49 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Current price of oil as of June 17, 2026 - Fortune",
+      "title": "Oil Prices Fall to Lowest Since War Began After Trump Signs Iran Deal - WSJ",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSGNZWXRPUVVmTDh4ZDd2TmsxVUZlZmJVZGR1QldlQnBVN3lKdUJwV0J0aHctNjRHTEJoazBGcnpaa0dLcUlsM0hZMXVmclV6NXJiSEdjcmt0aHNZOHFGV2FNUGUzaHRvRk1QeElJMU5RRmJpSnlSdHQwbkdmSzR1TERXSGxvS1hBbG1hWnA5ekhmT3dzUGtpcENucVRTMzlkaHZ5LWxzTFhwXzZfajdiSHljUTBNeW1pYUxtUjJqMWJsRFU?oc=5",
+      "description": "Oil Prices Fall to Lowest Since War Began After Trump Signs Iran Deal WSJ",
+      "publishedAt": "Thu, 18 Jun 2026 11:56:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "US gasoline prices tumble for sixth straight week - BOE Report",
+      "source": "BOE Report",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaVBuLUxwV21xV0lvb2ZTdzNwcFRuVGZqb2hITDBIcnhFMDJ3NUxXUEx2WnVSQ2RJR3gyVmFfZnlWSXZoVDVCU3Q2QVZsWVo4aU5uWjBHYVNRSEFWbHBSWUYxN29nZ1Y3ZHV3QVhlQ2l1bnp2TEVGOEt1TUNvbXA3aXVaY2pnNG45UkZj0gGQAUFVX3lxTE9xUkFhVVlPeGN2UFhBNWNoZVVheGhGRnREMWY5MDd4ZEpVRlJxODZZU2VNanNrOTRVOGpYRVpaeGdnNl9oX2Y3NDdCWTlic2hKSmdkZ2R6Ukg2TFREVGVHQWRvTzVZSlR3R29LdmNmeS1LaHBuZlhPd2dfVGlFUUZGOWx6RjJLa2xFRFdTb1o4bw?oc=5",
+      "description": "US gasoline prices tumble for sixth straight week BOE Report",
+      "publishedAt": "Mon, 22 Jun 2026 23:11:17 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Current price of oil as of June 18, 2026 - Fortune",
       "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE41OGlHLVVSa2lJczlXRjRvcWZ6ay05S3NVamZjaWZMTjdRbzlfaXB1dGFkLXRVc0pGZkxuY2lRVzczNGdrUlUzM0czcGt3ckF4dktTU21ZT1dtRXpRSENnQ3ZB?oc=5",
-      "description": "Current price of oil as of June 17, 2026 Fortune",
-      "publishedAt": "Wed, 17 Jun 2026 13:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE15d1pJWnIyZS0wSlBKYldLNUpadHBmbUpWR3pHd3JPeWswbWxqbTJTUG9YNXFrdmRDaDR2dzBROHRRUHgwOU8tVTR5YXl5TFBrT3VlLVpHSmY3cVo4b0IwRVFR?oc=5",
+      "description": "Current price of oil as of June 18, 2026 Fortune",
+      "publishedAt": "Thu, 18 Jun 2026 12:40:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
