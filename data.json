@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-25 07:37 UTC",
+  "generatedAt": "2026-06-26 07:44 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 160.9,
-    "premium": 178.9,
-    "diesel": 171.4
+    "regular": 157.9,
+    "premium": 175.9,
+    "diesel": 168.4
   },
   "history": {
     "labels": [
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Jun 25"
+      "Jun 26"
     ],
     "regular": [
       150.7,
@@ -75,7 +75,7 @@
       155.9,
       174.9,
       186.9,
-      160.9
+      157.9
     ],
     "premium": [
       168.7,
@@ -110,7 +110,7 @@
       173.9,
       192.9,
       204.9,
-      178.9
+      175.9
     ],
     "diesel": [
       161.2,
@@ -145,63 +145,63 @@
       166.4,
       185.4,
       197.4,
-      171.4
+      168.4
     ]
   },
   "prediction": {
     "labels": [
-      "Jun 26",
       "Jun 27",
       "Jun 28",
       "Jun 29",
       "Jun 30",
       "Jul 01",
-      "Jul 02"
+      "Jul 02",
+      "Jul 03"
     ],
     "regular": [
-      161.3,
-      161.8,
-      162.2,
-      162.7,
-      163.1,
-      163.6,
-      164.0
+      158.2,
+      158.4,
+      158.7,
+      159.0,
+      159.2,
+      159.5,
+      159.8
     ],
     "premium": [
-      179.3,
-      179.8,
-      180.2,
-      180.7,
-      181.1,
-      181.6,
-      182.0
+      176.2,
+      176.4,
+      176.7,
+      177.0,
+      177.2,
+      177.5,
+      177.8
     ],
     "diesel": [
-      171.8,
-      172.3,
-      172.7,
-      173.2,
-      173.6,
-      174.1,
-      174.5
+      168.7,
+      168.9,
+      169.2,
+      169.5,
+      169.7,
+      170.0,
+      170.3
     ]
   },
   "news": [
-    {
-      "title": "Oil prices rise as Lebanon fighting erupts and Hormuz traffic still slow - Al Jazeera",
-      "source": "Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZDc5WTlUa0loSVhxZGNiRUI5eGZnTm1YRG5xUmxIWlE4WVJoRG5yc2xQMXVGUVBmZ3YwNTNmMFhwajIzMzNFS1NHWmZZOHRhS19FU2VlMEdpemNQVnBrWkRFNmdNdk9WMTNLeERTTEp6dVh5VVBaT1NXc1BWaEtxSGdFTFVza3puLWFuM0g2cjdYS3JpODJVOGd3WUhYOTJfOExFUEZqcmdCMkFJZnFMd3hHY2lkcW_SAbwBQVVfeXFMT0Q3OEJ2eUVQX0xiZjdEbUoybXk1NWNSeXd5Z3J0ZUI2N0FtWU9TVEJYemZTWUlWbVRvV0VCeGZnaDVEZ1FCcmUtb2w3cHhfa2hpREhkb0lKSkNYaUVYXzlMT3Y5dEZMbk9zZzVqY2ZwancxLTllWngtRm1RUm5GY1NvR2cyODM2M2JQdGg4d3JkaWVkUVN2aUlnMEdPRzBNNDVCLW12NktJNm5HUXJKQWo4N2VOclRFUUFjUUE?oc=5",
-      "description": "Oil prices rise as Lebanon fighting erupts and Hormuz traffic still slow Al Jazeera",
-      "publishedAt": "Fri, 19 Jun 2026 07:22:55 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
     {
       "title": "Oil Prices Continue to Slide as Peace Talks Progress - Crude Oil Prices Today | OilPrice.com",
       "source": "Crude Oil Prices Today | OilPrice.com",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOU9acE9fS3ZwNDd0b2piR090WHQyY0RwcTRfaTQxNE1VeEFmaUVUd2kxVU9Xa2o4MHJTRGw2NFBfTU9tdmlCNmU4dUg3cW16X0hmY242RGVNRjNrUTNPcGhtMUd0dXc1MU9XakM5cmRiQy1QOE5fLTlLbVZ3TjkwVWZhblJ5LV9vZzJITTBhRGdqZXBKRDVOT1ZvcXRmSDkzaUJNQkhXU1JwckI10gGyAUFVX3lxTE03Qlh5NmpKUXZuYTI1MkNoM3JaZmkzQVk0TVBMS2I1eVp6Tno3OE1kMDVpMERFZ1lCdmI5dnJVQ2ZNUU9uRVdGd19veklWMWlaY2liNVJJVnI5TzlkYzk4U2liVnpyWjIyVFlTd0dZT0M0V2ZEa0piN0w3aXdLOEh3V1FNaTU3Z2t5RXFMUkN1Zkc3VTdoSmFlMXpzamt6bk1wTjJGbEFfMktWdWlaVDhfMmc?oc=5",
       "description": "Oil Prices Continue to Slide as Peace Talks Progress Crude Oil Prices Today | OilPrice.com",
       "publishedAt": "Tue, 23 Jun 2026 05:30:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil prices back to pre-war levels on rising Middle East supply - Al Jazeera",
+      "source": "Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUHprZXNJOUhsTkt4OGdOZVM0M0FfN0VCbHFWd3ktM0VvVlluS0NxVzRBQ2VhbUdWaFE0aHZBRHVyWW5NQjFIaGQ3QUgwckR2MHpGZWVrV2t6bEtGNXRFWGxCWnVTVTM5X0lYc1I1SmRTZTRab1FjeDI5UzVTTzJRSEhFR0V1cFphaHBjRE8yclJMQ3YwQkJEYWxpUkJPXzNVMTJQbTF30gGrAUFVX3lxTE5wN2tJTnpaMTNNT2IxQ2lrbjVGTzZxUTBTQk13VE9jX0pLTnJxQkVLc0Rlb0MxWVUzNTNZWm9OQkdRM3lBX09leDgwdVh0WmxoZXJKdVU2eDk0U1VKNkJVaUhVU0VFQnFpMnJqX1BzaV9OdDdCX3FCaTc4NTk4MFE1Z09ZNi0tajJUZnZJci1kcWFTdDk3V08zTnRlRHdGcjFUbkpyRm1jY2FDVQ?oc=5",
+      "description": "Oil prices back to pre-war levels on rising Middle East supply Al Jazeera",
+      "publishedAt": "Thu, 25 Jun 2026 10:09:02 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -224,29 +224,11 @@
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Fall to Lowest Since War Began After Trump Signs Iran Deal - WSJ",
+      "title": "Oil Futures Retreat As U.S.-Iran Talks Make Some Headway - WSJ",
       "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSGNZWXRPUVVmTDh4ZDd2TmsxVUZlZmJVZGR1QldlQnBVN3lKdUJwV0J0aHctNjRHTEJoazBGcnpaa0dLcUlsM0hZMXVmclV6NXJiSEdjcmt0aHNZOHFGV2FNUGUzaHRvRk1QeElJMU5RRmJpSnlSdHQwbkdmSzR1TERXSGxvS1hBbG1hWnA5ekhmT3dzUGtpcENucVRTMzlkaHZ5LWxzTFhwXzZfajdiSHljUTBNeW1pYUxtUjJqMWJsRFU?oc=5",
-      "description": "Oil Prices Fall to Lowest Since War Began After Trump Signs Iran Deal WSJ",
-      "publishedAt": "Thu, 18 Jun 2026 11:56:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "U.S. stocks drift after oil prices ease and Big Tech stocks fall - BNN Bloomberg",
-      "source": "BNN Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPckdDYUNkUFpOQ0hlTEs3YnNjREdMY2xXbUJaM2M5YWlxclFPcUVzYzlnejVHOEdHWjhZZ3E2eFZFMU1NV2R2azVLVlhaWWlaN3Z6Wkh5RGprd1ZuUUR1QkE3dWVXLUJLUDQ5Z3lNLTdPOE5LMFRNMWx6MElXMnZRWU1CQWlSOE03VXM5UEtqcUNub1dfZEpORzV1YnR3WGthaUhIdWZEMA?oc=5",
-      "description": "U.S. stocks drift after oil prices ease and Big Tech stocks fall BNN Bloomberg",
-      "publishedAt": "Mon, 22 Jun 2026 20:24:56 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Current price of oil as of June 23, 2026 - Fortune",
-      "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Ya0VoQ2RWa21zMFhrRUxycVdBcURienJTSDlHc09yUkNOVGp6a3BiS2pibkFVZTNUSnl3QjJ6Q0RNS09ERm11NHkxeS1YejVNdmQ3Uk9qb0FOajd5RFJmUDd3?oc=5",
-      "description": "Current price of oil as of June 23, 2026 Fortune",
-      "publishedAt": "Tue, 23 Jun 2026 12:48:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZXJJX05QWEtlRnkwX285cU1uUG9oUlNDVHlwclhNcmhwZThZNnZZRkd0cUtGVTYtWktZSjdqTDNfR0RhbnNNRGl4aVRhZWFvUDFGTHZNei11SkpEdE5tblNzUDBDYXA1cVlSLXVCajhvSGY1ZmtFMHh3dXI4Z0RwQldXakdEOXY4ZG1ia0xaa0JwM3ZBZk5xeDZZZl9EZWRpVFh5Sk5vdE5KNzhleG4tendB?oc=5",
+      "description": "Oil Futures Retreat As U.S.-Iran Talks Make Some Headway WSJ",
+      "publishedAt": "Mon, 22 Jun 2026 19:18:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -260,11 +242,29 @@
       "impact": "medium"
     },
     {
-      "title": "Trump Accuses Oil Companies Of Price Gouging And Warns Of DOJ Probe - Forbes",
-      "source": "Forbes",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVWFzaDkzdWY0MWxNSl9lUGE2THI4RmpaNWY5NVNSZmF0VmNoVzNUbDhnTmZZQjlyQmkwOXJzYk1Xd0pINk1LQVo3eW9WU1I1c19YVVpjZ2FwMi11V2xlRmhuUHJscDYtOU12X3FsOGxJVHBjc195UFJ2T1MwU1ZZZTVjNUVCMjVDelFtTmVnSDVoYXpVeVIyTTd6Wk1vaHQ5aXQ3QllFb2R1MlBwc3d0VHNzbXR1Ump6WVQ5emozeXZWZjFENzhzMUhMZkFDeEN2bm9iX29zM2JGdw?oc=5",
-      "description": "Trump Accuses Oil Companies Of Price Gouging And Warns Of DOJ Probe Forbes",
-      "publishedAt": "Wed, 24 Jun 2026 10:31:41 GMT",
+      "title": "Current price of oil as of June 23, 2026 - Fortune",
+      "source": "Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Ya0VoQ2RWa21zMFhrRUxycVdBcURienJTSDlHc09yUkNOVGp6a3BiS2pibkFVZTNUSnl3QjJ6Q0RNS09ERm11NHkxeS1YejVNdmQ3Uk9qb0FOajd5RFJmUDd3?oc=5",
+      "description": "Current price of oil as of June 23, 2026 Fortune",
+      "publishedAt": "Tue, 23 Jun 2026 12:48:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Trump accuses big oil firms of price-gouging drivers - BBC",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zM3NrelgwZXVINzJzc2tfMkVyOGMwYnNuRTBuelduUVZmbmc0QXdjU2xPSEd5UmlVcl9RVVNlbldNOEFLWlRWN1dMcGplMDEzd3pYZDRTNXFqZw?oc=5",
+      "description": "Trump accuses big oil firms of price-gouging drivers BBC",
+      "publishedAt": "Thu, 25 Jun 2026 01:45:33 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil price falls to pre-Iran war levels as more tankers exit strait of Hormuz - The Guardian",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc3FrQ0VfQlNhUXUxbDNjbzUzZVFNNmZqbXY2OVlzaVpNWGRNOFRBU09mR3RMQ1ctX05ZWG51OXI0OWdUMkFad29PQlU0V1lNQ0t1Zjc0akt6TVY1YTFvcGQ2MkJSaThaal9xSlRSa1VIWGJadnBFbkNNX2dqSnFyMURWZU9TY2NuX3dQTDhGcTJ1Njk4V0lfeVp1WnpDVTVraWZRNEdaTnc1c2ZucnIyNGY0WUFOOWoxb0tJ?oc=5",
+      "description": "Oil price falls to pre-Iran war levels as more tankers exit strait of Hormuz The Guardian",
+      "publishedAt": "Thu, 25 Jun 2026 07:39:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
