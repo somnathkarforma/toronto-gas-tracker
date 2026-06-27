@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-26 07:44 UTC",
+  "generatedAt": "2026-06-27 06:48 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 157.9,
-    "premium": 175.9,
-    "diesel": 168.4
+    "regular": 162.9,
+    "premium": 180.9,
+    "diesel": 173.4
   },
   "history": {
     "labels": [
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Jun 26"
+      "Jun 27"
     ],
     "regular": [
       150.7,
@@ -75,7 +75,7 @@
       155.9,
       174.9,
       186.9,
-      157.9
+      162.9
     ],
     "premium": [
       168.7,
@@ -110,7 +110,7 @@
       173.9,
       192.9,
       204.9,
-      175.9
+      180.9
     ],
     "diesel": [
       161.2,
@@ -145,54 +145,54 @@
       166.4,
       185.4,
       197.4,
-      168.4
+      173.4
     ]
   },
   "prediction": {
     "labels": [
-      "Jun 27",
       "Jun 28",
       "Jun 29",
       "Jun 30",
       "Jul 01",
       "Jul 02",
-      "Jul 03"
+      "Jul 03",
+      "Jul 04"
     ],
     "regular": [
-      158.2,
-      158.4,
-      158.7,
-      159.0,
-      159.2,
-      159.5,
-      159.8
+      163.5,
+      164.0,
+      164.6,
+      165.2,
+      165.8,
+      166.3,
+      166.9
     ],
     "premium": [
-      176.2,
-      176.4,
-      176.7,
-      177.0,
-      177.2,
-      177.5,
-      177.8
+      181.5,
+      182.0,
+      182.6,
+      183.2,
+      183.8,
+      184.3,
+      184.9
     ],
     "diesel": [
-      168.7,
-      168.9,
-      169.2,
-      169.5,
-      169.7,
-      170.0,
-      170.3
+      174.0,
+      174.5,
+      175.1,
+      175.7,
+      176.3,
+      176.8,
+      177.4
     ]
   },
   "news": [
     {
-      "title": "Oil Prices Continue to Slide as Peace Talks Progress - Crude Oil Prices Today | OilPrice.com",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOU9acE9fS3ZwNDd0b2piR090WHQyY0RwcTRfaTQxNE1VeEFmaUVUd2kxVU9Xa2o4MHJTRGw2NFBfTU9tdmlCNmU4dUg3cW16X0hmY242RGVNRjNrUTNPcGhtMUd0dXc1MU9XakM5cmRiQy1QOE5fLTlLbVZ3TjkwVWZhblJ5LV9vZzJITTBhRGdqZXBKRDVOT1ZvcXRmSDkzaUJNQkhXU1JwckI10gGyAUFVX3lxTE03Qlh5NmpKUXZuYTI1MkNoM3JaZmkzQVk0TVBMS2I1eVp6Tno3OE1kMDVpMERFZ1lCdmI5dnJVQ2ZNUU9uRVdGd19veklWMWlaY2liNVJJVnI5TzlkYzk4U2liVnpyWjIyVFlTd0dZT0M0V2ZEa0piN0w3aXdLOEh3V1FNaTU3Z2t5RXFMUkN1Zkc3VTdoSmFlMXpzamt6bk1wTjJGbEFfMktWdWlaVDhfMmc?oc=5",
-      "description": "Oil Prices Continue to Slide as Peace Talks Progress Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Tue, 23 Jun 2026 05:30:00 GMT",
+      "title": "Oil prices plummet on hopes of increased supply, high gasoline prices persist - Global News",
+      "source": "Global News",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcHNXU3ZsQ3NvQm9wbl9abTJvOUZfckZteDlNT3diUWVCNEUzVmliLVdPNzBRMWxVLU1ySC1oZkJuUHNwcTQ0S2lkclFUUWJOYk5XdmlFQmNYSEZzNTJjVWJQNmJwTEs0dDREQzNac0E5RXptN0xNSGpvU0Q5TmFJN3A3YkRia2ZVVzFF?oc=5",
+      "description": "Oil prices plummet on hopes of increased supply, high gasoline prices persist Global News",
+      "publishedAt": "Fri, 26 Jun 2026 19:24:13 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -206,11 +206,29 @@
       "impact": "medium"
     },
     {
+      "title": "Oil Prices Continue to Slide as Peace Talks Progress - Crude Oil Prices Today | OilPrice.com",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOU9acE9fS3ZwNDd0b2piR090WHQyY0RwcTRfaTQxNE1VeEFmaUVUd2kxVU9Xa2o4MHJTRGw2NFBfTU9tdmlCNmU4dUg3cW16X0hmY242RGVNRjNrUTNPcGhtMUd0dXc1MU9XakM5cmRiQy1QOE5fLTlLbVZ3TjkwVWZhblJ5LV9vZzJITTBhRGdqZXBKRDVOT1ZvcXRmSDkzaUJNQkhXU1JwckI10gGyAUFVX3lxTE03Qlh5NmpKUXZuYTI1MkNoM3JaZmkzQVk0TVBMS2I1eVp6Tno3OE1kMDVpMERFZ1lCdmI5dnJVQ2ZNUU9uRVdGd19veklWMWlaY2liNVJJVnI5TzlkYzk4U2liVnpyWjIyVFlTd0dZT0M0V2ZEa0piN0w3aXdLOEh3V1FNaTU3Z2t5RXFMUkN1Zkc3VTdoSmFlMXpzamt6bk1wTjJGbEFfMktWdWlaVDhfMmc?oc=5",
+      "description": "Oil Prices Continue to Slide as Peace Talks Progress Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Tue, 23 Jun 2026 05:30:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
       "title": "Why Hasn’t the Iran War Driven Oil Prices Even Higher? - Energy Institute Blog",
       "source": "Energy Institute Blog",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRTRtbkU0VTVZY3FOTlZ0NTlIS1ZHNV9IZC1KaHhPMTZQcjQzNzRCV1JiLU51cEdYVmZsTTBKV0JYWDZScTNXNUdYYnJ5SzA3MjA4V29heWtoY3hOMjc4MVh0MTIwalAzVFFTWlRROTFHb041V25RaHUycm5fVnp5c01Uc3pGQ2lVdWpnUGdvejAyYlh0VlNVcmJBQ2lrcXFn?oc=5",
       "description": "Why Hasn’t the Iran War Driven Oil Prices Even Higher? Energy Institute Blog",
       "publishedAt": "Mon, 22 Jun 2026 13:30:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Montreal gas prices remain high despite drop in oil prices - CityNews Montreal",
+      "source": "CityNews Montreal",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb3Vja2VmOFVVZVZ5azFkSzhocmk0N3JXM2VtT2pFLUV2Ym1INEtESENSNmFCcDRKeF9jU3p5Q29tYksyZGFRbUVTWldaVDgzcFN3YVMwYWhXclFicUFPZ0RKOUdxQ0o4QWs3VEw3d1NFSzNxNGQ4X1NQY3lfX2hDbXFtUmZrX3h6aVJRdW5laXl3LVNXTGpRMkMyeVc?oc=5",
+      "description": "Montreal gas prices remain high despite drop in oil prices CityNews Montreal",
+      "publishedAt": "Fri, 26 Jun 2026 14:05:55 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -224,20 +242,11 @@
       "impact": "medium"
     },
     {
-      "title": "Oil Futures Retreat As U.S.-Iran Talks Make Some Headway - WSJ",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZXJJX05QWEtlRnkwX285cU1uUG9oUlNDVHlwclhNcmhwZThZNnZZRkd0cUtGVTYtWktZSjdqTDNfR0RhbnNNRGl4aVRhZWFvUDFGTHZNei11SkpEdE5tblNzUDBDYXA1cVlSLXVCajhvSGY1ZmtFMHh3dXI4Z0RwQldXakdEOXY4ZG1ia0xaa0JwM3ZBZk5xeDZZZl9EZWRpVFh5Sk5vdE5KNzhleG4tendB?oc=5",
-      "description": "Oil Futures Retreat As U.S.-Iran Talks Make Some Headway WSJ",
-      "publishedAt": "Mon, 22 Jun 2026 19:18:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "The future of oil prices may depend on China - CNN",
-      "source": "CNN",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOanNZUkhKSHE1M3JWWHNzdTZwdW5oRHpBT2FKcGZWM0tMcTZTU2RFcDZDdjNKZ1V1SkFBLUJsRHM0a2k2MWxKcFNuaE5iNnQyN3JONlpTaXMybTUtMm0teTk3azRLM3BBSmVVUzZKVFdUVllQYzVjcS1PUWFBV0lyQXZoR3Vfdi11NXc?oc=5",
-      "description": "The future of oil prices may depend on China CNN",
-      "publishedAt": "Mon, 22 Jun 2026 21:00:26 GMT",
+      "title": "Trump accuses oil companies of gouging drivers, orders DOJ to investigate - Politico",
+      "source": "Politico",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa0RoT3BXRXN2enY4UjlYRFRVSjg1bFNHMjZCam5WNFd5dWhpelpXNmpfS3dwSHRiUklyUi12NklQMkVyNHZhbFUzWVZ2WlFGdnNHRnNQaDl4eWxhZjh6b0U3bER1dHlPQ3QxRGFOT1BRZHB6WHc0Q2QxMV8yYUgwQVR5VWpUYl9uakI3bk1tRmtnbWNGYmZ4bUNiZS1GWmgy?oc=5",
+      "description": "Trump accuses oil companies of gouging drivers, orders DOJ to investigate Politico",
+      "publishedAt": "Wed, 24 Jun 2026 12:55:18 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -251,11 +260,11 @@
       "impact": "medium"
     },
     {
-      "title": "Trump accuses big oil firms of price-gouging drivers - BBC",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zM3NrelgwZXVINzJzc2tfMkVyOGMwYnNuRTBuelduUVZmbmc0QXdjU2xPSEd5UmlVcl9RVVNlbldNOEFLWlRWN1dMcGplMDEzd3pYZDRTNXFqZw?oc=5",
-      "description": "Trump accuses big oil firms of price-gouging drivers BBC",
-      "publishedAt": "Thu, 25 Jun 2026 01:45:33 GMT",
+      "title": "The future of oil prices may depend on China - CNN",
+      "source": "CNN",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOanNZUkhKSHE1M3JWWHNzdTZwdW5oRHpBT2FKcGZWM0tMcTZTU2RFcDZDdjNKZ1V1SkFBLUJsRHM0a2k2MWxKcFNuaE5iNnQyN3JONlpTaXMybTUtMm0teTk3azRLM3BBSmVVUzZKVFdUVllQYzVjcS1PUWFBV0lyQXZoR3Vfdi11NXc?oc=5",
+      "description": "The future of oil prices may depend on China CNN",
+      "publishedAt": "Mon, 22 Jun 2026 21:00:26 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -265,15 +274,6 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc3FrQ0VfQlNhUXUxbDNjbzUzZVFNNmZqbXY2OVlzaVpNWGRNOFRBU09mR3RMQ1ctX05ZWG51OXI0OWdUMkFad29PQlU0V1lNQ0t1Zjc0akt6TVY1YTFvcGQ2MkJSaThaal9xSlRSa1VIWGJadnBFbkNNX2dqSnFyMURWZU9TY2NuX3dQTDhGcTJ1Njk4V0lfeVp1WnpDVTVraWZRNEdaTnc1c2ZucnIyNGY0WUFOOWoxb0tJ?oc=5",
       "description": "Oil price falls to pre-Iran war levels as more tankers exit strait of Hormuz The Guardian",
       "publishedAt": "Thu, 25 Jun 2026 07:39:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Why Oil Prices Are Falling Even as Tankers Remain Trapped - Crude Oil Prices Today | OilPrice.com",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMU9PajZvdm1UX08wcEpTNkNhOGZBWmtwdGstWldWeEpsX0tYTlZyZjE4a1h3NzFidVB6MlMxS0tTSTBXYWthbWI0dnF2V1NiOVU1ek1FS2NjcGh3SGs2QWxBckExLXBCenNldDhhYmNnekdUNVowbE9keVJ2amRXeTFQQlFISzg1UnZaMVZBZ1dmUEV5b3lXQkJ0S204dnZqR2fSAacBQVVfeXFMUHdWUWQtcTVRWHh3cjFGdi1DN1E2N0F5Y0RrSUp6UUdMcUtGR2xxa0R3czZNdlF2WUc4Y0ktS2JwdXZMRHlxOUEzN1VKQnQ3RS1mYXUtU0k1UnRBYVdVeXA4d2U0aUlmR0JPdHJsaVNtd1JwZjJhQTFYa2ZaMmF3bnZkbHB5aGlxNzM5ZTRaVGdYTUxMT01MdnZNcm5MTF8td2tqZ2h6ZU0?oc=5",
-      "description": "Why Oil Prices Are Falling Even as Tankers Remain Trapped Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Fri, 19 Jun 2026 16:10:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
