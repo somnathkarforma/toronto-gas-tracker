@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-27 06:48 UTC",
+  "generatedAt": "2026-06-28 07:45 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 162.9,
-    "premium": 180.9,
-    "diesel": 173.4
+    "regular": 159.9,
+    "premium": 177.9,
+    "diesel": 170.4
   },
   "history": {
     "labels": [
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Jun 27"
+      "Jun 28"
     ],
     "regular": [
       150.7,
@@ -75,7 +75,7 @@
       155.9,
       174.9,
       186.9,
-      162.9
+      159.9
     ],
     "premium": [
       168.7,
@@ -110,7 +110,7 @@
       173.9,
       192.9,
       204.9,
-      180.9
+      177.9
     ],
     "diesel": [
       161.2,
@@ -145,45 +145,45 @@
       166.4,
       185.4,
       197.4,
-      173.4
+      170.4
     ]
   },
   "prediction": {
     "labels": [
-      "Jun 28",
       "Jun 29",
       "Jun 30",
       "Jul 01",
       "Jul 02",
       "Jul 03",
-      "Jul 04"
+      "Jul 04",
+      "Jul 05"
     ],
     "regular": [
-      163.5,
-      164.0,
-      164.6,
-      165.2,
-      165.8,
-      166.3,
-      166.9
+      160.3,
+      160.7,
+      161.1,
+      161.5,
+      161.8,
+      162.2,
+      162.6
     ],
     "premium": [
-      181.5,
-      182.0,
-      182.6,
-      183.2,
-      183.8,
-      184.3,
-      184.9
+      178.3,
+      178.7,
+      179.1,
+      179.5,
+      179.8,
+      180.2,
+      180.6
     ],
     "diesel": [
-      174.0,
-      174.5,
-      175.1,
-      175.7,
-      176.3,
-      176.8,
-      177.4
+      170.8,
+      171.2,
+      171.6,
+      172.0,
+      172.3,
+      172.7,
+      173.1
     ]
   },
   "news": [
@@ -251,29 +251,29 @@
       "impact": "medium"
     },
     {
-      "title": "Current price of oil as of June 23, 2026 - Fortune",
+      "title": "Current price of oil as of June 26, 2026 - Fortune",
       "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Ya0VoQ2RWa21zMFhrRUxycVdBcURienJTSDlHc09yUkNOVGp6a3BiS2pibkFVZTNUSnl3QjJ6Q0RNS09ERm11NHkxeS1YejVNdmQ3Uk9qb0FOajd5RFJmUDd3?oc=5",
-      "description": "Current price of oil as of June 23, 2026 Fortune",
-      "publishedAt": "Tue, 23 Jun 2026 12:48:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FQzFQVGtCaXFQNGRNNGN4SGNob0lWdEViRnV0SGZFX0xUNWNrOUlJUkplT2hLdV9kWnV3bnVTbnNHMWw2cHBham1SRkQtLTBxdFI5dXIxQ0RVZzNJM081UnFR?oc=5",
+      "description": "Current price of oil as of June 26, 2026 Fortune",
+      "publishedAt": "Fri, 26 Jun 2026 14:19:52 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "The future of oil prices may depend on China - CNN",
-      "source": "CNN",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOanNZUkhKSHE1M3JWWHNzdTZwdW5oRHpBT2FKcGZWM0tMcTZTU2RFcDZDdjNKZ1V1SkFBLUJsRHM0a2k2MWxKcFNuaE5iNnQyN3JONlpTaXMybTUtMm0teTk3azRLM3BBSmVVUzZKVFdUVllQYzVjcS1PUWFBV0lyQXZoR3Vfdi11NXc?oc=5",
-      "description": "The future of oil prices may depend on China CNN",
-      "publishedAt": "Mon, 22 Jun 2026 21:00:26 GMT",
+      "title": "Oil Futures Retreat As U.S.-Iran Talks Make Some Headway - WSJ",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZXJJX05QWEtlRnkwX285cU1uUG9oUlNDVHlwclhNcmhwZThZNnZZRkd0cUtGVTYtWktZSjdqTDNfR0RhbnNNRGl4aVRhZWFvUDFGTHZNei11SkpEdE5tblNzUDBDYXA1cVlSLXVCajhvSGY1ZmtFMHh3dXI4Z0RwQldXakdEOXY4ZG1ia0xaa0JwM3ZBZk5xeDZZZl9EZWRpVFh5Sk5vdE5KNzhleG4tendB?oc=5",
+      "description": "Oil Futures Retreat As U.S.-Iran Talks Make Some Headway WSJ",
+      "publishedAt": "Mon, 22 Jun 2026 19:18:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil price falls to pre-Iran war levels as more tankers exit strait of Hormuz - The Guardian",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc3FrQ0VfQlNhUXUxbDNjbzUzZVFNNmZqbXY2OVlzaVpNWGRNOFRBU09mR3RMQ1ctX05ZWG51OXI0OWdUMkFad29PQlU0V1lNQ0t1Zjc0akt6TVY1YTFvcGQ2MkJSaThaal9xSlRSa1VIWGJadnBFbkNNX2dqSnFyMURWZU9TY2NuX3dQTDhGcTJ1Njk4V0lfeVp1WnpDVTVraWZRNEdaTnc1c2ZucnIyNGY0WUFOOWoxb0tJ?oc=5",
-      "description": "Oil price falls to pre-Iran war levels as more tankers exit strait of Hormuz The Guardian",
-      "publishedAt": "Thu, 25 Jun 2026 07:39:00 GMT",
+      "title": "Saudi Arabia Set to Slash Oil Prices as Hormuz Reopens - Crude Oil Prices Today | OilPrice.com",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeFU4d0hrWUxaTjZvMGg0NkdSZkNHUnJKQmkxWlhTbmNTX0FSZHQ5a0lFeHJMRkdROXVrZnVHM295cnRDaTZ2aWNrME9MVVk3cXlCNEZVTHp3OF9WY1c2WndSOWhHLUUtekloQ1l1bXAzQnQtblo2V3prbVJRd1hwZ2QwcEtGREpETXdHUlBHSzRZNlg0MWhvTHlWZmo3dFNEVHJPUDNMUUJVbUhEMnJv0gG0AUFVX3lxTE9fb3dyWVVSZ0hHNWM5X1cxbnB1ai1ial9BMWRoeWhMTG9MY2pQQWJRMUlLZy1MaFhONk8ySzZNR1RZMlAzZzlta2xfd2NndlVmb1BXWmlyazlvdjB5NWEtS21UZkcwalo2c0RqRnEwV0N0eUNoWktULTI1ZFpaSWEwbVkwY19tTkhQTDZTTG93cUQzOEdsNEdvNlhZQ3JaeGplUFpQWFlkc2NRdVIwdEpjaGtVRQ?oc=5",
+      "description": "Saudi Arabia Set to Slash Oil Prices as Hormuz Reopens Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Fri, 26 Jun 2026 13:00:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
