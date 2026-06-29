@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28 07:45 UTC",
+  "generatedAt": "2026-06-29 08:53 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
     "regular": 159.9,
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Jun 28"
+      "Jun 29"
     ],
     "regular": [
       150.7,
@@ -150,13 +150,13 @@
   },
   "prediction": {
     "labels": [
-      "Jun 29",
       "Jun 30",
       "Jul 01",
       "Jul 02",
       "Jul 03",
       "Jul 04",
-      "Jul 05"
+      "Jul 05",
+      "Jul 06"
     ],
     "regular": [
       160.3,
@@ -188,94 +188,12 @@
   },
   "news": [
     {
-      "title": "Oil prices plummet on hopes of increased supply, high gasoline prices persist - Global News",
-      "source": "Global News",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcHNXU3ZsQ3NvQm9wbl9abTJvOUZfckZteDlNT3diUWVCNEUzVmliLVdPNzBRMWxVLU1ySC1oZkJuUHNwcTQ0S2lkclFUUWJOYk5XdmlFQmNYSEZzNTJjVWJQNmJwTEs0dDREQzNac0E5RXptN0xNSGpvU0Q5TmFJN3A3YkRia2ZVVzFF?oc=5",
-      "description": "Oil prices plummet on hopes of increased supply, high gasoline prices persist Global News",
-      "publishedAt": "Fri, 26 Jun 2026 19:24:13 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices back to pre-war levels on rising Middle East supply - Al Jazeera",
-      "source": "Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUHprZXNJOUhsTkt4OGdOZVM0M0FfN0VCbHFWd3ktM0VvVlluS0NxVzRBQ2VhbUdWaFE0aHZBRHVyWW5NQjFIaGQ3QUgwckR2MHpGZWVrV2t6bEtGNXRFWGxCWnVTVTM5X0lYc1I1SmRTZTRab1FjeDI5UzVTTzJRSEhFR0V1cFphaHBjRE8yclJMQ3YwQkJEYWxpUkJPXzNVMTJQbTF30gGrAUFVX3lxTE5wN2tJTnpaMTNNT2IxQ2lrbjVGTzZxUTBTQk13VE9jX0pLTnJxQkVLc0Rlb0MxWVUzNTNZWm9OQkdRM3lBX09leDgwdVh0WmxoZXJKdVU2eDk0U1VKNkJVaUhVU0VFQnFpMnJqX1BzaV9OdDdCX3FCaTc4NTk4MFE1Z09ZNi0tajJUZnZJci1kcWFTdDk3V08zTnRlRHdGcjFUbkpyRm1jY2FDVQ?oc=5",
-      "description": "Oil prices back to pre-war levels on rising Middle East supply Al Jazeera",
-      "publishedAt": "Thu, 25 Jun 2026 10:09:02 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil Prices Continue to Slide as Peace Talks Progress - Crude Oil Prices Today | OilPrice.com",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOU9acE9fS3ZwNDd0b2piR090WHQyY0RwcTRfaTQxNE1VeEFmaUVUd2kxVU9Xa2o4MHJTRGw2NFBfTU9tdmlCNmU4dUg3cW16X0hmY242RGVNRjNrUTNPcGhtMUd0dXc1MU9XakM5cmRiQy1QOE5fLTlLbVZ3TjkwVWZhblJ5LV9vZzJITTBhRGdqZXBKRDVOT1ZvcXRmSDkzaUJNQkhXU1JwckI10gGyAUFVX3lxTE03Qlh5NmpKUXZuYTI1MkNoM3JaZmkzQVk0TVBMS2I1eVp6Tno3OE1kMDVpMERFZ1lCdmI5dnJVQ2ZNUU9uRVdGd19veklWMWlaY2liNVJJVnI5TzlkYzk4U2liVnpyWjIyVFlTd0dZT0M0V2ZEa0piN0w3aXdLOEh3V1FNaTU3Z2t5RXFMUkN1Zkc3VTdoSmFlMXpzamt6bk1wTjJGbEFfMktWdWlaVDhfMmc?oc=5",
-      "description": "Oil Prices Continue to Slide as Peace Talks Progress Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Tue, 23 Jun 2026 05:30:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Why Hasn’t the Iran War Driven Oil Prices Even Higher? - Energy Institute Blog",
-      "source": "Energy Institute Blog",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRTRtbkU0VTVZY3FOTlZ0NTlIS1ZHNV9IZC1KaHhPMTZQcjQzNzRCV1JiLU51cEdYVmZsTTBKV0JYWDZScTNXNUdYYnJ5SzA3MjA4V29heWtoY3hOMjc4MVh0MTIwalAzVFFTWlRROTFHb041V25RaHUycm5fVnp5c01Uc3pGQ2lVdWpnUGdvejAyYlh0VlNVcmJBQ2lrcXFn?oc=5",
-      "description": "Why Hasn’t the Iran War Driven Oil Prices Even Higher? Energy Institute Blog",
-      "publishedAt": "Mon, 22 Jun 2026 13:30:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Montreal gas prices remain high despite drop in oil prices - CityNews Montreal",
-      "source": "CityNews Montreal",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb3Vja2VmOFVVZVZ5azFkSzhocmk0N3JXM2VtT2pFLUV2Ym1INEtESENSNmFCcDRKeF9jU3p5Q29tYksyZGFRbUVTWldaVDgzcFN3YVMwYWhXclFicUFPZ0RKOUdxQ0o4QWs3VEw3d1NFSzNxNGQ4X1NQY3lfX2hDbXFtUmZrX3h6aVJRdW5laXl3LVNXTGpRMkMyeVc?oc=5",
-      "description": "Montreal gas prices remain high despite drop in oil prices CityNews Montreal",
-      "publishedAt": "Fri, 26 Jun 2026 14:05:55 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices edge lower as market monitors tanker traffic through Strait of Hormuz - CNBC",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObnk3bnlweGtJUG1mY2FWcWdsVHpfUnZCT3RmbGxXdTlWcl9SUjM3V1U1YjhIMFAtcTRuV2ZJakdXemJTUFlnWDcwUWx6aFlQOTFJbjVWeTBtY3NZNmNGM29rYnliUVNCUWFNLXFWcFhocmVJYWZUekpOWEVncF9vMFVYZ0VjVGwtb1drUVNTU18zSVlubmZZek5STFXSAaIBQVVfeXFMTm1lbDdpb2lhRXpBbmxSLXVFYzVnUXRHdlp2Y0l1QWlNM3dVTF9YUkIzLXVCR2x0UFZjWnNudk9zTGcweXZ6cUJ1TDZrVl9KV1BVRldwRGRFSGk3cnVqaklmMjVINUhGVVk1VGZ3WVBPMHV1aFhGSkwtdUkyNzVSSWstazZaVm45Q2hNMlJWUDVOM2UxOFAyVmF1R0dzYy1oa2d3?oc=5",
-      "description": "Oil prices edge lower as market monitors tanker traffic through Strait of Hormuz CNBC",
-      "publishedAt": "Tue, 23 Jun 2026 00:33:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Trump accuses oil companies of gouging drivers, orders DOJ to investigate - Politico",
-      "source": "Politico",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa0RoT3BXRXN2enY4UjlYRFRVSjg1bFNHMjZCam5WNFd5dWhpelpXNmpfS3dwSHRiUklyUi12NklQMkVyNHZhbFUzWVZ2WlFGdnNHRnNQaDl4eWxhZjh6b0U3bER1dHlPQ3QxRGFOT1BRZHB6WHc0Q2QxMV8yYUgwQVR5VWpUYl9uakI3bk1tRmtnbWNGYmZ4bUNiZS1GWmgy?oc=5",
-      "description": "Trump accuses oil companies of gouging drivers, orders DOJ to investigate Politico",
-      "publishedAt": "Wed, 24 Jun 2026 12:55:18 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Current price of oil as of June 26, 2026 - Fortune",
-      "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FQzFQVGtCaXFQNGRNNGN4SGNob0lWdEViRnV0SGZFX0xUNWNrOUlJUkplT2hLdV9kWnV3bnVTbnNHMWw2cHBham1SRkQtLTBxdFI5dXIxQ0RVZzNJM081UnFR?oc=5",
-      "description": "Current price of oil as of June 26, 2026 Fortune",
-      "publishedAt": "Fri, 26 Jun 2026 14:19:52 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil Futures Retreat As U.S.-Iran Talks Make Some Headway - WSJ",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZXJJX05QWEtlRnkwX285cU1uUG9oUlNDVHlwclhNcmhwZThZNnZZRkd0cUtGVTYtWktZSjdqTDNfR0RhbnNNRGl4aVRhZWFvUDFGTHZNei11SkpEdE5tblNzUDBDYXA1cVlSLXVCajhvSGY1ZmtFMHh3dXI4Z0RwQldXakdEOXY4ZG1ia0xaa0JwM3ZBZk5xeDZZZl9EZWRpVFh5Sk5vdE5KNzhleG4tendB?oc=5",
-      "description": "Oil Futures Retreat As U.S.-Iran Talks Make Some Headway WSJ",
-      "publishedAt": "Mon, 22 Jun 2026 19:18:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Saudi Arabia Set to Slash Oil Prices as Hormuz Reopens - Crude Oil Prices Today | OilPrice.com",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeFU4d0hrWUxaTjZvMGg0NkdSZkNHUnJKQmkxWlhTbmNTX0FSZHQ5a0lFeHJMRkdROXVrZnVHM295cnRDaTZ2aWNrME9MVVk3cXlCNEZVTHp3OF9WY1c2WndSOWhHLUUtekloQ1l1bXAzQnQtblo2V3prbVJRd1hwZ2QwcEtGREpETXdHUlBHSzRZNlg0MWhvTHlWZmo3dFNEVHJPUDNMUUJVbUhEMnJv0gG0AUFVX3lxTE9fb3dyWVVSZ0hHNWM5X1cxbnB1ai1ial9BMWRoeWhMTG9MY2pQQWJRMUlLZy1MaFhONk8ySzZNR1RZMlAzZzlta2xfd2NndlVmb1BXWmlyazlvdjB5NWEtS21UZkcwalo2c0RqRnEwV0N0eUNoWktULTI1ZFpaSWEwbVkwY19tTkhQTDZTTG93cUQzOEdsNEdvNlhZQ3JaeGplUFpQWFlkc2NRdVIwdEpjaGtVRQ?oc=5",
-      "description": "Saudi Arabia Set to Slash Oil Prices as Hormuz Reopens Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Fri, 26 Jun 2026 13:00:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
+      "title": "No live headlines available right now",
+      "source": "System fallback",
+      "link": "https://news.google.com/",
+      "publishedAt": "",
+      "summary": "The dashboard will refresh automatically on the next scheduled run.",
+      "impact": "low"
     }
   ]
 }
