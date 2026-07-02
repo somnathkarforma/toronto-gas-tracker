@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-01 08:05 UTC",
+  "generatedAt": "2026-07-02 07:25 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 163.9,
-    "premium": 181.9,
-    "diesel": 174.4
+    "regular": 161.9,
+    "premium": 179.9,
+    "diesel": 172.4
   },
   "history": {
     "labels": [
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Jul 01"
+      "Jul 02"
     ],
     "regular": [
       150.7,
@@ -75,7 +75,7 @@
       155.9,
       174.9,
       186.9,
-      163.9
+      161.9
     ],
     "premium": [
       168.7,
@@ -110,7 +110,7 @@
       173.9,
       192.9,
       204.9,
-      181.9
+      179.9
     ],
     "diesel": [
       161.2,
@@ -145,45 +145,45 @@
       166.4,
       185.4,
       197.4,
-      174.4
+      172.4
     ]
   },
   "prediction": {
     "labels": [
-      "Jul 02",
       "Jul 03",
       "Jul 04",
       "Jul 05",
       "Jul 06",
       "Jul 07",
-      "Jul 08"
+      "Jul 08",
+      "Jul 09"
     ],
     "regular": [
+      162.4,
+      162.9,
+      163.4,
+      163.9,
       164.5,
-      165.2,
-      165.8,
-      166.4,
-      167.1,
-      167.7,
-      168.3
+      165.0,
+      165.5
     ],
     "premium": [
+      180.4,
+      180.9,
+      181.4,
+      181.9,
       182.5,
-      183.2,
-      183.8,
-      184.4,
-      185.1,
-      185.7,
-      186.3
+      183.0,
+      183.5
     ],
     "diesel": [
+      172.9,
+      173.4,
+      173.9,
+      174.4,
       175.0,
-      175.7,
-      176.3,
-      176.9,
-      177.6,
-      178.2,
-      178.8
+      175.5,
+      176.0
     ]
   },
   "news": [
@@ -193,6 +193,15 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcHNXU3ZsQ3NvQm9wbl9abTJvOUZfckZteDlNT3diUWVCNEUzVmliLVdPNzBRMWxVLU1ySC1oZkJuUHNwcTQ0S2lkclFUUWJOYk5XdmlFQmNYSEZzNTJjVWJQNmJwTEs0dDREQzNac0E5RXptN0xNSGpvU0Q5TmFJN3A3YkRia2ZVVzFF?oc=5",
       "description": "Oil prices plummet on hopes of increased supply, high gasoline prices persist Global News",
       "publishedAt": "Fri, 26 Jun 2026 19:24:13 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil prices fall after Trump says U.S.-Iran talks in Qatar are going well - CNBC",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84NFprZ2x2NVJUeWFTSWhwME5lZWF0TlVLZGRlcHhZRXVLcmJFXzQxM0t1QXRSTmRLOFBzVmxTTkZ3bExIbGtpYi12R1NCWTMtNUpocEg4WHp4NlJXeWp5bWF5UG5LZ1A0OVJ4d0Q4Q3hCNnJUSlRwbmpoYVpOWFXSAYQBQVVfeXFMUE41elFEWXRjNmxCaXdJamtTVWxoYkZwQnJsQXl1bEgxX0RFS3RRTlEtR2dhemtZOGxiV0R3ZzNSbnp6aTViQ0xtR2llUDN5anZscTlnemQ5cGJKUm1JdVA5alE2UzYyOW9SWGhZSHl1TEFQYnVkcGllSnBkTHlseEVabG16?oc=5",
+      "description": "Oil prices fall after Trump says U.S.-Iran talks in Qatar are going well CNBC",
+      "publishedAt": "Wed, 01 Jul 2026 08:34:42 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -215,24 +224,6 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices rise as U.S. and Iran reach deal to halt attacks, U.S. oil above $70 per barrel again - CNBC",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTWJRcFBwNnR2cWRJVkJQb3VRQmJiNkI3cHR6X3pGWGU3NWp0YllOaDZUdWdvZ0Z5TldETFgta2U2WUR4Nnh0VEZxQXB0TmJpRWhlM1Y2M1hBSk5PSnFwWlktUGEtNEo4djBOdUlJVklqM1VaWEoxaXRPMnRZbllLNGJaTkh4WUtERUV6MUEzUHJET3lraXNVQjRhbEtFU2150gGmAUFVX3lxTFBZcmZVZ2kzRjRkT1IzYzRMWnBBX25SSklTTk43WXV2VnRQN1k0clNnOHp3YUhIN214clJOU1BONTlOVG1TRXlEMXR3UkpiVURPb24zVjJjblpJUkw4WTVpZ3U4ZnJ6MXNYbEpNcVJPNmVVVGw3MlBJU1pybWlqN3BjbTNzVFRUV3JxQXZxaVpEXzJiQ0NxeVlTTWJ0UVZVc1hTNkdNTUE?oc=5",
-      "description": "Oil prices rise as U.S. and Iran reach deal to halt attacks, U.S. oil above $70 per barrel again CNBC",
-      "publishedAt": "Mon, 29 Jun 2026 00:00:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Energy experts said gas prices would stay high. Why were they wrong? - Politico",
-      "source": "Politico",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTmplV3c2dm4tbXBfVlBudEJEZHdOVk1XeXNDZGU5Q0lDT0RjOXhEN3FjaEFKREM5U3l0cXhJV0NLaHBxYVFUNDJGMmFnRWpRWE1renBXbVBmUzV2NUp6ZVB4R2dzZUdJWUppdVNvSXRibEhHaEkzZGZELVZXTXFlX1FqakRhRFpINGVTRV9Mdy1SS1djRDhYY0RhaG13ODZtVGtyTHRmTTI0ZmRNZFVKaGlLWVpZNkNHUFl3MlpCaXgySU9ISHQwYlNvRjlDUQ?oc=5",
-      "description": "Energy experts said gas prices would stay high. Why were they wrong? Politico",
-      "publishedAt": "Tue, 30 Jun 2026 09:05:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
       "title": "Current price of oil as of June 29, 2026 - Fortune",
       "source": "Fortune",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE94aWpPcEx6bHJWVHlsakFIbUpmOFMzNHdBWEZJY3lqUmxCYUpUMDM5NXFJcWhhQ2RpY3gyNXA3bHJyZVA3T1ZiT2ZWVmM3SV9vS2FUS19vdDNQVjJaeU1VcVpn?oc=5",
@@ -242,20 +233,29 @@
       "impact": "medium"
     },
     {
-      "title": "Global oil prices fall to lowest level since before the Iran War - ABC News - Breaking News, Latest News and Videos",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQVVCcFgzVUF3MjVKcGlfa3lzM1BoTGhuYmNnMHEyclJPS3dWeU5CMExwcklHVDlLendiS1E2NFBOZmdfcTZ0UUVVOHh4b3Jaa01JZmNoNUlOTXlzZjRyd2JtRllpWnlsZU5CTHQyVFNQWWlBbWFiZ25ZTHd1TWNpaDhHVDNDUS1pcWY1akhGaTRsRm9yV0Ew0gGcAUFVX3lxTE9hVWdqTURMTDdOWFZCRV9zREhYVGFkbmNuNzRaUGlLb3A3RTBlQTFNcTdqZ0xyRTRRRHp5NVRDUXVGZmptZzNXcm5PWHByRmYyMFdRZmlRYVFxV01vRVpMRDlqWkZrQ1NsVEpYQ0tIeGVVaHhVSFFFRlBpTExPbktQdXQ1SjcyZm5qQTVHa2NSaVJrV0VpbF9tOXVaNA?oc=5",
-      "description": "Global oil prices fall to lowest level since before the Iran War ABC News - Breaking News, Latest News and Videos",
-      "publishedAt": "Wed, 24 Jun 2026 16:53:58 GMT",
+      "title": "Oil Prices Make a Stunning Retreat to Prewar Levels. Where Do We Go From Here? - WSJ",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMGl3TVFEd0dGN2dJWlprUFhWV1ZQTS01bTRhNW9IY0lMdVFCempxbFVlLUtSVTBtbFlaSGVBMVpnY3hkYlRnaTdDakRXVjV3aXhKYTVkb0FvUWdNaE4zWFpxdTVOMW5rb1pWTVdzYkcxLW5PbkxhNDJheGFZclhockZEblZGeTBTSDJacFVyQWU1TzE0cjFSbXhkck1aQ0M2WlJKZktpd3owbWhoS2ZINmtaMnNDRTQ1UENKRnQ0dUJsd00?oc=5",
+      "description": "Oil Prices Make a Stunning Retreat to Prewar Levels. Where Do We Go From Here? WSJ",
+      "publishedAt": "Thu, 25 Jun 2026 21:08:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Analysis: Oil price shocks have exposed car-dependent cities. Here’s what governments can do - McMaster News",
-      "source": "McMaster News",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5CcndTaFZDcEpmT280WHl1dEs4czljYmhxekFpQ1pzUWh6Z0xPRHhWUDVzNjN1aTcxWVhyeE5oV0RCbVRjQTVtQWtyWWdWQlJLTVNrLWp3WEVMZGQ1?oc=5",
-      "description": "Analysis: Oil price shocks have exposed car-dependent cities. Here’s what governments can do McMaster News",
-      "publishedAt": "Tue, 30 Jun 2026 23:30:17 GMT",
+      "title": "Oil price falls to pre-Iran war levels as more tankers exit strait of Hormuz - The Guardian",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc3FrQ0VfQlNhUXUxbDNjbzUzZVFNNmZqbXY2OVlzaVpNWGRNOFRBU09mR3RMQ1ctX05ZWG51OXI0OWdUMkFad29PQlU0V1lNQ0t1Zjc0akt6TVY1YTFvcGQ2MkJSaThaal9xSlRSa1VIWGJadnBFbkNNX2dqSnFyMURWZU9TY2NuX3dQTDhGcTJ1Njk4V0lfeVp1WnpDVTVraWZRNEdaTnc1c2ZucnIyNGY0WUFOOWoxb0tJ?oc=5",
+      "description": "Oil price falls to pre-Iran war levels as more tankers exit strait of Hormuz The Guardian",
+      "publishedAt": "Thu, 25 Jun 2026 07:39:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil price falls to levels not seen since before Iran war - BBC",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlQUl4cDBRTkNOYTJMZzdGeFNiRzBJOG5SY3BTM0c3YU45eXVSTk9PVUpmRmt4My12NzB3dllKLWJrZ01yMDB2dG9rWlg1SU14TEx1MHJjVk5MQQ?oc=5",
+      "description": "Oil price falls to levels not seen since before Iran war BBC",
+      "publishedAt": "Thu, 25 Jun 2026 15:32:04 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -269,11 +269,11 @@
       "impact": "medium"
     },
     {
-      "title": "Crude Prices Sink as Traders Bet on More Iranian Oil - Crude Oil Prices Today | OilPrice.com",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONTItLWhtSUNTc3E1UEJKY1pGdU5KU29mbGlIaUNHUmlLX29zdjBaWnZLUWNqQkg2QnJyeVFJVUlmVHBUamZicXo3WkFlSlUxdmVJc1o1emR3MDR5NEtnY0xNMWJwS1NVY1NNM21GSExoV25YRDJWYjU4R3dvWFNnbnB0M1hYME1QeXR2VVN0dHZ3Um5JVjNzRW52M0duT3N1Q1HSAacBQVVfeXFMT1NpS1dkcHJVZVQ2TXowaHZ4cXg1YmNWNjhTLWhuZVA5d1Vad3N5ZHJxQWdOY1pMNzhXVy1kY3otdjVIa0hMcWd4Wi1PMHdDSXV4ckxYSVUzLUw5dkVHVVJObncwdHU5QldrLWFXdUNwT3p6TEVJSEdJeC1EckptMGFKZmtFekI0Xy1Mdk9RZG9IYWItZ1oxLWM3TzZ4Rmp4MUluajlfbU0?oc=5",
-      "description": "Crude Prices Sink as Traders Bet on More Iranian Oil Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Fri, 26 Jun 2026 11:30:00 GMT",
+      "title": "Oil prices rise as U.S. and Iran reach deal to halt attacks, U.S. oil above $70 per barrel again - CNBC",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTWJRcFBwNnR2cWRJVkJQb3VRQmJiNkI3cHR6X3pGWGU3NWp0YllOaDZUdWdvZ0Z5TldETFgta2U2WUR4Nnh0VEZxQXB0TmJpRWhlM1Y2M1hBSk5PSnFwWlktUGEtNEo4djBOdUlJVklqM1VaWEoxaXRPMnRZbllLNGJaTkh4WUtERUV6MUEzUHJET3lraXNVQjRhbEtFU2150gGmAUFVX3lxTFBZcmZVZ2kzRjRkT1IzYzRMWnBBX25SSklTTk43WXV2VnRQN1k0clNnOHp3YUhIN214clJOU1BONTlOVG1TRXlEMXR3UkpiVURPb24zVjJjblpJUkw4WTVpZ3U4ZnJ6MXNYbEpNcVJPNmVVVGw3MlBJU1pybWlqN3BjbTNzVFRUV3JxQXZxaVpEXzJiQ0NxeVlTTWJ0UVZVc1hTNkdNTUE?oc=5",
+      "description": "Oil prices rise as U.S. and Iran reach deal to halt attacks, U.S. oil above $70 per barrel again CNBC",
+      "publishedAt": "Mon, 29 Jun 2026 00:00:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
