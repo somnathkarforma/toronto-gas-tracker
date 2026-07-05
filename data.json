@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04 06:42 UTC",
+  "generatedAt": "2026-07-05 07:19 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
     "regular": 162.9,
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Jul 04"
+      "Jul 05"
     ],
     "regular": [
       150.7,
@@ -150,13 +150,13 @@
   },
   "prediction": {
     "labels": [
-      "Jul 05",
       "Jul 06",
       "Jul 07",
       "Jul 08",
       "Jul 09",
       "Jul 10",
-      "Jul 11"
+      "Jul 11",
+      "Jul 12"
     ],
     "regular": [
       163.5,
@@ -188,94 +188,12 @@
   },
   "news": [
     {
-      "title": "Assessing risks to oil prices through options markets - Bank of Canada",
-      "source": "Bank of Canada",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9pVDlMeS05cUMwekdRakpVcVl0RGdfOUJmZHU5OU5pbjVkcHRnZnNiREo4b1JsLXMzM1dhVDFiOXpNWWJ4MTRzZnk1WnZ4MnNDU3RRVlNHU2ZzQzVOb2hKMGFjbkhESFNtMTljVmVMODJzVHZQMGc?oc=5",
-      "description": "Assessing risks to oil prices through options markets Bank of Canada",
-      "publishedAt": "Thu, 02 Jul 2026 07:00:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices fall to levels not seen since start of US-Israel war on Iran - Al Jazeera",
-      "source": "Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcDk4bXVmOUlaNVMtcTAzclZyS2Y4ZGNwOGdkMlpJemppTkRzNkMzcXRrdFd1ZS02TGxtMk1kTzk1bXRVZS1IbkMyQU04QmE1SHRhejFLeDdGdXVXWmRIeDA2aU81dFhLazlhdEktSmRZRGJfOFFmcnZuYXhXcEZqY0F3TUxHYVhQbzRqS3RPS0hlR3ZpcTVHcmVVZEhjZzZ0RnVWM3c2LWNHZEgwT1hZYTF5bTHSAboBQVVfeXFMT1I5SUFWdmJ0MUo2SGpSVzhaUkFiNEFmMnBJaTVpSVlwVTdxaEtDWENDcW42ekdNN2ktV2lGTkZUVmNfSC1wRmw2bWhwc2l2dFY4NURQX1hJWjFhREFLOHUySHNDTUJDdEFpN3pvd1VNS01VVE4tQlRjb2lnaWRlc3VMbHRDSTJyVTlpZUtGSnNMTmxlQnFNa3Z6YlJwVl85MmpiNTFMLXpwS1dweDZTbmQ2YkpOVU9LN1FR?oc=5",
-      "description": "Oil prices fall to levels not seen since start of US-Israel war on Iran Al Jazeera",
-      "publishedAt": "Thu, 02 Jul 2026 05:21:37 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices fall after Trump says U.S.-Iran talks in Qatar are going well - CNBC",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84NFprZ2x2NVJUeWFTSWhwME5lZWF0TlVLZGRlcHhZRXVLcmJFXzQxM0t1QXRSTmRLOFBzVmxTTkZ3bExIbGtpYi12R1NCWTMtNUpocEg4WHp4NlJXeWp5bWF5UG5LZ1A0OVJ4d0Q4Q3hCNnJUSlRwbmpoYVpOWFXSAYQBQVVfeXFMUE41elFEWXRjNmxCaXdJamtTVWxoYkZwQnJsQXl1bEgxX0RFS3RRTlEtR2dhemtZOGxiV0R3ZzNSbnp6aTViQ0xtR2llUDN5anZscTlnemQ5cGJKUm1JdVA5alE2UzYyOW9SWGhZSHl1TEFQYnVkcGllSnBkTHlseEVabG16?oc=5",
-      "description": "Oil prices fall after Trump says U.S.-Iran talks in Qatar are going well CNBC",
-      "publishedAt": "Wed, 01 Jul 2026 08:34:42 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil Prices Head for Biggest Quarterly Drop Since Pandemic - Crude Oil Prices Today | OilPrice.com",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSkJTaFNUel82cXpMS3VZdnd0dF9CVEx4UzdrVlFBMVViZkUyXzA2NDF1Y19zZ0c3UmQ1S3lRUktfd3hCcjBLTVk0YTdFTzNoT0diMjFOeEloX2Z3REFSTzc5cTdSSk9DeXgtbFE1b3dZUXZUSE92VE0zTExvNUdkdTYxTW5faWpoeVl2cnU1TGJpZW0wOTY5am14RktHZk1RdzFz0gGoAUFVX3lxTE9naVlFTUUyd0JiOThqUkJnWFVCZWhheTVKaXJqRUxuUWwtdTdFOXBaOFJJNExidWQ3VEJORTh2NE9QNExKaXhDOXdXaHItenBoLUlSVmpNRDJQVmZKTG5raTRhN1ZtcW5VTGdsSHZBcmZlVEFpZUVpZ1NZTFkyWlVhbUZCdGdlTGVQNFdGMXItYTZ5X1dZOS0xRjZjT2xfWi1RcHMzLVhDNg?oc=5",
-      "description": "Oil Prices Head for Biggest Quarterly Drop Since Pandemic Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Tue, 30 Jun 2026 14:00:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Current price of oil as of July 1, 2026 - Fortune",
-      "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE15eHB3bTl6Vk5acU5aUmp1cmQzb202cXdsdHJKS0xMMXdETkVQLU1NWnM1NVVScFlVcTFpRUZLQU5sbW9xZ2k3UkxsLVlKZEtBRnFMMERScHpRRXBiV1FEQnBR?oc=5",
-      "description": "Current price of oil as of July 1, 2026 Fortune",
-      "publishedAt": "Wed, 01 Jul 2026 12:42:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Canadian and U.S. stock markets move in opposite directions as oil prices rise - Yahoo! Finance Canada",
-      "source": "Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BOVk1aGhhSjhGUzhQV3I2eEhqdHFOSFNDb3JlNnZfSWtRdDhpeHdORE13bkhwenppMG1rV2xXZXIwMmVBNzh2ZlhQc3ZMSUl1MFFaS3hNQVV0dS1Fd2dZbVNFZHFrM0l3V0xHRnM1cTFoSWN0WE01UVVlRF9iNm8?oc=5",
-      "description": "Canadian and U.S. stock markets move in opposite directions as oil prices rise Yahoo! Finance Canada",
-      "publishedAt": "Mon, 29 Jun 2026 20:49:09 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Why falling oil prices don't mean Hormuz crisis is over - ایران اینترنشنال",
-      "source": "ایران اینترنشنال",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FcEJlTEF3ZnZacVIzZmJFVVY2dExpMFNpUXJ3aGVfNlczSXNVY2pWbml0amtvWmZrNDZQbkFRWTNOMzZtcWpIM2hyOHBPV0VWdUE?oc=5",
-      "description": "Why falling oil prices don't mean Hormuz crisis is over ایران اینترنشنال",
-      "publishedAt": "Mon, 29 Jun 2026 03:58:15 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices, stock futures inch higher as U.S. and Iran reportedly agree to halt attacks - MarketWatch",
-      "source": "MarketWatch",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRi1McXJhX2VfcU5FMWFJaElURXVlMzVPU0tNd0RYdTM5RTRnOUltaW5NZzhFY2hOQnBXVnVVcksxbmVwSUUya2FqQl9jaE1LZHFmT1hxMHo0ckZyeXdWaXRfdW9Hai02Y1M4d3BMdERhcmJiRVhydHRVRVViSmI5ckxQZDZvV3Z4Uk5rTkdLOXM0Y3pTeEhzOVlkYWhaTk1rWG5MV2hmelJxNnhrOGwzb05CWVg1MGg1V1FvbXdqVQ?oc=5",
-      "description": "Oil prices, stock futures inch higher as U.S. and Iran reportedly agree to halt attacks MarketWatch",
-      "publishedAt": "Mon, 29 Jun 2026 03:02:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices rise as U.S. and Iran reach deal to halt attacks, U.S. oil above $70 per barrel again - CNBC",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTWJRcFBwNnR2cWRJVkJQb3VRQmJiNkI3cHR6X3pGWGU3NWp0YllOaDZUdWdvZ0Z5TldETFgta2U2WUR4Nnh0VEZxQXB0TmJpRWhlM1Y2M1hBSk5PSnFwWlktUGEtNEo4djBOdUlJVklqM1VaWEoxaXRPMnRZbllLNGJaTkh4WUtERUV6MUEzUHJET3lraXNVQjRhbEtFU2150gGmAUFVX3lxTFBZcmZVZ2kzRjRkT1IzYzRMWnBBX25SSklTTk43WXV2VnRQN1k0clNnOHp3YUhIN214clJOU1BONTlOVG1TRXlEMXR3UkpiVURPb24zVjJjblpJUkw4WTVpZ3U4ZnJ6MXNYbEpNcVJPNmVVVGw3MlBJU1pybWlqN3BjbTNzVFRUV3JxQXZxaVpEXzJiQ0NxeVlTTWJ0UVZVc1hTNkdNTUE?oc=5",
-      "description": "Oil prices rise as U.S. and Iran reach deal to halt attacks, U.S. oil above $70 per barrel again CNBC",
-      "publishedAt": "Mon, 29 Jun 2026 00:00:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices rise as US, Iranian strikes threaten Strait of Hormuz reopening - Al Jazeera",
-      "source": "Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQno4UmNocko2ZENuREhrTUZILUJBczZVQWE2MkZDYTlmTFREOVdWcmx1UkJadWU5Nzd5WTJCMVNOTmRsdkJIdkhHYVA5Wlk4aHdPdTdPdk04N0JkSUZDRXVOWlJTTGtCNV84RG1LQlUwQTY1eUtERm1QaWs4OVhMWjJMX1duR0Z5anh1MWNMbDQ0OWlBak1UdGl4UjdmMUVGTFR6UmFKUnlDQ1pjdzdwMVBpdFJEV3ot0gG-AUFVX3lxTE1pcndSb0lmMWQzUWNJQVE3anRwZF9OaU1tcHdhNm90alVXNkk4VWZjUkZoUVIwZjVlSEVoYXNodXNJdkNSZ0UzeTN2ZlZHeURBMWNjakxYa2daNlpaakZZYnpzU1VJYnNBRjI3eFB5NHdrZTNURkdlZnV2NTR3SERBSUFXVFFXSnRxNURrSlF2SFMwS2ZkTFcxOWgxenRzWHNlek1HNUdWemN2cHgzNDhudjRtdTZ3VXRhanpJN3c?oc=5",
-      "description": "Oil prices rise as US, Iranian strikes threaten Strait of Hormuz reopening Al Jazeera",
-      "publishedAt": "Mon, 29 Jun 2026 04:02:41 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
+      "title": "No live headlines available right now",
+      "source": "System fallback",
+      "link": "https://news.google.com/",
+      "publishedAt": "",
+      "summary": "The dashboard will refresh automatically on the next scheduled run.",
+      "impact": "low"
     }
   ]
 }
