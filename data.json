@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06 08:14 UTC",
+  "generatedAt": "2026-07-07 07:32 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
     "regular": 162.9,
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Jul 06"
+      "Jul 07"
     ],
     "regular": [
       150.7,
@@ -150,13 +150,13 @@
   },
   "prediction": {
     "labels": [
-      "Jul 07",
       "Jul 08",
       "Jul 09",
       "Jul 10",
       "Jul 11",
       "Jul 12",
-      "Jul 13"
+      "Jul 13",
+      "Jul 14"
     ],
     "regular": [
       163.5,
@@ -188,15 +188,6 @@
   },
   "news": [
     {
-      "title": "Assessing risks to oil prices through options markets - Bank of Canada",
-      "source": "Bank of Canada",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9pVDlMeS05cUMwekdRakpVcVl0RGdfOUJmZHU5OU5pbjVkcHRnZnNiREo4b1JsLXMzM1dhVDFiOXpNWWJ4MTRzZnk1WnZ4MnNDU3RRVlNHU2ZzQzVOb2hKMGFjbkhESFNtMTljVmVMODJzVHZQMGc?oc=5",
-      "description": "Assessing risks to oil prices through options markets Bank of Canada",
-      "publishedAt": "Thu, 02 Jul 2026 07:00:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
       "title": "Oil prices fall to levels not seen since start of US-Israel war on Iran - Al Jazeera",
       "source": "Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcDk4bXVmOUlaNVMtcTAzclZyS2Y4ZGNwOGdkMlpJemppTkRzNkMzcXRrdFd1ZS02TGxtMk1kTzk1bXRVZS1IbkMyQU04QmE1SHRhejFLeDdGdXVXWmRIeDA2aU81dFhLazlhdEktSmRZRGJfOFFmcnZuYXhXcEZqY0F3TUxHYVhQbzRqS3RPS0hlR3ZpcTVHcmVVZEhjZzZ0RnVWM3c2LWNHZEgwT1hZYTF5bTHSAboBQVVfeXFMT1I5SUFWdmJ0MUo2SGpSVzhaUkFiNEFmMnBJaTVpSVlwVTdxaEtDWENDcW42ekdNN2ktV2lGTkZUVmNfSC1wRmw2bWhwc2l2dFY4NURQX1hJWjFhREFLOHUySHNDTUJDdEFpN3pvd1VNS01VVE4tQlRjb2lnaWRlc3VMbHRDSTJyVTlpZUtGSnNMTmxlQnFNa3Z6YlJwVl85MmpiNTFMLXpwS1dweDZTbmQ2YkpOVU9LN1FR?oc=5",
@@ -224,6 +215,15 @@
       "impact": "medium"
     },
     {
+      "title": "Oil prices settle at pre-Iran war levels as crude output grows - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZkI2QThocHlWRUVKSHgtb2N1WmlUX2hDQ3MxZloycVItY3d4N2Nub2FTbWYzd1hPTlZXa2VPdEhfTGgxU2g3UlBrS0VvemRZTnI2SU9HZklMOEt4d2h1U1U2ZkpZT3dscE5SRzMtTHNqVXRGcy0yaWdXU3JxemdJRWNITEhVSkFSQnV0dnhKWlJWcF8xVWhNb0k4M1FaMDNtaHc?oc=5",
+      "description": "Oil prices settle at pre-Iran war levels as crude output grows Reuters",
+      "publishedAt": "Mon, 06 Jul 2026 00:36:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
       "title": "Current price of oil as of July 1, 2026 - Fortune",
       "source": "Fortune",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE15eHB3bTl6Vk5acU5aUmp1cmQzb202cXdsdHJKS0xMMXdETkVQLU1NWnM1NVVScFlVcTFpRUZLQU5sbW9xZ2k3UkxsLVlKZEtBRnFMMERScHpRRXBiV1FEQnBR?oc=5",
@@ -233,38 +233,11 @@
       "impact": "medium"
     },
     {
-      "title": "Americans hit road for July 4 despite high gasoline prices - BOE Report",
-      "source": "BOE Report",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUGo4N0lEV1NZbVJQeVN1SGxGc0N3SHlUSjZPSy01aVE1a0loQU1WbUtCS291RXZLMXdOWDdzQTlnS3pBV1Y4SDhtZURKQ0VTa0VuRHZkeHdUZmxYZzB3cTZGUUI0bHA1SWdjRFZXa0RiU1JORlNhUnN4QlBudm8tZ21VZ3hfc2tGbnNfTGo0bW14TW9rMFNj0gGcAUFVX3lxTE5lRU43MlRYNnFZZFZJQjYzeTFHT2wtMEU4Zkx5d1ZONUhNNGZTTmdWQlNfNkVBYnpWVVh5cktTbUpoLUZTLVFhamppNjRZejRqVThnc1ZsLWVzcVFCbGNFdnV1OUxkNnZka0hYTF9oS2JkT3dNMVB1Y0dkazY3bFd1dklFaEV3TVRqb2w0RGd0UlFkVzEySGZ2WE55NQ?oc=5",
-      "description": "Americans hit road for July 4 despite high gasoline prices BOE Report",
-      "publishedAt": "Fri, 03 Jul 2026 14:43:48 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "The curious case of collapsing oil prices - ING THINK economic and financial analysis | ING THINK",
-      "source": "ING THINK economic and financial analysis | ING THINK",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM1dnMVI5UUZJWGxxOFNRdTVscS13VVpteVhNMU9oTzJYYXkxd2xJVnc3ZDExeE82M3l1MWp4SC1tdjVJeGRsUzVjWUlPQ1Z0eXlYSTV3RUhERENJeHhKTnBfZllDZk5zNW1MQlM0dDJOblBQZEFVekszWmtlcWp3WkdLU3hKQQ?oc=5",
-      "description": "The curious case of collapsing oil prices ING THINK economic and financial analysis | ING THINK",
-      "publishedAt": "Mon, 29 Jun 2026 23:49:14 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Canadian and U.S. stock markets move in opposite directions as oil prices rise - Yahoo! Finance Canada",
-      "source": "Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BOVk1aGhhSjhGUzhQV3I2eEhqdHFOSFNDb3JlNnZfSWtRdDhpeHdORE13bkhwenppMG1rV2xXZXIwMmVBNzh2ZlhQc3ZMSUl1MFFaS3hNQVV0dS1Fd2dZbVNFZHFrM0l3V0xHRnM1cTFoSWN0WE01UVVlRF9iNm8?oc=5",
-      "description": "Canadian and U.S. stock markets move in opposite directions as oil prices rise Yahoo! Finance Canada",
-      "publishedAt": "Mon, 29 Jun 2026 20:49:09 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices little changed but set for steepest monthly and quarterly losses since 2020 - Reuters",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdDFWV0lhZFUtN1Y1N2hwRlNPWGZYVFQ5TXZxVjVpQTFib25IaS0walpsa3V6a0VRbVIxOEw5bVVYZFlWTzZuWWZrcFZtd2dUQVZEU00xX3VEVDBxanpod0lsaUFYbzFESXVJSWZKLUtmZDBNUVRXTk5ZaGw1SmRBWjJzNGQ0TzdXcmpsa3BhMXl1djBhc1hScXVxc0RaNzR1M1A2YzlrSWtVZw?oc=5",
-      "description": "Oil prices little changed but set for steepest monthly and quarterly losses since 2020 Reuters",
-      "publishedAt": "Tue, 30 Jun 2026 17:51:23 GMT",
+      "title": "Q2 Business Outlook Survey: Surprisingly robust sentiment amid oil shock - rbc.com",
+      "source": "rbc.com",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWWdvanBqOTNFODJyTzJ0S2FmNUh1d0NVYm1IVmFpVnRNdUU3aTRHLWNxR1R6aVpJSklDSnd1SmFOdDFmajNOWGs4cXFXNE9RZUp2WVVBeEI4NFRLQVBpVFVLaEZIazRyaDNJQ01la0ZmaGVsMW02emFwb21GdXVnUkZkQWM4MXpvMWlLTmxLSUJZSm16UHg0dExWcm1VZVRPX0hyQzZsMmRKVWF3NFh6Z3VsRC1pM241RjRLaTJpTkRJclZiVXkzeDNYLTM5YzV2WjdYZnJlUjRyQ0hPeVVhSjNCVTM1MkRXaXNydQ?oc=5",
+      "description": "Q2 Business Outlook Survey: Surprisingly robust sentiment amid oil shock rbc.com",
+      "publishedAt": "Mon, 06 Jul 2026 18:05:41 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -274,6 +247,33 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tc2JkNHVsWERpdWg5LVZFcnVIbHBDMkhjeXA5Sm5SUEg4NDNRWFNvMUNYSXFjODduM0FoZTFUTFJaV1RnY2szWmdGZHBkU3lQRkdVdGYxbHk4TTAwMkt3ZHY2VTF2R0xhTFh4QV9ieVBJMDEzMXBXdUlVZGRncE3SAYQBQVVfeXFMTUVRQ1kzQW1sY1Z2VHl6NUgzbW5VUmVUR2NDbk53QlJoaFJ1aExTZmY4dTBvUHpMODZaS2ZuWXE1U0dHdkVnOUltZVVBZjItOEhoUC13ZVhublBhOGx6el9BQ0VtZkY5RFNYSWZTRVRkN2hSNVJiNDFKVFFuUm1ZR1k3NE51?oc=5",
       "description": "Brent posts biggest monthly decline since March 2020 as traders monitor U.S.-Iran talks CNBC",
       "publishedAt": "Tue, 30 Jun 2026 10:13:57 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Big Oil Heads for Record Profits as Trump Turns Up the Heat on Gas Prices - Crude Oil Prices Today | OilPrice.com",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVDFOT01LOGpOOEtZeDBnVjQ2dV9SNUFHbGtOUTlGRDlLb0ZvT1VVd3lSNDFYUWtvSGVBZ2txMVduaDk2WmUtYUViR0c0OXU4RmQzU1RqT2k3QTVOMnYyZjFvbEpkZUVjaEF0QXRQVER5QVpDZGhDd2JyZ0VMT25odlRTSWMzQTVfOFhoY0NnWGlYX1EyNF9tWFJwcVFMZTFUcTlNTXRqNDNxX0FyazFwUHlqdkY0M0XSAbwBQVVfeXFMT1BURVJBYXoyaW9rMVQ0TFFFOVlOYVV6WEY1OTBDZzNjT0NUVUJzUUZsTlJIOFBnUk5ZQ1JDYzc2WlJpNmlyM0ZEaFJvQU0xMDlJUG9zR1hmeG42R1hDWWNtMS1QSXJ5eWswMTRpZTNValBqNlZoUTNPTnByS0cxYzdPNERjMlB1Q2ZxNGllQ3dWWDZwbnFmQUN3MUIwSDhJTEtuN2w2enBjWkpZS1VnZmludXplXzRzZ1NDZlk?oc=5",
+      "description": "Big Oil Heads for Record Profits as Trump Turns Up the Heat on Gas Prices Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Mon, 06 Jul 2026 22:00:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Current price of oil as of July 2, 2026 - Fortune",
+      "source": "Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1JRXdOQzJ3VXZCVkJ6UTYzYVVDUXhZMXBXT2ZtTmtjaVRxeDJSWmhnZEJBYndnMTFhRXZfTnJnMEVNTU02a3hSdEFyZjhnRmxnVE4zdm1pWUE2WS1uVjYyUWVR?oc=5",
+      "description": "Current price of oil as of July 2, 2026 Fortune",
+      "publishedAt": "Thu, 02 Jul 2026 13:40:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil prices little changed but set for steepest monthly and quarterly losses since 2020 - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdDFWV0lhZFUtN1Y1N2hwRlNPWGZYVFQ5TXZxVjVpQTFib25IaS0walpsa3V6a0VRbVIxOEw5bVVYZFlWTzZuWWZrcFZtd2dUQVZEU00xX3VEVDBxanpod0lsaUFYbzFESXVJSWZKLUtmZDBNUVRXTk5ZaGw1SmRBWjJzNGQ0TzdXcmpsa3BhMXl1djBhc1hScXVxc0RaNzR1M1A2YzlrSWtVZw?oc=5",
+      "description": "Oil prices little changed but set for steepest monthly and quarterly losses since 2020 Reuters",
+      "publishedAt": "Tue, 30 Jun 2026 17:51:23 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
