@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-10 07:29 UTC",
+  "generatedAt": "2026-07-11 06:08 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 168.9,
-    "premium": 186.9,
-    "diesel": 179.4
+    "regular": 165.9,
+    "premium": 183.9,
+    "diesel": 176.4
   },
   "history": {
     "labels": [
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Jul 10"
+      "Jul 11"
     ],
     "regular": [
       150.7,
@@ -75,7 +75,7 @@
       155.9,
       174.9,
       186.9,
-      168.9
+      165.9
     ],
     "premium": [
       168.7,
@@ -110,7 +110,7 @@
       173.9,
       192.9,
       204.9,
-      186.9
+      183.9
     ],
     "diesel": [
       161.2,
@@ -145,45 +145,45 @@
       166.4,
       185.4,
       197.4,
-      179.4
+      176.4
     ]
   },
   "prediction": {
     "labels": [
-      "Jul 11",
       "Jul 12",
       "Jul 13",
       "Jul 14",
       "Jul 15",
       "Jul 16",
-      "Jul 17"
+      "Jul 17",
+      "Jul 18"
     ],
     "regular": [
-      169.8,
-      170.8,
-      171.7,
-      172.7,
-      173.6,
-      174.5,
-      175.5
+      166.7,
+      167.4,
+      168.2,
+      168.9,
+      169.7,
+      170.4,
+      171.2
     ],
     "premium": [
-      187.8,
-      188.8,
-      189.7,
-      190.7,
-      191.6,
-      192.5,
-      193.5
+      184.7,
+      185.4,
+      186.2,
+      186.9,
+      187.7,
+      188.4,
+      189.2
     ],
     "diesel": [
-      180.3,
-      181.3,
-      182.2,
-      183.2,
-      184.1,
-      185.0,
-      186.0
+      177.2,
+      177.9,
+      178.7,
+      179.4,
+      180.2,
+      180.9,
+      181.7
     ]
   },
   "news": [
@@ -206,11 +206,20 @@
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Jump over 7% as Iran Ceasefire Declared 'Over' - Crude Oil Prices Today | OilPrice.com",
+      "title": "Oil Prices Rally on Renewed Hormuz Supply Risks - Crude Oil Prices Today | OilPrice.com",
       "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR0NFZG03MTV2b0NXNURla19GbGJOZ1ZUQkJKa1R4RVV0NGZMSUVuLU9Ed2ZGUFV5NURtVkF2djJKZXRyQ21sT1JTcnNLc1V5NVFPZDhhdWpIemtmc05QQXhfMDVaaVZTWDNtaVZfZEFQdFB0WHV2bFJwVXY2Mjl1OW1vUHFZRWpVQTBJZWJlU0g4U3Z4UVFSR2JXajlFU29pck0tVW9MQ2I4TDJYZkVz0gG0AUFVX3lxTE1tQ1dabERlNi10WWExXzdTVFVzcm9aQzNDWmpvcWN3bHlLVFZ4OW9TUnQ5QllpLUliNXZ1UlJSaC1zUENYc01ZMkpjd1NMcGFMMlNZbUxKaC1FMUZ3MFlRTlNaSllFaFhvbzJzSnp0Sy1Jb0ZtUHRiN0xBRDkyRnFYLWpzRnFzdWpsWjdzN3B5OE02dTUzSUlNRTQ4aFBEUTh1eHhhTkRIdHNaejZZeWhQLXBMMA?oc=5",
-      "description": "Oil Prices Jump over 7% as Iran Ceasefire Declared 'Over' Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Wed, 08 Jul 2026 15:31:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeHptbG1ianVmSlpOZVBlM294cGNHVEx0djNuX0c4Z0NydGZ2TDlhN2dRMnlMOW1xYTVyenVWOTl0SXJEQURwNVZGcUxLQ21hMktJaGNaSGo4N2dsbU9vYmY2dnZtcjYzNzU4NTJFaURIWkV0Z3h5TmlkZU9oX2pkQnpEMkNtVlBKTHlEOTA4Z0t6VGFHMmpaTHNjb9IBoAFBVV95cUxPMDdoMDBkYlMtQ2xvRUpQdEd5NWMwR3Y4UGNCMzFVSXhPNHVRMkVIT2xiU2kxWGxOSmFhWms1REU0aXBMbkplN3IzU0VhQl9UcWsxUEVwNlNQdURPa2xvWHpwSHczR3lTMmtoZnVrX3YwNXJWYWRoc2dGeHJ3R3daRGhVd3NYemlpNUhVU0g0RUktUjJMVTRIeUxHaUNhOGRf?oc=5",
+      "description": "Oil Prices Rally on Renewed Hormuz Supply Risks Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Fri, 10 Jul 2026 11:30:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "From Hormuz to the pump: Why oil price shocks hit consumers differently – Analysis - IEA – International Energy Agency",
+      "source": "IEA – International Energy Agency",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNnhObUZxUmdCN2JRU1pkeWVpV2ZYQkdRSHRpQ0s0WkdKclcwM0ROQWNwQmt1R1JMWFNTcFQyVkJtTnBtYmZvNHJTaEE1UlVueERhQkdUamRBWkhiMHFRMEQ2aG54X2g5bGhpLTZ1WldBalBWMy1aOTdycmpOY19ONi03MU91REdONHBhdE8tclZLLUE3QUN2WHNXd2lJdm9ZTFd5XzB3?oc=5",
+      "description": "From Hormuz to the pump: Why oil price shocks hit consumers differently – Analysis IEA – International Energy Agency",
+      "publishedAt": "Thu, 09 Jul 2026 16:07:18 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -233,15 +242,6 @@
       "impact": "medium"
     },
     {
-      "title": "Oil surges as US strikes Iran, reversing return to pre-war prices - Al Jazeera",
-      "source": "Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcjV3T2lRUVJLWVktdEd0T1ZQb2QyR3g2bXZ2c0hwUGVaVWtMODQxeTRoVzBtaDBUOUg3clk0SWszUHl5bHJ5cFpEbURDeHJKZE84NEhPSThEUDloaWotZE9qeU9keEFHS19MLThfSnBRVHl3UkdCanNHd1VBMEFWUzRvUHpFWDRvZVktUTZHZnFqN0hzeFhDNTh6RThfdUZaaWNyMUlfS3JNRGdO0gGyAUFVX3lxTE51SmNDRk5mOW5HdVV4WUNwUnZmb3p2bDNwcUYyRFBpT2Z5YjBRU0VLYVFZSXJ0WFpGUjUyYjhNcGZhUmxWTjZEcUFWNm1OMmJrTzV1emR4VXJHRU13UnpabmpvT1VpTUY0RXRGX2I2enZKQTJkVi16WmxCczJZWjhQOUdLMUszdXhwYnhVS3ZaOVR2NkNFS1dCSG5ncUpRSkpPSFhYNzVaYXI4Wm9tNnd0WkE?oc=5",
-      "description": "Oil surges as US strikes Iran, reversing return to pre-war prices Al Jazeera",
-      "publishedAt": "Wed, 08 Jul 2026 07:27:26 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
       "title": "Current price of oil as of July 9, 2026 - Fortune",
       "source": "Fortune",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wZVRWRXR5VWFZVFhzYW1pZUFTYXZLY0piMDBEQTU3VHJHRjRPRHhXQWlwalV6VWlNUUZsWU1sS3BwLVVTSkRIX2tCSG1vT2tTYlpuSi1UQjJ1Y1Vfa1hwWlN3?oc=5",
@@ -251,29 +251,29 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices rise sharply after Iran launches attacks on tankers near strait of Hormuz - The Guardian",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTHZCN0g1UHJ1czVIT1dORUI2RW1sWWhYVFBrWFlCSlZaRFdjYW5STG9vMzZxZ1lGcUhubEdoV1Q5NFJTM1A3NnIzQ0pkM3VkazlycmdqLWpRRHEwRzdhc3J3M2RsSGlRNVh0Tk5MQ1dGUXliWk9PWkdzcV9JNHlEMnA4ZFB3empYN2x3VG5DZmFhbHdUUTlUbUZlVFBYbkk?oc=5",
-      "description": "Oil prices rise sharply after Iran launches attacks on tankers near strait of Hormuz The Guardian",
-      "publishedAt": "Wed, 08 Jul 2026 15:18:00 GMT",
+      "title": "Oil surges as US strikes Iran, reversing return to pre-war prices - Al Jazeera",
+      "source": "Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcjV3T2lRUVJLWVktdEd0T1ZQb2QyR3g2bXZ2c0hwUGVaVWtMODQxeTRoVzBtaDBUOUg3clk0SWszUHl5bHJ5cFpEbURDeHJKZE84NEhPSThEUDloaWotZE9qeU9keEFHS19MLThfSnBRVHl3UkdCanNHd1VBMEFWUzRvUHpFWDRvZVktUTZHZnFqN0hzeFhDNTh6RThfdUZaaWNyMUlfS3JNRGdO0gGyAUFVX3lxTE51SmNDRk5mOW5HdVV4WUNwUnZmb3p2bDNwcUYyRFBpT2Z5YjBRU0VLYVFZSXJ0WFpGUjUyYjhNcGZhUmxWTjZEcUFWNm1OMmJrTzV1emR4VXJHRU13UnpabmpvT1VpTUY0RXRGX2I2enZKQTJkVi16WmxCczJZWjhQOUdLMUszdXhwYnhVS3ZaOVR2NkNFS1dCSG5ncUpRSkpPSFhYNzVaYXI4Wm9tNnd0WkE?oc=5",
+      "description": "Oil surges as US strikes Iran, reversing return to pre-war prices Al Jazeera",
+      "publishedAt": "Wed, 08 Jul 2026 07:27:26 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "High Oil Prices Are Fueling a New Heavy Crude Rush in Canada - Crude Oil Prices Today | OilPrice.com",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSmpoaG9yYWpjTmRVZ2dMcXZYVm5xQng3OXlYaWZPcGIwNEtFbTlPc1JVUU91cGhCbkQ0dWdQLXlzVzEyWGFDOTFGTzliZzRmZnl5SHZqNUJpeXo2WWFseHJnUktnbVFhWFY0akZzUm9RaG5WNmJscnlGT0x5LXJ4bG9rOTlNbkVjQWRSMDhickRMRzVWZndscDFGNFRJeUFFcWJDVTN30gGrAUFVX3lxTE05M0JtaVFaV2UwNnVJb0lKRERTYUF5UHM4X0ZvX2hLSlE0Qm9sNGgyZXItRHpub01MQ3Y0YlduU0FlQWdyWXNVazVnOGhWM3RZQTkxV2d3a1ExWkVuYmtVWURxbHVZWGxiV19BTGJqclJGWjFsUGI3OHJXZVN1MmxnVnNmZmEwVzEwQ3hvY1M1cjM5MDhYVXhsZkw0QWY4c3E1emhpdk1nMWpLOA?oc=5",
-      "description": "High Oil Prices Are Fueling a New Heavy Crude Rush in Canada Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Thu, 09 Jul 2026 14:00:00 GMT",
+      "title": "Oil prices jump 5% after U.S. revokes Iran oil sanctions waiver following ship attacks - NBC News",
+      "source": "NBC News",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY1BCTm1ITHZ6TFFsRUJKZ1RRTXJmVVZBZGdVSjRzVlVyc2kzNGJkanFHUXJKU3BkLTdEVm1zUWVrVVEtQktGcHpDNU9YLXJvUEJTUWxhd21Pbk1SR1BFMW9PLVdCV04yakprYTFPWktOR1c0OVVfSkxHNHhRT3VDcF90cTVENTlNUGhTZ1RlT01zZw?oc=5",
+      "description": "Oil prices jump 5% after U.S. revokes Iran oil sanctions waiver following ship attacks NBC News",
+      "publishedAt": "Tue, 07 Jul 2026 20:07:53 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil little changed as Saudi cuts prices, OPEC+ boosts target - CNBC",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSHFERHlVbjVLeEFsMnA5T2h2TlV0SkhZM3o4clU4eFk3Y0gzenZReHVyYzIwSUdmZkFVNHA5SXV1WjBNV1NFS3pNX2pIRTNQVl80MUFKc1RkemdQaVQydGdTQzVfcUFkbHA5WGVXM2xPR1hmTmV6YUxybDY1eVNyZXNSbzBldTNNNFdSUzBDRkRhUdIBlwFBVV95cUxPb1Rha1RTZHdXeUd2bVdTT2xHN3Y3YUtuUW9HUzZtOVhkR0VOU1FLZW5sNXYtQ1FwaXdXV2dhN1VNTzhENjBDQy1fT25SWTFrbkFQbjZiQlk2X3BEOW0wbFZyNjV3Szh4b2laM1FWcndDenBwZFI4dXJGckp1M0h2eUNWUTFhWXFuamNCWHduOGIwMGM3TG9Z?oc=5",
-      "description": "Oil little changed as Saudi cuts prices, OPEC+ boosts target CNBC",
-      "publishedAt": "Mon, 06 Jul 2026 01:34:00 GMT",
+      "title": "Oil prices jump 5 percent after U.S. revokes Iran oil sanctions waiver - The Hill",
+      "source": "The Hill",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQkhxNkVxZzE1NUo1U1RibWhSRnBWRlIzMFBkU1lsODN5YllaRkdXeTlXX2hTWlZETkVXTXk0WFplZ1NLdVRNWThlcktnM0NBaEhaNnJwVjdPaWtTSHJhSDJLU3B3Q3NGdWFES1dvMm9OTjB2bjBHS3hjSFhZWjFTcEx0dUs0WlJzZG5xZ0dNVTRGNzVxTzh1T1JpeDVOOE96NlRpVnVwZWhObjjSAbABQVVfeXFMTm1PcWg3NVhpZS1IbWs0cnVOZHVjb3kyTU9tWXMyNVhtTzhjNm02d0gzU1JkRnZLMm5IN3ZoN0xfQ3Z4cEE4SWwwb0dJOHoyakh3WHZEUTk5TV9WX0dZRXE3S1FOWklMbW1CVnV5ZUxDWXp0SU1PY1ZfQjVGdW1TT3N3SUtUNnBGVmloeVhTVU1mdXctQnRRVDRnaTdTUWxOQkZkYUNuT1R2R1d0aVZ2a1U?oc=5",
+      "description": "Oil prices jump 5 percent after U.S. revokes Iran oil sanctions waiver The Hill",
+      "publishedAt": "Tue, 07 Jul 2026 22:56:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
