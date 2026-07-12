@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-11 06:08 UTC",
+  "generatedAt": "2026-07-12 06:27 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 165.9,
-    "premium": 183.9,
-    "diesel": 176.4
+    "regular": 163.9,
+    "premium": 181.9,
+    "diesel": 174.4
   },
   "history": {
     "labels": [
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Jul 11"
+      "Jul 12"
     ],
     "regular": [
       150.7,
@@ -75,7 +75,7 @@
       155.9,
       174.9,
       186.9,
-      165.9
+      163.9
     ],
     "premium": [
       168.7,
@@ -110,7 +110,7 @@
       173.9,
       192.9,
       204.9,
-      183.9
+      181.9
     ],
     "diesel": [
       161.2,
@@ -145,45 +145,45 @@
       166.4,
       185.4,
       197.4,
-      176.4
+      174.4
     ]
   },
   "prediction": {
     "labels": [
-      "Jul 12",
       "Jul 13",
       "Jul 14",
       "Jul 15",
       "Jul 16",
       "Jul 17",
-      "Jul 18"
+      "Jul 18",
+      "Jul 19"
     ],
     "regular": [
-      166.7,
-      167.4,
-      168.2,
-      168.9,
-      169.7,
-      170.4,
-      171.2
+      164.5,
+      165.2,
+      165.8,
+      166.4,
+      167.1,
+      167.7,
+      168.3
     ],
     "premium": [
-      184.7,
-      185.4,
-      186.2,
-      186.9,
-      187.7,
-      188.4,
-      189.2
+      182.5,
+      183.2,
+      183.8,
+      184.4,
+      185.1,
+      185.7,
+      186.3
     ],
     "diesel": [
-      177.2,
-      177.9,
-      178.7,
-      179.4,
-      180.2,
-      180.9,
-      181.7
+      175.0,
+      175.7,
+      176.3,
+      176.9,
+      177.6,
+      178.2,
+      178.8
     ]
   },
   "news": [
@@ -233,6 +233,24 @@
       "impact": "medium"
     },
     {
+      "title": "Oil surges as US strikes Iran, reversing return to pre-war prices - Al Jazeera",
+      "source": "Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcjV3T2lRUVJLWVktdEd0T1ZQb2QyR3g2bXZ2c0hwUGVaVWtMODQxeTRoVzBtaDBUOUg3clk0SWszUHl5bHJ5cFpEbURDeHJKZE84NEhPSThEUDloaWotZE9qeU9keEFHS19MLThfSnBRVHl3UkdCanNHd1VBMEFWUzRvUHpFWDRvZVktUTZHZnFqN0hzeFhDNTh6RThfdUZaaWNyMUlfS3JNRGdO0gGyAUFVX3lxTE51SmNDRk5mOW5HdVV4WUNwUnZmb3p2bDNwcUYyRFBpT2Z5YjBRU0VLYVFZSXJ0WFpGUjUyYjhNcGZhUmxWTjZEcUFWNm1OMmJrTzV1emR4VXJHRU13UnpabmpvT1VpTUY0RXRGX2I2enZKQTJkVi16WmxCczJZWjhQOUdLMUszdXhwYnhVS3ZaOVR2NkNFS1dCSG5ncUpRSkpPSFhYNzVaYXI4Wm9tNnd0WkE?oc=5",
+      "description": "Oil surges as US strikes Iran, reversing return to pre-war prices Al Jazeera",
+      "publishedAt": "Wed, 08 Jul 2026 07:27:26 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Occidental’s quarterly realized oil prices jump amid Iran war disruption - BOE Report",
+      "source": "BOE Report",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZHdqajA0X1Z1RHdkeEtLS1RXeWZNanlXS2xDTDNWeExNaF9KVnBDeW1XeWxaUlZEU0xiQzFab1d5VVpYd0thaUVPR0RRVGhyWlBRazJoY2RyeHAtOHJUX19halVpQTFxSHNiczJzcnBTMkRTREFtMEwxR0xXaDRGSzlXS1FHTUNIRW05bGM5QnFaRy1lSElvNGZvNGs1S0xVdi1XQTM4Y2rSAa4BQVVfeXFMTzY4TUVEZldENGt0RTNfY3pMMDBlLUM0ckZxOE5YRXlYbWFxd1BNRlNMRy1HS1JTT05mZXVTMk1zU1pLTTNQd2I1WUJFUUpYVHRnbFM2WmE5VGFOczRzdENHNExBWlFfc2hqSU9RQ244VGItbDRTamVzamIyNjhlN3VTVXZXMnlFbEVBWjBfVGI0NjcyVHpnR3ROMEw4MUZOVEF3WHhmN0FpOUlXOUlR?oc=5",
+      "description": "Occidental’s quarterly realized oil prices jump amid Iran war disruption BOE Report",
+      "publishedAt": "Fri, 10 Jul 2026 21:04:38 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
       "title": "Oil prices settle at pre-Iran war levels as crude output grows - Reuters",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZkI2QThocHlWRUVKSHgtb2N1WmlUX2hDQ3MxZloycVItY3d4N2Nub2FTbWYzd1hPTlZXa2VPdEhfTGgxU2g3UlBrS0VvemRZTnI2SU9HZklMOEt4d2h1U1U2ZkpZT3dscE5SRzMtTHNqVXRGcy0yaWdXU3JxemdJRWNITEhVSkFSQnV0dnhKWlJWcF8xVWhNb0k4M1FaMDNtaHc?oc=5",
@@ -251,29 +269,11 @@
       "impact": "medium"
     },
     {
-      "title": "Oil surges as US strikes Iran, reversing return to pre-war prices - Al Jazeera",
-      "source": "Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcjV3T2lRUVJLWVktdEd0T1ZQb2QyR3g2bXZ2c0hwUGVaVWtMODQxeTRoVzBtaDBUOUg3clk0SWszUHl5bHJ5cFpEbURDeHJKZE84NEhPSThEUDloaWotZE9qeU9keEFHS19MLThfSnBRVHl3UkdCanNHd1VBMEFWUzRvUHpFWDRvZVktUTZHZnFqN0hzeFhDNTh6RThfdUZaaWNyMUlfS3JNRGdO0gGyAUFVX3lxTE51SmNDRk5mOW5HdVV4WUNwUnZmb3p2bDNwcUYyRFBpT2Z5YjBRU0VLYVFZSXJ0WFpGUjUyYjhNcGZhUmxWTjZEcUFWNm1OMmJrTzV1emR4VXJHRU13UnpabmpvT1VpTUY0RXRGX2I2enZKQTJkVi16WmxCczJZWjhQOUdLMUszdXhwYnhVS3ZaOVR2NkNFS1dCSG5ncUpRSkpPSFhYNzVaYXI4Wm9tNnd0WkE?oc=5",
-      "description": "Oil surges as US strikes Iran, reversing return to pre-war prices Al Jazeera",
-      "publishedAt": "Wed, 08 Jul 2026 07:27:26 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
       "title": "Oil prices jump 5% after U.S. revokes Iran oil sanctions waiver following ship attacks - NBC News",
       "source": "NBC News",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY1BCTm1ITHZ6TFFsRUJKZ1RRTXJmVVZBZGdVSjRzVlVyc2kzNGJkanFHUXJKU3BkLTdEVm1zUWVrVVEtQktGcHpDNU9YLXJvUEJTUWxhd21Pbk1SR1BFMW9PLVdCV04yakprYTFPWktOR1c0OVVfSkxHNHhRT3VDcF90cTVENTlNUGhTZ1RlT01zZw?oc=5",
       "description": "Oil prices jump 5% after U.S. revokes Iran oil sanctions waiver following ship attacks NBC News",
       "publishedAt": "Tue, 07 Jul 2026 20:07:53 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices jump 5 percent after U.S. revokes Iran oil sanctions waiver - The Hill",
-      "source": "The Hill",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQkhxNkVxZzE1NUo1U1RibWhSRnBWRlIzMFBkU1lsODN5YllaRkdXeTlXX2hTWlZETkVXTXk0WFplZ1NLdVRNWThlcktnM0NBaEhaNnJwVjdPaWtTSHJhSDJLU3B3Q3NGdWFES1dvMm9OTjB2bjBHS3hjSFhZWjFTcEx0dUs0WlJzZG5xZ0dNVTRGNzVxTzh1T1JpeDVOOE96NlRpVnVwZWhObjjSAbABQVVfeXFMTm1PcWg3NVhpZS1IbWs0cnVOZHVjb3kyTU9tWXMyNVhtTzhjNm02d0gzU1JkRnZLMm5IN3ZoN0xfQ3Z4cEE4SWwwb0dJOHoyakh3WHZEUTk5TV9WX0dZRXE3S1FOWklMbW1CVnV5ZUxDWXp0SU1PY1ZfQjVGdW1TT3N3SUtUNnBGVmloeVhTVU1mdXctQnRRVDRnaTdTUWxOQkZkYUNuT1R2R1d0aVZ2a1U?oc=5",
-      "description": "Oil prices jump 5 percent after U.S. revokes Iran oil sanctions waiver The Hill",
-      "publishedAt": "Tue, 07 Jul 2026 22:56:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
