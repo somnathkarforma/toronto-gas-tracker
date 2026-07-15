@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-14 06:05 UTC",
+  "generatedAt": "2026-07-15 06:09 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 163.9,
-    "premium": 181.9,
-    "diesel": 174.4
+    "regular": 170.9,
+    "premium": 188.9,
+    "diesel": 181.4
   },
   "history": {
     "labels": [
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Jul 14"
+      "Jul 15"
     ],
     "regular": [
       150.7,
@@ -75,7 +75,7 @@
       155.9,
       174.9,
       186.9,
-      163.9
+      170.9
     ],
     "premium": [
       168.7,
@@ -110,7 +110,7 @@
       173.9,
       192.9,
       204.9,
-      181.9
+      188.9
     ],
     "diesel": [
       161.2,
@@ -145,45 +145,45 @@
       166.4,
       185.4,
       197.4,
-      174.4
+      181.4
     ]
   },
   "prediction": {
     "labels": [
-      "Jul 15",
       "Jul 16",
       "Jul 17",
       "Jul 18",
       "Jul 19",
       "Jul 20",
-      "Jul 21"
+      "Jul 21",
+      "Jul 22"
     ],
     "regular": [
-      164.5,
-      165.2,
-      165.8,
-      166.4,
-      167.1,
-      167.7,
-      168.3
+      171.9,
+      172.8,
+      173.8,
+      174.7,
+      175.7,
+      176.7,
+      177.6
     ],
     "premium": [
-      182.5,
-      183.2,
-      183.8,
-      184.4,
-      185.1,
-      185.7,
-      186.3
+      189.9,
+      190.8,
+      191.8,
+      192.7,
+      193.7,
+      194.7,
+      195.6
     ],
     "diesel": [
-      175.0,
-      175.7,
-      176.3,
-      176.9,
-      177.6,
-      178.2,
-      178.8
+      182.4,
+      183.3,
+      184.3,
+      185.2,
+      186.2,
+      187.2,
+      188.1
     ]
   },
   "news": [
@@ -206,11 +206,11 @@
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Up As U.S. Cancels Iran’s Sales License, Launches Strikes - Forbes",
-      "source": "Forbes",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaHQ0S1RSQk44ZGg5T3JFMVZMRFdnUGpOazdqQm5ScnhJZnhIcEJ5TDZwUmRxeGY5SWhJaHA1bF9fVkpEejBKd211M0UwOFRxX0VxcEdtcFo1dDVJM1MweHFpZ1AyVlFRbmRTWk03V09lZGx3RDhHdi1uNXlLWXNkZERWVjBEUFM2Rm9IRVFSd0lJMHFzaGtwMjNUNVdpTGJMRS1MTWVnZDBsV2pUaU0xNHlfMkFMV21yWlE?oc=5",
-      "description": "Oil Prices Up As U.S. Cancels Iran’s Sales License, Launches Strikes Forbes",
-      "publishedAt": "Tue, 07 Jul 2026 22:22:54 GMT",
+      "title": "Oil Prices Rally on Renewed Hormuz Supply Risks - Crude Oil Prices Today | OilPrice.com",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeHptbG1ianVmSlpOZVBlM294cGNHVEx0djNuX0c4Z0NydGZ2TDlhN2dRMnlMOW1xYTVyenVWOTl0SXJEQURwNVZGcUxLQ21hMktJaGNaSGo4N2dsbU9vYmY2dnZtcjYzNzU4NTJFaURIWkV0Z3h5TmlkZU9oX2pkQnpEMkNtVlBKTHlEOTA4Z0t6VGFHMmpaTHNjb9IBoAFBVV95cUxPMDdoMDBkYlMtQ2xvRUpQdEd5NWMwR3Y4UGNCMzFVSXhPNHVRMkVIT2xiU2kxWGxOSmFhWms1REU0aXBMbkplN3IzU0VhQl9UcWsxUEVwNlNQdURPa2xvWHpwSHczR3lTMmtoZnVrX3YwNXJWYWRoc2dGeHJ3R3daRGhVd3NYemlpNUhVU0g0RUktUjJMVTRIeUxHaUNhOGRf?oc=5",
+      "description": "Oil Prices Rally on Renewed Hormuz Supply Risks Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Fri, 10 Jul 2026 11:30:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -224,15 +224,6 @@
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Rally on Renewed Hormuz Supply Risks - Crude Oil Prices Today | OilPrice.com",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeHptbG1ianVmSlpOZVBlM294cGNHVEx0djNuX0c4Z0NydGZ2TDlhN2dRMnlMOW1xYTVyenVWOTl0SXJEQURwNVZGcUxLQ21hMktJaGNaSGo4N2dsbU9vYmY2dnZtcjYzNzU4NTJFaURIWkV0Z3h5TmlkZU9oX2pkQnpEMkNtVlBKTHlEOTA4Z0t6VGFHMmpaTHNjb9IBoAFBVV95cUxPMDdoMDBkYlMtQ2xvRUpQdEd5NWMwR3Y4UGNCMzFVSXhPNHVRMkVIT2xiU2kxWGxOSmFhWms1REU0aXBMbkplN3IzU0VhQl9UcWsxUEVwNlNQdURPa2xvWHpwSHczR3lTMmtoZnVrX3YwNXJWYWRoc2dGeHJ3R3daRGhVd3NYemlpNUhVU0g0RUktUjJMVTRIeUxHaUNhOGRf?oc=5",
-      "description": "Oil Prices Rally on Renewed Hormuz Supply Risks Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Fri, 10 Jul 2026 11:30:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
       "title": "Oil prices jump as US and Iran trade attacks over Strait of Hormuz - Al Jazeera",
       "source": "Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVXpPQW5PT21veE5mSm1GdHRGSUd6UlNmZl9VbnluTWZmUE00UURUN3dIcFVJc0IwZ3pjRUY3UFk0ZzQ3QWJvOTVKMFIyMHZsUnpMRHI5eWllRllfVGtsYzhDN0t4QlZUN0tGaGtTQXhMRG9tN0YyZTRGaV84bjRPR1E4M2VwbHdMZDJaYURWeEJTRUxqR090SGNkcWdQeVhUY3lBbk13aExiX3pNMEFv0gG0AUFVX3lxTE80Z3RnTk1BTHFySjc4N3ZmYXkyQkdEOTdNTlBNRTdhT0xadFk2d05FYUpvc0dsOENwN0hRdE5MZml1d0RpMGxwd0dxaGhlVktyQ3Z5V2RaM0ZkNWs3VHBOS05YQ3V2djNoOHNPT1NLc216RmtiM1Q2WVNjbGl3aktBRUxxRjVneHpXTTZmOWlmSUZMTEpaODBfQnA1eUNmcWQtZ2xYd1BFcV9YU2pROHJOTF9Haw?oc=5",
@@ -242,20 +233,11 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices leap and stocks fall as Trump reinstates Hormuz blockade on Iranian shipping - The Guardian",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQXlyeWtGOUl1T05Wa1IzY0ZtNlZzbVJuUjlQaU41V3NHYUJSb0ZoNTAyaWFBMEpuYlk5M0FDWENtSGZTZUk5OUJhMXdYUDVhUm1YZVMwcTdWa01FaVlsTEZmdVhEblUweHlaWEJzdndOY2xRN3dMRDJraWRtRkdEdjdrRjFael8zclZfQVA5LUZ5bFcxTU9UaGdmTzNaaUdueXVMUm1qRGhSdi1GVk42QnQzaDVjZzdXSmZLS3JR?oc=5",
-      "description": "Oil prices leap and stocks fall as Trump reinstates Hormuz blockade on Iranian shipping The Guardian",
-      "publishedAt": "Mon, 13 Jul 2026 07:18:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices jump more than 4% after Trump threatens to bomb Iran and reimpose naval blockade - CNBC",
+      "title": "Oil prices rise as U.S. launches new Iran airstrikes, while Trump abandons Strait of Hormuz fee - CNBC",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1jeDRpOERtcVZVVzR6d2gyVzdlRzZwV0dnV25fcTBFTXNkUkJpV0ZJbG4xMUNPUTUteTFMakRJdC1ZX1I1LTBMOEw0MHBqUzdJbUt3dFJMRUw2MnBEUFdmTDJmLU1sdU1uczJxNjluZXhLaWJSXzhKZ1RYSG7SAYIBQVVfeXFMTThTc201Q3RfZWVMYUtkX21SaEJRWFhsNHBOWTE2WDZ5UEVFMHdrSURjYWtjckRhSDBZTEZPY1ctUUtwUy1QRUxrM1RHQlQyWXhsY0NBbEZjcXRZeDhKS0VRN0llU3MyOFhMNlBIazk5RHVtbVBjSmpCVEVjUmhfZG54dw?oc=5",
-      "description": "Oil prices jump more than 4% after Trump threatens to bomb Iran and reimpose naval blockade CNBC",
-      "publishedAt": "Wed, 08 Jul 2026 00:26:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUFp4M3l1OG8tUnZQelY4Szg4TmxlblAxbUVLOGYyajUzYXZIbHd0a1pGOGNKWnZKUE5lMzl0WDlySmJENUdWLW1jVXU4WlpfdkRqSU9nRk5JV09zQjRTUnFzTlNSYVItQjd3bkhoYmJGMGU2WkhjM1NOMVgtOVdIbDFVWk1MeW5CUmNEaXBma9IBlAFBVV95cUxOUnVvcWs2VDdLVW05bHZ0d2hRckdoNzBNOTJocFBxakQ1Tkw5d24tcFQ2bW1JdkpDN1ZUU0dNYUNBZ3FOQmFrbzlEWGlCZ1dhb0tnZ05kajMwRkgtb09HUzYxRUtMRFc5VEJSdThHcEd4VWRBcS1nMFM0aXR3aGVxbUNoRkYyd1MxenpQcEZReXpsUlBi?oc=5",
+      "description": "Oil prices rise as U.S. launches new Iran airstrikes, while Trump abandons Strait of Hormuz fee CNBC",
+      "publishedAt": "Tue, 14 Jul 2026 00:32:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -269,11 +251,29 @@
       "impact": "medium"
     },
     {
+      "title": "Oil prices leap and stocks fall as Trump reinstates Hormuz blockade on Iranian shipping - The Guardian",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQXlyeWtGOUl1T05Wa1IzY0ZtNlZzbVJuUjlQaU41V3NHYUJSb0ZoNTAyaWFBMEpuYlk5M0FDWENtSGZTZUk5OUJhMXdYUDVhUm1YZVMwcTdWa01FaVlsTEZmdVhEblUweHlaWEJzdndOY2xRN3dMRDJraWRtRkdEdjdrRjFael8zclZfQVA5LUZ5bFcxTU9UaGdmTzNaaUdueXVMUm1qRGhSdi1GVk42QnQzaDVjZzdXSmZLS3JR?oc=5",
+      "description": "Oil prices leap and stocks fall as Trump reinstates Hormuz blockade on Iranian shipping The Guardian",
+      "publishedAt": "Mon, 13 Jul 2026 07:18:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
       "title": "Current price of oil as of July 10, 2026 - Fortune",
       "source": "Fortune",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE11QURZU1dYYUJReXI3bXl5VDhac0hnRzk4YkEyVEFqV3pTMFhIQlJSeG1mdUdsbFAydHFXMXZRQnJsOXhILWh6RGVycVVMZjlwMDVsVnZGMmVTUm5wZEg4OENn?oc=5",
       "description": "Current price of oil as of July 10, 2026 Fortune",
       "publishedAt": "Fri, 10 Jul 2026 10:17:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Prices at Canadian pumps rising again as oil climbs to 4-week highs - CBC",
+      "source": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mV1dIZW9vSzNpbERrak1fdm1yZGNvNXk5NWl6R01UTjhlaEpfYzQxbWlHblNwMUoyLThxdVdwSld4QVh0R2VNamZPSThheTZXNktjVWFjZ0xsWkdUNWR5eUE1ZFo3dUJ0OTJndg?oc=5",
+      "description": "Prices at Canadian pumps rising again as oil climbs to 4-week highs CBC",
+      "publishedAt": "Tue, 14 Jul 2026 20:10:25 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
