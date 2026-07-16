@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-15 06:09 UTC",
+  "generatedAt": "2026-07-16 06:11 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 170.9,
-    "premium": 188.9,
-    "diesel": 181.4
+    "regular": 172.9,
+    "premium": 190.9,
+    "diesel": 183.4
   },
   "history": {
     "labels": [
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Jul 15"
+      "Jul 16"
     ],
     "regular": [
       150.7,
@@ -75,7 +75,7 @@
       155.9,
       174.9,
       186.9,
-      170.9
+      172.9
     ],
     "premium": [
       168.7,
@@ -110,7 +110,7 @@
       173.9,
       192.9,
       204.9,
-      188.9
+      190.9
     ],
     "diesel": [
       161.2,
@@ -145,63 +145,54 @@
       166.4,
       185.4,
       197.4,
-      181.4
+      183.4
     ]
   },
   "prediction": {
     "labels": [
-      "Jul 16",
       "Jul 17",
       "Jul 18",
       "Jul 19",
       "Jul 20",
       "Jul 21",
-      "Jul 22"
+      "Jul 22",
+      "Jul 23"
     ],
     "regular": [
-      171.9,
-      172.8,
-      173.8,
-      174.7,
-      175.7,
+      173.9,
+      174.8,
+      175.8,
       176.7,
-      177.6
+      177.7,
+      178.7,
+      179.6
     ],
     "premium": [
-      189.9,
-      190.8,
-      191.8,
-      192.7,
-      193.7,
+      191.9,
+      192.8,
+      193.8,
       194.7,
-      195.6
+      195.7,
+      196.7,
+      197.6
     ],
     "diesel": [
-      182.4,
-      183.3,
-      184.3,
-      185.2,
-      186.2,
+      184.4,
+      185.3,
+      186.3,
       187.2,
-      188.1
+      188.2,
+      189.2,
+      190.1
     ]
   },
   "news": [
     {
-      "title": "Oil prices jump and stocks mostly fall after Trump says ceasefire with Iran is 'over' - CBC",
+      "title": "Prices at Canadian pumps rising again as oil climbs to 4-week highs - CBC",
       "source": "CBC",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA2T2c0aUZleXhFWUFKMTVVMmtQV3o3Q19fN1FLNEd6c1ZpOWhEQ2RVMXBzdjZOWnh6Qjg3TlZJWlZDOGhQWWNvUVByaG12MHg1VzZQYkJvMlNjSm82UUloY214d1BJNG9ZTVB4Q0ZKdmJQSjJ3bFMxLTdNUQ?oc=5",
-      "description": "Oil prices jump and stocks mostly fall after Trump says ceasefire with Iran is 'over' CBC",
-      "publishedAt": "Wed, 08 Jul 2026 20:40:15 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "The oil shock isn't over, it has just changed shape and stock market investors need to take notice - Financial Post",
-      "source": "Financial Post",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSkNsRVI4Ni1DdWU0aWZBbENVWFY1U0prLTNZWWVRbVl2dFhiTkx0VWRldkdBNGp0UmU1UkhTMDdHSnR0UmxWZHJTSnpxQWo4TmdKWXkwSmpGU3l4TlRtWkp4eG9XR1VmaVVqNjlUWjVMTURUQXI5Zk5rNG5iam85U255UWdMdw?oc=5",
-      "description": "The oil shock isn't over, it has just changed shape and stock market investors need to take notice Financial Post",
-      "publishedAt": "Mon, 13 Jul 2026 10:05:44 GMT",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mV1dIZW9vSzNpbERrak1fdm1yZGNvNXk5NWl6R01UTjhlaEpfYzQxbWlHblNwMUoyLThxdVdwSld4QVh0R2VNamZPSThheTZXNktjVWFjZ0xsWkdUNWR5eUE1ZFo3dUJ0OTJndg?oc=5",
+      "description": "Prices at Canadian pumps rising again as oil climbs to 4-week highs CBC",
+      "publishedAt": "Tue, 14 Jul 2026 20:10:25 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -215,38 +206,29 @@
       "impact": "medium"
     },
     {
-      "title": "From Hormuz to the pump: Why oil price shocks hit consumers differently – Analysis - IEA – International Energy Agency",
-      "source": "IEA – International Energy Agency",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNnhObUZxUmdCN2JRU1pkeWVpV2ZYQkdRSHRpQ0s0WkdKclcwM0ROQWNwQmt1R1JMWFNTcFQyVkJtTnBtYmZvNHJTaEE1UlVueERhQkdUamRBWkhiMHFRMEQ2aG54X2g5bGhpLTZ1WldBalBWMy1aOTdycmpOY19ONi03MU91REdONHBhdE8tclZLLUE3QUN2WHNXd2lJdm9ZTFd5XzB3?oc=5",
-      "description": "From Hormuz to the pump: Why oil price shocks hit consumers differently – Analysis IEA – International Energy Agency",
-      "publishedAt": "Thu, 09 Jul 2026 16:07:18 GMT",
+      "title": "The oil shock isn't over, it has just changed shape and stock market investors need to take notice - Financial Post",
+      "source": "Financial Post",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSkNsRVI4Ni1DdWU0aWZBbENVWFY1U0prLTNZWWVRbVl2dFhiTkx0VWRldkdBNGp0UmU1UkhTMDdHSnR0UmxWZHJTSnpxQWo4TmdKWXkwSmpGU3l4TlRtWkp4eG9XR1VmaVVqNjlUWjVMTURUQXI5Zk5rNG5iam85U255UWdMdw?oc=5",
+      "description": "The oil shock isn't over, it has just changed shape and stock market investors need to take notice Financial Post",
+      "publishedAt": "Mon, 13 Jul 2026 10:05:44 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil prices jump as US and Iran trade attacks over Strait of Hormuz - Al Jazeera",
+      "title": "Oil prices hit 1-month high as US-Iran attacks dim Strait of Hormuz outlook - Al Jazeera",
       "source": "Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVXpPQW5PT21veE5mSm1GdHRGSUd6UlNmZl9VbnluTWZmUE00UURUN3dIcFVJc0IwZ3pjRUY3UFk0ZzQ3QWJvOTVKMFIyMHZsUnpMRHI5eWllRllfVGtsYzhDN0t4QlZUN0tGaGtTQXhMRG9tN0YyZTRGaV84bjRPR1E4M2VwbHdMZDJaYURWeEJTRUxqR090SGNkcWdQeVhUY3lBbk13aExiX3pNMEFv0gG0AUFVX3lxTE80Z3RnTk1BTHFySjc4N3ZmYXkyQkdEOTdNTlBNRTdhT0xadFk2d05FYUpvc0dsOENwN0hRdE5MZml1d0RpMGxwd0dxaGhlVktyQ3Z5V2RaM0ZkNWs3VHBOS05YQ3V2djNoOHNPT1NLc216RmtiM1Q2WVNjbGl3aktBRUxxRjVneHpXTTZmOWlmSUZMTEpaODBfQnA1eUNmcWQtZ2xYd1BFcV9YU2pROHJOTF9Haw?oc=5",
-      "description": "Oil prices jump as US and Iran trade attacks over Strait of Hormuz Al Jazeera",
-      "publishedAt": "Mon, 13 Jul 2026 06:05:58 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMF9GemM2M0pvbndMWnJaY0lnbGRzbFFwWFo4cEJieXZYZEtiUTdXYjl1Wkh2NnU3eGFXOTJ5OVd3QzJYSTBXNm9wMnNkQmhtMXBIbVNYWE1kZEVCSnpIUjdiNS1IX0FnNU11VnhxS0RGQldUaFFCbDBXNGNnMFpVTHFsZ2V6YnZjVk9ST0EyZ29RTTU5TDlPc09aV1ZQN3VSdGgxbElRLVdmQkRnbjNtQTRFZngwVWVZ0gG-AUFVX3lxTE5TVG44QmpCNTBxdkwwUW1YM3pub0Y2QVlON0k0VDVaSW40UllDZlhFWHc5b1ZIMGtxZll4QjVrWFJMbUExRXQ5TmpMOGNNYkVyOXFBcFlqaDUxMmV2ZGYzQVRYOWdmRjcyNXdyZ1UxV1RFbm9MVE9paGpDdFpNekNUcERpb0YtUm92M2pCNUxDMEVfSUtmZjRGdktPNlFOWU5LQUk5YURBWEZpenJMQm1Hem9FM0toWDUxRHpkMVE?oc=5",
+      "description": "Oil prices hit 1-month high as US-Iran attacks dim Strait of Hormuz outlook Al Jazeera",
+      "publishedAt": "Tue, 14 Jul 2026 06:52:44 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil prices rise as U.S. launches new Iran airstrikes, while Trump abandons Strait of Hormuz fee - CNBC",
+      "title": "Oil little changed after U.S. reimposes naval blockade on Iran, launches more airstrikes - CNBC",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUFp4M3l1OG8tUnZQelY4Szg4TmxlblAxbUVLOGYyajUzYXZIbHd0a1pGOGNKWnZKUE5lMzl0WDlySmJENUdWLW1jVXU4WlpfdkRqSU9nRk5JV09zQjRTUnFzTlNSYVItQjd3bkhoYmJGMGU2WkhjM1NOMVgtOVdIbDFVWk1MeW5CUmNEaXBma9IBlAFBVV95cUxOUnVvcWs2VDdLVW05bHZ0d2hRckdoNzBNOTJocFBxakQ1Tkw5d24tcFQ2bW1JdkpDN1ZUU0dNYUNBZ3FOQmFrbzlEWGlCZ1dhb0tnZ05kajMwRkgtb09HUzYxRUtMRFc5VEJSdThHcEd4VWRBcS1nMFM0aXR3aGVxbUNoRkYyd1MxenpQcEZReXpsUlBi?oc=5",
-      "description": "Oil prices rise as U.S. launches new Iran airstrikes, while Trump abandons Strait of Hormuz fee CNBC",
-      "publishedAt": "Tue, 14 Jul 2026 00:32:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices jump following the latest fighting in the Middle East, while AI stocks sink - BNN Bloomberg",
-      "source": "BNN Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeHdjdXlMVy1lRy1vV05VcWh2Qk5tcndVMUZHV0t0N3hvMVNYOUlLSjJRcTlyM3k0MXVGN1A4UzJnazI0bTVjT1djVkZSNjg5UG0wMzVtUXA5eTRBb0t1bjJrREJta3VEZThIaDQweC02VTlZWmUzbWllbFlCemNGOVVBa245c0JmaHpwT0NqbzR2aE52V0RxcnEyTDVxU3NUaExRQW5Ic0hqWWhJSi1BQ01iV2VHaktSOV9OWEFnWEl0MXFNYlZqZzdibWJDVUNCd2c?oc=5",
-      "description": "Oil prices jump following the latest fighting in the Middle East, while AI stocks sink BNN Bloomberg",
-      "publishedAt": "Mon, 13 Jul 2026 20:23:07 GMT",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZHl4cGl1NE5DVVlMa005ODB6alhBQ3JzZFlKRnNJNUt5X3c3bEJSWWMzUHUxWTVUTUpRRDZTM3NGdm9UT3ZBSFdoVzRBdFVaVmNVOVpyNkxmbHRBS3pKcGZzNS04Wk5KMHFveHl0U0RLNmd6RlVKdHg0SHlxeGVuWGdkUXUzd9IBiwFBVV95cUxNLWRpZDZLVXZnZXB2QWE4SlpZbEZXMDFDR1hJOUJFc29HQUstQWNRVmhCaGlyaWpFZzJJa2NUc0t5VWpzUTdkUWpxNzN0dV9qM2dnMzE2VUNwRXBZeU92NndiZlNIbXg0TTcxaGw0TEFiX0QwNXVGQUIzZ1pIN0JVckpyMkhHdWUtQkNZ?oc=5",
+      "description": "Oil little changed after U.S. reimposes naval blockade on Iran, launches more airstrikes CNBC",
+      "publishedAt": "Wed, 15 Jul 2026 02:57:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -260,6 +242,15 @@
       "impact": "medium"
     },
     {
+      "title": "Oil prices jump following the latest fighting in the Middle East, while AI stocks sink - BNN Bloomberg",
+      "source": "BNN Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeHdjdXlMVy1lRy1vV05VcWh2Qk5tcndVMUZHV0t0N3hvMVNYOUlLSjJRcTlyM3k0MXVGN1A4UzJnazI0bTVjT1djVkZSNjg5UG0wMzVtUXA5eTRBb0t1bjJrREJta3VEZThIaDQweC02VTlZWmUzbWllbFlCemNGOVVBa245c0JmaHpwT0NqbzR2aE52V0RxcnEyTDVxU3NUaExRQW5Ic0hqWWhJSi1BQ01iV2VHaktSOV9OWEFnWEl0MXFNYlZqZzdibWJDVUNCd2c?oc=5",
+      "description": "Oil prices jump following the latest fighting in the Middle East, while AI stocks sink BNN Bloomberg",
+      "publishedAt": "Mon, 13 Jul 2026 20:23:07 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
       "title": "Current price of oil as of July 10, 2026 - Fortune",
       "source": "Fortune",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE11QURZU1dYYUJReXI3bXl5VDhac0hnRzk4YkEyVEFqV3pTMFhIQlJSeG1mdUdsbFAydHFXMXZRQnJsOXhILWh6RGVycVVMZjlwMDVsVnZGMmVTUm5wZEg4OENn?oc=5",
@@ -269,11 +260,20 @@
       "impact": "medium"
     },
     {
-      "title": "Prices at Canadian pumps rising again as oil climbs to 4-week highs - CBC",
-      "source": "CBC",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mV1dIZW9vSzNpbERrak1fdm1yZGNvNXk5NWl6R01UTjhlaEpfYzQxbWlHblNwMUoyLThxdVdwSld4QVh0R2VNamZPSThheTZXNktjVWFjZ0xsWkdUNWR5eUE1ZFo3dUJ0OTJndg?oc=5",
-      "description": "Prices at Canadian pumps rising again as oil climbs to 4-week highs CBC",
-      "publishedAt": "Tue, 14 Jul 2026 20:10:25 GMT",
+      "title": "Fed Sees Oil Prices Cooling Despite Renewed Iran War - Crude Oil Prices Today | OilPrice.com",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOY1BFZVNrXzFCSDM0eFZ3YjM2ZkY0REpqcUFGeHZrRkx2S3RKakE3dTF5SHppeXFqNjZON2tPOFZ0LUk5UHhVcGZkSU8wSVFKSzRVNEF2OVAxaEhjTWUxX0Fwakk2dXBuSEhJQzlGOF96VnNDOGdZaWJybWVQTV9KajRNZjRLanJCYWxuMXNpOXJKeUh4NUswdzMyQzVvUmR1ZGtKZ29rV3h6QXpn0gGyAUFVX3lxTFBwVG5WV1FjRlBOdnRqcm91SVdzMExFdTE2MXdaRmhBakE4VXhOYzdfY2pjZVl3SmJ2ZWtPSU9LVlo5SmNnRERaUTQwdzh0V0pLVS11bTQxRWkzM003R1g0cVFXTFMxZU56MHhWZ3ZlTk4zY1AyeTFNd3hoeW41V1hkODIwcWhDSXNpRTVtUHNkMWRwNFZoS2ZFSnhvclN5ZE96djNpQ0JlT2NvSjhPQ2FRdEE?oc=5",
+      "description": "Fed Sees Oil Prices Cooling Despite Renewed Iran War Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Thu, 09 Jul 2026 21:30:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil prices jump as US and Iran trade attacks over Strait of Hormuz - Al Jazeera",
+      "source": "Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVXpPQW5PT21veE5mSm1GdHRGSUd6UlNmZl9VbnluTWZmUE00UURUN3dIcFVJc0IwZ3pjRUY3UFk0ZzQ3QWJvOTVKMFIyMHZsUnpMRHI5eWllRllfVGtsYzhDN0t4QlZUN0tGaGtTQXhMRG9tN0YyZTRGaV84bjRPR1E4M2VwbHdMZDJaYURWeEJTRUxqR090SGNkcWdQeVhUY3lBbk13aExiX3pNMEFv0gG0AUFVX3lxTE80Z3RnTk1BTHFySjc4N3ZmYXkyQkdEOTdNTlBNRTdhT0xadFk2d05FYUpvc0dsOENwN0hRdE5MZml1d0RpMGxwd0dxaGhlVktyQ3Z5V2RaM0ZkNWs3VHBOS05YQ3V2djNoOHNPT1NLc216RmtiM1Q2WVNjbGl3aktBRUxxRjVneHpXTTZmOWlmSUZMTEpaODBfQnA1eUNmcWQtZ2xYd1BFcV9YU2pROHJOTF9Haw?oc=5",
+      "description": "Oil prices jump as US and Iran trade attacks over Strait of Hormuz Al Jazeera",
+      "publishedAt": "Mon, 13 Jul 2026 06:05:58 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
