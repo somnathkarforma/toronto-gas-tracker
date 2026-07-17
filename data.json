@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-16 06:11 UTC",
+  "generatedAt": "2026-07-17 06:10 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 172.9,
-    "premium": 190.9,
-    "diesel": 183.4
+    "regular": 173.9,
+    "premium": 191.9,
+    "diesel": 184.4
   },
   "history": {
     "labels": [
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Jul 16"
+      "Jul 17"
     ],
     "regular": [
       150.7,
@@ -75,7 +75,7 @@
       155.9,
       174.9,
       186.9,
-      172.9
+      173.9
     ],
     "premium": [
       168.7,
@@ -110,7 +110,7 @@
       173.9,
       192.9,
       204.9,
-      190.9
+      191.9
     ],
     "diesel": [
       161.2,
@@ -145,45 +145,45 @@
       166.4,
       185.4,
       197.4,
-      183.4
+      184.4
     ]
   },
   "prediction": {
     "labels": [
-      "Jul 17",
       "Jul 18",
       "Jul 19",
       "Jul 20",
       "Jul 21",
       "Jul 22",
-      "Jul 23"
+      "Jul 23",
+      "Jul 24"
     ],
     "regular": [
-      173.9,
-      174.8,
+      174.9,
       175.8,
-      176.7,
+      176.8,
       177.7,
       178.7,
-      179.6
+      179.7,
+      180.6
     ],
     "premium": [
-      191.9,
-      192.8,
+      192.9,
       193.8,
-      194.7,
+      194.8,
       195.7,
       196.7,
-      197.6
+      197.7,
+      198.6
     ],
     "diesel": [
-      184.4,
-      185.3,
+      185.4,
       186.3,
-      187.2,
+      187.3,
       188.2,
       189.2,
-      190.1
+      190.2,
+      191.1
     ]
   },
   "news": [
@@ -260,20 +260,20 @@
       "impact": "medium"
     },
     {
-      "title": "Fed Sees Oil Prices Cooling Despite Renewed Iran War - Crude Oil Prices Today | OilPrice.com",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOY1BFZVNrXzFCSDM0eFZ3YjM2ZkY0REpqcUFGeHZrRkx2S3RKakE3dTF5SHppeXFqNjZON2tPOFZ0LUk5UHhVcGZkSU8wSVFKSzRVNEF2OVAxaEhjTWUxX0Fwakk2dXBuSEhJQzlGOF96VnNDOGdZaWJybWVQTV9KajRNZjRLanJCYWxuMXNpOXJKeUh4NUswdzMyQzVvUmR1ZGtKZ29rV3h6QXpn0gGyAUFVX3lxTFBwVG5WV1FjRlBOdnRqcm91SVdzMExFdTE2MXdaRmhBakE4VXhOYzdfY2pjZVl3SmJ2ZWtPSU9LVlo5SmNnRERaUTQwdzh0V0pLVS11bTQxRWkzM003R1g0cVFXTFMxZU56MHhWZ3ZlTk4zY1AyeTFNd3hoeW41V1hkODIwcWhDSXNpRTVtUHNkMWRwNFZoS2ZFSnhvclN5ZE96djNpQ0JlT2NvSjhPQ2FRdEE?oc=5",
-      "description": "Fed Sees Oil Prices Cooling Despite Renewed Iran War Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Thu, 09 Jul 2026 21:30:00 GMT",
+      "title": "Oil prices rise for 4th day as US strikes on Iran raise fears of wider conflict - BOE Report",
+      "source": "BOE Report",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVGwyY0lyLUZabmNKdkRpOHZPd01rVFEtTFFFanFYTUtTUG1YajhkSXBscmhkYlhDZnBDa1BmZjdBZ20yOGlCbUM4emJBaTVndXcwam1jT0R1akp6ZmRxRFNiUWVtMHd5WUVfTTV2RTRvMFNlZ21RWmV5OFFKSllsbEZiRG5HbmFUbzhWQS1UeG9PQW5jWDlnaWNmS0VjNWUwcGh5YklmOVEtLVZSTVVRdEl6d9IBuAFBVV95cUxQX2hsVDRCT0ZfOFpRbUhCdm4wVl8xb1k4ZWRBWFk1VTNtMUtiM2YxZ3pzazlrMnFPRWhTWjN6dUhFUkhRRzUzWFA0bl9qa0JDX3k3NVZ5S0dxM053OXgzZTRtZk5sRmtXVHlVUUp1WmhFNTUzZnAzOUFtS2xTYmQ2TDNEaVc1VW5NYXhzTXNwWkpzdzhwVFFnci1weGxxTUotVmpmNFEzNlY2VzFjZXdEZ3dIWGFIVGlx?oc=5",
+      "description": "Oil prices rise for 4th day as US strikes on Iran raise fears of wider conflict BOE Report",
+      "publishedAt": "Thu, 16 Jul 2026 06:40:43 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil prices jump as US and Iran trade attacks over Strait of Hormuz - Al Jazeera",
-      "source": "Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVXpPQW5PT21veE5mSm1GdHRGSUd6UlNmZl9VbnluTWZmUE00UURUN3dIcFVJc0IwZ3pjRUY3UFk0ZzQ3QWJvOTVKMFIyMHZsUnpMRHI5eWllRllfVGtsYzhDN0t4QlZUN0tGaGtTQXhMRG9tN0YyZTRGaV84bjRPR1E4M2VwbHdMZDJaYURWeEJTRUxqR090SGNkcWdQeVhUY3lBbk13aExiX3pNMEFv0gG0AUFVX3lxTE80Z3RnTk1BTHFySjc4N3ZmYXkyQkdEOTdNTlBNRTdhT0xadFk2d05FYUpvc0dsOENwN0hRdE5MZml1d0RpMGxwd0dxaGhlVktyQ3Z5V2RaM0ZkNWs3VHBOS05YQ3V2djNoOHNPT1NLc216RmtiM1Q2WVNjbGl3aktBRUxxRjVneHpXTTZmOWlmSUZMTEpaODBfQnA1eUNmcWQtZ2xYd1BFcV9YU2pROHJOTF9Haw?oc=5",
-      "description": "Oil prices jump as US and Iran trade attacks over Strait of Hormuz Al Jazeera",
-      "publishedAt": "Mon, 13 Jul 2026 06:05:58 GMT",
+      "title": "‘We will not let higher oil prices become persistent inflation’: Macklem on holding interest rate - CTV News",
+      "source": "CTV News",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbWx5Z0I1S2VHZ0FmY2VVaENpdnR4bnhpRDdoMUNsUFpXek53S2wwbDMwR18zMkJYNnJRVENaUWo5QV9hOGwtdEZOUW8tcDItZXRWbzV3d1MwWmN4Z2c3bl8wNVh0QTJ2dkE3MGQxWnpFMkdoOXpGX3FERHQyLU9Yb2R2OEdLczhQVk9rN3ZOYzZ0R0s2T0RwbU5yZTI0MWRta0tsVWhUeEFCN1gtMVlLQnc4bV9fbVIxNEJJSUI3Y1AtTXlkeFNUYUtJRzQ2MWRp?oc=5",
+      "description": "‘We will not let higher oil prices become persistent inflation’: Macklem on holding interest rate CTV News",
+      "publishedAt": "Wed, 15 Jul 2026 15:03:58 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
