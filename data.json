@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-18 05:59 UTC",
+  "generatedAt": "2026-07-19 06:25 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 172.9,
-    "premium": 190.9,
-    "diesel": 183.4
+    "regular": 179.9,
+    "premium": 197.9,
+    "diesel": 190.4
   },
   "history": {
     "labels": [
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Jul 18"
+      "Jul 19"
     ],
     "regular": [
       150.7,
@@ -75,7 +75,7 @@
       155.9,
       174.9,
       186.9,
-      172.9
+      179.9
     ],
     "premium": [
       168.7,
@@ -110,7 +110,7 @@
       173.9,
       192.9,
       204.9,
-      190.9
+      197.9
     ],
     "diesel": [
       161.2,
@@ -145,45 +145,45 @@
       166.4,
       185.4,
       197.4,
-      183.4
+      190.4
     ]
   },
   "prediction": {
     "labels": [
-      "Jul 19",
       "Jul 20",
       "Jul 21",
       "Jul 22",
       "Jul 23",
       "Jul 24",
-      "Jul 25"
+      "Jul 25",
+      "Jul 26"
     ],
     "regular": [
-      173.9,
-      174.8,
-      175.8,
-      176.7,
-      177.7,
-      178.7,
-      179.6
+      180.9,
+      181.8,
+      182.8,
+      183.7,
+      184.7,
+      185.7,
+      186.6
     ],
     "premium": [
-      191.9,
-      192.8,
-      193.8,
-      194.7,
-      195.7,
-      196.7,
-      197.6
+      198.9,
+      199.8,
+      200.8,
+      201.7,
+      202.7,
+      203.7,
+      204.6
     ],
     "diesel": [
-      184.4,
-      185.3,
-      186.3,
-      187.2,
-      188.2,
-      189.2,
-      190.1
+      191.4,
+      192.3,
+      193.3,
+      194.2,
+      195.2,
+      196.2,
+      197.1
     ]
   },
   "news": [
@@ -251,15 +251,6 @@
       "impact": "medium"
     },
     {
-      "title": "‘We will not let higher oil prices become persistent inflation’: Macklem on holding interest rate - CTV News",
-      "source": "CTV News",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbWx5Z0I1S2VHZ0FmY2VVaENpdnR4bnhpRDdoMUNsUFpXek53S2wwbDMwR18zMkJYNnJRVENaUWo5QV9hOGwtdEZOUW8tcDItZXRWbzV3d1MwWmN4Z2c3bl8wNVh0QTJ2dkE3MGQxWnpFMkdoOXpGX3FERHQyLU9Yb2R2OEdLczhQVk9rN3ZOYzZ0R0s2T0RwbU5yZTI0MWRta0tsVWhUeEFCN1gtMVlLQnc4bV9fbVIxNEJJSUI3Y1AtTXlkeFNUYUtJRzQ2MWRp?oc=5",
-      "description": "‘We will not let higher oil prices become persistent inflation’: Macklem on holding interest rate CTV News",
-      "publishedAt": "Wed, 15 Jul 2026 15:03:58 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
       "title": "Current price of oil as of July 17, 2026 - Fortune",
       "source": "Fortune",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9nTXcwQ1ladUl4UTE1TXRyYjJ6c0kwQmYtUi11T3hPbW5USXMzUS1EdWZhLVhsYzBMbmVhSlAtSk9RejE4Tm45VWFHelZpNkk2UGR6Sjhzcll5TDhjSXhJR0lR?oc=5",
@@ -274,6 +265,15 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVXpPQW5PT21veE5mSm1GdHRGSUd6UlNmZl9VbnluTWZmUE00UURUN3dIcFVJc0IwZ3pjRUY3UFk0ZzQ3QWJvOTVKMFIyMHZsUnpMRHI5eWllRllfVGtsYzhDN0t4QlZUN0tGaGtTQXhMRG9tN0YyZTRGaV84bjRPR1E4M2VwbHdMZDJaYURWeEJTRUxqR090SGNkcWdQeVhUY3lBbk13aExiX3pNMEFv0gG0AUFVX3lxTE80Z3RnTk1BTHFySjc4N3ZmYXkyQkdEOTdNTlBNRTdhT0xadFk2d05FYUpvc0dsOENwN0hRdE5MZml1d0RpMGxwd0dxaGhlVktyQ3Z5V2RaM0ZkNWs3VHBOS05YQ3V2djNoOHNPT1NLc216RmtiM1Q2WVNjbGl3aktBRUxxRjVneHpXTTZmOWlmSUZMTEpaODBfQnA1eUNmcWQtZ2xYd1BFcV9YU2pROHJOTF9Haw?oc=5",
       "description": "Oil prices jump as US and Iran trade attacks over Strait of Hormuz Al Jazeera",
       "publishedAt": "Mon, 13 Jul 2026 06:05:58 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil Prices Have Jumped 12% Since Friday as War Risks Return - Crude Oil Prices Today | OilPrice.com",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS2wxRWtGOHg3Zmpaem0zWHF2WlBWdTJSM3Z3cEhsX3lPS3N5dG1LQ1psWkVlVUJ5SVU1czFvd3JValp1Y3gybUJzQ2NNVzZCVmpUZTVWY1ZDOExQTzFQTnBhUHBwYlZHazlQZm1WTnJ0N3FlWFUzbDNRTGEyVUJ2TGMycW9SNWFCM25iek9jNGxzTlh2Z256SlQ5akhCTVNlcE43US1HTzF1bXhyYmRrWUdqOGvSAboBQVVfeXFMTWhQNHNUajc1SU5TcnRUNFhheHhDZU95TlRIaXYzemlZeURVcHNLbG1RVnFiVHlTejBEQ2xpOXNhbW9pMnlDZGwzeTV4U0NEMDRzemE2QUhWRjZtS3ZnMExTYVJkSi1jaDZZNjc5SF9UYmQwVVJwRGZBamtMdlA0VHM4bE1QZU9tSDhUTC04eWZDWVduWFVPVUhScXpWMEVqTjVFVXJZUm5HM05NeV9Vd2dfV2JMNTNKWlJ3?oc=5",
+      "description": "Oil Prices Have Jumped 12% Since Friday as War Risks Return Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Tue, 14 Jul 2026 05:44:07 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
