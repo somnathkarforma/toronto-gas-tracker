@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19 06:25 UTC",
+  "generatedAt": "2026-07-20 06:40 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
     "regular": 179.9,
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Jul 19"
+      "Jul 20"
     ],
     "regular": [
       150.7,
@@ -150,13 +150,13 @@
   },
   "prediction": {
     "labels": [
-      "Jul 20",
       "Jul 21",
       "Jul 22",
       "Jul 23",
       "Jul 24",
       "Jul 25",
-      "Jul 26"
+      "Jul 26",
+      "Jul 27"
     ],
     "regular": [
       180.9,
@@ -197,29 +197,11 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices may be driving the U.S.- Iran war, instead of just reacting to it, explains expert - BNN Bloomberg",
-      "source": "BNN Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQjlkVUx6S3FxRlZ4QkhobXo1SUNZbWthV1kyUF9CQy1tdU9mX2s5eHo1b2ExVldkVzV2Nm9ocGMwMkNINnR1UzNhb01KZ09WRmdfVWdvY05SNlhfZ1JVLVNuWm9PSFZoSENxcEdfdDIyeXFsT1VNUHdsRmlicDVVUWhjVkJHZmJoRk56OHZqaWt0QVhJR3p2Z3lLUy01RGtCV1dyQWJNZXdaVVg1aUppeHBubFlOc0Ro?oc=5",
-      "description": "Oil prices may be driving the U.S.- Iran war, instead of just reacting to it, explains expert BNN Bloomberg",
-      "publishedAt": "Fri, 17 Jul 2026 17:52:01 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
       "title": "The oil shock isn't over, it has just changed shape and stock market investors need to take notice - Financial Post",
       "source": "Financial Post",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSkNsRVI4Ni1DdWU0aWZBbENVWFY1U0prLTNZWWVRbVl2dFhiTkx0VWRldkdBNGp0UmU1UkhTMDdHSnR0UmxWZHJTSnpxQWo4TmdKWXkwSmpGU3l4TlRtWkp4eG9XR1VmaVVqNjlUWjVMTURUQXI5Zk5rNG5iam85U255UWdMdw?oc=5",
       "description": "The oil shock isn't over, it has just changed shape and stock market investors need to take notice Financial Post",
       "publishedAt": "Mon, 13 Jul 2026 10:05:44 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil Prices Surge 4% as U.S.-Iran Escalation Rekindles Supply Fears - Crude Oil Prices Today | OilPrice.com",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTnFHcWg0dzJNS0NsQ2d2UmFvbnpSNGZJVVhVU21KQmw2ZUZOdmpoaERMWC1SVXB3Y2RZajdOWHFjQTR4WDJsUWIwemI3VU9MeVdiRHVTejBfME1aZURlOC15dXZYby1GRm9qNEJvOWx6emwtcmsweXU2ckNDYjBJY0Z4S1pvMUw5aTh4TkpzUEh5OXdlS3VDZHA5WTVfWFZ0dE1Ia3ktZWg2dHN5S1NidU40eXVybC1ZYkRz0gHAAUFVX3lxTE05MTlCUVp0ODUwQzlJQ295TWhzaGhUcEF2OHItYzNobkt4aFVlM2pHYUg3elB5VE91N1FLbllhMU94UHdMOHZfM1FiTWVsVk9DT193UEdOLTdDbTIxR0swa3YwTl9PZ2JjbEpsT3BkYlRrYVF5X2dhRGJUY2I3dzNyZDVmRTlXOXEyRGpiLWt5UDRqR0Q4eFZkSnFWVW1Wa3hyejZRSFBYY3NWcm9UbjBCYWZ4QW1XRXRIYklHMzQzLQ?oc=5",
-      "description": "Oil Prices Surge 4% as U.S.-Iran Escalation Rekindles Supply Fears Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Mon, 13 Jul 2026 04:55:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -233,6 +215,15 @@
       "impact": "medium"
     },
     {
+      "title": "Oil Prices Have Jumped 12% Since Friday as War Risks Return - Crude Oil Prices Today | OilPrice.com",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS2wxRWtGOHg3Zmpaem0zWHF2WlBWdTJSM3Z3cEhsX3lPS3N5dG1LQ1psWkVlVUJ5SVU1czFvd3JValp1Y3gybUJzQ2NNVzZCVmpUZTVWY1ZDOExQTzFQTnBhUHBwYlZHazlQZm1WTnJ0N3FlWFUzbDNRTGEyVUJ2TGMycW9SNWFCM25iek9jNGxzTlh2Z256SlQ5akhCTVNlcE43US1HTzF1bXhyYmRrWUdqOGvSAboBQVVfeXFMTWhQNHNUajc1SU5TcnRUNFhheHhDZU95TlRIaXYzemlZeURVcHNLbG1RVnFiVHlTejBEQ2xpOXNhbW9pMnlDZGwzeTV4U0NEMDRzemE2QUhWRjZtS3ZnMExTYVJkSi1jaDZZNjc5SF9UYmQwVVJwRGZBamtMdlA0VHM4bE1QZU9tSDhUTC04eWZDWVduWFVPVUhScXpWMEVqTjVFVXJZUm5HM05NeV9Vd2dfV2JMNTNKWlJ3?oc=5",
+      "description": "Oil Prices Have Jumped 12% Since Friday as War Risks Return Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Tue, 14 Jul 2026 05:44:07 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
       "title": "Oil little changed after U.S. reimposes naval blockade on Iran, launches more airstrikes - CNBC",
       "source": "CNBC",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZHl4cGl1NE5DVVlMa005ODB6alhBQ3JzZFlKRnNJNUt5X3c3bEJSWWMzUHUxWTVUTUpRRDZTM3NGdm9UT3ZBSFdoVzRBdFVaVmNVOVpyNkxmbHRBS3pKcGZzNS04Wk5KMHFveHl0U0RLNmd6RlVKdHg0SHlxeGVuWGdkUXUzd9IBiwFBVV95cUxNLWRpZDZLVXZnZXB2QWE4SlpZbEZXMDFDR1hJOUJFc29HQUstQWNRVmhCaGlyaWpFZzJJa2NUc0t5VWpzUTdkUWpxNzN0dV9qM2dnMzE2VUNwRXBZeU92NndiZlNIbXg0TTcxaGw0TEFiX0QwNXVGQUIzZ1pIN0JVckpyMkhHdWUtQkNZ?oc=5",
@@ -242,11 +233,20 @@
       "impact": "medium"
     },
     {
-      "title": "Oil price jumps as US-Iran clashes raise odds of interest rate rises - The Guardian",
+      "title": "Oil prices leap and stocks fall as Trump reinstates Hormuz blockade on Iranian shipping - The Guardian",
       "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNU3ZKZXFpNndfb1dmdGpQSk5HTG83TS1Oelh5ckFnWTVFczhLWW5oaHRZSVdUdTljVlFkUDNMakcyS2dwbVQ5VW5aS0ZIMHlfVW1QSFlEV1dIMHBqcURsUTJaYWxla3J6Tzhkdjc1OHo5Q3lISGRDYU82SncxLUNGVWlpU2dSZWVheGhmSXBMaTJZaE0wQXNOZWx5cDI1cDlfTWNPUTlRUQ?oc=5",
-      "description": "Oil price jumps as US-Iran clashes raise odds of interest rate rises The Guardian",
-      "publishedAt": "Tue, 14 Jul 2026 11:21:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQXlyeWtGOUl1T05Wa1IzY0ZtNlZzbVJuUjlQaU41V3NHYUJSb0ZoNTAyaWFBMEpuYlk5M0FDWENtSGZTZUk5OUJhMXdYUDVhUm1YZVMwcTdWa01FaVlsTEZmdVhEblUweHlaWEJzdndOY2xRN3dMRDJraWRtRkdEdjdrRjFael8zclZfQVA5LUZ5bFcxTU9UaGdmTzNaaUdueXVMUm1qRGhSdi1GVk42QnQzaDVjZzdXSmZLS3JR?oc=5",
+      "description": "Oil prices leap and stocks fall as Trump reinstates Hormuz blockade on Iranian shipping The Guardian",
+      "publishedAt": "Mon, 13 Jul 2026 07:18:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil prices jump following the latest fighting in the Middle East, while AI stocks sink - BNN Bloomberg",
+      "source": "BNN Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeHdjdXlMVy1lRy1vV05VcWh2Qk5tcndVMUZHV0t0N3hvMVNYOUlLSjJRcTlyM3k0MXVGN1A4UzJnazI0bTVjT1djVkZSNjg5UG0wMzVtUXA5eTRBb0t1bjJrREJta3VEZThIaDQweC02VTlZWmUzbWllbFlCemNGOVVBa245c0JmaHpwT0NqbzR2aE52V0RxcnEyTDVxU3NUaExRQW5Ic0hqWWhJSi1BQ01iV2VHaktSOV9OWEFnWEl0MXFNYlZqZzdibWJDVUNCd2c?oc=5",
+      "description": "Oil prices jump following the latest fighting in the Middle East, while AI stocks sink BNN Bloomberg",
+      "publishedAt": "Mon, 13 Jul 2026 20:23:07 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -260,20 +260,20 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices jump as US and Iran trade attacks over Strait of Hormuz - Al Jazeera",
-      "source": "Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVXpPQW5PT21veE5mSm1GdHRGSUd6UlNmZl9VbnluTWZmUE00UURUN3dIcFVJc0IwZ3pjRUY3UFk0ZzQ3QWJvOTVKMFIyMHZsUnpMRHI5eWllRllfVGtsYzhDN0t4QlZUN0tGaGtTQXhMRG9tN0YyZTRGaV84bjRPR1E4M2VwbHdMZDJaYURWeEJTRUxqR090SGNkcWdQeVhUY3lBbk13aExiX3pNMEFv0gG0AUFVX3lxTE80Z3RnTk1BTHFySjc4N3ZmYXkyQkdEOTdNTlBNRTdhT0xadFk2d05FYUpvc0dsOENwN0hRdE5MZml1d0RpMGxwd0dxaGhlVktyQ3Z5V2RaM0ZkNWs3VHBOS05YQ3V2djNoOHNPT1NLc216RmtiM1Q2WVNjbGl3aktBRUxxRjVneHpXTTZmOWlmSUZMTEpaODBfQnA1eUNmcWQtZ2xYd1BFcV9YU2pROHJOTF9Haw?oc=5",
-      "description": "Oil prices jump as US and Iran trade attacks over Strait of Hormuz Al Jazeera",
-      "publishedAt": "Mon, 13 Jul 2026 06:05:58 GMT",
+      "title": "Oil prices rise 2% to one-month high as US-Iran attacks deepen supply disruption - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObjBFQ0x4dHAxeGhVUDB4NlR2LVlyU1JTNnJhWkV1bnI4b1Zneng1X0E4bmpBWnJLVjBHZm1aaDctN19OejdjdGpnYVlxaHJxcjRGQzZZLUNhbmtvakJmc0MxTVpmc1l3ZzBXWFhzWE8teV91d0x0WFlTc2JUM2RDNFUyMzVCWl9mMWltOTJjTWM5Mlpta3dtN3VtT1A1RHpCcUhGQmNUMWNIaTYtZGU3MjQxMnExZw?oc=5",
+      "description": "Oil prices rise 2% to one-month high as US-Iran attacks deepen supply disruption Reuters",
+      "publishedAt": "Tue, 14 Jul 2026 19:35:39 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Have Jumped 12% Since Friday as War Risks Return - Crude Oil Prices Today | OilPrice.com",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS2wxRWtGOHg3Zmpaem0zWHF2WlBWdTJSM3Z3cEhsX3lPS3N5dG1LQ1psWkVlVUJ5SVU1czFvd3JValp1Y3gybUJzQ2NNVzZCVmpUZTVWY1ZDOExQTzFQTnBhUHBwYlZHazlQZm1WTnJ0N3FlWFUzbDNRTGEyVUJ2TGMycW9SNWFCM25iek9jNGxzTlh2Z256SlQ5akhCTVNlcE43US1HTzF1bXhyYmRrWUdqOGvSAboBQVVfeXFMTWhQNHNUajc1SU5TcnRUNFhheHhDZU95TlRIaXYzemlZeURVcHNLbG1RVnFiVHlTejBEQ2xpOXNhbW9pMnlDZGwzeTV4U0NEMDRzemE2QUhWRjZtS3ZnMExTYVJkSi1jaDZZNjc5SF9UYmQwVVJwRGZBamtMdlA0VHM4bE1QZU9tSDhUTC04eWZDWVduWFVPVUhScXpWMEVqTjVFVXJZUm5HM05NeV9Vd2dfV2JMNTNKWlJ3?oc=5",
-      "description": "Oil Prices Have Jumped 12% Since Friday as War Risks Return Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Tue, 14 Jul 2026 05:44:07 GMT",
+      "title": "Oil prices rise, stock futures flat as fighting between U.S. and Iran intensifies - MarketWatch",
+      "source": "MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRGZOeTVJN09iVkpUYkY5bW44ZjhDSEV2UmRNVjJCZkxsakQxY3ZaWElPWkpiTWpXLWQxYUUxY3I4RUhKUjJ0Y1psOENlMjNDQko3dDhPQkMyaTI0eHdETHBrRTZFZEdDUmhHcElyN2lXdFdxRXNxdExfWG5aak1uTFhNSlpZZVYtMmRqMlZud0hzOEpTZ044N09tWEVNTnJTRUZtSWNtT0dTRmllSHhQMUVid3dIVks4QkhUMlU4Zw?oc=5",
+      "description": "Oil prices rise, stock futures flat as fighting between U.S. and Iran intensifies MarketWatch",
+      "publishedAt": "Mon, 20 Jul 2026 03:02:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
