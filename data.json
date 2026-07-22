@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21 06:23 UTC",
+  "generatedAt": "2026-07-22 06:23 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
     "regular": 179.9,
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Jul 21"
+      "Jul 22"
     ],
     "regular": [
       150.7,
@@ -150,13 +150,13 @@
   },
   "prediction": {
     "labels": [
-      "Jul 22",
       "Jul 23",
       "Jul 24",
       "Jul 25",
       "Jul 26",
       "Jul 27",
-      "Jul 28"
+      "Jul 28",
+      "Jul 29"
     ],
     "regular": [
       180.9,
@@ -188,47 +188,29 @@
   },
   "news": [
     {
-      "title": "Prices at Canadian pumps rising again as oil climbs to 4-week highs - CBC",
+      "title": "From deficit to surplus? Alberta's bleak budget outlook 'changed dramatically' as oil prices rise - CBC",
       "source": "CBC",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mV1dIZW9vSzNpbERrak1fdm1yZGNvNXk5NWl6R01UTjhlaEpfYzQxbWlHblNwMUoyLThxdVdwSld4QVh0R2VNamZPSThheTZXNktjVWFjZ0xsWkdUNWR5eUE1ZFo3dUJ0OTJndg?oc=5",
-      "description": "Prices at Canadian pumps rising again as oil climbs to 4-week highs CBC",
-      "publishedAt": "Tue, 14 Jul 2026 20:10:25 GMT",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSXY0cWd6Z1hTalp4SThQR1g1djBZcktHZ1RtZkd1ckhFMkF6TS0xYkdBdWFkT1lRaHNCb1RvYnZVWGJEQW5zWVNlQXhvSzZ3aG9mUUxtLUVad3dlcmVCSDloV0JnUG1iMGdQS2VYcE4wV1hxTUtVanhLZEx4T0VEdS1ndnRrX3BHTmRlMExkUXNXMFM3R0RQZkhndF9MZzlM?oc=5",
+      "description": "From deficit to surplus? Alberta's bleak budget outlook 'changed dramatically' as oil prices rise CBC",
+      "publishedAt": "Fri, 17 Jul 2026 22:42:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil prices hit 1-month high as US-Iran attacks dim Strait of Hormuz outlook - Al Jazeera",
-      "source": "Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMF9GemM2M0pvbndMWnJaY0lnbGRzbFFwWFo4cEJieXZYZEtiUTdXYjl1Wkh2NnU3eGFXOTJ5OVd3QzJYSTBXNm9wMnNkQmhtMXBIbVNYWE1kZEVCSnpIUjdiNS1IX0FnNU11VnhxS0RGQldUaFFCbDBXNGNnMFpVTHFsZ2V6YnZjVk9ST0EyZ29RTTU5TDlPc09aV1ZQN3VSdGgxbElRLVdmQkRnbjNtQTRFZngwVWVZ0gG-AUFVX3lxTE5TVG44QmpCNTBxdkwwUW1YM3pub0Y2QVlON0k0VDVaSW40UllDZlhFWHc5b1ZIMGtxZll4QjVrWFJMbUExRXQ5TmpMOGNNYkVyOXFBcFlqaDUxMmV2ZGYzQVRYOWdmRjcyNXdyZ1UxV1RFbm9MVE9paGpDdFpNekNUcERpb0YtUm92M2pCNUxDMEVfSUtmZjRGdktPNlFOWU5LQUk5YURBWEZpenJMQm1Hem9FM0toWDUxRHpkMVE?oc=5",
-      "description": "Oil prices hit 1-month high as US-Iran attacks dim Strait of Hormuz outlook Al Jazeera",
-      "publishedAt": "Tue, 14 Jul 2026 06:52:44 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil little changed after U.S. reimposes naval blockade on Iran, launches more airstrikes - CNBC",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZHl4cGl1NE5DVVlMa005ODB6alhBQ3JzZFlKRnNJNUt5X3c3bEJSWWMzUHUxWTVUTUpRRDZTM3NGdm9UT3ZBSFdoVzRBdFVaVmNVOVpyNkxmbHRBS3pKcGZzNS04Wk5KMHFveHl0U0RLNmd6RlVKdHg0SHlxeGVuWGdkUXUzd9IBiwFBVV95cUxNLWRpZDZLVXZnZXB2QWE4SlpZbEZXMDFDR1hJOUJFc29HQUstQWNRVmhCaGlyaWpFZzJJa2NUc0t5VWpzUTdkUWpxNzN0dV9qM2dnMzE2VUNwRXBZeU92NndiZlNIbXg0TTcxaGw0TEFiX0QwNXVGQUIzZ1pIN0JVckpyMkhHdWUtQkNZ?oc=5",
-      "description": "Oil little changed after U.S. reimposes naval blockade on Iran, launches more airstrikes CNBC",
-      "publishedAt": "Wed, 15 Jul 2026 02:57:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil price jumps as US-Iran clashes raise odds of interest rate rises - The Guardian",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNU3ZKZXFpNndfb1dmdGpQSk5HTG83TS1Oelh5ckFnWTVFczhLWW5oaHRZSVdUdTljVlFkUDNMakcyS2dwbVQ5VW5aS0ZIMHlfVW1QSFlEV1dIMHBqcURsUTJaYWxla3J6Tzhkdjc1OHo5Q3lISGRDYU82SncxLUNGVWlpU2dSZWVheGhmSXBMaTJZaE0wQXNOZWx5cDI1cDlfTWNPUTlRUQ?oc=5",
-      "description": "Oil price jumps as US-Iran clashes raise odds of interest rate rises The Guardian",
-      "publishedAt": "Tue, 14 Jul 2026 11:21:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil Prices Set for Biggest Weekly Surge Since April as Iran War Escalates - Crude Oil Prices Today | OilPrice.com",
+      "title": "U.S. Gasoline Prices Could Hit $4 Per Gallon Within Days - Crude Oil Prices Today | OilPrice.com",
       "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbVJ0c0ZxNEhqbnNWN1VJQTNLZ3VkLWNWd2hidEtRRmowSWprVXNCSGdkOVpVemZWcDJvU0pNUFhxalYycTd3RTlPcGdJcEFXM2lBQnV1bjQ2dnJzUVVZSk94cy16M0pjZTBnMWxqaEZlQUlzQ3JPMVlEQ3dmTGVjRXVHZ2xOVm12ZXNURHRjd2p3NlVNM1lhR1NBdGtVVmZtNG5qUUNCMWc1YUJUNFZoUURreVloNU5JM1FxYm1wT2xBLVZPRDhSddIBzgFBVV95cUxNTC1RV1BRVUhVaGFzSXgyTDAzTF9QRDNHR3hXUktiSU45QkkwckxRNW5mQTFoUWk1cEJGZzRNbEFiZFhXcDhLVTdBdnROVDVkYTNuZkg2WWRUTkpPQk4tSUJNUTR1WFJTdjhUdkZ3WHRjQ21QVXI4U2pWVVdZMV9tU0REdGx2SUFtb1VYYWU3X0V5am9CVlVzbE9hdUQxMjN4VnVxVDdOejVMd2tUZFlDczlKcjU3VVNwOTJmZ0Uwckl0OE1OUVB5OFVKWGh1UQ?oc=5",
-      "description": "Oil Prices Set for Biggest Weekly Surge Since April as Iran War Escalates Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Fri, 17 Jul 2026 05:41:26 GMT",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPLU85a0FsTFFtNUh2WllWUTVfUm5YMTIwZGYzWmJaMVJGTFlhQ1ZSOUdFaEktSmJRU3JjYTVhRW1vT2FJVzF2UGlqejluWFhfRU8xdlRXMzBpS3Q1Q3lOY1g0LXgyVzZjWEp4bzh4ODdNYW1qRUxWWGxJM0Y1UkhVN3JSc291VExrY0cydS1CUkUtOGdTZkkxNG5Qc2drVEFCYmpjT2pmRFZDVUZtcGfSAbMBQVVfeXFMUDZDNmc4ZElET1YxdzJxYTZnclhYVTdiR0lVNmFKaVQxS1dnRnMxYWVROHhSR1pzYkhaelo2UmwtdGtBOXBvZ2M4LWQ4em4zYmFUeEtHTDFpcktDa0luOWNQdjk5cThlenJ5ZmdYcnJxd01rZmx5ZzM0WjA1TnNKUFoxUGN5cGk0UDRKem5IYndSdjdCdzJUVWdpT2VUdVhvb3p0T0NTQ1NlYm5USUJhTVZUOVE?oc=5",
+      "description": "U.S. Gasoline Prices Could Hit $4 Per Gallon Within Days Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Wed, 15 Jul 2026 08:45:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Why oil prices haven't gone crazy despite 5 months of US-Iran war - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRWljTmhtaTVPdmZTRkZFLVFDSkpiYlhTWkZidlprdlZhQW1KOW9aY3daeWkxdm5RaVgxX0k1aVY2N3ZWQk9Hald6X29aeE5jdHFuT0RxWXpCbkJCWkJHaHJqZWVXb09aYmFrWHhKZGNfa2pzeTY5RHJkR0lYUTZQbGZXRm50dXVyQjJBbS1ETVFEOUlVR2lwcGk4dWFJTlpyeFUxeVNRNHdCcEVKdWVXLVRJQQ?oc=5",
+      "description": "Why oil prices haven't gone crazy despite 5 months of US-Iran war Reuters",
+      "publishedAt": "Mon, 20 Jul 2026 10:52:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -242,15 +224,6 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices rise 2% to one-month high as US-Iran attacks deepen supply disruption - Reuters",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObjBFQ0x4dHAxeGhVUDB4NlR2LVlyU1JTNnJhWkV1bnI4b1Zneng1X0E4bmpBWnJLVjBHZm1aaDctN19OejdjdGpnYVlxaHJxcjRGQzZZLUNhbmtvakJmc0MxTVpmc1l3ZzBXWFhzWE8teV91d0x0WFlTc2JUM2RDNFUyMzVCWl9mMWltOTJjTWM5Mlpta3dtN3VtT1A1RHpCcUhGQmNUMWNIaTYtZGU3MjQxMnExZw?oc=5",
-      "description": "Oil prices rise 2% to one-month high as US-Iran attacks deepen supply disruption Reuters",
-      "publishedAt": "Tue, 14 Jul 2026 19:35:39 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
       "title": "Global oil prices settle at one-month high despite new Iran ceasefire proposal, as blockade on Saudi Arabia by Yemen’s Houthis keeps market on edge - MarketWatch",
       "source": "MarketWatch",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRGZOeTVJN09iVkpUYkY5bW44ZjhDSEV2UmRNVjJCZkxsakQxY3ZaWElPWkpiTWpXLWQxYUUxY3I4RUhKUjJ0Y1psOENlMjNDQko3dDhPQkMyaTI0eHdETHBrRTZFZEdDUmhHcElyN2lXdFdxRXNxdExfWG5aak1uTFhNSlpZZVYtMmRqMlZud0hzOEpTZ044N09tWEVNTnJTRUZtSWNtT0dTRmllSHhQMUVid3dIVks4QkhUMlU4Zw?oc=5",
@@ -260,20 +233,47 @@
       "impact": "medium"
     },
     {
-      "title": "From deficit to surplus? Alberta's bleak budget outlook 'changed dramatically' as oil prices rise - CBC",
-      "source": "CBC",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSXY0cWd6Z1hTalp4SThQR1g1djBZcktHZ1RtZkd1ckhFMkF6TS0xYkdBdWFkT1lRaHNCb1RvYnZVWGJEQW5zWVNlQXhvSzZ3aG9mUUxtLUVad3dlcmVCSDloV0JnUG1iMGdQS2VYcE4wV1hxTUtVanhLZEx4T0VEdS1ndnRrX3BHTmRlMExkUXNXMFM3R0RQZkhndF9MZzlM?oc=5",
-      "description": "From deficit to surplus? Alberta's bleak budget outlook 'changed dramatically' as oil prices rise CBC",
-      "publishedAt": "Fri, 17 Jul 2026 22:42:17 GMT",
+      "title": "Oil prices rise after Trump says Iran will pay for killing U.S. service members - CNBC",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUWJOdlAxMFllcmZ2UnVya3JXdnAweEYzLXEzRW1SSFdnRElpUzlDMXktZzZ4ZmZfMDZkeXFZTHprWkRWdnB4VUFWdnJwYXozRG96MmJSeHhhT3lwSzFha1I4Q21rYjl1UDBsbDFCbkZEMllxMjRPQ0dRODBvLXB5NzNUcm5zNGZaR1RxR0o2MzhOUzdYdEZZ0gGcAUFVX3lxTE95MzV5TkNRTGdaYVJaX2t6eHFTRDNmV2xtQl9jcVV6YXNWNkRJNzd5OXdIeWQzUmdJaFhDNDB3YTZrVy01aFFlZWJ4azNPcHhuVldtUHJvdEpYdXlhRU5xbUdhWlRuZl94VGpMdzZ5RktieU04LXlITUQ3TGRQbE1PQkItVjJWZHVfQzlfZ1NBeEFyamhKczdSeExTWQ?oc=5",
+      "description": "Oil prices rise after Trump says Iran will pay for killing U.S. service members CNBC",
+      "publishedAt": "Mon, 20 Jul 2026 01:14:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Canada Ties New West Coast Pipeline to Oil Sands Expansion - Crude Oil Prices Today | OilPrice.com",
+      "title": "Oil Prices Set for Biggest Weekly Surge Since April as Iran War Escalates - Crude Oil Prices Today | OilPrice.com",
       "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcWFyWHNpUFppZVgtdGdmaWZvTHh4dHgtclNlOFRqWDlzZW9BM1FLQXFEdmZfVmdaQXp3NjV1N3NYOGJiSlMySm83Rm1ZMkk5V1JzMG9sMk5oY2F5Z1I0XzRtaTV1VnVxdXFNVHpvZzlJWWMtSmdlY0FUZXJFY2pHMUNVRzdmb2hvaU42azA1TVFXUk5YalN6OWVyemM4eHI5MWJN0gGoAUFVX3lxTE1XZUZ4dHkzUjdHWk1YVkZ0Y3ZqU2JIWmdZRUp4cU5qQVF4cEx6NmswenRvN29HUE5NTkNjNUFKNDBZRDVkU0RvaEhjUlhGUFhZbENQUjJXWDR5dzYtaldDaVZhanlxSjV1M2NiVDhVZkNpeFJvd0stb01WamMzdk9EZU13LTFmSDlvSlZFbG9yTG95Tlk0S284U3o5RnZBY0JPY2pIbXB0Qg?oc=5",
-      "description": "Canada Ties New West Coast Pipeline to Oil Sands Expansion Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Tue, 14 Jul 2026 22:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbVJ0c0ZxNEhqbnNWN1VJQTNLZ3VkLWNWd2hidEtRRmowSWprVXNCSGdkOVpVemZWcDJvU0pNUFhxalYycTd3RTlPcGdJcEFXM2lBQnV1bjQ2dnJzUVVZSk94cy16M0pjZTBnMWxqaEZlQUlzQ3JPMVlEQ3dmTGVjRXVHZ2xOVm12ZXNURHRjd2p3NlVNM1lhR1NBdGtVVmZtNG5qUUNCMWc1YUJUNFZoUURreVloNU5JM1FxYm1wT2xBLVZPRDhSddIBzgFBVV95cUxNTC1RV1BRVUhVaGFzSXgyTDAzTF9QRDNHR3hXUktiSU45QkkwckxRNW5mQTFoUWk1cEJGZzRNbEFiZFhXcDhLVTdBdnROVDVkYTNuZkg2WWRUTkpPQk4tSUJNUTR1WFJTdjhUdkZ3WHRjQ21QVXI4U2pWVVdZMV9tU0REdGx2SUFtb1VYYWU3X0V5am9CVlVzbE9hdUQxMjN4VnVxVDdOejVMd2tUZFlDczlKcjU3VVNwOTJmZ0Uwckl0OE1OUVB5OFVKWGh1UQ?oc=5",
+      "description": "Oil Prices Set for Biggest Weekly Surge Since April as Iran War Escalates Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Fri, 17 Jul 2026 05:41:26 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Current price of oil as of July 21, 2026 - Fortune",
+      "source": "Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5aZEZMMkRoQVVabW1DOWYwT3NTSVF6T0VDSEFlbkcyNUp5ZThXaHZJM0FTeGFZalY0aTNoWV9vTnJiWFN1MkZjSVdhZUhkTllUaUVTcW9MV1M0V0pfNFlGMUN3?oc=5",
+      "description": "Current price of oil as of July 21, 2026 Fortune",
+      "publishedAt": "Tue, 21 Jul 2026 10:20:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Current price of oil as of July 15, 2026 - Fortune",
+      "source": "Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ienY1UTNoWDJBcmJvTGttS09EbEstVkJCUDF1VXgzVVJNajJnWXZ6VVl2TTZPQmo2V2FwcEQ1dTd0OGkwUXUwYmIwQnJLb01ieXNmSXlzZmxjUU1LTkhuZUNB?oc=5",
+      "description": "Current price of oil as of July 15, 2026 Fortune",
+      "publishedAt": "Wed, 15 Jul 2026 10:20:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "U.S. Crude Inventories Fall 1.7 Million Barrels As Iran Tensions Rattle Markets - Crude Oil Prices Today | OilPrice.com",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTUs5a2RTaHdUb0p3d3lyaTVGcHBqWVJXV1hKbE1tenl2VnBmQjQwVmdtcm5CTlpZeXIyY1V5c1FOa3VheWpMSzVCXzZxSmp6NVRrbUpsTkJ1Zl93UXQ5aWlvbC1zTkg3a2c0U0V1RHk0Xy1UYnN6M2tmYWlLUWtibkJkVVVnT2VYeUFZR2hHd2lZVzBrS2Iyd1ZCem5MajJtSGhFS3pBdk54T0RpT1A3bXpoUWdMZlFEd0sw0gHAAUFVX3lxTE1xOWtYaU95RU96RndieV9QVFQ2cXVscUxkZTFSem9qelZMcFYwakFPeXUtM3RidDBDQ0s4TGtPZ09QVnF5VmFWajlTYVl6ZHZ5alQ2YmthZjY0RHBOb3JVT1gtUVUyakVUX1VEU1JIcGxpbWNvRG1fX3BJaUJMVFB2WGNwc2R0dkZLenZiQXFLRHF2Y1hPZzMzNXBzb2tSMmZkTHZidU5ENi1wUng0Y0dyZE1oMmxENEY3b29oakUzQQ?oc=5",
+      "description": "U.S. Crude Inventories Fall 1.7 Million Barrels As Iran Tensions Rattle Markets Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Wed, 15 Jul 2026 15:28:17 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
