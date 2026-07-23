@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-22 06:23 UTC",
+  "generatedAt": "2026-07-23 06:25 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 179.9,
-    "premium": 197.9,
-    "diesel": 190.4
+    "regular": 180.9,
+    "premium": 198.9,
+    "diesel": 191.4
   },
   "history": {
     "labels": [
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Jul 22"
+      "Jul 23"
     ],
     "regular": [
       150.7,
@@ -75,7 +75,7 @@
       155.9,
       174.9,
       186.9,
-      179.9
+      180.9
     ],
     "premium": [
       168.7,
@@ -110,7 +110,7 @@
       173.9,
       192.9,
       204.9,
-      197.9
+      198.9
     ],
     "diesel": [
       161.2,
@@ -145,45 +145,45 @@
       166.4,
       185.4,
       197.4,
-      190.4
+      191.4
     ]
   },
   "prediction": {
     "labels": [
-      "Jul 23",
       "Jul 24",
       "Jul 25",
       "Jul 26",
       "Jul 27",
       "Jul 28",
-      "Jul 29"
+      "Jul 29",
+      "Jul 30"
     ],
     "regular": [
-      180.9,
-      181.8,
+      181.9,
       182.8,
-      183.7,
+      183.8,
       184.7,
       185.7,
-      186.6
+      186.7,
+      187.6
     ],
     "premium": [
-      198.9,
-      199.8,
+      199.9,
       200.8,
-      201.7,
+      201.8,
       202.7,
       203.7,
-      204.6
+      204.7,
+      205.6
     ],
     "diesel": [
-      191.4,
-      192.3,
+      192.4,
       193.3,
-      194.2,
+      194.3,
       195.2,
       196.2,
-      197.1
+      197.2,
+      198.1
     ]
   },
   "news": [
@@ -197,47 +197,20 @@
       "impact": "medium"
     },
     {
-      "title": "U.S. Gasoline Prices Could Hit $4 Per Gallon Within Days - Crude Oil Prices Today | OilPrice.com",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPLU85a0FsTFFtNUh2WllWUTVfUm5YMTIwZGYzWmJaMVJGTFlhQ1ZSOUdFaEktSmJRU3JjYTVhRW1vT2FJVzF2UGlqejluWFhfRU8xdlRXMzBpS3Q1Q3lOY1g0LXgyVzZjWEp4bzh4ODdNYW1qRUxWWGxJM0Y1UkhVN3JSc291VExrY0cydS1CUkUtOGdTZkkxNG5Qc2drVEFCYmpjT2pmRFZDVUZtcGfSAbMBQVVfeXFMUDZDNmc4ZElET1YxdzJxYTZnclhYVTdiR0lVNmFKaVQxS1dnRnMxYWVROHhSR1pzYkhaelo2UmwtdGtBOXBvZ2M4LWQ4em4zYmFUeEtHTDFpcktDa0luOWNQdjk5cThlenJ5ZmdYcnJxd01rZmx5ZzM0WjA1TnNKUFoxUGN5cGk0UDRKem5IYndSdjdCdzJUVWdpT2VUdVhvb3p0T0NTQ1NlYm5USUJhTVZUOVE?oc=5",
-      "description": "U.S. Gasoline Prices Could Hit $4 Per Gallon Within Days Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Wed, 15 Jul 2026 08:45:00 GMT",
+      "title": "Oil prices rise another 3%, while Wall Street drifts in mixed trading - BNN Bloomberg",
+      "source": "BNN Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTFhmbFdVbjFXdHFBWXUtZURMVU9vR0VqY3NjTkhwLWJzVTdvYUlrUmkwTHI5a29ZdXV5WmdXSXdJZ1k1cVJqekViQVY4cnlLOUpzakQ2ZHdaa1ZqaEsyTlZoSUxUalM1Qm9XOVU0SGZNVXB2TmNPZG1vZXlZZEhhS04tdFQ3VC01S3BNelpTZXg5X0VLenZScXBzU3c2MFNTX0F1TlVRallhanZRUU9TVnZ1N1FCSUNUQ250bWNqc3M?oc=5",
+      "description": "Oil prices rise another 3%, while Wall Street drifts in mixed trading BNN Bloomberg",
+      "publishedAt": "Wed, 22 Jul 2026 20:19:06 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Why oil prices haven't gone crazy despite 5 months of US-Iran war - Reuters",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRWljTmhtaTVPdmZTRkZFLVFDSkpiYlhTWkZidlprdlZhQW1KOW9aY3daeWkxdm5RaVgxX0k1aVY2N3ZWQk9Hald6X29aeE5jdHFuT0RxWXpCbkJCWkJHaHJqZWVXb09aYmFrWHhKZGNfa2pzeTY5RHJkR0lYUTZQbGZXRm50dXVyQjJBbS1ETVFEOUlVR2lwcGk4dWFJTlpyeFUxeVNRNHdCcEVKdWVXLVRJQQ?oc=5",
-      "description": "Why oil prices haven't gone crazy despite 5 months of US-Iran war Reuters",
-      "publishedAt": "Mon, 20 Jul 2026 10:52:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Current price of oil as of July 17, 2026 - Fortune",
-      "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9nTXcwQ1ladUl4UTE1TXRyYjJ6c0kwQmYtUi11T3hPbW5USXMzUS1EdWZhLVhsYzBMbmVhSlAtSk9RejE4Tm45VWFHelZpNkk2UGR6Sjhzcll5TDhjSXhJR0lR?oc=5",
-      "description": "Current price of oil as of July 17, 2026 Fortune",
-      "publishedAt": "Fri, 17 Jul 2026 09:50:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Global oil prices settle at one-month high despite new Iran ceasefire proposal, as blockade on Saudi Arabia by Yemen’s Houthis keeps market on edge - MarketWatch",
-      "source": "MarketWatch",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRGZOeTVJN09iVkpUYkY5bW44ZjhDSEV2UmRNVjJCZkxsakQxY3ZaWElPWkpiTWpXLWQxYUUxY3I4RUhKUjJ0Y1psOENlMjNDQko3dDhPQkMyaTI0eHdETHBrRTZFZEdDUmhHcElyN2lXdFdxRXNxdExfWG5aak1uTFhNSlpZZVYtMmRqMlZud0hzOEpTZ044N09tWEVNTnJTRUZtSWNtT0dTRmllSHhQMUVid3dIVks4QkhUMlU4Zw?oc=5",
-      "description": "Global oil prices settle at one-month high despite new Iran ceasefire proposal, as blockade on Saudi Arabia by Yemen’s Houthis keeps market on edge MarketWatch",
-      "publishedAt": "Mon, 20 Jul 2026 21:11:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices rise after Trump says Iran will pay for killing U.S. service members - CNBC",
+      "title": "Oil prices rise after Rubio says Iran is not serious about a deal - CNBC",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUWJOdlAxMFllcmZ2UnVya3JXdnAweEYzLXEzRW1SSFdnRElpUzlDMXktZzZ4ZmZfMDZkeXFZTHprWkRWdnB4VUFWdnJwYXozRG96MmJSeHhhT3lwSzFha1I4Q21rYjl1UDBsbDFCbkZEMllxMjRPQ0dRODBvLXB5NzNUcm5zNGZaR1RxR0o2MzhOUzdYdEZZ0gGcAUFVX3lxTE95MzV5TkNRTGdaYVJaX2t6eHFTRDNmV2xtQl9jcVV6YXNWNkRJNzd5OXdIeWQzUmdJaFhDNDB3YTZrVy01aFFlZWJ4azNPcHhuVldtUHJvdEpYdXlhRU5xbUdhWlRuZl94VGpMdzZ5RktieU04LXlITUQ3TGRQbE1PQkItVjJWZHVfQzlfZ1NBeEFyamhKczdSeExTWQ?oc=5",
-      "description": "Oil prices rise after Trump says Iran will pay for killing U.S. service members CNBC",
-      "publishedAt": "Mon, 20 Jul 2026 01:14:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcDRBcnVRY3V3YkNvM2hFak1wSFc2dzhMbDRpbGMtUjFFcHBjOXpGU29rRk5sQUFjNWhUb2VwZ0EtNUVKWmRPSkJ3UGV4RThUMzBWMHVBUHo2Q3o2LVBFVG5VQmRkUnhHbDQ4Nm9QNkY0WW9yd3RMbEQ0V3Rad09nQV9tdk7SAYoBQVVfeXFMT1hrakZEUml5UTFEUElKdDRTTEVqOGZxYVRSWE1RMGtNc291TjdTc1BwRGlCUkdISDRFUDluWlZKMjI1VjBNbFZodDlxV1dPeDRhUHp4WTdyX2VRbHJ2WmFOUHh4VWRoZHhDRmRKRkRycXdFY0g2T3BiNU1fZkdKMnkxS2oyZFRYQ2h3?oc=5",
+      "description": "Oil prices rise after Rubio says Iran is not serious about a deal CNBC",
+      "publishedAt": "Wed, 22 Jul 2026 07:56:07 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -251,6 +224,33 @@
       "impact": "medium"
     },
     {
+      "title": "Why oil prices haven't gone crazy despite 5 months of US-Iran war - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRWljTmhtaTVPdmZTRkZFLVFDSkpiYlhTWkZidlprdlZhQW1KOW9aY3daeWkxdm5RaVgxX0k1aVY2N3ZWQk9Hald6X29aeE5jdHFuT0RxWXpCbkJCWkJHaHJqZWVXb09aYmFrWHhKZGNfa2pzeTY5RHJkR0lYUTZQbGZXRm50dXVyQjJBbS1ETVFEOUlVR2lwcGk4dWFJTlpyeFUxeVNRNHdCcEVKdWVXLVRJQQ?oc=5",
+      "description": "Why oil prices haven't gone crazy despite 5 months of US-Iran war Reuters",
+      "publishedAt": "Tue, 21 Jul 2026 20:42:25 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil prices spike, global stock markets mixed as Iran war escalates - Global News",
+      "source": "Global News",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE12dWVnVEtrRjMxNkZaNXhtdDVCeFNuVWdYQXp6ajVPTWpGVlFBVFdrOU9MNXhJc04zc1pXQ3hBOXZ0di0yLUo3ZW9ybEVYeHc2dTRSOXo1cU9SYV9CeXBWbTVnbllxNWZfbUgwMmk3MGw2ejl5?oc=5",
+      "description": "Oil prices spike, global stock markets mixed as Iran war escalates Global News",
+      "publishedAt": "Wed, 22 Jul 2026 18:42:19 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil price rises above $95 mark as Middle East conflict escalates - The Guardian",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQd3RaMjdqWXNXeFV1R1dnQnpoM2VLTml2ZWtNWE1WcHVrekNraHpPa2dxUjVhZVZmTWJrbkJzYVFrVy1WdWNJSTBDWG5pS0UtZXZJbFVSel9jcUMwMUhGU3U3S0xXSVBsRmFqaDlIRkpSRnlzUlJ0WTFsWnBKanF0NDJJc19TdHQ5WXlUX1JLZGxWV2Q4dkdRRTgwM3U3OGRORVlVbndqbw?oc=5",
+      "description": "Oil price rises above $95 mark as Middle East conflict escalates The Guardian",
+      "publishedAt": "Wed, 22 Jul 2026 13:37:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
       "title": "Current price of oil as of July 21, 2026 - Fortune",
       "source": "Fortune",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5aZEZMMkRoQVVabW1DOWYwT3NTSVF6T0VDSEFlbkcyNUp5ZThXaHZJM0FTeGFZalY0aTNoWV9vTnJiWFN1MkZjSVdhZUhkTllUaUVTcW9MV1M0V0pfNFlGMUN3?oc=5",
@@ -260,20 +260,20 @@
       "impact": "medium"
     },
     {
-      "title": "Current price of oil as of July 15, 2026 - Fortune",
-      "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ienY1UTNoWDJBcmJvTGttS09EbEstVkJCUDF1VXgzVVJNajJnWXZ6VVl2TTZPQmo2V2FwcEQ1dTd0OGkwUXUwYmIwQnJLb01ieXNmSXlzZmxjUU1LTkhuZUNB?oc=5",
-      "description": "Current price of oil as of July 15, 2026 Fortune",
-      "publishedAt": "Wed, 15 Jul 2026 10:20:00 GMT",
+      "title": "Global oil prices settle at one-month high despite new Iran ceasefire proposal, as blockade on Saudi Arabia by Yemen’s Houthis keeps market on edge - MarketWatch",
+      "source": "MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRGZOeTVJN09iVkpUYkY5bW44ZjhDSEV2UmRNVjJCZkxsakQxY3ZaWElPWkpiTWpXLWQxYUUxY3I4RUhKUjJ0Y1psOENlMjNDQko3dDhPQkMyaTI0eHdETHBrRTZFZEdDUmhHcElyN2lXdFdxRXNxdExfWG5aak1uTFhNSlpZZVYtMmRqMlZud0hzOEpTZ044N09tWEVNTnJTRUZtSWNtT0dTRmllSHhQMUVid3dIVks4QkhUMlU4Zw?oc=5",
+      "description": "Global oil prices settle at one-month high despite new Iran ceasefire proposal, as blockade on Saudi Arabia by Yemen’s Houthis keeps market on edge MarketWatch",
+      "publishedAt": "Mon, 20 Jul 2026 21:11:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "U.S. Crude Inventories Fall 1.7 Million Barrels As Iran Tensions Rattle Markets - Crude Oil Prices Today | OilPrice.com",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTUs5a2RTaHdUb0p3d3lyaTVGcHBqWVJXV1hKbE1tenl2VnBmQjQwVmdtcm5CTlpZeXIyY1V5c1FOa3VheWpMSzVCXzZxSmp6NVRrbUpsTkJ1Zl93UXQ5aWlvbC1zTkg3a2c0U0V1RHk0Xy1UYnN6M2tmYWlLUWtibkJkVVVnT2VYeUFZR2hHd2lZVzBrS2Iyd1ZCem5MajJtSGhFS3pBdk54T0RpT1A3bXpoUWdMZlFEd0sw0gHAAUFVX3lxTE1xOWtYaU95RU96RndieV9QVFQ2cXVscUxkZTFSem9qelZMcFYwakFPeXUtM3RidDBDQ0s4TGtPZ09QVnF5VmFWajlTYVl6ZHZ5alQ2YmthZjY0RHBOb3JVT1gtUVUyakVUX1VEU1JIcGxpbWNvRG1fX3BJaUJMVFB2WGNwc2R0dkZLenZiQXFLRHF2Y1hPZzMzNXBzb2tSMmZkTHZidU5ENi1wUng0Y0dyZE1oMmxENEY3b29oakUzQQ?oc=5",
-      "description": "U.S. Crude Inventories Fall 1.7 Million Barrels As Iran Tensions Rattle Markets Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Wed, 15 Jul 2026 15:28:17 GMT",
+      "title": "Oil surges past $95 as U.S. downplays Iran diplomacy and 2nd key trade route is disrupted - NBC News",
+      "source": "NBC News",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSE1vZGE4WjBVeUhvM0tNYkJFYWRmekMtMnFIOXh2cWwzYkhfSnExWjcxWUt5NktnRWE2Y0o0blpPX1UzbDAwdG15c2lyMFNKNVZVZjdKUnYwTG5BSjhjRDF2cE9pc2g2UjF6N3E4WWYxY2hwWE5CbWhGOEx5R25IczVNZ3IwZHVQSDJnSnN6UnFwbGdDbFFZei1BM1RJTFNsNHEwWDJZZGo0RWRBQzg0bkhLRUZTbk0?oc=5",
+      "description": "Oil surges past $95 as U.S. downplays Iran diplomacy and 2nd key trade route is disrupted NBC News",
+      "publishedAt": "Wed, 22 Jul 2026 21:40:32 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
