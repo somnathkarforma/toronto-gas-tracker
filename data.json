@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-25 06:11 UTC",
+  "generatedAt": "2026-07-26 06:30 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 183.9,
-    "premium": 201.9,
-    "diesel": 194.4
+    "regular": 179.9,
+    "premium": 197.9,
+    "diesel": 190.4
   },
   "history": {
     "labels": [
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Jul 25"
+      "Jul 26"
     ],
     "regular": [
       150.7,
@@ -75,7 +75,7 @@
       155.9,
       174.9,
       186.9,
-      183.9
+      179.9
     ],
     "premium": [
       168.7,
@@ -110,7 +110,7 @@
       173.9,
       192.9,
       204.9,
-      201.9
+      197.9
     ],
     "diesel": [
       161.2,
@@ -145,48 +145,57 @@
       166.4,
       185.4,
       197.4,
-      194.4
+      190.4
     ]
   },
   "prediction": {
     "labels": [
-      "Jul 26",
       "Jul 27",
       "Jul 28",
       "Jul 29",
       "Jul 30",
       "Jul 31",
-      "Aug 01"
+      "Aug 01",
+      "Aug 02"
     ],
     "regular": [
-      184.9,
-      185.8,
-      186.8,
-      187.7,
-      188.7,
-      189.7,
-      190.6
+      180.9,
+      181.8,
+      182.8,
+      183.7,
+      184.7,
+      185.7,
+      186.6
     ],
     "premium": [
-      202.9,
-      203.8,
-      204.8,
-      205.7,
-      206.7,
-      207.7,
-      208.6
+      198.9,
+      199.8,
+      200.8,
+      201.7,
+      202.7,
+      203.7,
+      204.6
     ],
     "diesel": [
-      195.4,
-      196.3,
-      197.3,
-      198.2,
-      199.2,
-      200.2,
-      201.1
+      191.4,
+      192.3,
+      193.3,
+      194.2,
+      195.2,
+      196.2,
+      197.1
     ]
   },
   "news": [
+    {
+      "title": "Oil tops $100 US per barrel, as Tesla and Alphabet drag stocks lower - CBC",
+      "source": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9KMUZ6aktfSE9ZdGRVd0ZXN2doQ3dCUEVsQ1BCczZiTUQxSXJ4blhXRXdtOWl0YWlKYXA1cVdWbEdKYlo2a2ktRU05dFI3YXdaNWF0UEVmUVNGaGFUandyWWZ2U2NqTDZMWEtiSXRRazBwM0FEbldpVVQ1VQ?oc=5",
+      "description": "Oil tops $100 US per barrel, as Tesla and Alphabet drag stocks lower CBC",
+      "publishedAt": "Thu, 23 Jul 2026 20:44:16 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
     {
       "title": "Oil prices surge to $100 per barrel after Red Sea attacks - NBC News",
       "source": "NBC News",
@@ -215,11 +224,11 @@
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Roar Back, Threatening Economy and GOP’s Midterm Hopes - WSJ",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVV9pSWtoZFVuZFFIUm1NTVZGeFZIZzFmNWlXUm5QWWQ4cDQ0UGI4d20yWm5aelAxUDVVeDhhUWdmV2p5dUdvZF9yU3NmTkdwVm54QWNtRllaRFFJSTJPVHFaeU9TVTZvbGdGVzE5Q2dCTWYzSG1uTFctWkowQ2p5VV9BSEo2VmRwSnBUek5YNWY5QnJkazVQaExfVmMxYlRvM2xvaVpTR29jR2g3c0RKa3FR?oc=5",
-      "description": "Oil Prices Roar Back, Threatening Economy and GOP’s Midterm Hopes WSJ",
-      "publishedAt": "Fri, 24 Jul 2026 01:00:00 GMT",
+      "title": "Why Trump is facing his biggest danger from rising oil prices since the war began - Politico",
+      "source": "Politico",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1YMEs4LXVIMjIzYV9DaEZoUEYyaHZTT2dma0x5YVdUU3hGQTVSSGZMbk5IZVhkTU9sbzlDeVgtamx0UFpRVDVlRVRLUWVtbTlFdElBRkptb3N5Mm91RUo0NTdlU2hYM0lLUnV4VG95NWJZeVgxMlhJc3dRbw?oc=5",
+      "description": "Why Trump is facing his biggest danger from rising oil prices since the war began Politico",
+      "publishedAt": "Fri, 24 Jul 2026 14:00:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -233,6 +242,15 @@
       "impact": "medium"
     },
     {
+      "title": "Oil Prices Roar Back, Threatening Economy and GOP’s Midterm Hopes - WSJ",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVV9pSWtoZFVuZFFIUm1NTVZGeFZIZzFmNWlXUm5QWWQ4cDQ0UGI4d20yWm5aelAxUDVVeDhhUWdmV2p5dUdvZF9yU3NmTkdwVm54QWNtRllaRFFJSTJPVHFaeU9TVTZvbGdGVzE5Q2dCTWYzSG1uTFctWkowQ2p5VV9BSEo2VmRwSnBUek5YNWY5QnJkazVQaExfVmMxYlRvM2xvaVpTR29jR2g3c0RKa3FR?oc=5",
+      "description": "Oil Prices Roar Back, Threatening Economy and GOP’s Midterm Hopes WSJ",
+      "publishedAt": "Fri, 24 Jul 2026 01:00:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
       "title": "Houthi Red Sea Blockade Could Shatter Hopes for Lower Oil Prices - Crude Oil Prices Today | OilPrice.com",
       "source": "Crude Oil Prices Today | OilPrice.com",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeUJGNkZVTjI4S1BOT3Q0QlhWYVNuVWZZdXhGS19zWVN1VGg2d1J3MElhVi04V25rVUpSa0FUbE41MEVJVVpoTnEzZDh6dFRZU29JOE5xLTNLS1NlRTJXa2VzNTl1UWZSZWlCTkZadnp1T3BHWWRyTkJHLWpCX3RXX2dZNW40UzRtZXlZWndQVmtxUmdZVlAybEg3dEdSZmlWVDA2bkV0dV9pYm140gGyAUFVX3lxTE0wLWRMN3RnV2NDUVFTaURRVG9YejBVMzFtUDFzZGxCTFFpLS1SZ1AwSTFWWmxnN0ZWRlVmTjBoZ0VLZUFWU2ZKcVVpX29LY3AtQndtRXdfTDQtR3ZaVkJ4bWJ1eENadVZ1QVdzeW9DYklDRnMxYVBrY044V3BUV2NBUE5zMXFpN09SNUFvY0lQUi1KdGVtQS1oV0RwdnM5bWJncVNGcGtwc2l5N05QUGFWMlE?oc=5",
@@ -242,38 +260,20 @@
       "impact": "medium"
     },
     {
+      "title": "Oil price rises above $95 mark as Middle East conflict escalates - The Guardian",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQd3RaMjdqWXNXeFV1R1dnQnpoM2VLTml2ZWtNWE1WcHVrekNraHpPa2dxUjVhZVZmTWJrbkJzYVFrVy1WdWNJSTBDWG5pS0UtZXZJbFVSel9jcUMwMUhGU3U3S0xXSVBsRmFqaDlIRkpSRnlzUlJ0WTFsWnBKanF0NDJJc19TdHQ5WXlUX1JLZGxWV2Q4dkdRRTgwM3U3OGRORVlVbndqbw?oc=5",
+      "description": "Oil price rises above $95 mark as Middle East conflict escalates The Guardian",
+      "publishedAt": "Thu, 23 Jul 2026 04:12:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
       "title": "Fuel costs on the rise as latest geopolitical turmoil drives up crude oil prices - Yahoo! Finance Canada",
       "source": "Yahoo! Finance Canada",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdjU3Y1pXYWFoQk5ZbDdFWFcyNi1MY1IweFh3Y0M2TmNnMk0zQnA0MkI3c2ZrZ3dfckotaGdraC03a2VodXdqd090Y3pNX2t5ejBNTEJaQnZlNDBqeEl0elBtZURSTzlqZ0FXd3ZQRE1DbVVyNUc2TTBzeWxrMm51aVRneEk0RzJEMTlDYQ?oc=5",
       "description": "Fuel costs on the rise as latest geopolitical turmoil drives up crude oil prices Yahoo! Finance Canada",
       "publishedAt": "Thu, 23 Jul 2026 19:14:30 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Why Trump is facing his biggest danger from rising oil prices since the war began - Politico",
-      "source": "Politico",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1YMEs4LXVIMjIzYV9DaEZoUEYyaHZTT2dma0x5YVdUU3hGQTVSSGZMbk5IZVhkTU9sbzlDeVgtamx0UFpRVDVlRVRLUWVtbTlFdElBRkptb3N5Mm91RUo0NTdlU2hYM0lLUnV4VG95NWJZeVgxMlhJc3dRbw?oc=5",
-      "description": "Why Trump is facing his biggest danger from rising oil prices since the war began Politico",
-      "publishedAt": "Fri, 24 Jul 2026 14:00:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil passes $100 a barrel again and shares slide as Middle East conflict escalates - The Guardian",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUVZaa0RudS1CTTRldHZCVXJES0plVUdXc1EybUFDU1Rtc0U0RU5yUHZ0QU9PQmllYXFWWGpGQndBLXMyWTZKY2RTSHc0Nk9OSjhOaG9Id3BLTjNScXZvOXRJLVFoNzhEbDBDR0VQcmlsMG1SRGxlaE5vNlNMMkhkbGlRWldhd1MtTWNEcXZBUzlWU2M2R1NEcDZJakk0YU5sQl9QZ2RpaWhBb19PRjdzQy1jZVFRdTZXZlE?oc=5",
-      "description": "Oil passes $100 a barrel again and shares slide as Middle East conflict escalates The Guardian",
-      "publishedAt": "Fri, 24 Jul 2026 01:30:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices hit $100 a barrel for the first time since May - CP24",
-      "source": "CP24",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWml6SWJseDN0Q0NQaWlkb3kzT1h2cWFjY04xYk1qb01GS00yWEZfVWNLdWdscjE3LWRORGZqb29CbUp1X2phY3J5VHI2QUY1RmgycDZyWHFzU0ZRLUNGQnpqS2Jtbk1yd3RnZWVpMU0xb3A2OUFPY0lQczJ6aUs5VDVTU0o1LU1GSm9ndFBkOVJleTE2aHNPZGJzOA?oc=5",
-      "description": "Oil prices hit $100 a barrel for the first time since May CP24",
-      "publishedAt": "Fri, 24 Jul 2026 11:38:39 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
