@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27 06:57 UTC",
+  "generatedAt": "2026-07-28 06:20 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
     "regular": 179.9,
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Jul 27"
+      "Jul 28"
     ],
     "regular": [
       150.7,
@@ -150,13 +150,13 @@
   },
   "prediction": {
     "labels": [
-      "Jul 28",
       "Jul 29",
       "Jul 30",
       "Jul 31",
       "Aug 01",
       "Aug 02",
-      "Aug 03"
+      "Aug 03",
+      "Aug 04"
     ],
     "regular": [
       180.9,
@@ -188,20 +188,11 @@
   },
   "news": [
     {
-      "title": "Oil slides 5% as Iran reportedly signals halt to attacks if U.S. pause holds - CNBC",
+      "title": "Oil prices slide, Brent crude below $90 as pause to U.S.-Iran hostilities appears to hold - CNBC",
       "source": "CNBC",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOazZxVWRVdC1uSkx4TVlXUzlnZm9OR0VJQjB1Z1hMV29ucmN4X0FXTHdWbjgxRC0tNHNwWVlua3hUT3pKdXlkYVBubWZEWFRKZlpZS2d3STZjTXRCRFdabzJ6OF9NNzdqU2FvdFdDcFpINF84SWtOYmFrOUd4MkwzNDhMcVI0R01QeXpFTm94SXJYektmVk1LbmlIVHFsVlnSAaQBQVVfeXFMTXBmRFFqbUhVLVZpUnZfNVZxTWhieFAxUldheXpHTVJBVXk4elU3RXpaVy04WHY1NXd3R19oOHYyZ2xBR01uZ1NmdlFzLUU3UXRheDdvS1RyYkZxSjk5NEJpRVNQYTVXaFlUb3BHajZ4VVRIWm1aZnpwNVA5X3pMLW9oR0NreW1MaENBeDF1cEF6Y2VLMFdaQ1o0WEMtTzh2Zzl4Ukw?oc=5",
-      "description": "Oil slides 5% as Iran reportedly signals halt to attacks if U.S. pause holds CNBC",
+      "description": "Oil prices slide, Brent crude below $90 as pause to U.S.-Iran hostilities appears to hold CNBC",
       "publishedAt": "Sun, 26 Jul 2026 23:58:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil tops $100 US per barrel, as Tesla and Alphabet drag stocks lower - CBC",
-      "source": "CBC",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9KMUZ6aktfSE9ZdGRVd0ZXN2doQ3dCUEVsQ1BCczZiTUQxSXJ4blhXRXdtOWl0YWlKYXA1cVdWbEdKYlo2a2ktRU05dFI3YXdaNWF0UEVmUVNGaGFUandyWWZ2U2NqTDZMWEtiSXRRazBwM0FEbldpVVQ1VQ?oc=5",
-      "description": "Oil tops $100 US per barrel, as Tesla and Alphabet drag stocks lower CBC",
-      "publishedAt": "Thu, 23 Jul 2026 20:44:16 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -224,11 +215,11 @@
       "impact": "medium"
     },
     {
-      "title": "Why oil prices haven't gone crazy despite 5 months of US-Iran war - Reuters",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRWljTmhtaTVPdmZTRkZFLVFDSkpiYlhTWkZidlprdlZhQW1KOW9aY3daeWkxdm5RaVgxX0k1aVY2N3ZWQk9Hald6X29aeE5jdHFuT0RxWXpCbkJCWkJHaHJqZWVXb09aYmFrWHhKZGNfa2pzeTY5RHJkR0lYUTZQbGZXRm50dXVyQjJBbS1ETVFEOUlVR2lwcGk4dWFJTlpyeFUxeVNRNHdCcEVKdWVXLVRJQQ?oc=5",
-      "description": "Why oil prices haven't gone crazy despite 5 months of US-Iran war Reuters",
-      "publishedAt": "Tue, 21 Jul 2026 20:42:25 GMT",
+      "title": "Oil prices fall as US pauses strikes on Iran over strait of Hormuz - The Guardian",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY3NLLWN3ME9IZjdEWmdJNHE4cEJsSEV3SG5pTlpRWjBqbWdFYllsZGZJXzFXQVBlT2w3XzBOempmcWw3RGpvWVFVSWEtM1k2MlNPaU9CdUlJNkVVOU5QcUJIem1UMEZLanh0SzUxVkE1bEs5RWppNFJWMDAyT0NNVVNFdGJqcEJHbDZ5ejl6N01mOWY1RVZVSnRvWEhvVXBFYTNCcmFfVTJtUUU1U09V?oc=5",
+      "description": "Oil prices fall as US pauses strikes on Iran over strait of Hormuz The Guardian",
+      "publishedAt": "Mon, 27 Jul 2026 08:36:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -242,29 +233,20 @@
       "impact": "medium"
     },
     {
-      "title": "TSX rises more than 150 points as oil prices fall, U.S. markets post mixed results - BNN Bloomberg",
-      "source": "BNN Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOamdwQ1V0ZkFkRkh5aXlpdEtOczV3a3Z1NWFSNjd2Zjl1V0Q2R3RZbW9hRjlRVlEtS3lYbWxJcG5oM2hsckdMeGc1ZWhqNzhSbEhyRjIwdDljRDE0SGZzQWVCMUUzbHUyU19DZUJtTnkzNnZrY3JLT3VrSVRyVTJ2ZjVFZzZOWGRUaDZPUTJ1NzVoTkJTeFRGMGVTUlVZeTVvQnRBcVRUMm5NVFYxUDhSVHZqcnJfeWc?oc=5",
-      "description": "TSX rises more than 150 points as oil prices fall, U.S. markets post mixed results BNN Bloomberg",
-      "publishedAt": "Fri, 24 Jul 2026 20:55:02 GMT",
+      "title": "Why oil prices haven't gone crazy despite 5 months of US-Iran war - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRWljTmhtaTVPdmZTRkZFLVFDSkpiYlhTWkZidlprdlZhQW1KOW9aY3daeWkxdm5RaVgxX0k1aVY2N3ZWQk9Hald6X29aeE5jdHFuT0RxWXpCbkJCWkJHaHJqZWVXb09aYmFrWHhKZGNfa2pzeTY5RHJkR0lYUTZQbGZXRm50dXVyQjJBbS1ETVFEOUlVR2lwcGk4dWFJTlpyeFUxeVNRNHdCcEVKdWVXLVRJQQ?oc=5",
+      "description": "Why oil prices haven't gone crazy despite 5 months of US-Iran war Reuters",
+      "publishedAt": "Tue, 21 Jul 2026 20:42:25 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Roar Back, Threatening Economy and GOP’s Midterm Hopes - WSJ",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVV9pSWtoZFVuZFFIUm1NTVZGeFZIZzFmNWlXUm5QWWQ4cDQ0UGI4d20yWm5aelAxUDVVeDhhUWdmV2p5dUdvZF9yU3NmTkdwVm54QWNtRllaRFFJSTJPVHFaeU9TVTZvbGdGVzE5Q2dCTWYzSG1uTFctWkowQ2p5VV9BSEo2VmRwSnBUek5YNWY5QnJkazVQaExfVmMxYlRvM2xvaVpTR29jR2g3c0RKa3FR?oc=5",
-      "description": "Oil Prices Roar Back, Threatening Economy and GOP’s Midterm Hopes WSJ",
-      "publishedAt": "Fri, 24 Jul 2026 01:00:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil price rises above $95 mark as Middle East conflict escalates - The Guardian",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQd3RaMjdqWXNXeFV1R1dnQnpoM2VLTml2ZWtNWE1WcHVrekNraHpPa2dxUjVhZVZmTWJrbkJzYVFrVy1WdWNJSTBDWG5pS0UtZXZJbFVSel9jcUMwMUhGU3U3S0xXSVBsRmFqaDlIRkpSRnlzUlJ0WTFsWnBKanF0NDJJc19TdHQ5WXlUX1JLZGxWV2Q4dkdRRTgwM3U3OGRORVlVbndqbw?oc=5",
-      "description": "Oil price rises above $95 mark as Middle East conflict escalates The Guardian",
-      "publishedAt": "Wed, 22 Jul 2026 13:37:00 GMT",
+      "title": "Oil Prices Hit One-Week Low After US, Iran Pause Fighting Over Weekend - EnergyNow",
+      "source": "EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeXBKVFgyM1NGbExBWHVuS050dXNCMVBpLXo0Z1E2S3VwRXhIc0hyazVZNnMxMlIzU3BSdjZPUXNEaEYwUnZHcFRVdEtfWFc1VXp2cURYMWo2Rmx2Szd6N3VTMVdhRjdhUXZiWEhVRC1ZNWM2OGo4eDlZVVI4X0xQMnEzeFgtTHdYc2x5RVdpcno0Y1d5LXl4N01VWEJDd1dF?oc=5",
+      "description": "Oil Prices Hit One-Week Low After US, Iran Pause Fighting Over Weekend EnergyNow",
+      "publishedAt": "Mon, 27 Jul 2026 12:00:23 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -274,6 +256,24 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdEIzcFZ1Tkg0cl9jN1dCbFJNOVp4VEhuNngtVU03eFltbWI1TVZnajJJZkxNUkJGdE1yQzhNYTlsUWhCOGRxX0V2clBza0dqWGszRnNhVTFPNnFGdVhtVWJSTTZ3ODhzVXRlUDd4bUIwRHc0TzVDd08xLUVTYl9KUlRra2paZ2xpM0VPNFZER3lHSEh5ejNFY2NLY9IBoAFBVV95cUxPSVR2OHUzWEY0cGZvMFRKdEdNcmp6WXB2b2xsaVdvcVBOUjZTcDVYWmszUGR6UDhwQ3NUTXN0TFhtM09MN01ZTVZoRThGYm5KV3RtaU10RWFfQ0dzcVQwUVlzTzl2dHdNYXZ3YXRkMlk4RG84S0ZkRWZOc3NaTnExUms2aFp4MC11dEl0VFd5UWJCb3NtSXVrbm9hZU1kcDg1?oc=5",
       "description": "Oil prices rise to six-week high as US-Iran tensions escalate BOE Report",
       "publishedAt": "Thu, 23 Jul 2026 00:37:31 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil Prices Waver as Gulf Ship Traffic Falls to Lowest Level in Months - The New York Times",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQktRd1BiNVJEUjJaWEtyT2xjSnJldWIxRE1rUndBLXBlSURDc0twLVBrUUdWYnY3d29Gb0VTUVR3VC10WG1yTEhyVkQyMkNMck1VWk9wd0NvMTUxV3g3M1dpZ0dTTVNGMnNXSkgyNFJSbENQdG9FZ0lRai1jTzFDTV9oSGo5Q3NXYWc?oc=5",
+      "description": "Oil Prices Waver as Gulf Ship Traffic Falls to Lowest Level in Months The New York Times",
+      "publishedAt": "Fri, 24 Jul 2026 04:31:31 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Brent crude crosses $100 after tankers reportedly struck off Saudi Arabia - CNBC",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTmctMzlYU1FiQlBvdGFwemtzeWE4MnZPR3pIeV8zSUYyWG90d2dfdlBKYmFoRjU2TFlKUUhPWklaclgzRWgtZW03Z09fOURWdlEweXNvY3dYdzFYdnY4U182ZW1RZHVweDVTUW9NUE5va00tREQxTHM5Qy1UQ0pSdExsQmpSbFlD0gGOAUFVX3lxTFBrRTdDSTVkeWFvYkd6ZGdfRnNDeUJ1QmE1UjBKUE1QWU01T0hwM2xPTXJMdHRWZTQ2Zzd5cGNFbDFRakVMN0VoQlVsUEd1UlpvMlgzS2JrcDhORVhqb0JIOUpMSmRqZW0zdVZmWGU4c0Vkd2Z5aDBiajh4VHVSajEtT1VBODZaZXNjTGZjQ1E?oc=5",
+      "description": "Brent crude crosses $100 after tankers reportedly struck off Saudi Arabia CNBC",
+      "publishedAt": "Thu, 23 Jul 2026 00:18:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
