@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-30 06:21 UTC",
+  "generatedAt": "2026-07-31 06:38 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 177.9,
-    "premium": 195.9,
-    "diesel": 188.4
+    "regular": 179.9,
+    "premium": 197.9,
+    "diesel": 190.4
   },
   "history": {
     "labels": [
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Jul 30"
+      "Jul 31"
     ],
     "regular": [
       150.7,
@@ -75,7 +75,7 @@
       155.9,
       174.9,
       186.9,
-      177.9
+      179.9
     ],
     "premium": [
       168.7,
@@ -110,7 +110,7 @@
       173.9,
       192.9,
       204.9,
-      195.9
+      197.9
     ],
     "diesel": [
       161.2,
@@ -145,45 +145,45 @@
       166.4,
       185.4,
       197.4,
-      188.4
+      190.4
     ]
   },
   "prediction": {
     "labels": [
-      "Jul 31",
       "Aug 01",
       "Aug 02",
       "Aug 03",
       "Aug 04",
       "Aug 05",
-      "Aug 06"
+      "Aug 06",
+      "Aug 07"
     ],
     "regular": [
-      178.9,
-      179.8,
-      180.8,
-      181.7,
-      182.7,
+      180.9,
+      181.8,
+      182.8,
       183.7,
-      184.6
+      184.7,
+      185.7,
+      186.6
     ],
     "premium": [
-      196.9,
-      197.8,
-      198.8,
-      199.7,
-      200.7,
+      198.9,
+      199.8,
+      200.8,
       201.7,
-      202.6
+      202.7,
+      203.7,
+      204.6
     ],
     "diesel": [
-      189.4,
-      190.3,
-      191.3,
-      192.2,
-      193.2,
+      191.4,
+      192.3,
+      193.3,
       194.2,
-      195.1
+      195.2,
+      196.2,
+      197.1
     ]
   },
   "news": [
@@ -206,29 +206,20 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices slide, Brent crude below $90 as pause to U.S.-Iran hostilities appears to hold - CNBC",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOazZxVWRVdC1uSkx4TVlXUzlnZm9OR0VJQjB1Z1hMV29ucmN4X0FXTHdWbjgxRC0tNHNwWVlua3hUT3pKdXlkYVBubWZEWFRKZlpZS2d3STZjTXRCRFdabzJ6OF9NNzdqU2FvdFdDcFpINF84SWtOYmFrOUd4MkwzNDhMcVI0R01QeXpFTm94SXJYektmVk1LbmlIVHFsVlnSAaQBQVVfeXFMTXBmRFFqbUhVLVZpUnZfNVZxTWhieFAxUldheXpHTVJBVXk4elU3RXpaVy04WHY1NXd3R19oOHYyZ2xBR01uZ1NmdlFzLUU3UXRheDdvS1RyYkZxSjk5NEJpRVNQYTVXaFlUb3BHajZ4VVRIWm1aZnpwNVA5X3pMLW9oR0NreW1MaENBeDF1cEF6Y2VLMFdaQ1o0WEMtTzh2Zzl4Ukw?oc=5",
-      "description": "Oil prices slide, Brent crude below $90 as pause to U.S.-Iran hostilities appears to hold CNBC",
-      "publishedAt": "Sun, 26 Jul 2026 23:58:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices jump again following renewed fighting in the Middle East - Global News",
-      "source": "Global News",
+      "title": "Oil prices jump again following renewed fighting in the Middle East - globalnews.ca",
+      "source": "globalnews.ca",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb2xSX2I3WDE0bi1Gb3pBSm9ITUk1a3dUVXBEOTBsSkVqTlRpa19pNjZNb09LcnVRbkprMnVTc2k3Y24zNlk0REdnVm5pWkE4MFotVGdhM0Y5dk5xZ2M0dG5yRThZRkY0eUlzLWtIdU1zNV9TaENqb05YMHBkazU3alBOS0U3UjB4?oc=5",
-      "description": "Oil prices jump again following renewed fighting in the Middle East Global News",
+      "description": "Oil prices jump again following renewed fighting in the Middle East globalnews.ca",
       "publishedAt": "Wed, 29 Jul 2026 17:16:05 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil prices surge to $100 per barrel after Red Sea attacks - NBC News",
-      "source": "NBC News",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMHdMaXlYMmdiMllLaVZGYnpYUVpNNkUzRVJVY3VkcXhWU3RFY0VRX29Zel9taHRSejBKQmZWc2pRSVMxMjlPM05tdVJpeFozM2x4SVptdlpZVzJCSVFkNVIxOEZCUFZkY0o4Zk45UHR5WTVvZGROVjV1Rmh4eFV3ZW9iSDA0eVQ1aUJhWFJ0cWV0TENnbXJXMmlSTi1wMUZaZUJJd2RrV01YcUx2bmdhdk1R?oc=5",
-      "description": "Oil prices surge to $100 per barrel after Red Sea attacks NBC News",
-      "publishedAt": "Thu, 23 Jul 2026 19:34:27 GMT",
+      "title": "Oil prices slide, Brent crude below $90 as pause to U.S.-Iran hostilities appears to hold - CNBC",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOazZxVWRVdC1uSkx4TVlXUzlnZm9OR0VJQjB1Z1hMV29ucmN4X0FXTHdWbjgxRC0tNHNwWVlua3hUT3pKdXlkYVBubWZEWFRKZlpZS2d3STZjTXRCRFdabzJ6OF9NNzdqU2FvdFdDcFpINF84SWtOYmFrOUd4MkwzNDhMcVI0R01QeXpFTm94SXJYektmVk1LbmlIVHFsVlnSAaQBQVVfeXFMTXBmRFFqbUhVLVZpUnZfNVZxTWhieFAxUldheXpHTVJBVXk4elU3RXpaVy04WHY1NXd3R19oOHYyZ2xBR01uZ1NmdlFzLUU3UXRheDdvS1RyYkZxSjk5NEJpRVNQYTVXaFlUb3BHajZ4VVRIWm1aZnpwNVA5X3pMLW9oR0NreW1MaENBeDF1cEF6Y2VLMFdaQ1o0WEMtTzh2Zzl4Ukw?oc=5",
+      "description": "Oil prices slide, Brent crude below $90 as pause to U.S.-Iran hostilities appears to hold CNBC",
+      "publishedAt": "Sun, 26 Jul 2026 23:58:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -251,11 +242,11 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices fall as US pauses strikes on Iran over strait of Hormuz - The Guardian",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY3NLLWN3ME9IZjdEWmdJNHE4cEJsSEV3SG5pTlpRWjBqbWdFYllsZGZJXzFXQVBlT2w3XzBOempmcWw3RGpvWVFVSWEtM1k2MlNPaU9CdUlJNkVVOU5QcUJIem1UMEZLanh0SzUxVkE1bEs5RWppNFJWMDAyT0NNVVNFdGJqcEJHbDZ5ejl6N01mOWY1RVZVSnRvWEhvVXBFYTNCcmFfVTJtUUU1U09V?oc=5",
-      "description": "Oil prices fall as US pauses strikes on Iran over strait of Hormuz The Guardian",
-      "publishedAt": "Mon, 27 Jul 2026 08:36:00 GMT",
+      "title": "Oil prices slide as U.S. and Iran pause strikes to give ‘space’ for diplomacy - NBC News",
+      "source": "NBC News",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdFF0bDJ2LTFHOG5uWXllRmJvZTFQbXpxc2U5ZnJfZ0JadU5HRTBXang0TExaekgyR1BDS1VINmFNU3FNRTZfUVNxekdzV0w3U3hqd3JEVWF2dVRqUHRpbERzOC11TnJhV2dWU3lvaTJ3VDBjTHI4cVh6dkc0MzlIVGF4eEp0RG12U1R1UW43X2RQMjRDTG9GVnBON1VySmlpci02UFAtV0VyQmRWRWM5ZTM4UXFsZw?oc=5",
+      "description": "Oil prices slide as U.S. and Iran pause strikes to give ‘space’ for diplomacy NBC News",
+      "publishedAt": "Mon, 27 Jul 2026 19:46:58 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -269,11 +260,20 @@
       "impact": "medium"
     },
     {
-      "title": "Global Bond Yields Jump as Oil Prices Surge, Inflation Fears Mount - WSJ",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNUlCR0k3M3VWNXJzY3BCTTBGTk9YZm5OLURyLVM0ZUVWLU9tTU5HNmR1NmVBdlF6aDYtOVFHUENFcTJQdFpFRDRuam9qY0VQTmtwem5ZTzA4UmlXb0hUN280V2V5ZnNLLVdENUZRUmZ6dU41YjItbGNWVlRaRm50LWo0dEtOSldqWVZZVVBTaFlPa1JzYk1QU2o4ZnlIX1RPd3JPdzlYNlJUQVo4M2hqNHJCZzI0Yk5iMEE?oc=5",
-      "description": "Global Bond Yields Jump as Oil Prices Surge, Inflation Fears Mount WSJ",
-      "publishedAt": "Thu, 23 Jul 2026 09:46:00 GMT",
+      "title": "Oil prices fall as US pauses strikes on Iran over strait of Hormuz - The Guardian",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY3NLLWN3ME9IZjdEWmdJNHE4cEJsSEV3SG5pTlpRWjBqbWdFYllsZGZJXzFXQVBlT2w3XzBOempmcWw3RGpvWVFVSWEtM1k2MlNPaU9CdUlJNkVVOU5QcUJIem1UMEZLanh0SzUxVkE1bEs5RWppNFJWMDAyT0NNVVNFdGJqcEJHbDZ5ejl6N01mOWY1RVZVSnRvWEhvVXBFYTNCcmFfVTJtUUU1U09V?oc=5",
+      "description": "Oil prices fall as US pauses strikes on Iran over strait of Hormuz The Guardian",
+      "publishedAt": "Mon, 27 Jul 2026 08:36:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Current price of oil as of July 30, 2026 - Fortune",
+      "source": "Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9odGxncTZBdXJrcnd4Zm1GSENJSFpJQUJxbGphdTV2dTRfQTVmMzVFQ21PTGhzY19DSGVFUWpoeEtGMDZhNzRveUNoaDBlcDVLSmRpaFh6ZnA1emJSVllSYTNR?oc=5",
+      "description": "Current price of oil as of July 30, 2026 Fortune",
+      "publishedAt": "Thu, 30 Jul 2026 14:01:49 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
