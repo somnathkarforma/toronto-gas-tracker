@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-01 06:22 UTC",
+  "generatedAt": "2026-08-02 06:27 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 174.9,
-    "premium": 192.9,
-    "diesel": 185.4
+    "regular": 172.9,
+    "premium": 190.9,
+    "diesel": 183.4
   },
   "history": {
     "labels": [
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Aug 01"
+      "Aug 02"
     ],
     "regular": [
       150.7,
@@ -75,7 +75,7 @@
       155.9,
       174.9,
       186.9,
-      174.9
+      172.9
     ],
     "premium": [
       168.7,
@@ -110,7 +110,7 @@
       173.9,
       192.9,
       204.9,
-      192.9
+      190.9
     ],
     "diesel": [
       161.2,
@@ -145,45 +145,45 @@
       166.4,
       185.4,
       197.4,
-      185.4
+      183.4
     ]
   },
   "prediction": {
     "labels": [
-      "Aug 02",
       "Aug 03",
       "Aug 04",
       "Aug 05",
       "Aug 06",
       "Aug 07",
-      "Aug 08"
+      "Aug 08",
+      "Aug 09"
     ],
     "regular": [
-      175.9,
-      176.8,
-      177.8,
+      173.9,
+      174.8,
+      175.8,
+      176.7,
+      177.7,
       178.7,
-      179.7,
-      180.7,
-      181.6
+      179.6
     ],
     "premium": [
-      193.9,
-      194.8,
-      195.8,
+      191.9,
+      192.8,
+      193.8,
+      194.7,
+      195.7,
       196.7,
-      197.7,
-      198.7,
-      199.6
+      197.6
     ],
     "diesel": [
-      186.4,
-      187.3,
-      188.3,
+      184.4,
+      185.3,
+      186.3,
+      187.2,
+      188.2,
       189.2,
-      190.2,
-      191.2,
-      192.1
+      190.1
     ]
   },
   "news": [
@@ -215,29 +215,11 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices slide, Brent crude below $90 as pause to U.S.-Iran hostilities appears to hold - cnbc.com",
-      "source": "cnbc.com",
+      "title": "Oil prices slide, Brent crude below $90 as pause to U.S.-Iran hostilities appears to hold - CNBC",
+      "source": "CNBC",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOazZxVWRVdC1uSkx4TVlXUzlnZm9OR0VJQjB1Z1hMV29ucmN4X0FXTHdWbjgxRC0tNHNwWVlua3hUT3pKdXlkYVBubWZEWFRKZlpZS2d3STZjTXRCRFdabzJ6OF9NNzdqU2FvdFdDcFpINF84SWtOYmFrOUd4MkwzNDhMcVI0R01QeXpFTm94SXJYektmVk1LbmlIVHFsVlnSAaQBQVVfeXFMTXBmRFFqbUhVLVZpUnZfNVZxTWhieFAxUldheXpHTVJBVXk4elU3RXpaVy04WHY1NXd3R19oOHYyZ2xBR01uZ1NmdlFzLUU3UXRheDdvS1RyYkZxSjk5NEJpRVNQYTVXaFlUb3BHajZ4VVRIWm1aZnpwNVA5X3pMLW9oR0NreW1MaENBeDF1cEF6Y2VLMFdaQ1o0WEMtTzh2Zzl4Ukw?oc=5",
-      "description": "Oil prices slide, Brent crude below $90 as pause to U.S.-Iran hostilities appears to hold cnbc.com",
+      "description": "Oil prices slide, Brent crude below $90 as pause to U.S.-Iran hostilities appears to hold CNBC",
       "publishedAt": "Sun, 26 Jul 2026 23:58:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Crude oil prices jump again and U.S. stocks slip ahead a decision from the Fed on interest rates - BNN Bloomberg",
-      "source": "BNN Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdUpfZW1rVXc0bXlYbndDR3RpREJuWVV4aHd4Rl9Pc0xudUE0blZFUUFmYUhzUzlva1BDbHdTbjlYc3RxRmItQzliaU5jNzlEby1MNGZLOFR0YkdrMEo0Ymg1THU1ZmczNkhJUmljNk5MQXprLXItNTdIWkFGNnBYeEhNM2lJbEczbUdUaXpmSDZ1dGdoX1h2dlRNQ3BQOWU2X1RWcG01dDU3R05mMExPTllBQzVva1J3VENwWG1KejNpc2ZmQVFON0VmekpzODVsVm84cC1UYWRzalBKNVhsM2FCSkh6WUp1?oc=5",
-      "description": "Crude oil prices jump again and U.S. stocks slip ahead a decision from the Fed on interest rates BNN Bloomberg",
-      "publishedAt": "Wed, 29 Jul 2026 13:38:49 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices rebound by more than $2 a barrel on prospect of tightening US crude supplies - BOE Report",
-      "source": "BOE Report",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWGd1YkNSY25teXpTWTV4TjUyMHNkZGxyVzJqVHIzWWpPR3hHTkxWWHBoRG50Q0I5REMxamtIeEZFam5BUG5DT005cXF5TkpYUkJzbWZMenJDWkVHN0plc3RwS0x3WHVDcV9jZWl1bmJtLVdRSHdUYmZBamhGUzZoVUFDZm53TTZkY0NKcUJkeVVyNV9DQTU4eGNmYWZtZ3J3WFlRQUpwcFlxdWh1VW00ZjdmM3R3Unhsb2RobNIBwgFBVV95cUxNSzItNi15eFpUUWc3SExHaGozTmx5VHdjbHM0dGplM1RUN3VZU1RZNjZtMTF0N1BSQTB4QjNRNUNwV0cyYnpqRFpVb25RLUV6elNaNVE5VUZIVDZhQjV2ZmVFYkpqemljZ3hUbXdrVVlEYWVxS2pwcmZRbUlJY2Z0Y0JudF9pWTVsMXp2d25hMlQyd2UtVUMzUUtWQ054TUp6WG9WeDJxaXljUUFsaWlRWHZFX0Q5MC1tblZhWDJnT2tXUQ?oc=5",
-      "description": "Oil prices rebound by more than $2 a barrel on prospect of tightening US crude supplies BOE Report",
-      "publishedAt": "Wed, 29 Jul 2026 00:25:29 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -247,6 +229,15 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdFF0bDJ2LTFHOG5uWXllRmJvZTFQbXpxc2U5ZnJfZ0JadU5HRTBXang0TExaekgyR1BDS1VINmFNU3FNRTZfUVNxekdzV0w3U3hqd3JEVWF2dVRqUHRpbERzOC11TnJhV2dWU3lvaTJ3VDBjTHI4cVh6dkc0MzlIVGF4eEp0RG12U1R1UW43X2RQMjRDTG9GVnBON1VySmlpci02UFAtV0VyQmRWRWM5ZTM4UXFsZw?oc=5",
       "description": "Oil prices slide as U.S. and Iran pause strikes to give ‘space’ for diplomacy NBC News",
       "publishedAt": "Mon, 27 Jul 2026 19:46:58 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil prices rebound by more than $2 a barrel on prospect of tightening US crude supplies - BOE Report",
+      "source": "BOE Report",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWGd1YkNSY25teXpTWTV4TjUyMHNkZGxyVzJqVHIzWWpPR3hHTkxWWHBoRG50Q0I5REMxamtIeEZFam5BUG5DT005cXF5TkpYUkJzbWZMenJDWkVHN0plc3RwS0x3WHVDcV9jZWl1bmJtLVdRSHdUYmZBamhGUzZoVUFDZm53TTZkY0NKcUJkeVVyNV9DQTU4eGNmYWZtZ3J3WFlRQUpwcFlxdWh1VW00ZjdmM3R3Unhsb2RobNIBwgFBVV95cUxNSzItNi15eFpUUWc3SExHaGozTmx5VHdjbHM0dGplM1RUN3VZU1RZNjZtMTF0N1BSQTB4QjNRNUNwV0cyYnpqRFpVb25RLUV6elNaNVE5VUZIVDZhQjV2ZmVFYkpqemljZ3hUbXdrVVlEYWVxS2pwcmZRbUlJY2Z0Y0JudF9pWTVsMXp2d25hMlQyd2UtVUMzUUtWQ054TUp6WG9WeDJxaXljUUFsaWlRWHZFX0Q5MC1tblZhWDJnT2tXUQ?oc=5",
+      "description": "Oil prices rebound by more than $2 a barrel on prospect of tightening US crude supplies BOE Report",
+      "publishedAt": "Wed, 29 Jul 2026 00:25:29 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -269,11 +260,20 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices fall 5% to two-week low after several days without US-Iran strikes - Reuters",
-      "source": "Reuters",
+      "title": "Oil prices fall 5% to two-week low after several days without US-Iran strikes - reuters.com",
+      "source": "reuters.com",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSklqTGZRSVh1M0h3RXpnQWVxSFhReTZHdGZtakI4Skh5NGVuZnplUUVYRzRldjVmX2Mzald4bnJFNklGNnZ0QkRTeWhqb29OR2xzb0JVWkFTUEc4QTZBMDV4bU5TOWlMb2RQNE5EeVRuaXJvZE94azM3cnZEd25tTjNTNU9uZ2dVcnZOQnh3eVE4bmIxR0RTZk1Zb3pSNnlrYXdlQWJXOWxJLWs?oc=5",
-      "description": "Oil prices fall 5% to two-week low after several days without US-Iran strikes Reuters",
+      "description": "Oil prices fall 5% to two-week low after several days without US-Iran strikes reuters.com",
       "publishedAt": "Tue, 28 Jul 2026 19:39:20 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Why Caribbean households remain under pressure after oil prices ease - UN Trade and Development (UNCTAD)",
+      "source": "UN Trade and Development (UNCTAD)",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZTZ3X0JIZ0xvY3YzMkpqVDI1cDBHMG9IZi1JaDNOdHhLMXcxbzc1WmRyLTJCWTJJOHYzbWQ3T3lBLTN0di1fMzduaDY3TjlpNGNvOURwRDFHN2llMFU0ZThlVUp4T0VfRXZxLVhCeXJGeE5NZXoyVTV2T1FGa2VVYkhuNEJkelN6a0w4NFRsdzVMbWN0VlJv?oc=5",
+      "description": "Why Caribbean households remain under pressure after oil prices ease UN Trade and Development (UNCTAD)",
+      "publishedAt": "Tue, 28 Jul 2026 22:00:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
