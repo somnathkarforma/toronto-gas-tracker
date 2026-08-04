@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03 06:54 UTC",
+  "generatedAt": "2026-08-04 06:21 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
     "regular": 172.9,
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Aug 03"
+      "Aug 04"
     ],
     "regular": [
       150.7,
@@ -150,13 +150,13 @@
   },
   "prediction": {
     "labels": [
-      "Aug 04",
       "Aug 05",
       "Aug 06",
       "Aug 07",
       "Aug 08",
       "Aug 09",
-      "Aug 10"
+      "Aug 10",
+      "Aug 11"
     ],
     "regular": [
       173.9,
@@ -188,10 +188,10 @@
   },
   "news": [
     {
-      "title": "Oil Prices Ignore the Warning Signs in Physical Markets - Crude Oil Prices Today | OilPrice.com",
-      "source": "Crude Oil Prices Today | OilPrice.com",
+      "title": "Oil Prices Ignore the Warning Signs in Physical Markets - oilprice.com",
+      "source": "oilprice.com",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM0szWUttSVVEanNRckhGR2dwZFZaRDhTdUNDZXF4R28ycXVZaDhleElvUmxETGhJMkF6QnRFWWRzNk9oVllnSlRVLUk5UDJFempGM1JzcjdFcVg1ZlBNNmFRTDR5eFBwQTI4N1BRNi1IMTgwNzdWWnBJZXRscFNvWjF6ckNPMnpITVVKcm95WFBydmNvMndIZnhPbHRaOUlseUZHVzRR0gGrAUFVX3lxTE1BTU5OMDkzbDE3ZnhlaHpDdGQ2TmRxbk9MSF9JcE1naFc0WGsyeGFHaWVucDVIMWdoVjl5c2VpNTFfOHNBSW81bGpVbFNMNG9hZFpCbXhvdlh0anVvOGlMaERRRnplaTIxY2NkZU9yLV9RT1J3T3c4MDdMVlRmYlgyakplYTctRWVtRHo2QzRzbklZY29ycW9kejdMWTl4dXdRN0NUSFh0bDZCQQ?oc=5",
-      "description": "Oil Prices Ignore the Warning Signs in Physical Markets Crude Oil Prices Today | OilPrice.com",
+      "description": "Oil Prices Ignore the Warning Signs in Physical Markets oilprice.com",
       "publishedAt": "Tue, 28 Jul 2026 23:00:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
@@ -215,15 +215,6 @@
       "impact": "medium"
     },
     {
-      "title": "Crude oil prices jump again and US stocks slip ahead a decision from the Fed on interest rates - castanet.net",
-      "source": "castanet.net",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPa01aUE90MGpZMjYtOW5RX19NNG5DU190Q2QtcWdhbWJsUHZ0Rjg2TkZJWWJrdERucTU3Z1ZhajBtOUJqYWVkc0hkcUVuVkx0S3lOLUZUb3k3aEY3VzdNTVlUNXRYQS1FenFNV2NnRTBVQk1HUFVSX2dtU0VuYUd1M0hCMkNuRjBhOTNyclFrdDZPNUZBZjhZeldKMTh5VW9zTmZEdGZnalRrVmd2cFpRbHZGWnVaVG5obUtpUUluOG1ZanpLU051cFpqR2FIc1B6LVRCSExrSQ?oc=5",
-      "description": "Crude oil prices jump again and US stocks slip ahead a decision from the Fed on interest rates castanet.net",
-      "publishedAt": "Wed, 29 Jul 2026 15:14:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
       "title": "Oil prices fall after Saudi Arabia proposes naval coalition to protect ships from attack - CNBC",
       "source": "CNBC",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pWUR5MW1Ed3hCZVdSQUFJRnM2YmVLbkZGbUJrVHlaZkdtdDRwQmlrSHkwQ2dSTWNzRXhfVGZxZDNLWXhUS25iVWFqUmc1TG85c0hCUGlTTEpSaVp5M3lZTl91dGc0YW1fNHhr0gFwQVVfeXFMTVpHcUZEQ1E1NEhKNUMxVU5fUDUzVVVzSWk4ei00M0VQQmJOTy0yRng2eFVwRlMyT1MzRGRKQS1QcGxXVURmZmZVNWJTdFl0azVlSHM1MzBIWUxWdWpTM3BOQ1dDR2tlMmpULUVJaWx2MQ?oc=5",
@@ -233,20 +224,20 @@
       "impact": "medium"
     },
     {
-      "title": "Stocks drift on Wall Street and crude oil prices drop as Mideast tensions cool - BNN Bloomberg",
-      "source": "BNN Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNblhlN0lfM29zMmQxWHVTUDNNZUhyN29hZWhEaGpyRXdNMzhvSmpPM1ZYUTBFQk8xSU1Cb1l0UzhPRVIwRFppbG1lcVp3MkpySWFUeGoyT0k1aXlfdmxEdUlsQ2pTVkQ4cklfZ2taa1VXMDlQUXR2SE1pamFLVV8xdTVza0gyQkNGY2JFUFpac1JXR1dia1RMRzhXcmlnM01saDdnclc4ZGhaVF9ZUEc2QXdMQWdhQWc0RHY4eHZRLWNVVTlKMW5jXzZWY3lFTjlkSmI5UHRXZDRqTEJ6?oc=5",
-      "description": "Stocks drift on Wall Street and crude oil prices drop as Mideast tensions cool BNN Bloomberg",
-      "publishedAt": "Mon, 27 Jul 2026 20:55:44 GMT",
+      "title": "Oil Prices Drop After Trump Cancels Attack on Iran to Seek Nuclear Deal - energynow.ca",
+      "source": "energynow.ca",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWVhNRUxua1ZjN1NZdkwxZVJyeEE4QWRBQU1jc19pSXlxTFQ3RmRjSGJGUUdxc21kM0RHQkNKa0g0TGhFbVlnMzhPaElxSzd4R1cxOUQxb0VSeV9lNjNVR0hBNEJYTk1ZNWRqQlBlbmRrS01zWURlTDRuWVdVbTUtU3doclQ1R2loalYyR3lxOFJGbUVGbGZ2anJWWVRPWHZad25z?oc=5",
+      "description": "Oil Prices Drop After Trump Cancels Attack on Iran to Seek Nuclear Deal energynow.ca",
+      "publishedAt": "Mon, 03 Aug 2026 12:12:13 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil prices slide as U.S. and Iran pause strikes to give ‘space’ for diplomacy - NBC News",
-      "source": "NBC News",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdFF0bDJ2LTFHOG5uWXllRmJvZTFQbXpxc2U5ZnJfZ0JadU5HRTBXang0TExaekgyR1BDS1VINmFNU3FNRTZfUVNxekdzV0w3U3hqd3JEVWF2dVRqUHRpbERzOC11TnJhV2dWU3lvaTJ3VDBjTHI4cVh6dkc0MzlIVGF4eEp0RG12U1R1UW43X2RQMjRDTG9GVnBON1VySmlpci02UFAtV0VyQmRWRWM5ZTM4UXFsZw?oc=5",
-      "description": "Oil prices slide as U.S. and Iran pause strikes to give ‘space’ for diplomacy NBC News",
-      "publishedAt": "Mon, 27 Jul 2026 19:46:58 GMT",
+      "title": "Trump has been able to keep oil prices low. But that power may not last forever. - Politico",
+      "source": "Politico",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNM2s1cWFUaFNhQTA2OV9pWWVZTzliREVBQjRHbnRBU3lwcmlQVHI2aEppdExlbjZLRlJSWkRWSklrdi1kNWY5LV9YVjFINFhRNFktdkpPU3A1YUNKbVFfUlhTQkpYYjdxY2Vlb1FqVlpVS0hFRUswNjc1SDUyWXhvMw?oc=5",
+      "description": "Trump has been able to keep oil prices low. But that power may not last forever. Politico",
+      "publishedAt": "Mon, 03 Aug 2026 21:23:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -269,11 +260,20 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices fall 5% to two-week low after several days without US-Iran strikes - Reuters",
-      "source": "Reuters",
+      "title": "Oil prices fall 5% to two-week low after several days without US-Iran strikes - reuters.com",
+      "source": "reuters.com",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSklqTGZRSVh1M0h3RXpnQWVxSFhReTZHdGZtakI4Skh5NGVuZnplUUVYRzRldjVmX2Mzald4bnJFNklGNnZ0QkRTeWhqb29OR2xzb0JVWkFTUEc4QTZBMDV4bU5TOWlMb2RQNE5EeVRuaXJvZE94azM3cnZEd25tTjNTNU9uZ2dVcnZOQnh3eVE4bmIxR0RTZk1Zb3pSNnlrYXdlQWJXOWxJLWs?oc=5",
-      "description": "Oil prices fall 5% to two-week low after several days without US-Iran strikes Reuters",
+      "description": "Oil prices fall 5% to two-week low after several days without US-Iran strikes reuters.com",
       "publishedAt": "Tue, 28 Jul 2026 19:39:20 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil prices plunge and Europe’s markets rally after Trump calls off Iran strikes - theguardian.com",
+      "source": "theguardian.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTnFXZ21oQ1d6V3NEODl2V2dBdmpLN3RkRnZtd2lGVHg5Ty1qMFBmQ29yb2JkdS1FTDNIMGIxMEp1c2tHa2s2MnhpQk5fWFQ4QWxDY2NxOU1yRGdwek1zUUs0NlpiWXFPUGZLVkVaQzdlSTBDcVFuci1rRnU5RlJTanR4bTFwdkZiOEhaOEdNRkZyUjV1TWxZQkM3UUZuR0pWaEhkMktabk00V1FxV3h6SUt4Ri11WjFGYmc?oc=5",
+      "description": "Oil prices plunge and Europe’s markets rally after Trump calls off Iran strikes theguardian.com",
+      "publishedAt": "Mon, 03 Aug 2026 08:44:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
