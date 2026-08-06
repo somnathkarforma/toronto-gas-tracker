@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-05 06:21 UTC",
+  "generatedAt": "2026-08-06 06:24 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 172.9,
-    "premium": 190.9,
-    "diesel": 183.4
+    "regular": 163.9,
+    "premium": 181.9,
+    "diesel": 174.4
   },
   "history": {
     "labels": [
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Aug 05"
+      "Aug 06"
     ],
     "regular": [
       150.7,
@@ -75,7 +75,7 @@
       155.9,
       174.9,
       186.9,
-      172.9
+      163.9
     ],
     "premium": [
       168.7,
@@ -110,7 +110,7 @@
       173.9,
       192.9,
       204.9,
-      190.9
+      181.9
     ],
     "diesel": [
       161.2,
@@ -145,66 +145,48 @@
       166.4,
       185.4,
       197.4,
-      183.4
+      174.4
     ]
   },
   "prediction": {
     "labels": [
-      "Aug 06",
       "Aug 07",
       "Aug 08",
       "Aug 09",
       "Aug 10",
       "Aug 11",
-      "Aug 12"
+      "Aug 12",
+      "Aug 13"
     ],
     "regular": [
-      173.9,
-      174.8,
-      175.8,
-      176.7,
-      177.7,
-      178.7,
-      179.6
+      164.5,
+      165.2,
+      165.8,
+      166.4,
+      167.1,
+      167.7,
+      168.3
     ],
     "premium": [
-      191.9,
-      192.8,
-      193.8,
-      194.7,
-      195.7,
-      196.7,
-      197.6
+      182.5,
+      183.2,
+      183.8,
+      184.4,
+      185.1,
+      185.7,
+      186.3
     ],
     "diesel": [
-      184.4,
-      185.3,
-      186.3,
-      187.2,
-      188.2,
-      189.2,
-      190.1
+      175.0,
+      175.7,
+      176.3,
+      176.9,
+      177.6,
+      178.2,
+      178.8
     ]
   },
   "news": [
-    {
-      "title": "Lower crude oil prices reduced U.S.-Canada energy trade value in 2025 - U.S. Energy Information Administration (EIA) (.gov)",
-      "source": "U.S. Energy Information Administration (EIA) (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE04VjQ0RkxYSUN1cFNzcEt2WDR4MVFRdlV2eW9aWUxlUlpJMVM0bktkYjBFNFhZZEpaMHU2dEs4TWF3Tjczd0VmdF9PeERiQkpwazlLaUw1alVtbkFLR09GWk5CMA?oc=5",
-      "description": "Lower crude oil prices reduced U.S.-Canada energy trade value in 2025 U.S. Energy Information Administration (EIA) (.gov)",
-      "publishedAt": "Wed, 29 Jul 2026 13:01:48 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices jump again following renewed fighting in the Middle East - globalnews.ca",
-      "source": "globalnews.ca",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb2xSX2I3WDE0bi1Gb3pBSm9ITUk1a3dUVXBEOTBsSkVqTlRpa19pNjZNb09LcnVRbkprMnVTc2k3Y24zNlk0REdnVm5pWkE4MFotVGdhM0Y5dk5xZ2M0dG5yRThZRkY0eUlzLWtIdU1zNV9TaENqb05YMHBkazU3alBOS0U3UjB4?oc=5",
-      "description": "Oil prices jump again following renewed fighting in the Middle East globalnews.ca",
-      "publishedAt": "Wed, 29 Jul 2026 17:16:05 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
     {
       "title": "Oil Prices Head for 20% Monthly Surge Despite Recent Pullback - Crude Oil Prices Today | OilPrice.com",
       "source": "Crude Oil Prices Today | OilPrice.com",
@@ -224,20 +206,29 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices fall on hopes Strait of Hormuz could reopen - BBC",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aeEhmWUNMV25kc1lEaUQ5clRfRkY5QzJXcDNVVmV0ZG14NHJUV1BWanpQekNWX3VETUlKWHJySnVMTGNIMnZOYzRNVDhMR2RlTzNJSnVCbzdxUQ?oc=5",
-      "description": "Oil prices fall on hopes Strait of Hormuz could reopen BBC",
-      "publishedAt": "Wed, 05 Aug 2026 01:05:21 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
       "title": "Current price of oil as of July 30, 2026 - Fortune",
       "source": "Fortune",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9odGxncTZBdXJrcnd4Zm1GSENJSFpJQUJxbGphdTV2dTRfQTVmMzVFQ21PTGhzY19DSGVFUWpoeEtGMDZhNzRveUNoaDBlcDVLSmRpaFh6ZnA1emJSVllSYTNR?oc=5",
       "description": "Current price of oil as of July 30, 2026 Fortune",
       "publishedAt": "Thu, 30 Jul 2026 10:30:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Suncor beats quarterly profit estimates on higher crude prices, refining margins - Global News",
+      "source": "Global News",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc3huSGtuNXhZLXo5amlIVXBjQ29YallmMnA2THVWVEJQV3I2UkY1Y0s1UFdxNjIwWHZXZ0s2REYxZlMyX29sRGNtMWlyMGI5V3Y5RWdrZlNHdWVlMTlBeEYxRDFVandsUDFyWUxDZDVkXzhvVi1OMlJnaUg0ZDItTG0ydk0?oc=5",
+      "description": "Suncor beats quarterly profit estimates on higher crude prices, refining margins Global News",
+      "publishedAt": "Tue, 04 Aug 2026 22:00:17 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil prices plunge and Europe’s markets rally after Trump calls off Iran strikes - The Guardian",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTnFXZ21oQ1d6V3NEODl2V2dBdmpLN3RkRnZtd2lGVHg5Ty1qMFBmQ29yb2JkdS1FTDNIMGIxMEp1c2tHa2s2MnhpQk5fWFQ4QWxDY2NxOU1yRGdwek1zUUs0NlpiWXFPUGZLVkVaQzdlSTBDcVFuci1rRnU5RlJTanR4bTFwdkZiOEhaOEdNRkZyUjV1TWxZQkM3UUZuR0pWaEhkMktabk00V1FxV3h6SUt4Ri11WjFGYmc?oc=5",
+      "description": "Oil prices plunge and Europe’s markets rally after Trump calls off Iran strikes The Guardian",
+      "publishedAt": "Mon, 03 Aug 2026 08:44:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -251,20 +242,29 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices gain and global shares are mostly higher after a rally on Wall Street - CP24",
-      "source": "CP24",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSTRmVHFxQXBBV05SdmFMU1ZFdHJobldXRGVlcnhoUHl6b2gtLVdvTllRbU1qX0VtaWhiYU5nalQ0NzFyM3J6d1lWaDBLSXBab2Nrak1rTS14QW04dmJraXRCdDZsNHFrMGo2VEhRQjd4NFJZZFpUVTlzVmIwR0hKQlRkNzdNcDI1Ti1BWFNmaFBEZlhncHpTdk52ZkZFTlQwbUdQMllaMjg5cXRfNmkydERKNllMbUd1eDRCOUlPSXZ6Zw?oc=5",
-      "description": "Oil prices gain and global shares are mostly higher after a rally on Wall Street CP24",
-      "publishedAt": "Tue, 04 Aug 2026 09:37:33 GMT",
+      "title": "Oil Prices Plummet as Investors Digest Pause in Iran War Fighting - The New York Times",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQlZxblAwb3V2Z2N2SF85bjh6RDhPbW0xQllmVjJSbW1hRC1SbU9zVmdNRWktVEstY0thQ2RBdzBtS1U0aUNweExSYng1a1B4d2hsRFZaZ01SMmg5SUZVUW0wbmZtNFBsemtieUlVQXZJdjdac3RqY2tISFFaaUV1ajRn?oc=5",
+      "description": "Oil Prices Plummet as Investors Digest Pause in Iran War Fighting The New York Times",
+      "publishedAt": "Sun, 02 Aug 2026 22:31:52 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil prices plunge and Europe’s markets rally after Trump calls off Iran strikes - theguardian.com",
-      "source": "theguardian.com",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTnFXZ21oQ1d6V3NEODl2V2dBdmpLN3RkRnZtd2lGVHg5Ty1qMFBmQ29yb2JkdS1FTDNIMGIxMEp1c2tHa2s2MnhpQk5fWFQ4QWxDY2NxOU1yRGdwek1zUUs0NlpiWXFPUGZLVkVaQzdlSTBDcVFuci1rRnU5RlJTanR4bTFwdkZiOEhaOEdNRkZyUjV1TWxZQkM3UUZuR0pWaEhkMktabk00V1FxV3h6SUt4Ri11WjFGYmc?oc=5",
-      "description": "Oil prices plunge and Europe’s markets rally after Trump calls off Iran strikes theguardian.com",
-      "publishedAt": "Mon, 03 Aug 2026 08:44:00 GMT",
+      "title": "Oil prices drop 7% to three-week low after Trump cancels attack on Iran - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVnBOaGh1VXBaaGQwVmloSzlPcmg5aFdQeENKS3JtNi1wQTZlQTRBUm02ODRrYkNVZkNDREwtTTdMeUhlNV94QjctaFhpMWhTWVVJaF9xeVhWdEdKZXBMbFA4alVQaDBXbnMzczBqRnVBUlVrVUJJTFhLQjdpSU9SV2lHV1FQd0hvOEs0QkZwLVZfUDhtSkVGUU02T2tPeDFXaU5SaWRtUWt3cjhE?oc=5",
+      "description": "Oil prices drop 7% to three-week low after Trump cancels attack on Iran Reuters",
+      "publishedAt": "Mon, 03 Aug 2026 18:38:40 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "U.S. stocks hold near records on hopes of an agreement with Iran - BNN Bloomberg",
+      "source": "BNN Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVk1qT3RiRWZHT0lnWWRLd3dTd2t2RkNrbXd1SHlWTFFZNFZ6aGxueDgwbUVDTkhvcFRUckU5Z05VMW94Sm9jbUs3NENGRWNiTmRwQV9qUmpRVmgwdXlab3pjWWd0ODgyY1E4Mnp1c252U3dGRkU0b1k0Xy1FX1B4aHJybTl2RS1ubjhKcjNIT3VGbVNXS2NuZ2g4cER3aDU2OVNTb01NWEMxVlVpVDI4NVhvZlNQXzNkNlFaYURLSFVFeDhsYUxzUGpSdjZudmxINDByU0Z5NWNpS0diVGVZ?oc=5",
+      "description": "U.S. stocks hold near records on hopes of an agreement with Iran BNN Bloomberg",
+      "publishedAt": "Wed, 05 Aug 2026 20:34:49 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
