@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09 04:57 UTC",
+  "generatedAt": "2026-08-10 05:20 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
     "regular": 164.9,
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Aug 09"
+      "Aug 10"
     ],
     "regular": [
       150.7,
@@ -150,13 +150,13 @@
   },
   "prediction": {
     "labels": [
-      "Aug 10",
       "Aug 11",
       "Aug 12",
       "Aug 13",
       "Aug 14",
       "Aug 15",
-      "Aug 16"
+      "Aug 16",
+      "Aug 17"
     ],
     "regular": [
       165.6,
@@ -188,94 +188,12 @@
   },
   "news": [
     {
-      "title": "Oil prices tumble after Trump calls off attack on Iran - CNBC",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTlo2dTFvaHRvczRaNmk4ZDMzVDZlMGNwSy02azBBSnV6Q016Tm9iWnhXMDFUNVd6eTdMWURkLWszNnFVVUYzMVhKRm1LRnpnUFcwQ0xsaG1XenNPdlhwTi15UEI5T3ROZklQVkVVYm1NdTRxSGdXTGxRdzZhTDF2aThqSFQ2NXhh0gGOAUFVX3lxTE1IUkFZaldQWjJ1NDlNMWQ0S1YtVnVsNWdYTW9UcXF5b1AxSDc0dUMzQ09Ga3pfU3E3OFU3dkM0RzFYbU94bWhxMlZnZjdkZWlkbmllYTJxSUd3YWxMVnZyMWxpWk1BZm91Nk5SSmJzY2VmNDFPQy1nRWhOUmJZTENuSU5wem40SmpMQU1CSVE?oc=5",
-      "description": "Oil prices tumble after Trump calls off attack on Iran CNBC",
-      "publishedAt": "Sun, 02 Aug 2026 23:33:07 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil Prices Plunge 5% as Trump Halts Iran Strike Plans - Crude Oil Prices Today | OilPrice.com",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSUoyX0RUUzlQMUUzYkRtTWRLZktON082N1JldVgtUUlwdnJBWkRnWS1hblM3aXJnbFFLR01LZGdVTEp1T3ZfaERkTlM3TS1VRC1VaGdBdnc2cmxEYlNEbkh2RllnMXFHaEZSdlBXeTB1VTlYWVJza1hDY1FBRkJxVzNGLUYzTjVmQ25FcUhNdWFQV0p3WjRVWWRhUUdMOEVJQTdFMTJNc3RYZUhs0gGyAUFVX3lxTFBoRW1lY0pqS21aSDRUbU51STlBdDZPcDZleHdSZzEwd3JyQ0VrcFlIcWNZTzZ2QmVyaU9pVEpwWTRnSGhkVnMtUW1ETjlaQmpycUZCamhSMmV1V2U3NG05Q1ptclBBcFA1LTJycnBGTm5EMGIyNjlhYzE0SUJNQmhkOTNrc250ckxnazl3RUhpay1GQ285YjJYeFdXYkE4cTl4aE9sbkFvcWtpbkN0TzAyX0E?oc=5",
-      "description": "Oil Prices Plunge 5% as Trump Halts Iran Strike Plans Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Mon, 03 Aug 2026 03:05:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Gas prices fall across Canada as oil prices ease, but experts warn relief may be short-lived - CTV News",
-      "source": "CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxON1ZUQWxjNl91Q092Q3Rhemp3M3U3SjluYnRkRFByc2cxMW5UcXNvY2FXS0hRSlE0UXk1SzF1TEdwUjdjcmotUm5pajEwWlBnS0swLThROWFMMFFXM1VIbkU4ZjlXdS1ZRmp0eVE1TWdiazBPTmhlelNjOGktbl9xNV9RT1BscVNDODlhaUJrWXNQVlFrMWlsSWdyOWVFY3gxaDU2QjhnWVFxbUgyZHVudHpiX3BVdEc3RjBXNUk1U3ZtdmJPLXRNU1R3?oc=5",
-      "description": "Gas prices fall across Canada as oil prices ease, but experts warn relief may be short-lived CTV News",
-      "publishedAt": "Fri, 07 Aug 2026 12:42:21 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Suncor beats quarterly profit estimates on higher crude prices, refining margins - Global News",
-      "source": "Global News",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc3huSGtuNXhZLXo5amlIVXBjQ29YallmMnA2THVWVEJQV3I2UkY1Y0s1UFdxNjIwWHZXZ0s2REYxZlMyX29sRGNtMWlyMGI5V3Y5RWdrZlNHdWVlMTlBeEYxRDFVandsUDFyWUxDZDVkXzhvVi1OMlJnaUg0ZDItTG0ydk0?oc=5",
-      "description": "Suncor beats quarterly profit estimates on higher crude prices, refining margins Global News",
-      "publishedAt": "Tue, 04 Aug 2026 22:00:17 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Posthaste: China helped save the world from an even worse oil price shock, TD economist says - Financial Post",
-      "source": "Financial Post",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUGpEUnZFeFpUcHRERmVKTkFUNzV2MVFOVEhyUldaOWNOckF0RnV4aXZVc2FxNFR3OTluaVdnMVhLVTRwR1JHTkJpck0xU0FLa1JEejZLWVB0RFB2QTRFS0I0R1hDSFRzR3FhZEk4bmdnWlYyLU5ESXpZampRUTEwQm11RDE?oc=5",
-      "description": "Posthaste: China helped save the world from an even worse oil price shock, TD economist says Financial Post",
-      "publishedAt": "Thu, 06 Aug 2026 12:06:26 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices plunge and Europe’s markets rally after Trump calls off Iran strikes - The Guardian",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTnFXZ21oQ1d6V3NEODl2V2dBdmpLN3RkRnZtd2lGVHg5Ty1qMFBmQ29yb2JkdS1FTDNIMGIxMEp1c2tHa2s2MnhpQk5fWFQ4QWxDY2NxOU1yRGdwek1zUUs0NlpiWXFPUGZLVkVaQzdlSTBDcVFuci1rRnU5RlJTanR4bTFwdkZiOEhaOEdNRkZyUjV1TWxZQkM3UUZuR0pWaEhkMktabk00V1FxV3h6SUt4Ri11WjFGYmc?oc=5",
-      "description": "Oil prices plunge and Europe’s markets rally after Trump calls off Iran strikes The Guardian",
-      "publishedAt": "Mon, 03 Aug 2026 08:44:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Current price of oil as of August 3, 2026 - Fortune",
-      "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QYUZzUWtEZ01LNGkzdFlYc2puMEloZ2hFYXNWT3pNNU9uaUVXYndQMURhRzFBWU16UFBFcENaMnJxZlQ4RU9faDRubWxSZjMxWDhhVGhWb2laWEgwNnY1LUtR?oc=5",
-      "description": "Current price of oil as of August 3, 2026 Fortune",
-      "publishedAt": "Mon, 03 Aug 2026 10:50:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices gain on U.S. jobs report, worries over peace talks - theglobeandmail.com",
-      "source": "theglobeandmail.com",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPU2lwOEZhMll3VWtHcU15V0NkOWI3QWtiYVNtUHdWMlduZXNzUFdNTWQ0QTdUYmo0SElIYW5zaE9DdlMwbUFwa191SnRaYWJxeldRZEdkVGI0ZVpPazRUMnFac2dKaXRWNFZZWEdNeU5NTld3cnVfaDlyNjZUbF90Y2hkc1RkTlJpMzRqa25SeTkyMi15LURodGI1T1V2eFM0d2ZmVVFnZnl1QUJSbFVGOFkzX2NiMGNWakdseQ?oc=5",
-      "description": "Oil prices gain on U.S. jobs report, worries over peace talks theglobeandmail.com",
-      "publishedAt": "Fri, 07 Aug 2026 10:51:46 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Trump says ‘we may have to’ send oil prices higher during speech talking up the economy - Yahoo News Canada",
-      "source": "Yahoo News Canada",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1UREo5bnpnNWVyOHI5YjdqdzdzYjBQZ3NqNEV4ZlNrd3ZJSnUyakdMdjM1ZG5oMmhkcXFyVW9uSEhfRkJPYkJsZHR0b1lMNm9zcjhueXMzanBwYmVxUnBRcUg4bjdEUkp6Ri1HckkxVHF5QQ?oc=5",
-      "description": "Trump says ‘we may have to’ send oil prices higher during speech talking up the economy Yahoo News Canada",
-      "publishedAt": "Thu, 06 Aug 2026 00:00:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices drop 7% to three-week low after Trump cancels attack on Iran - Reuters",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVnBOaGh1VXBaaGQwVmloSzlPcmg5aFdQeENKS3JtNi1wQTZlQTRBUm02ODRrYkNVZkNDREwtTTdMeUhlNV94QjctaFhpMWhTWVVJaF9xeVhWdEdKZXBMbFA4alVQaDBXbnMzczBqRnVBUlVrVUJJTFhLQjdpSU9SV2lHV1FQd0hvOEs0QkZwLVZfUDhtSkVGUU02T2tPeDFXaU5SaWRtUWt3cjhE?oc=5",
-      "description": "Oil prices drop 7% to three-week low after Trump cancels attack on Iran Reuters",
-      "publishedAt": "Mon, 03 Aug 2026 18:38:40 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
+      "title": "No live headlines available right now",
+      "source": "System fallback",
+      "link": "https://news.google.com/",
+      "publishedAt": "",
+      "summary": "The dashboard will refresh automatically on the next scheduled run.",
+      "impact": "low"
     }
   ]
 }
