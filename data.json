@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-11 05:00 UTC",
+  "generatedAt": "2026-08-12 05:26 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 164.9,
-    "premium": 182.9,
-    "diesel": 175.4
+    "regular": 169.9,
+    "premium": 187.9,
+    "diesel": 180.4
   },
   "history": {
     "labels": [
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Aug 11"
+      "Aug 12"
     ],
     "regular": [
       150.7,
@@ -75,7 +75,7 @@
       155.9,
       174.9,
       186.9,
-      164.9
+      169.9
     ],
     "premium": [
       168.7,
@@ -110,7 +110,7 @@
       173.9,
       192.9,
       204.9,
-      182.9
+      187.9
     ],
     "diesel": [
       161.2,
@@ -145,45 +145,45 @@
       166.4,
       185.4,
       197.4,
-      175.4
+      180.4
     ]
   },
   "prediction": {
     "labels": [
-      "Aug 12",
       "Aug 13",
       "Aug 14",
       "Aug 15",
       "Aug 16",
       "Aug 17",
-      "Aug 18"
+      "Aug 18",
+      "Aug 19"
     ],
     "regular": [
-      165.6,
-      166.3,
-      167.0,
-      167.7,
-      168.4,
-      169.1,
-      169.8
+      170.9,
+      171.8,
+      172.8,
+      173.7,
+      174.7,
+      175.7,
+      176.6
     ],
     "premium": [
-      183.6,
-      184.3,
-      185.0,
-      185.7,
-      186.4,
-      187.1,
-      187.8
+      188.9,
+      189.8,
+      190.8,
+      191.7,
+      192.7,
+      193.7,
+      194.6
     ],
     "diesel": [
-      176.1,
-      176.8,
-      177.5,
-      178.2,
-      178.9,
-      179.6,
-      180.3
+      181.4,
+      182.3,
+      183.3,
+      184.2,
+      185.2,
+      186.2,
+      187.1
     ]
   },
   "news": [
@@ -197,11 +197,47 @@
       "impact": "medium"
     },
     {
+      "title": "Canadian dollar hits two-month high as oil prices rise - The Globe and Mail",
+      "source": "The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVG9FWFNObjI5UGlLMHQwU3c4aHJ5LU9qakZWdDVqeW9saW45RFEycHI1Zk5zYkluOVhyR0tkalBPT0xDZnlLTlJGcHRMclFUNzhWYU9FVW5jNThpZUhqMlBhMHR6Y2kwSHZlWWlFclB0OGxGRzM4alVqdm9IWEtHMXJVdU1rS01LSERtRk4ycEZfQ0VvejZIU2FyUW5xZ2NHMEpEaHN4TUg?oc=5",
+      "description": "Canadian dollar hits two-month high as oil prices rise The Globe and Mail",
+      "publishedAt": "Tue, 11 Aug 2026 18:28:55 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
       "title": "US stock market holds near its all-time high and crude oil prices rise - Castanet",
       "source": "Castanet",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeVVUdkY3YUgtb0xJSlFudFctRlpZYW0tT193cGExWFVhLTNNQjFaNEgzWk1EWWlQRzBhZE1TVENfa2JXR1VLLXlRcGRacERqMl9Nc01XZkh6aUVGc0g4NEN5cTA3bVNJOVR5MmZPN3pQc1RlTXZjYklwU3FlNjhuUTA0UzhmZTh3U1FSMWZnak1HSXYydF9JSzRkX095cWVEaFJ2bG1QUXowbUdkZkFWLVFycVM2dVE?oc=5",
       "description": "US stock market holds near its all-time high and crude oil prices rise Castanet",
       "publishedAt": "Mon, 10 Aug 2026 14:20:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil Prices Climb as U.S.-Iran Peace Hopes Fade - Crude Oil Prices Today | OilPrice.com",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWmxqbTdxMjMyWGVxNUZ0Tm9iSmtacjR1NEVaYTJlZkNzenFuMWlZR29zTVhnb1BHWWx3VDI3aDZuN2lRbWdsd0VTS2JYRnZCWmtwdFBpTW9XWE1DdWRaazZyUmlEUUt3SXZ5ZDdwUkVRZ2ZIRTNLeEFDQ0NoVnFmNndib2xFLTlsSFRQV2FYQUVtbTNtUTlfSTFXSC1MbXRzdWfSAacBQVVfeXFMUEJxbnl4TFdrTUJ1VUl3bjFhbEZuTnJYZjRMZ1lQMDRwclBBSEdTc0tnN2F4UmQ5eEM4LTV0SmN5RTZ1d2VVb053OTRWamM5Znhsd3pRM2ZUR08wa2RQOFdWa0JRRDJaNW5DTHR2WWc0X21PTjFQZE45ZFN2cXFBVHhtNXhNM3V6NEFNb0xKUVF3U3g3VGRpVHRQekhzUjVDRm04NVI2LTg?oc=5",
+      "description": "Oil Prices Climb as U.S.-Iran Peace Hopes Fade Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Tue, 11 Aug 2026 04:39:37 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Financial Markets, Oil Prices, and Supply-Side Risks - Federal Reserve Bank of San Francisco",
+      "source": "Federal Reserve Bank of San Francisco",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNmFjYWNhVVJHZ2Y1dVZ5M3A1LTdZT01sSFVQTVJZcXpfcjNNajNyRjZXNXBpWTlST29nWFBhQ19Id05CQ3pGQXMybTBoRU9CeDFvZXNNN1dxeUVxR3dkM0wyYTZhS1ZMVTJsckdySFlzVXBQVHdGMjVWd3k4TG9idUdueERPVHRZUV95NzBKYTdfYnVVNThfTlRkeEZtNGtCY0dhc3FZMjZBQ0ZHYzRhbnBkZFNxb1JQYmczWHR3S21LYU8yeXhyNk1HRk0?oc=5",
+      "description": "Financial Markets, Oil Prices, and Supply-Side Risks Federal Reserve Bank of San Francisco",
+      "publishedAt": "Mon, 10 Aug 2026 17:00:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Hormuz deadlock: Where oil prices could head next as prospects for an imminent deal fade - CNBC",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBNcG9DY2ZzbXllOVcyNnVPYnUzQ0tnS0EyZDRGZXhNaF9ydmNJTWN1YWJEM2x2Tm5VS3F6REtQM2VBaklVYlRtUTFtM05ZdWdsYTlMaDFBNWlPVGhUS0FlTUJoWjBOWC1BaFAyQnpCc9IBdEFVX3lxTE55blBJLVBYeXpyLVpDSTE4czcyb2dFZEdSOWJvNU1vcFVHQmc1WmVneWo0eDRsSVlJMXlZOG83Ymd3Z2l3U3Nvb3FQVlhiSk1kVFQyUE5ncloydHplRWttN3lUejNQLXNUWjBERS01ZERxY1Ri?oc=5",
+      "description": "Hormuz deadlock: Where oil prices could head next as prospects for an imminent deal fade CNBC",
+      "publishedAt": "Tue, 11 Aug 2026 05:01:40 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -215,11 +251,20 @@
       "impact": "medium"
     },
     {
-      "title": "Suncor beats quarterly profit estimates on higher crude prices, refining margins - Global News",
+      "title": "U.S. Stocks Slip, Oil Prices Rise - WSJ",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTE52c1ozbzI4ekd5U2t3a1ZLRUwzLXA1ZThEMDhRUnpzbzh1ZjhlaTR6Y3ZISmI2OEI1SnJDYnh0TnlMak1RX0FfQU1KdDBFT0RDMW1HdWxscUpBSGNGMFh5VEFqVVV5X2swTGVCbFNNcm9HQjVQbjJhd28tVXFMaEF2ZXNrVUgyZkxFV01peVJ4OW05TFcyV3ZUaEFFYVJYQTd3b0pabU5aQXc?oc=5",
+      "description": "U.S. Stocks Slip, Oil Prices Rise WSJ",
+      "publishedAt": "Tue, 11 Aug 2026 18:17:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Strategic oil stockpiles have hit a 40-year low amid the Iran war - Global News",
       "source": "Global News",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc3huSGtuNXhZLXo5amlIVXBjQ29YallmMnA2THVWVEJQV3I2UkY1Y0s1UFdxNjIwWHZXZ0s2REYxZlMyX29sRGNtMWlyMGI5V3Y5RWdrZlNHdWVlMTlBeEYxRDFVandsUDFyWUxDZDVkXzhvVi1OMlJnaUg0ZDItTG0ydk0?oc=5",
-      "description": "Suncor beats quarterly profit estimates on higher crude prices, refining margins Global News",
-      "publishedAt": "Tue, 04 Aug 2026 22:00:17 GMT",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA1V0pvdURNWDRMMW43TmVNaDk4YVZWbTY2U1JHZFJUZm51MElPaXNZMFVja2lXUnFmNUpOblpmWWtaem9YZ3dxcVV1S3NGZXVlWXF2WGNHU05rRWNhbVZaai1WbktJd3BkM1liaXhZV1hGUQ?oc=5",
+      "description": "Strategic oil stockpiles have hit a 40-year low amid the Iran war Global News",
+      "publishedAt": "Tue, 11 Aug 2026 20:02:21 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -229,51 +274,6 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDd2cFJ5Z2dsbTliajVMY1o5eVQ3Q3djdGVaYXA2aVhJQUROSVk5NmVjSkUydkw0YUItOGI1VFl1Wl9uZVY2SWhZLVZZY2hFTTFyaEoxM0otRWQ0Vzk4bjdEV18yYkhQS05GUzQ5dHdsY0wwemg4cG53dnZkVmx0M1pMdzl2cDk2MDBlZlN3ZVY0RVMxU2JNcE5Ta2Nrd3l4OVpvTnlIY0hscHRpOUozRVpDUQ?oc=5",
       "description": "Oil prices mixed as investors ponder Strait of Hormuz reopening hopes Reuters",
       "publishedAt": "Thu, 06 Aug 2026 02:30:27 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil Prices Tumble as Traders Price In a Strait of Hormuz Breakthrough - Crude Oil Prices Today | OilPrice.com",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV1p6X2J1czlGLUNkN0pYQl92d0tqa0hFR0VBdVZKc0IzcFlmMlR2aEQ5WnJGVU81dVZQTTVpNEhPdUkzdklVOXlWZXBxblYyMnJzYzNHSmc1MnlsbXVPbV9jMUJxYjNpWE11Rk5tc05Gdl9jMjVySUxPUUtwWVg5enI0Rjk5WG9icUR1U295LTQyeWs2MXg3cXVrWTJpY2FhOEpEWGhrdEJYaUdRcmJUR25MVUlST1ZN0gG-AUFVX3lxTE1rZXg5OGcyaWhab0FwdnBaT05SOHk3ZlNxS2MyTmhVMkF0QVVJTDItNjVweUtGd1Vtek1QRUJseFdpeUQwYTVlbHFXR2NBNUQyUjZad0pxR05laHdEWUJ2YXNPcTgySVhsZ2VqdHp3Y21DOUVtNTNmU2puWWJhaFlfNGRrNmFhTXg2VGlmX2kyX0RDaFdkY2pzcnFFVmkxcTQyMDh4Y1RyajVqZWdQNmFLMndGeXlVbHpqRUVzeUE?oc=5",
-      "description": "Oil Prices Tumble as Traders Price In a Strait of Hormuz Breakthrough Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Fri, 07 Aug 2026 11:30:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "U.S. oil rises back above $82 as doubt grows Washington and Tehran will reach Hormuz deal - CNBC",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSF9wMC1YMDhXSHEtaGxVX05POHA3TmJMbDlvLThfTnRXT0R4R183TmltT3lGT3VLbWVoV0hZckVlaDhlMG1UOGpZRFJNaWtPWHpaMUZoS1dRNGRDQVpNYlpBVGMyOXlIY1lERjgxeng0Y3BzOXdxT1hCWVl4WnpEN0k1cFlXT2J00gGOAUFVX3lxTE5QZmNIcUptZW9YbW9WMTdNd3FPZE5tdl8xWjVvRnQ5ZXhGZkNkWmF6eG01RmI0RC1GYXFNLUs5aDU4UDgydXViS0dueG9lb2lZTHEtVmtUdTB4VnpFU0ZsajNUcmVOLWNzODJ6a2ljOUgySnVfSEx4TUpIRVJyd0t0M2xUVGxRektzcVNPalE?oc=5",
-      "description": "U.S. oil rises back above $82 as doubt grows Washington and Tehran will reach Hormuz deal CNBC",
-      "publishedAt": "Mon, 10 Aug 2026 01:23:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Current price of oil as of August 4, 2026 - Fortune",
-      "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1DVmRHSGx6XzdpaVk0RV95bEl0WWJLb0NCTVJsMk1sZE9UbG1hSlVYRWtvbHhlTDRVWmREUmNMdjRSQU1FVFpYYzlpYng1X0hhaVlUTDlRX3BhdUg5c0htWkdR?oc=5",
-      "description": "Current price of oil as of August 4, 2026 Fortune",
-      "publishedAt": "Tue, 04 Aug 2026 09:20:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Gas prices fall across Canada as oil prices ease, but experts warn relief may be short-lived - CTV News",
-      "source": "CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxON1ZUQWxjNl91Q092Q3Rhemp3M3U3SjluYnRkRFByc2cxMW5UcXNvY2FXS0hRSlE0UXk1SzF1TEdwUjdjcmotUm5pajEwWlBnS0swLThROWFMMFFXM1VIbkU4ZjlXdS1ZRmp0eVE1TWdiazBPTmhlelNjOGktbl9xNV9RT1BscVNDODlhaUJrWXNQVlFrMWlsSWdyOWVFY3gxaDU2QjhnWVFxbUgyZHVudHpiX3BVdEc3RjBXNUk1U3ZtdmJPLXRNU1R3?oc=5",
-      "description": "Gas prices fall across Canada as oil prices ease, but experts warn relief may be short-lived CTV News",
-      "publishedAt": "Fri, 07 Aug 2026 12:43:32 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil Prices Climb on Stalemate in Strait of Hormuz - The New York Times",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kaTlzT0xuU3NDWGYwbjJOY3lfV3d2NXpJTWE1emo5VlpodXJkcTVRbmlKZ1dmVUdvcWJoSElKY2ZpbkxiTmlJcUhPSDJTeU1KT3prT3o3TFlfZklabE94TXBsYXV1dzUxYnRwWU9QYXdqeGxJRFIw?oc=5",
-      "description": "Oil Prices Climb on Stalemate in Strait of Hormuz The New York Times",
-      "publishedAt": "Mon, 10 Aug 2026 20:07:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
