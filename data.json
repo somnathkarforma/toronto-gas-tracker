@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12 05:26 UTC",
+  "generatedAt": "2026-08-13 05:28 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
     "regular": 169.9,
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Aug 12"
+      "Aug 13"
     ],
     "regular": [
       150.7,
@@ -150,13 +150,13 @@
   },
   "prediction": {
     "labels": [
-      "Aug 13",
       "Aug 14",
       "Aug 15",
       "Aug 16",
       "Aug 17",
       "Aug 18",
-      "Aug 19"
+      "Aug 19",
+      "Aug 20"
     ],
     "regular": [
       170.9,
@@ -188,11 +188,20 @@
   },
   "news": [
     {
-      "title": "Oil prices climb as Iranian demands cloud outlook for Strait of Hormuz - Al Jazeera",
+      "title": "Oil prices rise as attacks dent hopes for Strait of Hormuz reopening - Al Jazeera",
       "source": "Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV1JKTXJBd3g5dVkxa0VWVXNPcVRSY2ZwNmFGNnAyUzM5dDlqcFRwdFYxODBUb3I2YnBqM2hKQW4zWVJwU1VXZzF4RWlmSjZOYlh4U1VydlNPS2wwd0RTUEUxUHlsTElrWXQ5R041R2tqVVl1bzFsNVdpVHVBLXpERmo4NF9zaDFrVGlDV05VYjlvaVE2bmcwR21vWjk0aEZnRnpqS0ZQRHlkVExyUThpNC1IVEXSAboBQVVfeXFMT1YwQURrRTJkLWdZcVdDRklJRmFkNDJnTF83aDNxZllMbXJMbzNCUlY2NFhvb1lCbklvaFozdFN6UTd2WHp3dG1VeEdmSTB0TkpsOEdINFFoN09ONmVLLTdmQllZcHBNNTI1WWRqb0djY25sVi13Tm95SnJpeFBLWHJrRm54Sm9kOFlnYnFKaGxmRzZVTE5Id2pzVnBvaUtCczRBaTdlcktiZXc0eTVGOTRVMEF0ZXFXcG5B?oc=5",
-      "description": "Oil prices climb as Iranian demands cloud outlook for Strait of Hormuz Al Jazeera",
-      "publishedAt": "Mon, 10 Aug 2026 03:27:36 GMT",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWWotc2YtdGx5bHp5YXZieWNCaVQ0SzhwRzlnbVd1MkFmdXhmUXl3YmdqR2F1Q1ctTGRpVU5GUkZIQkpia3F5bFdSYXJYYjlpSzNTaFkzRjlBVThrdl9XMjFGOXFYbTJnaE5NbEVMTmphNks4ZHpZQjh6ZjVDZzIzYkYwX0wweTEwdlRoX0lDcjdvYWU4RV80SXdWME9CeGRmUGwtUzhWX09TZWpNMnZlSC130gG3AUFVX3lxTFBhZHlEWGh6eEJFRHVWTmxxVEoyTFlRWUpsbHdFU25kWDNWM1RUWlgxNEoxR1NKOFJqOHNtX2pETkY2LVgtdUZvam41SGNVR2RabUc5NU92YnVVSWVUVnZrM0FLTFdldlV6LVlZSXpBSExmWTNpU1hHWTZBWEdyOVNSVnd5dWdaSHlseGpYcGR0Q0VjeG1mSlZVN1AxQjljMWZWY1UtTVd1cjZwdVJ6Z0ZXLVRJNElRSQ?oc=5",
+      "description": "Oil prices rise as attacks dent hopes for Strait of Hormuz reopening Al Jazeera",
+      "publishedAt": "Wed, 12 Aug 2026 06:36:04 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Alberta sees $3.8B surplus due to high oil prices, economist estimates - Edmonton Journal",
+      "source": "Edmonton Journal",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYjhoX0N5THpmYWdEaEt0NWd0RnVNNFd3RExGVHMyOHR5dTVQd1Zabm5HQ0pJNU15U2F0SXRPRUk1cXdBaDVQWmdpRDFWVFVVckk1VFV3dnRjVFFmTkhsRXotUGRYMVNpSy10ZWtUNnI2MHplWnZBOTFnRldkX044d3FDSFRGRVVFV0ZTWA?oc=5",
+      "description": "Alberta sees $3.8B surplus due to high oil prices, economist estimates Edmonton Journal",
+      "publishedAt": "Tue, 11 Aug 2026 20:02:37 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -224,20 +233,20 @@
       "impact": "medium"
     },
     {
+      "title": "Strategic oil stockpiles have hit a 40-year low amid the Iran war - Global News",
+      "source": "Global News",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA1V0pvdURNWDRMMW43TmVNaDk4YVZWbTY2U1JHZFJUZm51MElPaXNZMFVja2lXUnFmNUpOblpmWWtaem9YZ3dxcVV1S3NGZXVlWXF2WGNHU05rRWNhbVZaai1WbktJd3BkM1liaXhZV1hGUQ?oc=5",
+      "description": "Strategic oil stockpiles have hit a 40-year low amid the Iran war Global News",
+      "publishedAt": "Tue, 11 Aug 2026 20:02:21 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
       "title": "Financial Markets, Oil Prices, and Supply-Side Risks - Federal Reserve Bank of San Francisco",
       "source": "Federal Reserve Bank of San Francisco",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNmFjYWNhVVJHZ2Y1dVZ5M3A1LTdZT01sSFVQTVJZcXpfcjNNajNyRjZXNXBpWTlST29nWFBhQ19Id05CQ3pGQXMybTBoRU9CeDFvZXNNN1dxeUVxR3dkM0wyYTZhS1ZMVTJsckdySFlzVXBQVHdGMjVWd3k4TG9idUdueERPVHRZUV95NzBKYTdfYnVVNThfTlRkeEZtNGtCY0dhc3FZMjZBQ0ZHYzRhbnBkZFNxb1JQYmczWHR3S21LYU8yeXhyNk1HRk0?oc=5",
       "description": "Financial Markets, Oil Prices, and Supply-Side Risks Federal Reserve Bank of San Francisco",
       "publishedAt": "Mon, 10 Aug 2026 17:00:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Hormuz deadlock: Where oil prices could head next as prospects for an imminent deal fade - CNBC",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBNcG9DY2ZzbXllOVcyNnVPYnUzQ0tnS0EyZDRGZXhNaF9ydmNJTWN1YWJEM2x2Tm5VS3F6REtQM2VBaklVYlRtUTFtM05ZdWdsYTlMaDFBNWlPVGhUS0FlTUJoWjBOWC1BaFAyQnpCc9IBdEFVX3lxTE55blBJLVBYeXpyLVpDSTE4czcyb2dFZEdSOWJvNU1vcFVHQmc1WmVneWo0eDRsSVlJMXlZOG83Ymd3Z2l3U3Nvb3FQVlhiSk1kVFQyUE5ncloydHplRWttN3lUejNQLXNUWjBERS01ZERxY1Ri?oc=5",
-      "description": "Hormuz deadlock: Where oil prices could head next as prospects for an imminent deal fade CNBC",
-      "publishedAt": "Tue, 11 Aug 2026 05:01:40 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -251,29 +260,20 @@
       "impact": "medium"
     },
     {
-      "title": "U.S. Stocks Slip, Oil Prices Rise - WSJ",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTE52c1ozbzI4ekd5U2t3a1ZLRUwzLXA1ZThEMDhRUnpzbzh1ZjhlaTR6Y3ZISmI2OEI1SnJDYnh0TnlMak1RX0FfQU1KdDBFT0RDMW1HdWxscUpBSGNGMFh5VEFqVVV5X2swTGVCbFNNcm9HQjVQbjJhd28tVXFMaEF2ZXNrVUgyZkxFV01peVJ4OW05TFcyV3ZUaEFFYVJYQTd3b0pabU5aQXc?oc=5",
-      "description": "U.S. Stocks Slip, Oil Prices Rise WSJ",
-      "publishedAt": "Tue, 11 Aug 2026 18:17:00 GMT",
+      "title": "THE BIG TURNAROUND: Alberta Sees $3.8B Surplus Due to High Oil Prices, Economist Estimates - EnergyNow",
+      "source": "EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNM0NZMlF6QkZOeTRXeklQSHpSTlplOUZMdDYtZ2hhbHlqdGItMktncERSeXFONThMMjBHVkxhNUFHRnYyVG9EQVdseTFhZU9FenRNWmpSeE02MzVab200dWNGa1ZaMjc0VWpOcTZnMzdnRUN4bWIxUWE2aWc5ZE9MMUwzNDI3RHhFVUpJNVM0MjJMVDIyeTJnT2g5NzRSQm8?oc=5",
+      "description": "THE BIG TURNAROUND: Alberta Sees $3.8B Surplus Due to High Oil Prices, Economist Estimates EnergyNow",
+      "publishedAt": "Wed, 12 Aug 2026 09:19:26 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Strategic oil stockpiles have hit a 40-year low amid the Iran war - Global News",
-      "source": "Global News",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA1V0pvdURNWDRMMW43TmVNaDk4YVZWbTY2U1JHZFJUZm51MElPaXNZMFVja2lXUnFmNUpOblpmWWtaem9YZ3dxcVV1S3NGZXVlWXF2WGNHU05rRWNhbVZaai1WbktJd3BkM1liaXhZV1hGUQ?oc=5",
-      "description": "Strategic oil stockpiles have hit a 40-year low amid the Iran war Global News",
-      "publishedAt": "Tue, 11 Aug 2026 20:02:21 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices mixed as investors ponder Strait of Hormuz reopening hopes - Reuters",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDd2cFJ5Z2dsbTliajVMY1o5eVQ3Q3djdGVaYXA2aVhJQUROSVk5NmVjSkUydkw0YUItOGI1VFl1Wl9uZVY2SWhZLVZZY2hFTTFyaEoxM0otRWQ0Vzk4bjdEV18yYkhQS05GUzQ5dHdsY0wwemg4cG53dnZkVmx0M1pMdzl2cDk2MDBlZlN3ZVY0RVMxU2JNcE5Ta2Nrd3l4OVpvTnlIY0hscHRpOUozRVpDUQ?oc=5",
-      "description": "Oil prices mixed as investors ponder Strait of Hormuz reopening hopes Reuters",
-      "publishedAt": "Thu, 06 Aug 2026 02:30:27 GMT",
+      "title": "Oil prices little changed after Red Sea, Gulf of Oman vessel attacks - CNBC",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1DUGtHWXRCMkh5Y0hKaHl1MTYxYThUT210WjBqdmVrUlEyTFc3RkRuc2hFeF9qSjRIaTB2RnM0MXAteTZmMFBUdXNDUEZkUFlld1pYbkhRMVpObWNOb244UEZKUTNXQW5aVkZGMmdIdEMyek9zQ3ZBQ2Nrb9IBgAFBVV95cUxPdi1sWGRJdmJPTzVFSGMwM3JPTV9hWTBveUQ3cGlTVElHd2JfWU02TXYxWks2ZmFoWkhWRlplT19faF9GcWdyNG1mRndYTjc1a0dHYUp1REdfRHJxWTFzWm95VzNGbjNNdzZ3RW1ZNHlBT2pmLWdtX25RLTM3RllnSQ?oc=5",
+      "description": "Oil prices little changed after Red Sea, Gulf of Oman vessel attacks CNBC",
+      "publishedAt": "Wed, 12 Aug 2026 04:56:36 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
