@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-14 05:26 UTC",
+  "generatedAt": "2026-08-15 04:22 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 169.9,
-    "premium": 187.9,
-    "diesel": 180.4
+    "regular": 168.9,
+    "premium": 186.9,
+    "diesel": 179.4
   },
   "history": {
     "labels": [
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Aug 14"
+      "Aug 15"
     ],
     "regular": [
       150.7,
@@ -75,7 +75,7 @@
       155.9,
       174.9,
       186.9,
-      169.9
+      168.9
     ],
     "premium": [
       168.7,
@@ -110,7 +110,7 @@
       173.9,
       192.9,
       204.9,
-      187.9
+      186.9
     ],
     "diesel": [
       161.2,
@@ -145,45 +145,45 @@
       166.4,
       185.4,
       197.4,
-      180.4
+      179.4
     ]
   },
   "prediction": {
     "labels": [
-      "Aug 15",
       "Aug 16",
       "Aug 17",
       "Aug 18",
       "Aug 19",
       "Aug 20",
-      "Aug 21"
+      "Aug 21",
+      "Aug 22"
     ],
     "regular": [
-      170.9,
-      171.8,
-      172.8,
-      173.7,
-      174.7,
-      175.7,
-      176.6
+      169.8,
+      170.8,
+      171.7,
+      172.7,
+      173.6,
+      174.5,
+      175.5
     ],
     "premium": [
-      188.9,
-      189.8,
-      190.8,
-      191.7,
-      192.7,
-      193.7,
-      194.6
+      187.8,
+      188.8,
+      189.7,
+      190.7,
+      191.6,
+      192.5,
+      193.5
     ],
     "diesel": [
-      181.4,
-      182.3,
-      183.3,
-      184.2,
-      185.2,
-      186.2,
-      187.1
+      180.3,
+      181.3,
+      182.2,
+      183.2,
+      184.1,
+      185.0,
+      186.0
     ]
   },
   "news": [
@@ -224,15 +224,6 @@
       "impact": "medium"
     },
     {
-      "title": "Canadian dollar hits two-month high as oil prices rise - The Globe and Mail",
-      "source": "The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVG9FWFNObjI5UGlLMHQwU3c4aHJ5LU9qakZWdDVqeW9saW45RFEycHI1Zk5zYkluOVhyR0tkalBPT0xDZnlLTlJGcHRMclFUNzhWYU9FVW5jNThpZUhqMlBhMHR6Y2kwSHZlWWlFclB0OGxGRzM4alVqdm9IWEtHMXJVdU1rS01LSERtRk4ycEZfQ0VvejZIU2FyUW5xZ2NHMEpEaHN4TUg?oc=5",
-      "description": "Canadian dollar hits two-month high as oil prices rise The Globe and Mail",
-      "publishedAt": "Tue, 11 Aug 2026 18:28:55 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
       "title": "US stock market holds near its all-time high and crude oil prices rise - Castanet",
       "source": "Castanet",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeVVUdkY3YUgtb0xJSlFudFctRlpZYW0tT193cGExWFVhLTNNQjFaNEgzWk1EWWlQRzBhZE1TVENfa2JXR1VLLXlRcGRacERqMl9Nc01XZkh6aUVGc0g4NEN5cTA3bVNJOVR5MmZPN3pQc1RlTXZjYklwU3FlNjhuUTA0UzhmZTh3U1FSMWZnak1HSXYydF9JSzRkX095cWVEaFJ2bG1QUXowbUdkZkFWLVFycVM2dVE?oc=5",
@@ -260,11 +251,11 @@
       "impact": "medium"
     },
     {
-      "title": "THE BIG TURNAROUND: Alberta Sees $3.8B Surplus Due to High Oil Prices, Economist Estimates - EnergyNow",
-      "source": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNM0NZMlF6QkZOeTRXeklQSHpSTlplOUZMdDYtZ2hhbHlqdGItMktncERSeXFONThMMjBHVkxhNUFHRnYyVG9EQVdseTFhZU9FenRNWmpSeE02MzVab200dWNGa1ZaMjc0VWpOcTZnMzdnRUN4bWIxUWE2aWc5ZE9MMUwzNDI3RHhFVUpJNVM0MjJMVDIyeTJnT2g5NzRSQm8?oc=5",
-      "description": "THE BIG TURNAROUND: Alberta Sees $3.8B Surplus Due to High Oil Prices, Economist Estimates EnergyNow",
-      "publishedAt": "Wed, 12 Aug 2026 09:19:26 GMT",
+      "title": "Canadian dollar hits two-month high as oil prices rise - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWkxkd1ZETWhxWUJaZVdGRDA5S0xudC0xbWZKaDEtOFVrc29uS0t2cmZLbGgyUVN2ckdYOTdXaEVNa1JRalNLLTZPZlptZGN2NzQwUUFTaEVTMXNSMWZHNnRuSkhySHRxX2JGMGxrOGgxTW41YlVURW92Q1lfQzhMZ2Y2WlRwNnA4QWlmRC1uY0VzTWluRk0weFh6WGU?oc=5",
+      "description": "Canadian dollar hits two-month high as oil prices rise Reuters",
+      "publishedAt": "Tue, 11 Aug 2026 18:19:45 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -274,6 +265,15 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTE52c1ozbzI4ekd5U2t3a1ZLRUwzLXA1ZThEMDhRUnpzbzh1ZjhlaTR6Y3ZISmI2OEI1SnJDYnh0TnlMak1RX0FfQU1KdDBFT0RDMW1HdWxscUpBSGNGMFh5VEFqVVV5X2swTGVCbFNNcm9HQjVQbjJhd28tVXFMaEF2ZXNrVUgyZkxFV01peVJ4OW05TFcyV3ZUaEFFYVJYQTd3b0pabU5aQXc?oc=5",
       "description": "U.S. Stocks Slip, Oil Prices Rise WSJ",
       "publishedAt": "Tue, 11 Aug 2026 18:17:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil Market Report - August 2026 – Analysis - IEA – International Energy Agency",
+      "source": "IEA – International Energy Agency",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xTXNaRlk1XzJkUnJ0c2U0bnZZSDhLRWZzaFNSNk9iQXVfQWRfME1SZXFCZ1RNckpBQUYwbGdKdFFjQTRESHpROGRZRkQyMndXSW95NS1QS2V1VDZqRFVUR2N1WTkwajBt?oc=5",
+      "description": "Oil Market Report - August 2026 – Analysis IEA – International Energy Agency",
+      "publishedAt": "Wed, 12 Aug 2026 08:00:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
