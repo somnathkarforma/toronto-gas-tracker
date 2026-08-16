@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-15 04:22 UTC",
+  "generatedAt": "2026-08-16 04:28 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 168.9,
-    "premium": 186.9,
-    "diesel": 179.4
+    "regular": 170.9,
+    "premium": 188.9,
+    "diesel": 181.4
   },
   "history": {
     "labels": [
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Aug 15"
+      "Aug 16"
     ],
     "regular": [
       150.7,
@@ -75,7 +75,7 @@
       155.9,
       174.9,
       186.9,
-      168.9
+      170.9
     ],
     "premium": [
       168.7,
@@ -110,7 +110,7 @@
       173.9,
       192.9,
       204.9,
-      186.9
+      188.9
     ],
     "diesel": [
       161.2,
@@ -145,45 +145,45 @@
       166.4,
       185.4,
       197.4,
-      179.4
+      181.4
     ]
   },
   "prediction": {
     "labels": [
-      "Aug 16",
       "Aug 17",
       "Aug 18",
       "Aug 19",
       "Aug 20",
       "Aug 21",
-      "Aug 22"
+      "Aug 22",
+      "Aug 23"
     ],
     "regular": [
-      169.8,
-      170.8,
-      171.7,
-      172.7,
-      173.6,
-      174.5,
-      175.5
+      171.9,
+      172.8,
+      173.8,
+      174.7,
+      175.7,
+      176.7,
+      177.6
     ],
     "premium": [
-      187.8,
-      188.8,
-      189.7,
-      190.7,
-      191.6,
-      192.5,
-      193.5
+      189.9,
+      190.8,
+      191.8,
+      192.7,
+      193.7,
+      194.7,
+      195.6
     ],
     "diesel": [
-      180.3,
-      181.3,
-      182.2,
-      183.2,
-      184.1,
-      185.0,
-      186.0
+      182.4,
+      183.3,
+      184.3,
+      185.2,
+      186.2,
+      187.2,
+      188.1
     ]
   },
   "news": [
@@ -215,10 +215,10 @@
       "impact": "medium"
     },
     {
-      "title": "Alberta sees $3.8B surplus due to high oil prices, economist estimates - Edmonton Journal",
-      "source": "Edmonton Journal",
+      "title": "Alberta sees $3.8B surplus due to high oil prices, economist estimates - edmontonjournal.com",
+      "source": "edmontonjournal.com",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYjhoX0N5THpmYWdEaEt0NWd0RnVNNFd3RExGVHMyOHR5dTVQd1Zabm5HQ0pJNU15U2F0SXRPRUk1cXdBaDVQWmdpRDFWVFVVckk1VFV3dnRjVFFmTkhsRXotUGRYMVNpSy10ZWtUNnI2MHplWnZBOTFnRldkX044d3FDSFRGRVVFV0ZTWA?oc=5",
-      "description": "Alberta sees $3.8B surplus due to high oil prices, economist estimates Edmonton Journal",
+      "description": "Alberta sees $3.8B surplus due to high oil prices, economist estimates edmontonjournal.com",
       "publishedAt": "Tue, 11 Aug 2026 20:02:37 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
@@ -233,15 +233,6 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices fall after U.S. says crude exports through Strait of Hormuz near 9 million barrels per day - CNBC",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOFI0cXFMb3l3bVlpYkJNcFdCc2Z0S0poWEJ0akJvWUo4bjVLQjg0d1VLeWRtZlZHeWhFdDd6aVVteDRyQlkyTS1YVUx3UVduWU4wVHhidlpwR2lpanQzQlRud2tjcS1TZklfX2JfaFIzRVF0bzJoVE5MLTNHZHRRMl9YVdIBiAFBVV95cUxQZXNpOFlnOTlFRGZtUm5ucU53LWRpSVFkaExSa0dPS1phNER0cTRKQkYzMkNCRl9teHlTcGxLM3NadmtVdVlEakx1M0JmZU9HMlAzYnBnak1lWDZWcVNhaG1RakpiWUhLNTIyV2YxUnNXcS1wZnhzN08yRWp1Q0tHNXhiaUVVcnVS?oc=5",
-      "description": "Oil prices fall after U.S. says crude exports through Strait of Hormuz near 9 million barrels per day CNBC",
-      "publishedAt": "Thu, 13 Aug 2026 01:59:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
       "title": "Financial Markets, Oil Prices, and Supply-Side Risks - Federal Reserve Bank of San Francisco",
       "source": "Federal Reserve Bank of San Francisco",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNmFjYWNhVVJHZ2Y1dVZ5M3A1LTdZT01sSFVQTVJZcXpfcjNNajNyRjZXNXBpWTlST29nWFBhQ19Id05CQ3pGQXMybTBoRU9CeDFvZXNNN1dxeUVxR3dkM0wyYTZhS1ZMVTJsckdySFlzVXBQVHdGMjVWd3k4TG9idUdueERPVHRZUV95NzBKYTdfYnVVNThfTlRkeEZtNGtCY0dhc3FZMjZBQ0ZHYzRhbnBkZFNxb1JQYmczWHR3S21LYU8yeXhyNk1HRk0?oc=5",
@@ -251,11 +242,20 @@
       "impact": "medium"
     },
     {
-      "title": "Canadian dollar hits two-month high as oil prices rise - Reuters",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWkxkd1ZETWhxWUJaZVdGRDA5S0xudC0xbWZKaDEtOFVrc29uS0t2cmZLbGgyUVN2ckdYOTdXaEVNa1JRalNLLTZPZlptZGN2NzQwUUFTaEVTMXNSMWZHNnRuSkhySHRxX2JGMGxrOGgxTW41YlVURW92Q1lfQzhMZ2Y2WlRwNnA4QWlmRC1uY0VzTWluRk0weFh6WGU?oc=5",
-      "description": "Canadian dollar hits two-month high as oil prices rise Reuters",
-      "publishedAt": "Tue, 11 Aug 2026 18:19:45 GMT",
+      "title": "Oil prices fall after U.S. says crude exports through Strait of Hormuz near 9 million barrels per day - CNBC",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOFI0cXFMb3l3bVlpYkJNcFdCc2Z0S0poWEJ0akJvWUo4bjVLQjg0d1VLeWRtZlZHeWhFdDd6aVVteDRyQlkyTS1YVUx3UVduWU4wVHhidlpwR2lpanQzQlRud2tjcS1TZklfX2JfaFIzRVF0bzJoVE5MLTNHZHRRMl9YVdIBiAFBVV95cUxQZXNpOFlnOTlFRGZtUm5ucU53LWRpSVFkaExSa0dPS1phNER0cTRKQkYzMkNCRl9teHlTcGxLM3NadmtVdVlEakx1M0JmZU9HMlAzYnBnak1lWDZWcVNhaG1RakpiWUhLNTIyV2YxUnNXcS1wZnhzN08yRWp1Q0tHNXhiaUVVcnVS?oc=5",
+      "description": "Oil prices fall after U.S. says crude exports through Strait of Hormuz near 9 million barrels per day CNBC",
+      "publishedAt": "Thu, 13 Aug 2026 01:59:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Current price of oil as of Aug. 13, 2026 - Fortune",
+      "source": "Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1XQjJSeDhuRWpVdkIzTDd3ZDI4QWgwTFh5LS1VbFkyRzRUaEhxWnhrYndBOUU1ekZUV3lpbjZuUjVqTWJKckc4bmlkaF9SVGFnOHppemtKT25yYkVmNlVYdzB3?oc=5",
+      "description": "Current price of oil as of Aug. 13, 2026 Fortune",
+      "publishedAt": "Thu, 13 Aug 2026 10:15:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -269,11 +269,11 @@
       "impact": "medium"
     },
     {
-      "title": "Oil Market Report - August 2026 – Analysis - IEA – International Energy Agency",
-      "source": "IEA – International Energy Agency",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xTXNaRlk1XzJkUnJ0c2U0bnZZSDhLRWZzaFNSNk9iQXVfQWRfME1SZXFCZ1RNckpBQUYwbGdKdFFjQTRESHpROGRZRkQyMndXSW95NS1QS2V1VDZqRFVUR2N1WTkwajBt?oc=5",
-      "description": "Oil Market Report - August 2026 – Analysis IEA – International Energy Agency",
-      "publishedAt": "Wed, 12 Aug 2026 08:00:00 GMT",
+      "title": "U.S. stocks rise to a record as oil prices drop and inflation gets less bad - CP24",
+      "source": "CP24",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQa2hZczY2N3l0cjFrLVdVUWVPTEE0a3dvV0paLVNQRVNqc1c5TjJIWEpZdXRvX3ZkMTkzSzFvODh1WjdHQ2RpalR6X090cE95dUt1cURYOWNBcXNhUEdvY3RnSnRPX2ZZaU1vZTNaMWhQQ01XU2JJRjVzbG8wVGxaNnl2ZnZKdUFpVkQ3d1UtY2N2aGg0U1BGN0lKUTFkNTgteXBENG8zRTRZSEFBVGdSOVFzWTFQclRtV3lDa2d6QlM?oc=5",
+      "description": "U.S. stocks rise to a record as oil prices drop and inflation gets less bad CP24",
+      "publishedAt": "Thu, 13 Aug 2026 20:31:19 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
