@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16 04:28 UTC",
+  "generatedAt": "2026-08-17 04:34 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
     "regular": 170.9,
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Aug 16"
+      "Aug 17"
     ],
     "regular": [
       150.7,
@@ -150,13 +150,13 @@
   },
   "prediction": {
     "labels": [
-      "Aug 17",
       "Aug 18",
       "Aug 19",
       "Aug 20",
       "Aug 21",
       "Aug 22",
-      "Aug 23"
+      "Aug 23",
+      "Aug 24"
     ],
     "regular": [
       171.9,
@@ -188,15 +188,6 @@
   },
   "news": [
     {
-      "title": "Oil prices climb as Iranian demands cloud outlook for Strait of Hormuz - Al Jazeera",
-      "source": "Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV1JKTXJBd3g5dVkxa0VWVXNPcVRSY2ZwNmFGNnAyUzM5dDlqcFRwdFYxODBUb3I2YnBqM2hKQW4zWVJwU1VXZzF4RWlmSjZOYlh4U1VydlNPS2wwd0RTUEUxUHlsTElrWXQ5R041R2tqVVl1bzFsNVdpVHVBLXpERmo4NF9zaDFrVGlDV05VYjlvaVE2bmcwR21vWjk0aEZnRnpqS0ZQRHlkVExyUThpNC1IVEXSAboBQVVfeXFMT1YwQURrRTJkLWdZcVdDRklJRmFkNDJnTF83aDNxZllMbXJMbzNCUlY2NFhvb1lCbklvaFozdFN6UTd2WHp3dG1VeEdmSTB0TkpsOEdINFFoN09ONmVLLTdmQllZcHBNNTI1WWRqb0djY25sVi13Tm95SnJpeFBLWHJrRm54Sm9kOFlnYnFKaGxmRzZVTE5Id2pzVnBvaUtCczRBaTdlcktiZXc0eTVGOTRVMEF0ZXFXcG5B?oc=5",
-      "description": "Oil prices climb as Iranian demands cloud outlook for Strait of Hormuz Al Jazeera",
-      "publishedAt": "Mon, 10 Aug 2026 03:27:36 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
       "title": "IEA expects world oil demand to fall amid surging gas prices - Global News",
       "source": "Global News",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HcG5rNUVLX1dJM0k3elZHWE4yLVpRMlgxLWZpZzhrX2JFbFRRVHBDTGlwd2xINTB1NzhtaHFkZUVaWlVYZnZxQVBlZG9OUklTdnV4WmtjcXdmNEJVNE5PaC14TjlqMWdCNWc?oc=5",
@@ -206,20 +197,20 @@
       "impact": "medium"
     },
     {
+      "title": "Alberta sees $3.8B surplus due to high oil prices, economist estimates - Edmonton Journal",
+      "source": "Edmonton Journal",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYjhoX0N5THpmYWdEaEt0NWd0RnVNNFd3RExGVHMyOHR5dTVQd1Zabm5HQ0pJNU15U2F0SXRPRUk1cXdBaDVQWmdpRDFWVFVVckk1VFV3dnRjVFFmTkhsRXotUGRYMVNpSy10ZWtUNnI2MHplWnZBOTFnRldkX044d3FDSFRGRVVFV0ZTWA?oc=5",
+      "description": "Alberta sees $3.8B surplus due to high oil prices, economist estimates Edmonton Journal",
+      "publishedAt": "Tue, 11 Aug 2026 20:02:37 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
       "title": "Oil Prices Fall as OPEC and IEA Slash 2026 Demand Outlooks - Crude Oil Prices Today | OilPrice.com",
       "source": "Crude Oil Prices Today | OilPrice.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQelhHb3J1eFdSQm4xMEN5U3NQcG51aU1HZk9OVF9kbmZGWEcxOG03T3NCNFFoaDFwdnFfcHFmZWtROEdQSGlWMFRfSWpnWnlrYV9xWkpyMjk2aUk2OUpLTVdCUVVxMk9tenU0cWFBVWl4eGFWSDNza3Q3UzR6ZmJTZk9iZ0FFSnpDemY4TGFfMmI1bG9PdDdzMVVsVjMycEVid1lIczVhR2V1b0IwLUx5S1VvNXLSAboBQVVfeXFMTWhWZnlSWnVqYVV6dzI3Q0lfSVJJZ0RTdTl6dDkzNHM3RC12cWRmVHdYTm1saFVsUDh1dWctczNzSV9sTkF0SUdKSXpiRnp6aUNFMWZOdXN4Sk9HbHdSUzBNMTNHYkdrMjFuLWRGd203bkpNNDAyZ2VmTHpZeUNwaGxZRGkzN24tWHg3WWZFODRPX1cyU0hBdXB6bU5vZUZJeXFyUGxDblVwaU5fbkxmTG5PNmVJaWJyQTBB?oc=5",
       "description": "Oil Prices Fall as OPEC and IEA Slash 2026 Demand Outlooks Crude Oil Prices Today | OilPrice.com",
       "publishedAt": "Thu, 13 Aug 2026 05:25:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Alberta sees $3.8B surplus due to high oil prices, economist estimates - edmontonjournal.com",
-      "source": "edmontonjournal.com",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYjhoX0N5THpmYWdEaEt0NWd0RnVNNFd3RExGVHMyOHR5dTVQd1Zabm5HQ0pJNU15U2F0SXRPRUk1cXdBaDVQWmdpRDFWVFVVckk1VFV3dnRjVFFmTkhsRXotUGRYMVNpSy10ZWtUNnI2MHplWnZBOTFnRldkX044d3FDSFRGRVVFV0ZTWA?oc=5",
-      "description": "Alberta sees $3.8B surplus due to high oil prices, economist estimates edmontonjournal.com",
-      "publishedAt": "Tue, 11 Aug 2026 20:02:37 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -260,6 +251,15 @@
       "impact": "medium"
     },
     {
+      "title": "Here’s the real reason oil prices aren’t moving higher - MarketWatch",
+      "source": "MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNkJ3QTJqeFNEWVB5dFRjeXJIdU1zbWd1R0ZPbWhfZTM2WXNrUDBUV3pCSW1mazJRbElRUXMwa1B4TFhkMmlWQ3hMSlpiQy1Vdmk5QzlpYzVVRTRHdno0bm1tTThBckM1dm5CSkh6WU5uSmVQWGNQOHFPdndMczRMTE40WDFtVE9RclFQX3BYeDk3UHZfQkxZd1MzSQ?oc=5",
+      "description": "Here’s the real reason oil prices aren’t moving higher MarketWatch",
+      "publishedAt": "Sun, 16 Aug 2026 13:00:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
       "title": "U.S. Stocks Slip, Oil Prices Rise - WSJ",
       "source": "WSJ",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTE52c1ozbzI4ekd5U2t3a1ZLRUwzLXA1ZThEMDhRUnpzbzh1ZjhlaTR6Y3ZISmI2OEI1SnJDYnh0TnlMak1RX0FfQU1KdDBFT0RDMW1HdWxscUpBSGNGMFh5VEFqVVV5X2swTGVCbFNNcm9HQjVQbjJhd28tVXFMaEF2ZXNrVUgyZkxFV01peVJ4OW05TFcyV3ZUaEFFYVJYQTd3b0pabU5aQXc?oc=5",
@@ -269,10 +269,10 @@
       "impact": "medium"
     },
     {
-      "title": "U.S. stocks rise to a record as oil prices drop and inflation gets less bad - CP24",
-      "source": "CP24",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQa2hZczY2N3l0cjFrLVdVUWVPTEE0a3dvV0paLVNQRVNqc1c5TjJIWEpZdXRvX3ZkMTkzSzFvODh1WjdHQ2RpalR6X090cE95dUt1cURYOWNBcXNhUEdvY3RnSnRPX2ZZaU1vZTNaMWhQQ01XU2JJRjVzbG8wVGxaNnl2ZnZKdUFpVkQ3d1UtY2N2aGg0U1BGN0lKUTFkNTgteXBENG8zRTRZSEFBVGdSOVFzWTFQclRtV3lDa2d6QlM?oc=5",
-      "description": "U.S. stocks rise to a record as oil prices drop and inflation gets less bad CP24",
+      "title": "U.S. stocks rise to a record as oil prices drop and inflation gets less bad - BNN Bloomberg",
+      "source": "BNN Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSEtoQnNxUUJTeEJ1VjN2WUlhV2l5X0kxejRMd2lzaExMTDZHTUg0T0RDczlsVVl3Zm1jRWcxU2J2emlHSHRXMUNoeWVzbC1DTVYzVFB5VHk2b0lOc290NnVWcVZHR2ZfTzVpNG1panhEUVlfXzN2eGtvdHMwVUhjay01NFVkcG5FQTM0LWxOcTlFZ3BWbzRBcUJPLS1FQmg0aUZSZnpPR25TcjdZY0NKcmFHbGFaeDBFb2c5NFBmVDA4ckVYZXc?oc=5",
+      "description": "U.S. stocks rise to a record as oil prices drop and inflation gets less bad BNN Bloomberg",
       "publishedAt": "Thu, 13 Aug 2026 20:31:19 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
