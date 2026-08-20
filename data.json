@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-19 04:30 UTC",
+  "generatedAt": "2026-08-20 04:29 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 173.9,
-    "premium": 191.9,
-    "diesel": 184.4
+    "regular": 174.9,
+    "premium": 192.9,
+    "diesel": 185.4
   },
   "history": {
     "labels": [
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Aug 19"
+      "Aug 20"
     ],
     "regular": [
       150.7,
@@ -75,7 +75,7 @@
       155.9,
       174.9,
       186.9,
-      173.9
+      174.9
     ],
     "premium": [
       168.7,
@@ -110,7 +110,7 @@
       173.9,
       192.9,
       204.9,
-      191.9
+      192.9
     ],
     "diesel": [
       161.2,
@@ -145,45 +145,45 @@
       166.4,
       185.4,
       197.4,
-      184.4
+      185.4
     ]
   },
   "prediction": {
     "labels": [
-      "Aug 20",
       "Aug 21",
       "Aug 22",
       "Aug 23",
       "Aug 24",
       "Aug 25",
-      "Aug 26"
+      "Aug 26",
+      "Aug 27"
     ],
     "regular": [
-      174.9,
-      175.8,
+      175.9,
       176.8,
-      177.7,
+      177.8,
       178.7,
       179.7,
-      180.6
+      180.7,
+      181.6
     ],
     "premium": [
-      192.9,
-      193.8,
+      193.9,
       194.8,
-      195.7,
+      195.8,
       196.7,
       197.7,
-      198.6
+      198.7,
+      199.6
     ],
     "diesel": [
-      185.4,
-      186.3,
+      186.4,
       187.3,
-      188.2,
+      188.3,
       189.2,
       190.2,
-      191.1
+      191.2,
+      192.1
     ]
   },
   "news": [
@@ -206,11 +206,20 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices fall after U.S. says crude exports through Strait of Hormuz near 9 million barrels per day - CNBC",
+      "title": "Oil prices rise more than 1% as Middle East crisis escalates - CNBC",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOFI0cXFMb3l3bVlpYkJNcFdCc2Z0S0poWEJ0akJvWUo4bjVLQjg0d1VLeWRtZlZHeWhFdDd6aVVteDRyQlkyTS1YVUx3UVduWU4wVHhidlpwR2lpanQzQlRud2tjcS1TZklfX2JfaFIzRVF0bzJoVE5MLTNHZHRRMl9YVdIBiAFBVV95cUxQZXNpOFlnOTlFRGZtUm5ucU53LWRpSVFkaExSa0dPS1phNER0cTRKQkYzMkNCRl9teHlTcGxLM3NadmtVdVlEakx1M0JmZU9HMlAzYnBnak1lWDZWcVNhaG1RakpiWUhLNTIyV2YxUnNXcS1wZnhzN08yRWp1Q0tHNXhiaUVVcnVS?oc=5",
-      "description": "Oil prices fall after U.S. says crude exports through Strait of Hormuz near 9 million barrels per day CNBC",
-      "publishedAt": "Thu, 13 Aug 2026 01:59:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb2dqYWhrM1ZaOVBEeDB4LWcwTUp0clNMVHRrY2ktT3R2WnQ3MkJKcmVTNmQwWXAzV2FqNkhTVGphVWIyVnJYSXF6M0Q2Sms4QktoQ3hWajZIV3JuelRzSGg1OWVIaHZoMkxfWDJYbXZMLWhCd21xZlRrS3pBaDFjSFJYNXhPSUo5X0JxWmt4YjlMSlhyMi1R0gGcAUFVX3lxTE5jMG5rRndVVUZhemgtMllCU1poUV9KeHVtV0xmUjNQQnhYeVdFd0Qtd2hxLVM0SF9PTVF1cWZhakVjbk5sSVFEMWd3cG5NUktCNWU4Y0dFNDNOSklPVFp5M1NxOUxBam0yNVBPaXN5TkVHeUFiQkRIdEdqazBOcWNMcnRGeE9hZVZZS0l6azFsYTNRa2lOS0xWbVJ4Mg?oc=5",
+      "description": "Oil prices rise more than 1% as Middle East crisis escalates CNBC",
+      "publishedAt": "Wed, 19 Aug 2026 01:22:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Current price of oil as of Aug. 17, 2026 - Fortune",
+      "source": "Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5fSXp3bHBkaFNMQi1VVDJLRnVSZEQ4bkVYaFB4UUhYZjR5S0JLS3lWcm12X0cwZ2NndlpTMG5lLWJZSUpscFVIclBwcFloaGh1ZnZ3VVVib2w2Wld6WkpsaFZB?oc=5",
+      "description": "Current price of oil as of Aug. 17, 2026 Fortune",
+      "publishedAt": "Mon, 17 Aug 2026 10:00:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -224,15 +233,6 @@
       "impact": "medium"
     },
     {
-      "title": "Canada’s inflation rate climbs to 3% in July as gasoline prices surge, StatsCan reports - The Hub | More Signal. Less Noise.",
-      "source": "The Hub | More Signal. Less Noise.",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNlBoZDJhR25vRl9CRWcyWUJnUjRkTXVmdkkyNXlaRmZqVlJLSjBmd1p1cHllUndLOVNYaVNKTkxVVGtMUTZDMUFNREtYNmdjOXRJNTIyRURudU9Odlh5U193LTc0N05WcjNVekNSNzN2UlZrMHdxVFlBdDJrY1c4RXduX3RVT1NsUlc5cjJHV3F6VjZ1R3FxUHcybkg4Q1ZYd19zMzZ3Y0REMHRMNGgtNU9keDQ?oc=5",
-      "description": "Canada’s inflation rate climbs to 3% in July as gasoline prices surge, StatsCan reports The Hub | More Signal. Less Noise.",
-      "publishedAt": "Tue, 18 Aug 2026 15:50:42 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
       "title": "Here’s the real reason oil prices aren’t moving higher - MarketWatch",
       "source": "MarketWatch",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNkJ3QTJqeFNEWVB5dFRjeXJIdU1zbWd1R0ZPbWhfZTM2WXNrUDBUV3pCSW1mazJRbElRUXMwa1B4TFhkMmlWQ3hMSlpiQy1Vdmk5QzlpYzVVRTRHdno0bm1tTThBckM1dm5CSkh6WU5uSmVQWGNQOHFPdndMczRMTE40WDFtVE9RclFQX3BYeDk3UHZfQkxZd1MzSQ?oc=5",
@@ -242,38 +242,38 @@
       "impact": "medium"
     },
     {
-      "title": "Current price of oil as of Aug. 14, 2026 - Fortune",
-      "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE45YlpnSmZMb3V6ekNxUnZBQmpoRFY5cFdVcnFHejlyOFZQbnNGcEVuUHVGczQwZVBsb3hfbnR5MEFkMGNpQTd2c3hKUDFkNk10alFBRTUzVHJNYVczTjNyS2tn?oc=5",
-      "description": "Current price of oil as of Aug. 14, 2026 Fortune",
-      "publishedAt": "Fri, 14 Aug 2026 10:30:00 GMT",
+      "title": "Oil prices settle near 4-week high as Middle East crisis escalates - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSkdUVWxmeFlpYXd4VjhyeHhvNjBmaVlPbVdFemxvNTJHaExLNWhQbzNXeTN5QkVkWVh4aVU4ODJCWnFGazJnQklMejNuVnpPaHFUN1JEM1lFZ3FZaG96ME00QWdZN1JmYW5fN1lXNmV6dDVZUWxFWlJYc05BaEtzbEpGbXlqSHoxRnB3dTQ2NnZXX0tzRENESXFhRDlGSmxNT01LMWhSWQ?oc=5",
+      "description": "Oil prices settle near 4-week high as Middle East crisis escalates Reuters",
+      "publishedAt": "Wed, 19 Aug 2026 00:39:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil prices edge up as investors weigh US-Iran talks deadlock against lower demand - reuters.com",
-      "source": "reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOajU2TkE4Zm1kOHlwM2hwX0VXeWJTNkFCblBrN0FuUDNfN1NMRFQ1NE1HREZGVE96UXMyajRlamxJaVZqMGxQNGRyZlBZQ2xnNVNEZjdBZ05zR25PWEFTNksxMk9iREoyNElfZ1h0aUdiTmFKdEJpZlJfUDk1d25ZTXptbnByMDFfRjk2R1oxZ29pNFZiQVhwTmRCaDIzUXdYSFlxZnl6aU05eG1WLWlQWg?oc=5",
-      "description": "Oil prices edge up as investors weigh US-Iran talks deadlock against lower demand reuters.com",
-      "publishedAt": "Wed, 12 Aug 2026 16:07:09 GMT",
+      "title": "Why Isn’t the Price of Oil Even Higher? - Paul Krugman | Substack",
+      "source": "Paul Krugman | Substack",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9iWFlTU1JGQTJfSkljTzI4VUR2Z1Z1Q2Rta0JIQW0wNDZoX3ZhNDFkcGxYVWI2eGd1dkpLaEZKSHZMV2h5V1BXWkJ6M3JSd0ZMWjNoaWQ5M2ptZmZvU2lRVDJqTWxnR3RhUlV4d3p4bXVpU1ZBYzRVSkFOeF8?oc=5",
+      "description": "Why Isn’t the Price of Oil Even Higher? Paul Krugman | Substack",
+      "publishedAt": "Thu, 13 Aug 2026 10:31:05 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "U.S. stocks edge further from their record after oil prices rise - BNN Bloomberg",
-      "source": "BNN Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdUpmUWRGVVBqSzdER1dSNkNxeGdlSWhHcHpXNkxYOUhFakcwTWlBd29VWmk4akx2UTBOc0pJYjJkQ2hxdnhkbFA0dkhJRkJSdy1Ma3lDM1dscWlIMHVydko2OF9DTVY0bW00Q3F6XzlYdFFhMTgtQkNHVE9hTWljWWlJbFlfUDh5SDFnSHRWNjl0ZzcxdldZVS1NMXZ3cE5aQ2JUZGZvYTdOdzhkcUZzWFJlanVfeVBpdEExdThaX2NITlNVMUdUU3lncUVIRDZGaXdnNUp5TUR4dDNtVFpzOTFPNA?oc=5",
-      "description": "U.S. stocks edge further from their record after oil prices rise BNN Bloomberg",
-      "publishedAt": "Mon, 17 Aug 2026 20:35:54 GMT",
+      "title": "Will Oil Prices Keep Rising? - Rigzone",
+      "source": "Rigzone",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVXh0SS11TTB6U0tLWFQ2TmljYkJxb2VmVHdNV1l6NUhMQmtqbkZjdG5WSW5fanhieFdIMHlRbWE5VGRWSC1YYm4teWFnWHdudjlLUll2c1VGVy11YnNhZXpURjRYOXlhMURxWVRrdG5uWGV2alVJdW1KQVdlczhBLVhPSjBfSHBEOG8zaQ?oc=5",
+      "description": "Will Oil Prices Keep Rising? Rigzone",
+      "publishedAt": "Tue, 18 Aug 2026 10:36:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil Prices, Treasury Yields Rise With Mideast Concerns - wsj.com",
-      "source": "wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSGVnWG44UWFHcmJvMlowWjVjWkp4MzQ1YW1WY3VzcldoMHBFZFFYemhYUWJRM1RwSUJZNC1KTURzN242Wkx2el9MNFVzU1NBY1o5ektMbFNfdUZ0a1ljVDVjVDd0Um40Wl8wbkx2WVJHeEswcmtjREZxNEo0a3JmaFRoYzBiaDJ3Qm5fYmJKUUc0eEx5ajdrWE5OWUN5UUpLTEE?oc=5",
-      "description": "Oil Prices, Treasury Yields Rise With Mideast Concerns wsj.com",
-      "publishedAt": "Mon, 17 Aug 2026 20:42:00 GMT",
+      "title": "U.S.-Iran Tensions Push Oil Prices Higher as Diesel Margins Hit Records - Crude Oil Prices Today | OilPrice.com",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbzFoUm9QdWxNTWNkWXdSYjBZX1M0aVl4VFNGT2dHQmtLbjc2NEdrNTB6WWhrcE54UTQ2VjVJRUJRdm9qaml3STlSMnp4Z295MmQ2c2U3T3hCbUotTkFBaUpIV0JvM1NBay1FSG13ZkthSkI5WmpqenB6Z010dUxzU3diaFhPLWNselZfaHB3VktZVFFQdnVkcjFfUFlXblVuQ3c1M2ZGVm0xSm5kbVdjbUpPOUs1VW5XR0FwNHI1T2Q0UDDSAcgBQVVfeXFMUEZkSFlYWFJiYkhBREl6Qmk5Nnp0ZHBVVk1abUM1MHZTUTI5ZlJ6eENsLTJBQVdjVXdlcVgzdElJUGNxbVIyTkhzY1B1d3I2ZUk1UkE5X3dHNktRb3lDWkpkS0YyQ3FKSV9IUzVCQmNGWjBvVmp1bkxCU1daaHVTU2lfMzI2em5BcGx4TWdYOXhHVWJTWXJQRHZ5T2hJUFFuZmFqZF9VcVByMDJ5RTlMWVpDOVJjZVRQTFJ4TlNjNTRCeVFpaERiOGo?oc=5",
+      "description": "U.S.-Iran Tensions Push Oil Prices Higher as Diesel Margins Hit Records Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Tue, 18 Aug 2026 04:35:44 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
