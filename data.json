@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21 04:31 UTC",
+  "generatedAt": "2026-08-22 04:25 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
     "regular": 173.9,
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Aug 21"
+      "Aug 22"
     ],
     "regular": [
       150.7,
@@ -150,13 +150,13 @@
   },
   "prediction": {
     "labels": [
-      "Aug 22",
       "Aug 23",
       "Aug 24",
       "Aug 25",
       "Aug 26",
       "Aug 27",
-      "Aug 28"
+      "Aug 28",
+      "Aug 29"
     ],
     "regular": [
       174.9,
@@ -188,11 +188,11 @@
   },
   "news": [
     {
-      "title": "U.S.-Iran Tensions Push Oil Prices Higher as Diesel Margins Hit Records - Crude Oil Prices Today | OilPrice.com",
+      "title": "US Oil Drillers See Pullback as Oil Prices Rise - Crude Oil Prices Today | OilPrice.com",
       "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbzFoUm9QdWxNTWNkWXdSYjBZX1M0aVl4VFNGT2dHQmtLbjc2NEdrNTB6WWhrcE54UTQ2VjVJRUJRdm9qaml3STlSMnp4Z295MmQ2c2U3T3hCbUotTkFBaUpIV0JvM1NBay1FSG13ZkthSkI5WmpqenB6Z010dUxzU3diaFhPLWNselZfaHB3VktZVFFQdnVkcjFfUFlXblVuQ3c1M2ZGVm0xSm5kbVdjbUpPOUs1VW5XR0FwNHI1T2Q0UDDSAcgBQVVfeXFMUEZkSFlYWFJiYkhBREl6Qmk5Nnp0ZHBVVk1abUM1MHZTUTI5ZlJ6eENsLTJBQVdjVXdlcVgzdElJUGNxbVIyTkhzY1B1d3I2ZUk1UkE5X3dHNktRb3lDWkpkS0YyQ3FKSV9IUzVCQmNGWjBvVmp1bkxCU1daaHVTU2lfMzI2em5BcGx4TWdYOXhHVWJTWXJQRHZ5T2hJUFFuZmFqZF9VcVByMDJ5RTlMWVpDOVJjZVRQTFJ4TlNjNTRCeVFpaERiOGo?oc=5",
-      "description": "U.S.-Iran Tensions Push Oil Prices Higher as Diesel Margins Hit Records Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Tue, 18 Aug 2026 04:35:44 GMT",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVXpid2pCQ0pINTJCU0VGUXhoODVqYVAxNEdEOElBYnJsdVU1UURPeEdJVmdKYVhjRWtHLUt2ZVlaRmJZUGRfRDYxcW1MNlBISlBjYTlyVHJja3pKQXFzdWpWd3dEN1otWk1lWFhLZzNHVDJDS1VLUVU2aDZaWURzNjhWcC1maHp4TVdVM29IbDRpVHot0gGaAUFVX3lxTFBMWks5Nnh0Sk9VM1pvRC03ZC10Rlc3ZDdfY2tBekJJRWxOSHJRRHoxbmxyZFdQbHc0eDg5d2U5a3JBdWJYSlRvY0h3SDRoUmZaSHVVR0Y2X3RyLXVKWWx4cmpuQTlqc3RWZjdDOHg5UDgxSGI3YTkxdEV0Rl85bkdYR0o0Qk1LY2FvZnEtT3JYX3ZMNkhpU3NKNUE?oc=5",
+      "description": "US Oil Drillers See Pullback as Oil Prices Rise Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Fri, 21 Aug 2026 17:16:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -206,20 +206,11 @@
       "impact": "medium"
     },
     {
-      "title": "Current price of oil as of Aug. 19, 2026 - Fortune",
+      "title": "Current price of oil as of August 17, 2026 - Fortune",
       "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBIYlRWaXFRWVd3STMwYWZ1N1U3eHBlemdwVFhqLUx5ejFoY1ZwU3RLU2hKYWlQQnYzRVpwRkt5RDBQV0JUcHlVQnZCb3VuS19NUzZqcWNyQXBvTFV5S0NRTUdB?oc=5",
-      "description": "Current price of oil as of Aug. 19, 2026 Fortune",
-      "publishedAt": "Wed, 19 Aug 2026 11:00:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil settles up more than 2% after Trump threatens countries supporting Iran - Reuters",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM1ZTcG5JRHQxeFFrOEd6Q0s4eWdFZGZwRmUyaFlPQkEwWEFLZ2xtLUJxMDFGRzZEZ1VEMjA5MjlMazgtZkJRM01FRXJ3Yk5wZUJSRW8yUEc5THM4VEZBd3V0LVhiRHBBWExnTElPMTRCX3d1ODhKR2lDdHVDVktTZS1BTUtuLXN2ZGRwUmpnNzhEdDJBZnp3cHExVndUYWlrenVEOXI0dVppdw?oc=5",
-      "description": "Oil settles up more than 2% after Trump threatens countries supporting Iran Reuters",
-      "publishedAt": "Thu, 20 Aug 2026 01:11:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5fSXp3bHBkaFNMQi1VVDJLRnVSZEQ4bkVYaFB4UUhYZjR5S0JLS3lWcm12X0cwZ2NndlpTMG5lLWJZSUpscFVIclBwcFloaGh1ZnZ3VVVib2w2Wld6WkpsaFZB?oc=5",
+      "description": "Current price of oil as of August 17, 2026 Fortune",
+      "publishedAt": "Mon, 17 Aug 2026 10:00:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -242,6 +233,15 @@
       "impact": "medium"
     },
     {
+      "title": "Oil settles up more than 2% after Trump threatens countries supporting Iran - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM1ZTcG5JRHQxeFFrOEd6Q0s4eWdFZGZwRmUyaFlPQkEwWEFLZ2xtLUJxMDFGRzZEZ1VEMjA5MjlMazgtZkJRM01FRXJ3Yk5wZUJSRW8yUEc5THM4VEZBd3V0LVhiRHBBWExnTElPMTRCX3d1ODhKR2lDdHVDVktTZS1BTUtuLXN2ZGRwUmpnNzhEdDJBZnp3cHExVndUYWlrenVEOXI0dVppdw?oc=5",
+      "description": "Oil settles up more than 2% after Trump threatens countries supporting Iran Reuters",
+      "publishedAt": "Thu, 20 Aug 2026 21:12:11 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
       "title": "Here’s the real reason oil prices aren’t moving higher - MarketWatch",
       "source": "MarketWatch",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNkJ3QTJqeFNEWVB5dFRjeXJIdU1zbWd1R0ZPbWhfZTM2WXNrUDBUV3pCSW1mazJRbElRUXMwa1B4TFhkMmlWQ3hMSlpiQy1Vdmk5QzlpYzVVRTRHdno0bm1tTThBckM1dm5CSkh6WU5uSmVQWGNQOHFPdndMczRMTE40WDFtVE9RclFQX3BYeDk3UHZfQkxZd1MzSQ?oc=5",
@@ -251,20 +251,20 @@
       "impact": "medium"
     },
     {
-      "title": "Oil Cracks $89 As Trump Launches 'Economic D-Day' Vs. Iran - Investor's Business Daily",
-      "source": "Investor's Business Daily",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcVpUYUpnQmFiV1Z6X1dEUG02MnUzOElVU1VTOXM5STlBNDB5QzY1SmR5QWdGaXI5dmZNNTdXWnBnTE9CY1UxMEFrWmlzWldpSFRBVnViNnJoc2ZlLXl6a3M5R1FpLUloTTJVbEtoelFjQWtxWlF3dlJjRlNXaVBJZi1wRQ?oc=5",
-      "description": "Oil Cracks $89 As Trump Launches 'Economic D-Day' Vs. Iran Investor's Business Daily",
-      "publishedAt": "Thu, 20 Aug 2026 14:16:00 GMT",
+      "title": "U.S.-Iran Tensions Push Oil Prices Higher as Diesel Margins Hit Records - Crude Oil Prices Today | OilPrice.com",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbzFoUm9QdWxNTWNkWXdSYjBZX1M0aVl4VFNGT2dHQmtLbjc2NEdrNTB6WWhrcE54UTQ2VjVJRUJRdm9qaml3STlSMnp4Z295MmQ2c2U3T3hCbUotTkFBaUpIV0JvM1NBay1FSG13ZkthSkI5WmpqenB6Z010dUxzU3diaFhPLWNselZfaHB3VktZVFFQdnVkcjFfUFlXblVuQ3c1M2ZGVm0xSm5kbVdjbUpPOUs1VW5XR0FwNHI1T2Q0UDDSAcgBQVVfeXFMUEZkSFlYWFJiYkhBREl6Qmk5Nnp0ZHBVVk1abUM1MHZTUTI5ZlJ6eENsLTJBQVdjVXdlcVgzdElJUGNxbVIyTkhzY1B1d3I2ZUk1UkE5X3dHNktRb3lDWkpkS0YyQ3FKSV9IUzVCQmNGWjBvVmp1bkxCU1daaHVTU2lfMzI2em5BcGx4TWdYOXhHVWJTWXJQRHZ5T2hJUFFuZmFqZF9VcVByMDJ5RTlMWVpDOVJjZVRQTFJ4TlNjNTRCeVFpaERiOGo?oc=5",
+      "description": "U.S.-Iran Tensions Push Oil Prices Higher as Diesel Margins Hit Records Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Tue, 18 Aug 2026 04:35:44 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Brent Oil Price Tops $93 as U.S.-Iran Impasse Persists - Crude Oil Prices Today | OilPrice.com",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeXBieVpyNXJQdHV5Mm02MVEzcDE5S1FJbmRGNkE4RzVpTHFxT0xUTk0zNzBVTnVVeXFjeE5lRFBXSXJuZXR4VXE2aGRCaVl5MFU3YS1wbW9fRWxUWlBrSGdUbXl2WDNlbWhta3IxWnlTc1M4emw0cUJBSGRRZHJ0N0w5UkwyVFY5ejFic0FVNUdEUXA1cUpoeElncmcxVUxvaEVVUVRzVklBblnSAbABQVVfeXFMT2w5QzV0ZVAydHJJUFM4b09iRVFvOElCSEpZckFFUVdHcVFHeVpLVUdTSlAyZUkxR3FNOW9lSWRtMUI0V0o0c1F0WkJQeFBCd3U0dHNldHFoOUxPcHI1NGhtZmp5a0lsUU85NEhBNlVPMjJXN1ZHZXFWemNIekMtdkFPcDBVazRkWVZXU3pEUVRMMVJBY2YwdXhfTTU1Ry04NDJPMGNIRENib2JvU0w0bWo?oc=5",
-      "description": "Brent Oil Price Tops $93 as U.S.-Iran Impasse Persists Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Thu, 20 Aug 2026 11:30:00 GMT",
+      "title": "Current price of oil as of Aug. 19, 2026 - Fortune",
+      "source": "Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBIYlRWaXFRWVd3STMwYWZ1N1U3eHBlemdwVFhqLUx5ejFoY1ZwU3RLU2hKYWlQQnYzRVpwRkt5RDBQV0JUcHlVQnZCb3VuS19NUzZqcWNyQXBvTFV5S0NRTUdB?oc=5",
+      "description": "Current price of oil as of Aug. 19, 2026 Fortune",
+      "publishedAt": "Wed, 19 Aug 2026 11:00:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
