@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24 04:37 UTC",
+  "generatedAt": "2026-08-25 04:32 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
     "regular": 176.9,
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Aug 24"
+      "Aug 25"
     ],
     "regular": [
       150.7,
@@ -150,13 +150,13 @@
   },
   "prediction": {
     "labels": [
-      "Aug 25",
       "Aug 26",
       "Aug 27",
       "Aug 28",
       "Aug 29",
       "Aug 30",
-      "Aug 31"
+      "Aug 31",
+      "Sep 01"
     ],
     "regular": [
       177.9,
@@ -188,10 +188,10 @@
   },
   "news": [
     {
-      "title": "Oil prices fall as investors await 'toughest' U.S. sanctions on Iran - CNBC",
+      "title": "Oil prices fall as U.S. rolls out global sanctions focused on Iran - CNBC",
       "source": "CNBC",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYmM1OWVNT01lQlNPWmo3Zk1RM1UtdE5HcXNBTHEtRFNNZS14b0prb2xkc1A3ZHNKY3pvR3dxcE5COWlFakFUSWM1SW5ldjhEYjNEY1Q5eUF6SEtXV1FYNGs4UzE5ajRBTGJpaG1scm9mOVZENzdVTUxVQ0RCTWNLaHcyZjFIQk3SAYwBQVVfeXFMTU9JYUFXTl91WGZhNXhua1hCZTF4ME5nc2hHRGVBVDJXYTVBMXlOLURJTG8teFdKRnhSTC1NdkVIM0FYU2xObWpPa2RMTEg5eS1vTHR4dmZuVkF5bUtLWmlDUHRXenQ5dVJ4QXZFODZKM3oyUlpraTJneVpGLUlyMFRYUEZKQTJTYVlTNEY?oc=5",
-      "description": "Oil prices fall as investors await 'toughest' U.S. sanctions on Iran CNBC",
+      "description": "Oil prices fall as U.S. rolls out global sanctions focused on Iran CNBC",
       "publishedAt": "Mon, 24 Aug 2026 00:59:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
@@ -206,11 +206,29 @@
       "impact": "medium"
     },
     {
-      "title": "Current price of oil as of August 21, 2026 - Fortune",
+      "title": "Oil Prices Pull Back as Markets Await New U.S. Sanctions on Iran - EnergyNow",
+      "source": "EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOF8tTkNzdVNEYXhjd1M0dlJfUFRBRUMtNzBqR0VEbFZTWllEN0hjUWgwUm1pWTJPZldiWE5HSVN3ZW1tZUVXN1hQVzF2UW52T0ZldlVEdHF6UlJmWGlWSHpVNEFNZ2pIUWhDdUNveVYxbXU4VV92UW1OUUZ4cDdCcjNB?oc=5",
+      "description": "Oil Prices Pull Back as Markets Await New U.S. Sanctions on Iran EnergyNow",
+      "publishedAt": "Mon, 24 Aug 2026 11:33:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Current price of oil as of August 20, 2026 - Fortune",
       "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5uWGliTTgwN3hqMGh5Q3VPMFhNeGhrWkhOZ3k2YmlvOUZqbEJsd1I0RERiUVZSdVktUzhiWHZkZkxmMDk3a21tb2NQaTVnYndsMTJTb2lwTW5sTkhDN3lQcG93?oc=5",
-      "description": "Current price of oil as of August 21, 2026 Fortune",
-      "publishedAt": "Fri, 21 Aug 2026 12:30:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5NSzl1LXBGM1VVVlVzazJjZjVwWjB2ekZhMjFwTkVqNVRJN2tuLXpyYnA5T2xxXzlBSnFCeXFyTVpxRUFtalN1QkNyWVFQc2J5amZtWDBDYVN2OEI1aDM5YjNn?oc=5",
+      "description": "Current price of oil as of August 20, 2026 Fortune",
+      "publishedAt": "Thu, 20 Aug 2026 11:00:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil Prices Fall Ahead of U.S. Vow to Intensify Economic War Against Iran - The New York Times",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5fY1BXeFZGMEw3NDdPSS1WSE1pV2kxN044NHduM3FIRmo3SXc2SFFybk5UWS1Bc3VEVUI2Q2VRcEtseEx1dG0zc3ZhdHd2LTVleXRfXzA5QTR6ejVhRHU4UnBoUHdyeE1jZDNPU3dJTVlzSUpTQlNPTU41WUs?oc=5",
+      "description": "Oil Prices Fall Ahead of U.S. Vow to Intensify Economic War Against Iran The New York Times",
+      "publishedAt": "Mon, 24 Aug 2026 10:15:12 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -224,29 +242,11 @@
       "impact": "medium"
     },
     {
-      "title": "Oil settles up more than 2% after Trump threatens countries supporting Iran - Reuters",
+      "title": "Oil prices settle near 4-week high as Middle East crisis escalates - Reuters",
       "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM1ZTcG5JRHQxeFFrOEd6Q0s4eWdFZGZwRmUyaFlPQkEwWEFLZ2xtLUJxMDFGRzZEZ1VEMjA5MjlMazgtZkJRM01FRXJ3Yk5wZUJSRW8yUEc5THM4VEZBd3V0LVhiRHBBWExnTElPMTRCX3d1ODhKR2lDdHVDVktTZS1BTUtuLXN2ZGRwUmpnNzhEdDJBZnp3cHExVndUYWlrenVEOXI0dVppdw?oc=5",
-      "description": "Oil settles up more than 2% after Trump threatens countries supporting Iran Reuters",
-      "publishedAt": "Thu, 20 Aug 2026 21:12:11 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "TSX edges lower as oil prices creep higher, U.S. stocks also negative - Yahoo! Finance Canada",
-      "source": "Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaE1VQ2xmN1loZHlITmxJRWVYWmdXZkdSVlhNNmpTem13RjhiLTdXTWFTV2ExRFJ0RW4tXzI0QXBETGU1WGttNkNOZDZacmFtYnVKS3duWDlHUkhZSWhfZ2xTTWJYT2llbHktTEZjVVZZTUF1LW0yUHV4NS1SSVJHUnhrUQ?oc=5",
-      "description": "TSX edges lower as oil prices creep higher, U.S. stocks also negative Yahoo! Finance Canada",
-      "publishedAt": "Thu, 20 Aug 2026 21:02:07 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "S&P/TSX composite edges lower as oil prices rise, U.S. stocks also negative - BNN Bloomberg",
-      "source": "BNN Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNzVGX040bDR4b3hybWJhME1HNmhUcmVPckV4bFNfUEh0bHdNd2U2ajhaOVlobURYR2t0QjM0VzdNZ1lEbHEtd3Y4d1N2M3NiRnhQUm8zUFJBQmtnVUNsNHVoWnpqRTBFYTJXN2VnMzhSRHA0YVMxbUJtOFE0RDItUEkwS1FCc3hXUlpPcS1MRGFFZEsxX1ZDVGMycWhFRG5URDIwb1pOLWw4ZklPVTdBNTZsTQ?oc=5",
-      "description": "S&P/TSX composite edges lower as oil prices rise, U.S. stocks also negative BNN Bloomberg",
-      "publishedAt": "Thu, 20 Aug 2026 20:24:30 GMT",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSkdUVWxmeFlpYXd4VjhyeHhvNjBmaVlPbVdFemxvNTJHaExLNWhQbzNXeTN5QkVkWVh4aVU4ODJCWnFGazJnQklMejNuVnpPaHFUN1JEM1lFZ3FZaG96ME00QWdZN1JmYW5fN1lXNmV6dDVZUWxFWlJYc05BaEtzbEpGbXlqSHoxRnB3dTQ2NnZXX0tzRENESXFhRDlGSmxNT01LMWhSWQ?oc=5",
+      "description": "Oil prices settle near 4-week high as Middle East crisis escalates Reuters",
+      "publishedAt": "Thu, 20 Aug 2026 00:10:58 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -260,20 +260,20 @@
       "impact": "medium"
     },
     {
-      "title": "U.S.-Iran Tensions Push Oil Prices Higher as Diesel Margins Hit Records - Crude Oil Prices Today | OilPrice.com",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbzFoUm9QdWxNTWNkWXdSYjBZX1M0aVl4VFNGT2dHQmtLbjc2NEdrNTB6WWhrcE54UTQ2VjVJRUJRdm9qaml3STlSMnp4Z295MmQ2c2U3T3hCbUotTkFBaUpIV0JvM1NBay1FSG13ZkthSkI5WmpqenB6Z010dUxzU3diaFhPLWNselZfaHB3VktZVFFQdnVkcjFfUFlXblVuQ3c1M2ZGVm0xSm5kbVdjbUpPOUs1VW5XR0FwNHI1T2Q0UDDSAcgBQVVfeXFMUEZkSFlYWFJiYkhBREl6Qmk5Nnp0ZHBVVk1abUM1MHZTUTI5ZlJ6eENsLTJBQVdjVXdlcVgzdElJUGNxbVIyTkhzY1B1d3I2ZUk1UkE5X3dHNktRb3lDWkpkS0YyQ3FKSV9IUzVCQmNGWjBvVmp1bkxCU1daaHVTU2lfMzI2em5BcGx4TWdYOXhHVWJTWXJQRHZ5T2hJUFFuZmFqZF9VcVByMDJ5RTlMWVpDOVJjZVRQTFJ4TlNjNTRCeVFpaERiOGo?oc=5",
-      "description": "U.S.-Iran Tensions Push Oil Prices Higher as Diesel Margins Hit Records Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Tue, 18 Aug 2026 04:35:44 GMT",
+      "title": "Oil prices steady as investors weigh impact of expanded US sanctions against Iran - Yahoo! Finance Canada",
+      "source": "Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS3RYQzl5Ty1QZnR1R0x4ZDdkUTNQXzZldEdILWFfQXZsUTd5TFUzQi1JZUtNa1ZzVWwxdFpxQmg2eXJOWVVUVUhocGV2LXczbHdjQTBGc1E1SnRyazdOZkkxLUpzak9yRnBfM05nWkFyZHJCUEdQZmxRNjJwS2c4NklkdnJQdFFRYWc?oc=5",
+      "description": "Oil prices steady as investors weigh impact of expanded US sanctions against Iran Yahoo! Finance Canada",
+      "publishedAt": "Tue, 25 Aug 2026 01:15:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil prices rise more than 1% as Middle East crisis escalates - CNBC",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb2dqYWhrM1ZaOVBEeDB4LWcwTUp0clNMVHRrY2ktT3R2WnQ3MkJKcmVTNmQwWXAzV2FqNkhTVGphVWIyVnJYSXF6M0Q2Sms4QktoQ3hWajZIV3JuelRzSGg1OWVIaHZoMkxfWDJYbXZMLWhCd21xZlRrS3pBaDFjSFJYNXhPSUo5X0JxWmt4YjlMSlhyMi1R0gGcAUFVX3lxTE5jMG5rRndVVUZhemgtMllCU1poUV9KeHVtV0xmUjNQQnhYeVdFd0Qtd2hxLVM0SF9PTVF1cWZhakVjbk5sSVFEMWd3cG5NUktCNWU4Y0dFNDNOSklPVFp5M1NxOUxBam0yNVBPaXN5TkVHeUFiQkRIdEdqazBOcWNMcnRGeE9hZVZZS0l6azFsYTNRa2lOS0xWbVJ4Mg?oc=5",
-      "description": "Oil prices rise more than 1% as Middle East crisis escalates CNBC",
-      "publishedAt": "Wed, 19 Aug 2026 01:22:00 GMT",
+      "title": "Oil Prices Slide 2% as Markets Brace for Bessent's 'Economic D-Day' - Crude Oil Prices Today | OilPrice.com",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPREpZTThqTG5sVnYwMTJtWEhUY0VvLVZ3cF9jQnpZaWhpQkJvZm1jN1dqX3Nqa0kweUtLZ0lrQlUzYW5aVjVfV1VMUHBZa0cxcDRFMWpiNHF3OEtzNlhBLWg2Q0JZa1ViMFczUWJSVVhCd3ZkZllFM0tTSnliV1BMNUFVLWVieTZ1cERlSFZQNUk0QWFPMUVMVnU0WS0zUVdOQk9xUGNDT1VYcjc0TlZxTVVPZ3dtT1A1cXFn0gHAAUFVX3lxTE1Ha1FtMDhHV3FWVUpzZ0I0Qlk3TUtFWFl4WjBObU9TUDdoTE5YR2E2ZWl0a0ZZVXBWbUU4OURzUGJNaDNadzVLWG13U0llZGgyN1U4cmVLSkJVQkhZdTdfYWtWQ2ZrUDJlSHdqLU8wZ2t0MXF1TlVkb0lscTdwUVlISHBSYktyVERiaGliXzR6RW4yNFVNZTZULWNMTlUzZHlPdlFrZ2JhWGI5WjdxSUhSbW0wSjNaa3Q1NllFUHhYQQ?oc=5",
+      "description": "Oil Prices Slide 2% as Markets Brace for Bessent's 'Economic D-Day' Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Mon, 24 Aug 2026 02:18:19 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
