@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-26 04:32 UTC",
+  "generatedAt": "2026-08-27 14:54 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 174.9,
-    "premium": 192.9,
-    "diesel": 185.4
+    "regular": 176.9,
+    "premium": 194.9,
+    "diesel": 187.4
   },
   "history": {
     "labels": [
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Aug 26"
+      "Aug 27"
     ],
     "regular": [
       150.7,
@@ -75,7 +75,7 @@
       155.9,
       174.9,
       186.9,
-      174.9
+      176.9
     ],
     "premium": [
       168.7,
@@ -110,7 +110,7 @@
       173.9,
       192.9,
       204.9,
-      192.9
+      194.9
     ],
     "diesel": [
       161.2,
@@ -145,45 +145,45 @@
       166.4,
       185.4,
       197.4,
-      185.4
+      187.4
     ]
   },
   "prediction": {
     "labels": [
-      "Aug 27",
       "Aug 28",
       "Aug 29",
       "Aug 30",
       "Aug 31",
       "Sep 01",
-      "Sep 02"
+      "Sep 02",
+      "Sep 03"
     ],
     "regular": [
-      175.9,
-      176.8,
-      177.8,
-      178.7,
-      179.7,
+      177.9,
+      178.8,
+      179.8,
       180.7,
-      181.6
+      181.7,
+      182.7,
+      183.6
     ],
     "premium": [
-      193.9,
-      194.8,
-      195.8,
-      196.7,
-      197.7,
+      195.9,
+      196.8,
+      197.8,
       198.7,
-      199.6
+      199.7,
+      200.7,
+      201.6
     ],
     "diesel": [
-      186.4,
-      187.3,
-      188.3,
-      189.2,
-      190.2,
+      188.4,
+      189.3,
+      190.3,
       191.2,
-      192.1
+      192.2,
+      193.2,
+      194.1
     ]
   },
   "news": [
@@ -192,34 +192,34 @@
       "source": "CNBC",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYmM1OWVNT01lQlNPWmo3Zk1RM1UtdE5HcXNBTHEtRFNNZS14b0prb2xkc1A3ZHNKY3pvR3dxcE5COWlFakFUSWM1SW5ldjhEYjNEY1Q5eUF6SEtXV1FYNGs4UzE5ajRBTGJpaG1scm9mOVZENzdVTUxVQ0RCTWNLaHcyZjFIQk3SAYwBQVVfeXFMTU9JYUFXTl91WGZhNXhua1hCZTF4ME5nc2hHRGVBVDJXYTVBMXlOLURJTG8teFdKRnhSTC1NdkVIM0FYU2xObWpPa2RMTEg5eS1vTHR4dmZuVkF5bUtLWmlDUHRXenQ5dVJ4QXZFODZKM3oyUlpraTJneVpGLUlyMFRYUEZKQTJTYVlTNEY?oc=5",
       "description": "Oil prices fall as U.S. rolls out global sanctions focused on Iran CNBC",
-      "publishedAt": "Mon, 24 Aug 2026 00:59:00 GMT",
+      "publishedAt": "Tue, 25 Aug 2026 13:50:10 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Fall as Iran Negotiation Hopes Return - Crude Oil Prices Today | OilPrice.com",
+      "title": "US Oil Drillers See Pullback as Oil Prices Rise - Crude Oil Prices Today | OilPrice.com",
       "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdF9wbzFWYnUtZ2U0bmZWMURlakF6TUVOVTljbThfWTRpbnRQdjVrbkZUcFZXSHNiTmtqaTBRZHRzaGVyaG9SMHg0RXBWeWFEdjR3UFJYeTJ6bk1fbENKODI0Ulliazlqc1NhbGM5NzhBMFdNdTdTSk12NGY0YlNXMU1KR2RzWjlfSnRCZXR5SmhQVUpodVHSAZsBQVVfeXFMTVotM3MyZjZBcTh3NkM3a2NVWkxJWVc1azJaQXpzX2tMbEJCUV9QT3ptdGpaWjQ4N2hhTFZ3QlFrOXNhWXhOWU1tamZmTE93ZkNpbUY3QmtCYlpRNmZuRE5mWDhGNTQwSWdmOW9vOVhmMjV3cEhxYTZKejJIT3dYZ1Fwb1dKc0habGJqLXdQNDZzakpQTndSd1BSRG8?oc=5",
-      "description": "Oil Prices Fall as Iran Negotiation Hopes Return Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Tue, 25 Aug 2026 15:53:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVXpid2pCQ0pINTJCU0VGUXhoODVqYVAxNEdEOElBYnJsdVU1UURPeEdJVmdKYVhjRWtHLUt2ZVlaRmJZUGRfRDYxcW1MNlBISlBjYTlyVHJja3pKQXFzdWpWd3dEN1otWk1lWFhLZzNHVDJDS1VLUVU2aDZaWURzNjhWcC1maHp4TVdVM29IbDRpVHot0gGaAUFVX3lxTFBMWks5Nnh0Sk9VM1pvRC03ZC10Rlc3ZDdfY2tBekJJRWxOSHJRRHoxbmxyZFdQbHc0eDg5d2U5a3JBdWJYSlRvY0h3SDRoUmZaSHVVR0Y2X3RyLXVKWWx4cmpuQTlqc3RWZjdDOHg5UDgxSGI3YTkxdEV0Rl85bkdYR0o0Qk1LY2FvZnEtT3JYX3ZMNkhpU3NKNUE?oc=5",
+      "description": "US Oil Drillers See Pullback as Oil Prices Rise Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Fri, 21 Aug 2026 17:16:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Falling oil prices help calm the stock and bond markets - Castanet",
-      "source": "Castanet",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcHFFc1l6MkZJcHgwRFdfbEIySGVnM1VxMWh6VmllaG80Ykdwai13X1pwd3l6SXhXbzNtZkhsdkJsNDZXS0tCUFpRd1JiRjdVc284QUNYUi04Y3hxY3ljOXl5YkFXS0lxX1FfcjBHUmRIT19USm5obDlUa2E5U3FXR2VMQkhzbG5tZjRDY3c1dGhzSUFQaXpMcnhYOXptMTdLbFhJ?oc=5",
-      "description": "Falling oil prices help calm the stock and bond markets Castanet",
-      "publishedAt": "Tue, 25 Aug 2026 13:35:00 GMT",
+      "title": "Oil prices dip as optimism over Iran trumps new fears of a Russian escalation in Ukraine - NBC News",
+      "source": "NBC News",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNS3NPa3NJalRQcVRiUjVQa1NhN295bGVBWDZUWV9faktoMXhQLXpFVnQ0WnVrTDMtMTI1cC1nampaZkZVVHdNRzluNTBodVIyeGVqTjBEeUFtS25Ldk5MaHk3dzVDZXVpRXNrYVpUX3FYNXJIbk1LMDhZdjBqbS1CUVE5ZmIydW0wbXZGM01JQTBJeWZCUlE?oc=5",
+      "description": "Oil prices dip as optimism over Iran trumps new fears of a Russian escalation in Ukraine NBC News",
+      "publishedAt": "Wed, 26 Aug 2026 17:27:41 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Current price of oil as of August 25, 2026 - Fortune",
+      "title": "Current price of oil as of August 26, 2026 - Fortune",
       "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5jWFBCalVsSERVY1UyUzFweFNUMjgzb2Fzb01sZy1pOEEyUlJQLU9Oek9OUjJkd3U0aXQ5NTlZa3BJb0F3UnlPLU1FNmdjQ2NGXzFibzZWYnY5NDZ0RVloSHRB?oc=5",
-      "description": "Current price of oil as of August 25, 2026 Fortune",
-      "publishedAt": "Tue, 25 Aug 2026 17:34:13 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5jb09HWWhLVTJVZWF2Wjl4UloteTNaUXFwemtsRDZnbzg1dDA2Wk1PckxYZnY2QXgtV3kyY0tQa1FMcklPdlhJM2xzeFZydTZPQjlZeEF2S2ltUDJpZEVmSFBB?oc=5",
+      "description": "Current price of oil as of August 26, 2026 Fortune",
+      "publishedAt": "Wed, 26 Aug 2026 11:15:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -233,15 +233,6 @@
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Fall Ahead of U.S. Vow to Intensify Economic War Against Iran - The New York Times",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5fY1BXeFZGMEw3NDdPSS1WSE1pV2kxN044NHduM3FIRmo3SXc2SFFybk5UWS1Bc3VEVUI2Q2VRcEtseEx1dG0zc3ZhdHd2LTVleXRfXzA5QTR6ejVhRHU4UnBoUHdyeE1jZDNPU3dJTVlzSUpTQlNPTU41WUs?oc=5",
-      "description": "Oil Prices Fall Ahead of U.S. Vow to Intensify Economic War Against Iran The New York Times",
-      "publishedAt": "Mon, 24 Aug 2026 10:15:12 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
       "title": "After 6 months of war, why aren't oil prices even higher? - Responsible Statecraft",
       "source": "Responsible Statecraft",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9rMFBoSlJsY3pTeTZ3ZHpaZFY0eXptWmo5WV8zM3dObWdWVFZrTXNpY0RXUnJLSG1sVFpxYi1hQW52S2gwd1Y3QVlMMjB5VFdmOWxpSTh0MDgyNDZ6akVQRTRPUjE?oc=5",
@@ -251,29 +242,38 @@
       "impact": "medium"
     },
     {
-      "title": "Oil settles up more than 2% after Trump threatens countries supporting Iran - Reuters",
+      "title": "Oil settles down more than 3%; investors shrug off US sanctions on Iran - Reuters",
       "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM1ZTcG5JRHQxeFFrOEd6Q0s4eWdFZGZwRmUyaFlPQkEwWEFLZ2xtLUJxMDFGRzZEZ1VEMjA5MjlMazgtZkJRM01FRXJ3Yk5wZUJSRW8yUEc5THM4VEZBd3V0LVhiRHBBWExnTElPMTRCX3d1ODhKR2lDdHVDVktTZS1BTUtuLXN2ZGRwUmpnNzhEdDJBZnp3cHExVndUYWlrenVEOXI0dVppdw?oc=5",
-      "description": "Oil settles up more than 2% after Trump threatens countries supporting Iran Reuters",
-      "publishedAt": "Thu, 20 Aug 2026 21:12:11 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeWVpMEdoenRuUHdzUlpxOG1xdVdSMTItdmhxNk5MUGc3YmdGLXl0S2EwYkNYVDV6LUJtaE96QkVuUFhqQzdORlVFdmRJTDRFaTVtSlNTZlh6OE9rQ0ZqdzJOWmQzbjVtWHJxZjFZNmo0VVlzRDRnYzJ1UklrQ0lNOHNCZWdZRVgtdXFZVnZGNXdlQVd2TlN0UjFhS2NNYjByTHBnZTY1NVpXNExJeGdObFllQ2lSYjNzRGw3aGh1ZFBuNmFnaUE?oc=5",
+      "description": "Oil settles down more than 3%; investors shrug off US sanctions on Iran Reuters",
+      "publishedAt": "Tue, 25 Aug 2026 22:49:43 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Slide as Markets Shrug Off New U.S. Sanctions on Iran - EnergyNow",
-      "source": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeG5LU3JKT3BCWUZPUkJGVklITHdzS2ZQVU84QTJYRnFScGtMYmlwU1ZJR1Y5NmZCR0lHX2pRSDRoUnZlTzlUUDh1WWplSHhzOXp2QWZENGszeTB5M1RRMmw3WE1pUk5vQlpzQXdfVmJIYXI0Y1J4c0w4SjBVaEliZWpEa3RSTFpxVnR1RmZUMDF3R3hQbXR6NA?oc=5",
-      "description": "Oil Prices Slide as Markets Shrug Off New U.S. Sanctions on Iran EnergyNow",
-      "publishedAt": "Tue, 25 Aug 2026 11:31:00 GMT",
+      "title": "Oil prices slide 2% on Iran-Oman talks to reopen Strait of Hormuz - BOE Report",
+      "source": "BOE Report",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVG5Nc1Bqa3c5TFpDV0NCa1N3NGE1U0h2bWxQcTJYaThIbmxFVjY2dWtReVNoSFJjTjZSWXBzNnRxMVpnNHN1ekNIMHVkeDJJUVF4SG5yMWMwSlc1N2tQX3pfem45dVhHZlM3Qk8xMFN5TW9ZLVhzSEFpYVhOX1J0SDdIQkJTdS1zUlhmd2poMU9QSVF4aTRrNkFLbjhuZ2N3SExocNIBpAFBVV95cUxOVG5Nc1Bqa3c5TFpDV0NCa1N3NGE1U0h2bWxQcTJYaThIbmxFVjY2dWtReVNoSFJjTjZSWXBzNnRxMVpnNHN1ekNIMHVkeDJJUVF4SG5yMWMwSlc1N2tQX3pfem45dVhHZlM3Qk8xMFN5TW9ZLVhzSEFpYVhOX1J0SDdIQkJTdS1zUlhmd2poMU9QSVF4aTRrNkFLbjhuZ2N3SExocA?oc=5",
+      "description": "Oil prices slide 2% on Iran-Oman talks to reopen Strait of Hormuz BOE Report",
+      "publishedAt": "Tue, 25 Aug 2026 07:00:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Slide 2% as Markets Brace for Bessent's 'Economic D-Day' - Crude Oil Prices Today | OilPrice.com",
+      "title": "Oil Prices Fall as Iran-Oman Talks Fuel Hopes of Strait Reopening - Crude Oil Prices Today | OilPrice.com",
       "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPREpZTThqTG5sVnYwMTJtWEhUY0VvLVZ3cF9jQnpZaWhpQkJvZm1jN1dqX3Nqa0kweUtLZ0lrQlUzYW5aVjVfV1VMUHBZa0cxcDRFMWpiNHF3OEtzNlhBLWg2Q0JZa1ViMFczUWJSVVhCd3ZkZllFM0tTSnliV1BMNUFVLWVieTZ1cERlSFZQNUk0QWFPMUVMVnU0WS0zUVdOQk9xUGNDT1VYcjc0TlZxTVVPZ3dtT1A1cXFn0gHAAUFVX3lxTE1Ha1FtMDhHV3FWVUpzZ0I0Qlk3TUtFWFl4WjBObU9TUDdoTE5YR2E2ZWl0a0ZZVXBWbUU4OURzUGJNaDNadzVLWG13U0llZGgyN1U4cmVLSkJVQkhZdTdfYWtWQ2ZrUDJlSHdqLU8wZ2t0MXF1TlVkb0lscTdwUVlISHBSYktyVERiaGliXzR6RW4yNFVNZTZULWNMTlUzZHlPdlFrZ2JhWGI5WjdxSUhSbW0wSjNaa3Q1NllFUHhYQQ?oc=5",
-      "description": "Oil Prices Slide 2% as Markets Brace for Bessent's 'Economic D-Day' Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Mon, 24 Aug 2026 02:18:19 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeXlLZXhwSUxZZ2Z2R2JJeVB4aU41endWZnJ0ZnUzSUVLQUplaHFieHhWY3BKY0prVGcyMkdLcGxnSTQtQkxmNmdOb1UwX1g4am05RXlwMExsR25HR1NfTGN3ek5RTlhTYnM2QkR4V2UzQnVEZF9TcjVzaEJ4LVZSaGJJVGpZajBhWEg2bTJPLWJEWk0tY24wLTlYcXhJSUhKTnhOR2tfZG5aWTYxMldNMS1Kb3RWMVNQeHBUNy1R0gHDAUFVX3lxTE83elViTXplZXZ3SzN1VXg1UUxUd2ZNU3BJcVFfY0NyR1RiUzlqcjVCUTk3a1hfQUxzMTNVZl9ySlBJdEEtV3AwWko0S0drLTVPQ2Z3ZzhMbUFOZXNEVnRzTG5hRWlOcUh6ZGl3cE5TcEFOMXF5aEk3YmNqbnJ3aGtsdnlWNFY1Vk1aTUp1Z1hCUEdtSGR0QzdYNk01Wkp5RDZRZVBnbHBBSmU1Vk1QU2FEaHlvbXI2MF9sRC1ONkJ1dDRqbw?oc=5",
+      "description": "Oil Prices Fall as Iran-Oman Talks Fuel Hopes of Strait Reopening Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Wed, 26 Aug 2026 06:30:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Current price of oil as of August 21, 2026 - Fortune",
+      "source": "Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5uWGliTTgwN3hqMGh5Q3VPMFhNeGhrWkhOZ3k2YmlvOUZqbEJsd1I0RERiUVZSdVktUzhiWHZkZkxmMDk3a21tb2NQaTVnYndsMTJTb2lwTW5sTkhDN3lQcG93?oc=5",
+      "description": "Current price of oil as of August 21, 2026 Fortune",
+      "publishedAt": "Fri, 21 Aug 2026 12:30:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
