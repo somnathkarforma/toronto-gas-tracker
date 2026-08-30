@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-29 10:38 UTC",
+  "generatedAt": "2026-08-30 09:39 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 178.9,
-    "premium": 196.9,
-    "diesel": 189.4
+    "regular": 182.9,
+    "premium": 200.9,
+    "diesel": 193.4
   },
   "history": {
     "labels": [
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Aug 29"
+      "Aug 30"
     ],
     "regular": [
       150.7,
@@ -75,7 +75,7 @@
       155.9,
       174.9,
       186.9,
-      178.9
+      182.9
     ],
     "premium": [
       168.7,
@@ -110,7 +110,7 @@
       173.9,
       192.9,
       204.9,
-      196.9
+      200.9
     ],
     "diesel": [
       161.2,
@@ -145,45 +145,45 @@
       166.4,
       185.4,
       197.4,
-      189.4
+      193.4
     ]
   },
   "prediction": {
     "labels": [
-      "Aug 30",
       "Aug 31",
       "Sep 01",
       "Sep 02",
       "Sep 03",
       "Sep 04",
-      "Sep 05"
+      "Sep 05",
+      "Sep 06"
     ],
     "regular": [
-      179.9,
-      180.8,
-      181.8,
-      182.7,
-      183.7,
-      184.7,
-      185.6
+      183.9,
+      184.8,
+      185.8,
+      186.7,
+      187.7,
+      188.7,
+      189.6
     ],
     "premium": [
-      197.9,
-      198.8,
-      199.8,
-      200.7,
-      201.7,
-      202.7,
-      203.6
+      201.9,
+      202.8,
+      203.8,
+      204.7,
+      205.7,
+      206.7,
+      207.6
     ],
     "diesel": [
-      190.4,
-      191.3,
-      192.3,
-      193.2,
-      194.2,
-      195.2,
-      196.1
+      194.4,
+      195.3,
+      196.3,
+      197.2,
+      198.2,
+      199.2,
+      200.1
     ]
   },
   "news": [
@@ -224,20 +224,11 @@
       "impact": "medium"
     },
     {
-      "title": "Current price of oil as of August 27, 2026 - Fortune",
+      "title": "Current price of oil as of Aug. 28, 2026 - Fortune",
       "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9URENxYVZQbFVmQnZaUnNwVkhKZHJsUC0yZGJGbHRIZlE1LW1rOTkzT3gtaGJkUDlHa0FyRnlBcGpQTExMTXhDR01oVmowcXBXZXpwUUlBRE1pLUZFYTJsZUt3?oc=5",
-      "description": "Current price of oil as of August 27, 2026 Fortune",
-      "publishedAt": "Thu, 27 Aug 2026 11:30:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "After 6 months of war, why aren't oil prices even higher? - Responsible Statecraft",
-      "source": "Responsible Statecraft",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9rMFBoSlJsY3pTeTZ3ZHpaZFY0eXptWmo5WV8zM3dObWdWVFZrTXNpY0RXUnJLSG1sVFpxYi1hQW52S2gwd1Y3QVlMMjB5VFdmOWxpSTh0MDgyNDZ6akVQRTRPUjE?oc=5",
-      "description": "After 6 months of war, why aren't oil prices even higher? Responsible Statecraft",
-      "publishedAt": "Tue, 25 Aug 2026 04:07:20 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xNGVGWjNpNlM2U2kzdDVuV1pCdUhncTJzYzl4YXhHUzY3cHItbXNTYUExWGxEdVZiM0NqMVRwUldVcENFcjVLeXlra2FOMUVqSk51WGJ3VDJWeWkwa3NRM1Zn?oc=5",
+      "description": "Current price of oil as of Aug. 28, 2026 Fortune",
+      "publishedAt": "Fri, 28 Aug 2026 11:00:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -251,6 +242,24 @@
       "impact": "medium"
     },
     {
+      "title": "After 6 months of war, why aren't oil prices even higher? - Responsible Statecraft",
+      "source": "Responsible Statecraft",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9rMFBoSlJsY3pTeTZ3ZHpaZFY0eXptWmo5WV8zM3dObWdWVFZrTXNpY0RXUnJLSG1sVFpxYi1hQW52S2gwd1Y3QVlMMjB5VFdmOWxpSTh0MDgyNDZ6akVQRTRPUjE?oc=5",
+      "description": "After 6 months of war, why aren't oil prices even higher? Responsible Statecraft",
+      "publishedAt": "Tue, 25 Aug 2026 04:07:20 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Higher oil prices drive Alberta’s $2B surplus forecast for 2026-27 - CochraneNow",
+      "source": "CochraneNow",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa29DbElSNGVlV2tha3M4R3VwT3JJNnpFTG5ZMkl6N3dobml3NENfSFRubmpYUHNqQmVreU1OdWZWTzNwekxYRjFkSGdOT1hYTFJ5Y1NIZ2VUSzFHZEdDQWZSME9jUzEyMl9PWEpKNERJTmpFTDJ4aEQ2b25Oc01iM1pKTkdXTG1XT1BQU0tTajZMZUV1b2dOV3p4bUM1dw?oc=5",
+      "description": "Higher oil prices drive Alberta’s $2B surplus forecast for 2026-27 CochraneNow",
+      "publishedAt": "Thu, 27 Aug 2026 20:50:25 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
       "title": "Oil Futures Fall Further on Hopes for Hormuz - WSJ",
       "source": "WSJ",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORWdfMGZLcWFBcUdhdTRZSnVQbmtRR1k0TGFKQWpCckpFTnlBREtHT1huekpWOXZHVjRwX01SWmxsYURQRDJzbmI0c3VQYjhaQVJlbXVhcURKOU4xQlNMekdKR3F6QTR2dEJoN3pDRHkzVkFtWTExWTZoQlc5cVhpbkdVSnY1eEx5MHBnS1RXbGd4dXNuOGF0OUE5RFkzdFB6b19xaG1oX0FEZGZPdEtEa25aYzlWdlNI?oc=5",
@@ -260,20 +269,11 @@
       "impact": "medium"
     },
     {
-      "title": "Oil settles down more than 3%; investors shrug off US sanctions on Iran - Reuters",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeWVpMEdoenRuUHdzUlpxOG1xdVdSMTItdmhxNk5MUGc3YmdGLXl0S2EwYkNYVDV6LUJtaE96QkVuUFhqQzdORlVFdmRJTDRFaTVtSlNTZlh6OE9rQ0ZqdzJOWmQzbjVtWHJxZjFZNmo0VVlzRDRnYzJ1UklrQ0lNOHNCZWdZRVgtdXFZVnZGNXdlQVd2TlN0UjFhS2NNYjByTHBnZTY1NVpXNExJeGdObFllQ2lSYjNzRGw3aGh1ZFBuNmFnaUE?oc=5",
-      "description": "Oil settles down more than 3%; investors shrug off US sanctions on Iran Reuters",
-      "publishedAt": "Tue, 25 Aug 2026 01:21:59 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices slide 2% on Iran-Oman talks to reopen Strait of Hormuz - BOE Report",
-      "source": "BOE Report",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVG5Nc1Bqa3c5TFpDV0NCa1N3NGE1U0h2bWxQcTJYaThIbmxFVjY2dWtReVNoSFJjTjZSWXBzNnRxMVpnNHN1ekNIMHVkeDJJUVF4SG5yMWMwSlc1N2tQX3pfem45dVhHZlM3Qk8xMFN5TW9ZLVhzSEFpYVhOX1J0SDdIQkJTdS1zUlhmd2poMU9QSVF4aTRrNkFLbjhuZ2N3SExocNIBpAFBVV95cUxOVG5Nc1Bqa3c5TFpDV0NCa1N3NGE1U0h2bWxQcTJYaThIbmxFVjY2dWtReVNoSFJjTjZSWXBzNnRxMVpnNHN1ekNIMHVkeDJJUVF4SG5yMWMwSlc1N2tQX3pfem45dVhHZlM3Qk8xMFN5TW9ZLVhzSEFpYVhOX1J0SDdIQkJTdS1zUlhmd2poMU9QSVF4aTRrNkFLbjhuZ2N3SExocA?oc=5",
-      "description": "Oil prices slide 2% on Iran-Oman talks to reopen Strait of Hormuz BOE Report",
-      "publishedAt": "Tue, 25 Aug 2026 07:00:00 GMT",
+      "title": "Falling oil prices help calm the stock and bond markets - BNN Bloomberg",
+      "source": "BNN Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYjBiU1k0bnF0dEVQQzdNRTRWbUxyRFlEbHN2cXV1UEJYTm94bmJSMHFkUXJ5XzQzWlFSNTVzVmd1a21SVXJYcWdJTlZySE4xUHdJUlRyeWZ1c2t2a1RtdXhUR1l4VlFuWHByT003dVRGam1tcVhCQUdGRlh2QkVxUnZVbXJkcS03UjhhOVkzXzVkRWtaa3VEVkFQTzdWMFRfNm5sczl4SHh1dHFCY3ZBZDJrSWtqWkJUUzctTTZSam9XeWY0?oc=5",
+      "description": "Falling oil prices help calm the stock and bond markets BNN Bloomberg",
+      "publishedAt": "Tue, 25 Aug 2026 20:25:56 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
