@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30 09:39 UTC",
+  "generatedAt": "2026-08-31 10:21 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
     "regular": 182.9,
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Aug 30"
+      "Aug 31"
     ],
     "regular": [
       150.7,
@@ -150,13 +150,13 @@
   },
   "prediction": {
     "labels": [
-      "Aug 31",
       "Sep 01",
       "Sep 02",
       "Sep 03",
       "Sep 04",
       "Sep 05",
-      "Sep 06"
+      "Sep 06",
+      "Sep 07"
     ],
     "regular": [
       183.9,
@@ -188,6 +188,15 @@
   },
   "news": [
     {
+      "title": "Oil prices fall as U.S. rolls out global sanctions focused on Iran - CNBC",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYmM1OWVNT01lQlNPWmo3Zk1RM1UtdE5HcXNBTHEtRFNNZS14b0prb2xkc1A3ZHNKY3pvR3dxcE5COWlFakFUSWM1SW5ldjhEYjNEY1Q5eUF6SEtXV1FYNGs4UzE5ajRBTGJpaG1scm9mOVZENzdVTUxVQ0RCTWNLaHcyZjFIQk3SAYwBQVVfeXFMTU9JYUFXTl91WGZhNXhua1hCZTF4ME5nc2hHRGVBVDJXYTVBMXlOLURJTG8teFdKRnhSTC1NdkVIM0FYU2xObWpPa2RMTEg5eS1vTHR4dmZuVkF5bUtLWmlDUHRXenQ5dVJ4QXZFODZKM3oyUlpraTJneVpGLUlyMFRYUEZKQTJTYVlTNEY?oc=5",
+      "description": "Oil prices fall as U.S. rolls out global sanctions focused on Iran CNBC",
+      "publishedAt": "Tue, 25 Aug 2026 13:50:10 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
       "title": "Oil prices swing Alberta’s $9.4B deficit to $2B surplus, but finance minister urges caution - CBC",
       "source": "CBC",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZlBFWGp2NG81dFcyQXdyNDBnbUhfS0g0MHhiNi1vbkRXZ1hxejQ3cmRlUlh3UmhWOHpNRU5mOEpjdWszZ21IdjM1Y2lpbFBGazVPN0J5U2h6QUI1QVVlamxmdmIzUDBYXzdDclFvN1V5UlFKX3AtOVhYam9kbUhQTUN3bzJjakVHV2NJZGEzUlR2QlRXNHlR?oc=5",
@@ -197,11 +206,11 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices fall as U.S. rolls out global sanctions focused on Iran - CNBC",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYmM1OWVNT01lQlNPWmo3Zk1RM1UtdE5HcXNBTHEtRFNNZS14b0prb2xkc1A3ZHNKY3pvR3dxcE5COWlFakFUSWM1SW5ldjhEYjNEY1Q5eUF6SEtXV1FYNGs4UzE5ajRBTGJpaG1scm9mOVZENzdVTUxVQ0RCTWNLaHcyZjFIQk3SAYwBQVVfeXFMTU9JYUFXTl91WGZhNXhua1hCZTF4ME5nc2hHRGVBVDJXYTVBMXlOLURJTG8teFdKRnhSTC1NdkVIM0FYU2xObWpPa2RMTEg5eS1vTHR4dmZuVkF5bUtLWmlDUHRXenQ5dVJ4QXZFODZKM3oyUlpraTJneVpGLUlyMFRYUEZKQTJTYVlTNEY?oc=5",
-      "description": "Oil prices fall as U.S. rolls out global sanctions focused on Iran CNBC",
-      "publishedAt": "Tue, 25 Aug 2026 13:50:10 GMT",
+      "title": "Oil Prices Fall as Iran-Oman Talks Fuel Hopes of Strait Reopening - Crude Oil Prices Today | OilPrice.com",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeXlLZXhwSUxZZ2Z2R2JJeVB4aU41endWZnJ0ZnUzSUVLQUplaHFieHhWY3BKY0prVGcyMkdLcGxnSTQtQkxmNmdOb1UwX1g4am05RXlwMExsR25HR1NfTGN3ek5RTlhTYnM2QkR4V2UzQnVEZF9TcjVzaEJ4LVZSaGJJVGpZajBhWEg2bTJPLWJEWk0tY24wLTlYcXhJSUhKTnhOR2tfZG5aWTYxMldNMS1Kb3RWMVNQeHBUNy1R0gHDAUFVX3lxTE83elViTXplZXZ3SzN1VXg1UUxUd2ZNU3BJcVFfY0NyR1RiUzlqcjVCUTk3a1hfQUxzMTNVZl9ySlBJdEEtV3AwWko0S0drLTVPQ2Z3ZzhMbUFOZXNEVnRzTG5hRWlOcUh6ZGl3cE5TcEFOMXF5aEk3YmNqbnJ3aGtsdnlWNFY1Vk1aTUp1Z1hCUEdtSGR0QzdYNk01Wkp5RDZRZVBnbHBBSmU1Vk1QU2FEaHlvbXI2MF9sRC1ONkJ1dDRqbw?oc=5",
+      "description": "Oil Prices Fall as Iran-Oman Talks Fuel Hopes of Strait Reopening Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Wed, 26 Aug 2026 06:30:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -215,29 +224,11 @@
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Head for a Weekly Loss Despite Escalating Iran Tensions - Crude Oil Prices Today | OilPrice.com",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONFJpRGhTbWRHTDU4RzVpaEd3cE5pWnluMG90Zm5BbDdmOWdmTGxTOXlPTFZZazJIdFZsTkxMVTE0SWN5Wkcya0NSeVlXcURMWDNGYUotZEtqUkJMZGNQNTZ6R216VkhjQVkxWWR5ZlQyMi1FWkZCdlA2N3RCYVFJTlpXbkRrR3gyVG1NRENsblh1MnBVc2RUZEJMSVFlb3Z0cm1TUEItNndBWkJtd0RHemVzQ09uaG5CN2RmYTYxZ9IBxAFBVV95cUxQTnZEQXFUMnpSeUJSb1B3dm1Td3N4UFhXT2pkdExVdlFrVzdVVk5hN21TNXA3SHFtbFJleDNVRk1lc2hNa1k1Rl95cmtFTGJNNS05eFVKd1pURzN0VU51c2Q4RVhxZHJZZHNhVXNFZV9RTmJvYzRjZ0VYT0dycWdGaUg3MFZtWXJndjhCUGM3TnA0TlJjWjkyT1Q3dU1qdGZQMS0xaHJkTnJjZ2FwMDdMMFZabExLbUpKTTNjMDFzM3NPcVRO?oc=5",
-      "description": "Oil Prices Head for a Weekly Loss Despite Escalating Iran Tensions Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Fri, 28 Aug 2026 05:15:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Current price of oil as of Aug. 28, 2026 - Fortune",
+      "title": "Current price of oil as of August 28, 2026 - Fortune",
       "source": "Fortune",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xNGVGWjNpNlM2U2kzdDVuV1pCdUhncTJzYzl4YXhHUzY3cHItbXNTYUExWGxEdVZiM0NqMVRwUldVcENFcjVLeXlra2FOMUVqSk51WGJ3VDJWeWkwa3NRM1Zn?oc=5",
-      "description": "Current price of oil as of Aug. 28, 2026 Fortune",
+      "description": "Current price of oil as of August 28, 2026 Fortune",
       "publishedAt": "Fri, 28 Aug 2026 11:00:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Varcoe: One oil price spike, two Alberta surpluses and an improved economic outlook amid global turbulence - Calgary Herald",
-      "source": "Calgary Herald",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPV2JRWjBfb3JtR3dwajFINXpVdlJobE9yblZxQWNGMEJUMEZBb0EtTEN6d09OTDZJZWY5Qml5RkhPNy1xVlhpbzhjOUgyN1hNcm85WW9oanRVek54WHcwbTM4Z3loV2dpbndvN19YcnVWR180S0xFeW5yOHVvUWhRWjB6R3JVUlNBbE42NjZfZjd3eW5GQ1ZidEtDS0xuM2JudFZDN0kxR1kydkZYam1DeUFJRjVIRlJ3MnRLOUctT2Jsazc1ZWJILWt3cWhaSGFObjFVYUNYSGtlWXhyZ25ZcS1xQQ?oc=5",
-      "description": "Varcoe: One oil price spike, two Alberta surpluses and an improved economic outlook amid global turbulence Calgary Herald",
-      "publishedAt": "Thu, 27 Aug 2026 23:23:54 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -251,20 +242,29 @@
       "impact": "medium"
     },
     {
-      "title": "Higher oil prices drive Alberta’s $2B surplus forecast for 2026-27 - CochraneNow",
-      "source": "CochraneNow",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa29DbElSNGVlV2tha3M4R3VwT3JJNnpFTG5ZMkl6N3dobml3NENfSFRubmpYUHNqQmVreU1OdWZWTzNwekxYRjFkSGdOT1hYTFJ5Y1NIZ2VUSzFHZEdDQWZSME9jUzEyMl9PWEpKNERJTmpFTDJ4aEQ2b25Oc01iM1pKTkdXTG1XT1BQU0tTajZMZUV1b2dOV3p4bUM1dw?oc=5",
-      "description": "Higher oil prices drive Alberta’s $2B surplus forecast for 2026-27 CochraneNow",
-      "publishedAt": "Thu, 27 Aug 2026 20:50:25 GMT",
+      "title": "Oil Prices Fall as Oman-Iran Talks Raise Hopes for Hormuz Reopening - WSJ",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSVhHOXdSamVOU0Q0TFI2d0NXdHg4RS1ETXZCc1I4dDBjcHUzLTBvcFBXSWFjRk03Sm1OZHdlN2l5YlktTXMtc1FXMVA3WlNCb2JXZ2toNmtkaU9yOUQwRXl1YlFwbzFTZ3RVRGFnV1JEVUE0LWJIbGpBdmpNNlhQMVFDLWFIS1RwaFh2M01ZZHJGM0dlXzI1NTJuQlRfbUNRX002OFZFanRQdHhRcXNEcGxRQ0s?oc=5",
+      "description": "Oil Prices Fall as Oman-Iran Talks Raise Hopes for Hormuz Reopening WSJ",
+      "publishedAt": "Wed, 26 Aug 2026 12:35:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil Futures Fall Further on Hopes for Hormuz - WSJ",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORWdfMGZLcWFBcUdhdTRZSnVQbmtRR1k0TGFKQWpCckpFTnlBREtHT1huekpWOXZHVjRwX01SWmxsYURQRDJzbmI0c3VQYjhaQVJlbXVhcURKOU4xQlNMekdKR3F6QTR2dEJoN3pDRHkzVkFtWTExWTZoQlc5cVhpbkdVSnY1eEx5MHBnS1RXbGd4dXNuOGF0OUE5RFkzdFB6b19xaG1oX0FEZGZPdEtEa25aYzlWdlNI?oc=5",
-      "description": "Oil Futures Fall Further on Hopes for Hormuz WSJ",
-      "publishedAt": "Tue, 25 Aug 2026 19:19:00 GMT",
+      "title": "Oil prices rise as US-Iran tensions flare and Warsh fans rate hike - Euronews.com",
+      "source": "Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb0cxSXlPWVNsc1RCQ0RsNFJiTlpVS0dmU0xNUEdqOXB3NUZHUjZaS0VPZ3hVV2dwYVo5OTR4UmFyU0oyemtUWG1tODJ6WDFxUFhJTGZtaVE0MTBiZEVyUEsyRjUyNDdXOHlseWtIVVlob0NLUm05ejRyZExUQVM0RTJCTVU0MkRVX2ItM0Q1WU9ZRy1WVHc1ZVhrUG0yeThCbFg5NVN1YjN2dEtPQUFmZ2Y1cGU?oc=5",
+      "description": "Oil prices rise as US-Iran tensions flare and Warsh fans rate hike Euronews.com",
+      "publishedAt": "Mon, 31 Aug 2026 04:07:55 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil settles lower on clues about Fed policy, rumors of Hormuz deal - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMDRjQUkzbzJPY3ZkSGVLX1NmU05FVWxRUXZod3V6MkU5TTUxTjl0cm5yMzB2R0UyMy1mUUZsZVZ5TkVGMkdXNWR1X0FqUk5OaFRsZjg4NVhreGM5bUFHQ1BiT1E0SFB1ZzJKNlVLdGFRZ2ZEd1BEV0s5ZFBEOVdtWHMtZzh3b0lBaHhHSkdSYTZWNWUzSjhNX1RLcEg0My1x?oc=5",
+      "description": "Oil settles lower on clues about Fed policy, rumors of Hormuz deal Reuters",
+      "publishedAt": "Fri, 28 Aug 2026 15:29:37 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
