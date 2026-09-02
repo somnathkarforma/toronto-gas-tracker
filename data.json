@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-01 09:04 UTC",
+  "generatedAt": "2026-09-02 08:17 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 182.9,
-    "premium": 200.9,
-    "diesel": 193.4
+    "regular": 181.9,
+    "premium": 199.9,
+    "diesel": 192.4
   },
   "history": {
     "labels": [
@@ -40,7 +40,7 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Sep 01"
+      "Sep 02"
     ],
     "regular": [
       150.7,
@@ -75,7 +75,7 @@
       155.9,
       174.9,
       186.9,
-      182.9
+      181.9
     ],
     "premium": [
       168.7,
@@ -110,7 +110,7 @@
       173.9,
       192.9,
       204.9,
-      200.9
+      199.9
     ],
     "diesel": [
       161.2,
@@ -145,63 +145,54 @@
       166.4,
       185.4,
       197.4,
-      193.4
+      192.4
     ]
   },
   "prediction": {
     "labels": [
-      "Sep 02",
       "Sep 03",
       "Sep 04",
       "Sep 05",
       "Sep 06",
       "Sep 07",
-      "Sep 08"
+      "Sep 08",
+      "Sep 09"
     ],
     "regular": [
-      183.9,
+      182.9,
+      183.8,
       184.8,
-      185.8,
+      185.7,
       186.7,
       187.7,
-      188.7,
-      189.6
+      188.6
     ],
     "premium": [
-      201.9,
+      200.9,
+      201.8,
       202.8,
-      203.8,
+      203.7,
       204.7,
       205.7,
-      206.7,
-      207.6
+      206.6
     ],
     "diesel": [
-      194.4,
+      193.4,
+      194.3,
       195.3,
-      196.3,
+      196.2,
       197.2,
       198.2,
-      199.2,
-      200.1
+      199.1
     ]
   },
   "news": [
     {
-      "title": "Oil prices swing Alberta’s $9.4B deficit to $2B surplus, but finance minister urges caution - CBC",
-      "source": "CBC",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZlBFWGp2NG81dFcyQXdyNDBnbUhfS0g0MHhiNi1vbkRXZ1hxejQ3cmRlUlh3UmhWOHpNRU5mOEpjdWszZ21IdjM1Y2lpbFBGazVPN0J5U2h6QUI1QVVlamxmdmIzUDBYXzdDclFvN1V5UlFKX3AtOVhYam9kbUhQTUN3bzJjakVHV2NJZGEzUlR2QlRXNHlR?oc=5",
-      "description": "Oil prices swing Alberta’s $9.4B deficit to $2B surplus, but finance minister urges caution CBC",
-      "publishedAt": "Thu, 27 Aug 2026 17:13:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices fall as U.S. rolls out global sanctions focused on Iran - cnbc.com",
-      "source": "cnbc.com",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYmM1OWVNT01lQlNPWmo3Zk1RM1UtdE5HcXNBTHEtRFNNZS14b0prb2xkc1A3ZHNKY3pvR3dxcE5COWlFakFUSWM1SW5ldjhEYjNEY1Q5eUF6SEtXV1FYNGs4UzE5ajRBTGJpaG1scm9mOVZENzdVTUxVQ0RCTWNLaHcyZjFIQk3SAYwBQVVfeXFMTU9JYUFXTl91WGZhNXhua1hCZTF4ME5nc2hHRGVBVDJXYTVBMXlOLURJTG8teFdKRnhSTC1NdkVIM0FYU2xObWpPa2RMTEg5eS1vTHR4dmZuVkF5bUtLWmlDUHRXenQ5dVJ4QXZFODZKM3oyUlpraTJneVpGLUlyMFRYUEZKQTJTYVlTNEY?oc=5",
-      "description": "Oil prices fall as U.S. rolls out global sanctions focused on Iran cnbc.com",
-      "publishedAt": "Tue, 25 Aug 2026 13:50:10 GMT",
+      "title": "Oil prices jump as US, Iranian attacks stoke fears of escalation - Al Jazeera",
+      "source": "Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTzBVakF1VXpKSWdkbXZsNXJOYS0wRnV2bWstenBpNnhlNXBzTVVxVEFPUW5HeS14Rjh6UnM3b0RpWG5NWjdWdW5NdWNHdlJLV3psWHlhOVd2Y1FySF9MRlVmRGZab3RTcTd5Rmt2QkFONEVFWmJHVmZzMGxid2g0MjR0UzJXdmRZcVdEaGhlT1Z5RTAyT1VFVndXWU52ZGNlRENGaHNBVXF1YzTSAbABQVVfeXFMT2dkcDBqS3R3WmtGZmhqcl9RTzNSc0xObFNYam1fQTllaFdkamxnZnZ2OW11SXc3d1hNWER5WGxQclV4aDhYbnZxNE5tRGNWQllxQ3F0eXViSmZoTFNwamJTLXQ4cUxXS0tldkc1ODE0NGZMXzRFbFBfYkhSdFMtMnZfVkIySkRVMlBtLUxhaEpMZ2NxZUFRUEtMTFRlWDFjY25FaWtqMDNVT25hSWpJZ0E?oc=5",
+      "description": "Oil prices jump as US, Iranian attacks stoke fears of escalation Al Jazeera",
+      "publishedAt": "Tue, 01 Sep 2026 09:32:51 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -224,15 +215,6 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices surge higher as US and Iran exchange fire for first time in a month - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaGgxQTlxdFZxWVVhWlpKUi1BWEtYZFd0N09MeWVucEpHbldVVV9jV2lnQy0tZDhoS1NOeG5nQ2o1QTF6RVczQnVEaTJEZDI1Uld4RXhiNkNMdk1rMjdDTmFIb3Jwd000ZTc2MHpZYmxKdGJzdHVxcTlfYkhOcHF2b1g4THU0aWl2M3g2eFVpLUFrbDFVSTMwb1NnOXgwQndoTGJhaklaejV3Wmk1WFFPYW9jMUFjYzlOQWFaME5seDFiS2FKS0tPYXBUamlYSlJU?oc=5",
-      "description": "Oil prices surge higher as US and Iran exchange fire for first time in a month Yahoo Finance",
-      "publishedAt": "Mon, 31 Aug 2026 12:34:32 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
       "title": "Current price of oil as of August 28, 2026 - Fortune",
       "source": "Fortune",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xNGVGWjNpNlM2U2kzdDVuV1pCdUhncTJzYzl4YXhHUzY3cHItbXNTYUExWGxEdVZiM0NqMVRwUldVcENFcjVLeXlra2FOMUVqSk51WGJ3VDJWeWkwa3NRM1Zn?oc=5",
@@ -242,11 +224,29 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices rise as latest fighting revives Mideast supply disruption risks - Reuters",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNXzNva1pxcDRaVGJ0WkYwOFJ2Zm8wNFBiMmkxLUVIZVJZaUV4WlRGNVRZbk1JZHdpMUpXbXJ6VHZsVUtzS2haZ0M2bDd4d3RTa19vTHZTOWc3MFlGaW1jU3gwMG13cFhFY0hOR2tWSjM1cWQzd2pfUEZFRlpSRWdEcmJ3NHdlM3BydlNkQUgxY3lMYjBybFMwZ1Vxcjk2clc3cHZKdWxtMHlFWHBMNDREaEJoZlBIc2U5TGMyWF9GaEZhX0JlMlA4THpn?oc=5",
-      "description": "Oil prices rise as latest fighting revives Mideast supply disruption risks Reuters",
-      "publishedAt": "Tue, 01 Sep 2026 00:56:00 GMT",
+      "title": "Oil prices surge higher as US and Iran exchange fire for first time in a month - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaGgxQTlxdFZxWVVhWlpKUi1BWEtYZFd0N09MeWVucEpHbldVVV9jV2lnQy0tZDhoS1NOeG5nQ2o1QTF6RVczQnVEaTJEZDI1Uld4RXhiNkNMdk1rMjdDTmFIb3Jwd000ZTc2MHpZYmxKdGJzdHVxcTlfYkhOcHF2b1g4THU0aWl2M3g2eFVpLUFrbDFVSTMwb1NnOXgwQndoTGJhaklaejV3Wmk1WFFPYW9jMUFjYzlOQWFaME5seDFiS2FKS0tPYXBUamlYSlJU?oc=5",
+      "description": "Oil prices surge higher as US and Iran exchange fire for first time in a month Yahoo Finance",
+      "publishedAt": "Mon, 31 Aug 2026 13:16:12 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil Prices Push Global Bond Market Closer to the Edge - WSJ",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRWJmT1RfbXVVTVJGX3FTNVJnbVBYS1lGRVVackRycVc4Z0hKcGowNV8yZzBwanJWQ0ZSS3Y3RVVSZDNHM1hYc2ZaeFJhZ1BjdnZVOVRxanJDQnJQbnZxaEpwSnJpRG9heDVSM3FCS1JXaG9GbVJPYktjTnJneEZQdlRQRjBVTnVPQnBGbkRlYUh3NmllY3F4TUVHYTNhY0ZvdVE?oc=5",
+      "description": "Oil Prices Push Global Bond Market Closer to the Edge WSJ",
+      "publishedAt": "Tue, 01 Sep 2026 19:51:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil prices rise as latest fighting revives Mideast supply disruption risks - BOE Report",
+      "source": "BOE Report",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTkNnWEtzRE5ydHBRUHlVcHJ3eHJrdS01N2dNSFVleU5nZDFYUHA4RFh0YkdhQmdNYUtqbnRhWlByaFNpaDVMUzI0ZE5aSmx3WDhTSjdTak9kSFA3VWlneG5CcEdBX0p4UW8xOWZ6ZmR5Z2lEUzNLeHh1UFZLMWtLcWRvcjBxcURVSTRid3RMMi1zc3BBVGpmQkx2RWpJMTdXbmpvN0k2MlVQQkFC0gGyAUFVX3lxTFBmRzVQazRnN3ZVa1VWMDItelAybDluZDktSENxbkFXS0JFalRlV0owTVJBLV9xVkhSN1F6M3JRN2JYVmltVVo4U3lzdHhNeHQ2YXdJa0pxZEgwR0c2bW92bGtDaU5iVzRMcUs3ZGttQnRVZGN6WHhQN3BROUxPdTNxcXdEaGRnc29rdGZwYTlzdmFNckI1aGE5SFI2SGlCdlRaTmMzcU8wWC1mNTdpZm8wR3c?oc=5",
+      "description": "Oil prices rise as latest fighting revives Mideast supply disruption risks BOE Report",
+      "publishedAt": "Tue, 01 Sep 2026 04:58:29 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -260,20 +260,20 @@
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Fall as Oman-Iran Talks Raise Hopes for Hormuz Reopening - WSJ",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSVhHOXdSamVOU0Q0TFI2d0NXdHg4RS1ETXZCc1I4dDBjcHUzLTBvcFBXSWFjRk03Sm1OZHdlN2l5YlktTXMtc1FXMVA3WlNCb2JXZ2toNmtkaU9yOUQwRXl1YlFwbzFTZ3RVRGFnV1JEVUE0LWJIbGpBdmpNNlhQMVFDLWFIS1RwaFh2M01ZZHJGM0dlXzI1NTJuQlRfbUNRX002OFZFanRQdHhRcXNEcGxRQ0s?oc=5",
-      "description": "Oil Prices Fall as Oman-Iran Talks Raise Hopes for Hormuz Reopening WSJ",
-      "publishedAt": "Wed, 26 Aug 2026 12:35:00 GMT",
+      "title": "Stocks slip on Wall Street under pressure from rising oil prices, bond sell-off - PBS",
+      "source": "PBS",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVUpDbXlNdGxqU3l1LVBFQ1drbmNpcU40UmxDTldlNlBiOE9aazU2bVg1VE1qOXAtM1Z3VlBIUHNpN1NMWlZlSm9DY3cxLVdjTVNDcFZPUTAxUHhkNFMwUW9WQWVPUnlKZ2Fqc3dBRUV3aTNfU3JVWlVCYk56cC12clA4dGFRN2hoYWg2cUMybmh4ZkEtV0d0VTdZTDQwYUVBV01oRmxPMmxnMENCc3BkY0xpWU5mZ9IBuwFBVV95cUxPbVR0dUcteGhCV0s5UmFidkNta0didWVNOVk1WTRkUTJYbDZnTjhBOTJsNFNZMWUwdm00S0g4WmNLbm9vS3d0UkVoc3FWZXZOcmNBRjNqSGtCd0JFa3RxTVY1Wks1OW1hVDdlMFp6eUFMUFNMWkprcjB5eFlqdldxT3BCaDJLczJkdDhSREN2Y29QX0tUOWROZk4xd2M3bEZiVGRrTDZDeXZXV3RydTZ0bl9aV0JFWVJXc2U4?oc=5",
+      "description": "Stocks slip on Wall Street under pressure from rising oil prices, bond sell-off PBS",
+      "publishedAt": "Tue, 01 Sep 2026 17:48:23 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Falling oil prices help calm the stock and bond markets - BNN Bloomberg",
-      "source": "BNN Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYjBiU1k0bnF0dEVQQzdNRTRWbUxyRFlEbHN2cXV1UEJYTm94bmJSMHFkUXJ5XzQzWlFSNTVzVmd1a21SVXJYcWdJTlZySE4xUHdJUlRyeWZ1c2t2a1RtdXhUR1l4VlFuWHByT003dVRGam1tcVhCQUdGRlh2QkVxUnZVbXJkcS03UjhhOVkzXzVkRWtaa3VEVkFQTzdWMFRfNm5sczl4SHh1dHFCY3ZBZDJrSWtqWkJUUzctTTZSam9XeWY0?oc=5",
-      "description": "Falling oil prices help calm the stock and bond markets BNN Bloomberg",
-      "publishedAt": "Tue, 25 Aug 2026 20:25:56 GMT",
+      "title": "Oil prices extend gains as US and Iran trade fresh strikes - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLTRkVWlBVVJQeFBDbXB5UzFkd05qc05KVXhja1h2cC1aMUZxOTRGQTY4a0ZHeWpiSzl0UE50MjRTTjFVREhMUGJhd29Ka21tTTlISE9yd3pSSHFESEtVOTBzb2c0dEVFakx5eEJLamxsMUJxZ0NOSTBpNll2a2Z5eVBncmR6S3MtSW1ITE9hN01KbUljNlcwNlB3aw?oc=5",
+      "description": "Oil prices extend gains as US and Iran trade fresh strikes Reuters",
+      "publishedAt": "Wed, 02 Sep 2026 00:55:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
