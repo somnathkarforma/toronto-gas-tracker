@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-03-03",
-    "regular": 151.9,
-    "premium": 169.9,
-    "diesel": 162.4
-  },
-  {
     "date": "2026-03-04",
     "regular": 152.4,
     "premium": 170.4,
@@ -180,9 +174,9 @@
     "diesel": 197.4
   },
   {
-    "date": "2026-09-04",
-    "regular": 182.9,
-    "premium": 200.9,
-    "diesel": 193.4
+    "date": "2026-09-05",
+    "regular": 183.9,
+    "premium": 201.9,
+    "diesel": 194.4
   }
 ]
