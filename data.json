@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06 08:16 UTC",
+  "generatedAt": "2026-09-07 08:49 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
     "regular": 186.9,
@@ -8,7 +8,6 @@
   },
   "history": {
     "labels": [
-      "Mar 05",
       "Mar 06",
       "Mar 07",
       "Mar 08",
@@ -36,10 +35,9 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Sep 06"
+      "Sep 07"
     ],
     "regular": [
-      152.7,
       153.0,
       153.1,
       153.1,
@@ -70,7 +68,6 @@
       186.9
     ],
     "premium": [
-      170.7,
       171.0,
       171.1,
       171.1,
@@ -101,7 +98,6 @@
       204.9
     ],
     "diesel": [
-      163.2,
       163.5,
       163.6,
       163.6,
@@ -134,13 +130,13 @@
   },
   "prediction": {
     "labels": [
-      "Sep 07",
       "Sep 08",
       "Sep 09",
       "Sep 10",
       "Sep 11",
       "Sep 12",
-      "Sep 13"
+      "Sep 13",
+      "Sep 14"
     ],
     "regular": [
       187.9,
@@ -181,20 +177,20 @@
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Surge as U.S. and Iran Exchange Strikes - Crude Oil Prices Today | OilPrice.com",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLXFxQW1zX2d4SWhLbUhmUWsteDhNakJ6OXFaT0tqY3hTVTFUMFIySG5zR3JKcHEzallnOE9uU3dydFduN1JxcWxBSVd1OVdxTHBtdEY0eG1qaUpnM0xzeXZvYzdfNXkxQXdUczUxaTdsWEh0Q2dkNE9wbF84ZXJ3SS1pZHo5T054UXBkNjhzV0cyQVozQWlF0gGcAUFVX3lxTFBjTjBnUkVNeWVWc09Fa3NBcVJlX3M2VkZEcUJjanRFV0JkSWQyVjBfSzlUMFFPZlpHRnN0N09QaHktUFBOc3ZxZ2Y1UENkMEF1ZmhuS3BiY3J0YWNmak0tcHo4cHdfYVpUTmRxNkh0Q21zaUg5cmpiR1lwaVhiSXVNV3BKaTBaQ3pLQnZGX3Z2NENHclhhVkRFcTI2SQ?oc=5",
-      "description": "Oil Prices Surge as U.S. and Iran Exchange Strikes Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Mon, 31 Aug 2026 02:30:06 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
       "title": "Oil prices little changed after Iran fires missiles at Kuwait - CNBC",
       "source": "CNBC",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQM1dVOUlGV2F6SHFhU0lGa0xCMFl0R3hmb25KTEpBVGFnUFlYcjRmSnR1RF9FelQ3THNaMjVRMERZYTRLYTItYTVyc3QtUVFoSFZoQ1dCU3pvQUpjdVRPZ3hPbldqODNyNTktdkhhbU9Oc1VqU25reEdZblhSMlg5QtIBhgFBVV95cUxNWVlmRTVYNWxjWElZQ19ramVxV0l2Z2wzbll4OXRGc2o3bHBjeEduTkd5VDF3Z2hoVS1lbjE5emNLb1MzSENyMnh6NTE5NmpqaWQtdUF2ZmNJeEo1VUxJbGU1Y2UyQWNHQl9LamhiSWY2aU5CdU11dDIweVoxTVIwWnlNQVBuUQ?oc=5",
       "description": "Oil prices little changed after Iran fires missiles at Kuwait CNBC",
       "publishedAt": "Thu, 03 Sep 2026 13:28:22 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "High Oil Prices Speed Up China's Shift Away From Crude - Crude Oil Prices Today | OilPrice.com",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUHJKZUNZekJNRHdoaERwTkIyVVJZZldPT0REV1pMQmRzOFJBQ3VLRGVpOHhfMnozbDh6VmRaemd0a3dRdDl0QmRWVEp0UHdRYjlURkxoTVpDNm83MEQxT0tsZzJVajVTMXVIenVnaEllVjZoTWFROUhWamMyeTlydGRrM19PZ1ozN0gzaXctVjFoakk4YjIwQmRQQjhQNndZODBCUnZ4SWpuY05tUkHSAbMBQVVfeXFMTXEyeE1DY1BLVjUtSnJJaHZ4dS1MV1NzYml1eHozTkJWemJ3YVRvekFmXzFkTWR4Q2kzN2dQWWlxMlVCWHdYOHhqZVZ1TUE3d3Y3YWg3MHg2dkg5Mks4dnI5WU5UQnJ6WVdiVVpOMEt1c2lIZlRDbXNjbDRaZHRjSm9RckhQOFZkbkxuaEhoeXBwczRTS2pjd3hTV1ZBam5hVG4xbXgxWGI5RUJSOHY4RHVZMjA?oc=5",
+      "description": "High Oil Prices Speed Up China's Shift Away From Crude Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Thu, 03 Sep 2026 17:30:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -226,20 +222,20 @@
       "impact": "medium"
     },
     {
+      "title": "Oil Prices Push Global Bond Market Closer to the Edge - WSJ",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRWJmT1RfbXVVTVJGX3FTNVJnbVBYS1lGRVVackRycVc4Z0hKcGowNV8yZzBwanJWQ0ZSS3Y3RVVSZDNHM1hYc2ZaeFJhZ1BjdnZVOVRxanJDQnJQbnZxaEpwSnJpRG9heDVSM3FCS1JXaG9GbVJPYktjTnJneEZQdlRQRjBVTnVPQnBGbkRlYUh3NmllY3F4TUVHYTNhY0ZvdVE?oc=5",
+      "description": "Oil Prices Push Global Bond Market Closer to the Edge WSJ",
+      "publishedAt": "Tue, 01 Sep 2026 19:51:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
       "title": "Oil touches $97 per barrel as diesel prices surge to highest level this year - NBC News",
       "source": "NBC News",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU2V1SjgzX0FLTlJIMWNJaUY0cVFmSTJ4M1llV05DV1VsRThwZ2RBVlFLRUxHWFV6QU5adVBWS1RpZ0VtU2VYV3N0LTlLU2VzNDExNkFYVVRMMzQ0eWtXRlFKVnMzRExBRXkyMEl4cFFheE5qTVY0Nm1aWFJRUzFiTWNYd3Z5Z0ZTZ0tKbkxFVGxpdERFMGM4Wk9MdEgwMDNycFgwTm0wb1VCT1Q1V0NfeA?oc=5",
       "description": "Oil touches $97 per barrel as diesel prices surge to highest level this year NBC News",
       "publishedAt": "Thu, 03 Sep 2026 20:11:15 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil Prices Push Global Bond Market Closer to the Edge - wsj.com",
-      "source": "wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRWJmT1RfbXVVTVJGX3FTNVJnbVBYS1lGRVVackRycVc4Z0hKcGowNV8yZzBwanJWQ0ZSS3Y3RVVSZDNHM1hYc2ZaeFJhZ1BjdnZVOVRxanJDQnJQbnZxaEpwSnJpRG9heDVSM3FCS1JXaG9GbVJPYktjTnJneEZQdlRQRjBVTnVPQnBGbkRlYUh3NmllY3F4TUVHYTNhY0ZvdVE?oc=5",
-      "description": "Oil Prices Push Global Bond Market Closer to the Edge wsj.com",
-      "publishedAt": "Tue, 01 Sep 2026 19:51:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
