@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07 08:49 UTC",
+  "generatedAt": "2026-09-08 08:29 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
     "regular": 186.9,
@@ -8,7 +8,6 @@
   },
   "history": {
     "labels": [
-      "Mar 06",
       "Mar 07",
       "Mar 08",
       "Mar 09",
@@ -35,10 +34,9 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Sep 07"
+      "Sep 08"
     ],
     "regular": [
-      153.0,
       153.1,
       153.1,
       153.0,
@@ -68,7 +66,6 @@
       186.9
     ],
     "premium": [
-      171.0,
       171.1,
       171.1,
       171.0,
@@ -98,7 +95,6 @@
       204.9
     ],
     "diesel": [
-      163.5,
       163.6,
       163.6,
       163.5,
@@ -130,13 +126,13 @@
   },
   "prediction": {
     "labels": [
-      "Sep 08",
       "Sep 09",
       "Sep 10",
       "Sep 11",
       "Sep 12",
       "Sep 13",
-      "Sep 14"
+      "Sep 14",
+      "Sep 15"
     ],
     "regular": [
       187.9,
@@ -168,11 +164,20 @@
   },
   "news": [
     {
-      "title": "Oil prices jump as US, Iranian attacks stoke fears of escalation - Al Jazeera",
+      "title": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz - Al Jazeera",
       "source": "Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTzBVakF1VXpKSWdkbXZsNXJOYS0wRnV2bWstenBpNnhlNXBzTVVxVEFPUW5HeS14Rjh6UnM3b0RpWG5NWjdWdW5NdWNHdlJLV3psWHlhOVd2Y1FySF9MRlVmRGZab3RTcTd5Rmt2QkFONEVFWmJHVmZzMGxid2g0MjR0UzJXdmRZcVdEaGhlT1Z5RTAyT1VFVndXWU52ZGNlRENGaHNBVXF1YzTSAbABQVVfeXFMT2dkcDBqS3R3WmtGZmhqcl9RTzNSc0xObFNYam1fQTllaFdkamxnZnZ2OW11SXc3d1hNWER5WGxQclV4aDhYbnZxNE5tRGNWQllxQ3F0eXViSmZoTFNwamJTLXQ4cUxXS0tldkc1ODE0NGZMXzRFbFBfYkhSdFMtMnZfVkIySkRVMlBtLUxhaEpMZ2NxZUFRUEtMTFRlWDFjY25FaWtqMDNVT25hSWpJZ0E?oc=5",
-      "description": "Oil prices jump as US, Iranian attacks stoke fears of escalation Al Jazeera",
-      "publishedAt": "Tue, 01 Sep 2026 09:32:51 GMT",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcDlzUXFCcVJvUER3Ym1FeE9mREQ1a3FuaGV6T2hOdlV4WHU1bkRTN3V0eFVfNDJvYTRrSHFoMW9uSlBtaXNoQVJ2Sk42d1BNRmFjejAwaXg4a2swdTR4WFFnaVRBMFkzZUdjQmhfRnZIcGR3Qm9SYVZ5YkZQSDhJcUZOcDE3TlUyZTFaUnkwcWV5dWJOMXEwUGlTOFJhaGE5RXZHOW5qZDV2S0dM0gGyAUFVX3lxTE1xQXhqajhaRnRSRklMaUlJeWFCdU5Gb01qSXd6VmVNLUdaY0w5TTA2Rjk0bk9mdDgyZ0F2QTU4TkRXTzF3OUNnc3NxY2M5ZEVscXZBVXR5YXd4Z0hfVmtDMWQ5YThhMm5yY1RfcTFrTDFJaWFNalEybjk4SE1GRU1WTG5vdDNETEN6U0ZabThTQVdnNFpxR1dWM0VhYVJHSy1WMXo2Z0p1MkMwX1paQ0dpR3c?oc=5",
+      "description": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz Al Jazeera",
+      "publishedAt": "Mon, 07 Sep 2026 21:33:45 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil prices rise to six-week highs on worsening Middle East conflict - BNN Bloomberg",
+      "source": "BNN Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONkg5MGRZZ1JidGlSV0RIdWZwYmJWQ2EzaUhGWkVtOVRKUU5wMU11Y0NJOFliWEtJT2FOZWF3QUowb0dkc29GR011akp3MDZnbVg1bWgyYTBZQzhMYWJva0xXdGpVV0c1Z2F5Mllzb0ktNm11bUpMdDBpclk4ODg3OHpZTVFRX3hJRzYxeVFqQnczMVZ0Uk1ISHdhSXRDaWswSFpmUlU1ekxraUxMR2dOR2MtZEtVdEZNZG9Z?oc=5",
+      "description": "Oil prices rise to six-week highs on worsening Middle East conflict BNN Bloomberg",
+      "publishedAt": "Mon, 07 Sep 2026 13:47:59 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -195,29 +200,11 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices settle up more than $4 a barrel on renewed US-Iran fighting - Reuters",
-      "source": "Reuters",
+      "title": "Oil prices settle up more than $4 a barrel on renewed US-Iran fighting - reuters.com",
+      "source": "reuters.com",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNXzNva1pxcDRaVGJ0WkYwOFJ2Zm8wNFBiMmkxLUVIZVJZaUV4WlRGNVRZbk1JZHdpMUpXbXJ6VHZsVUtzS2haZ0M2bDd4d3RTa19vTHZTOWc3MFlGaW1jU3gwMG13cFhFY0hOR2tWSjM1cWQzd2pfUEZFRlpSRWdEcmJ3NHdlM3BydlNkQUgxY3lMYjBybFMwZ1Vxcjk2clc3cHZKdWxtMHlFWHBMNDREaEJoZlBIc2U5TGMyWF9GaEZhX0JlMlA4THpn?oc=5",
-      "description": "Oil prices settle up more than $4 a barrel on renewed US-Iran fighting Reuters",
+      "description": "Oil prices settle up more than $4 a barrel on renewed US-Iran fighting reuters.com",
       "publishedAt": "Wed, 02 Sep 2026 00:10:09 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Current price of oil as of September 2, 2026 - Fortune",
-      "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9FT25GVmhUbEx6MkFaUFRrYUpvcEN1Q1JlX3hULUFUYWlaUHY5bDhvdHhCSEhjc3NCTXVhVS15Zy1ta1g5eGp0OTVlYVQ1TXNURHZhcmNzdlA2TlpFUXZFa19n?oc=5",
-      "description": "Current price of oil as of September 2, 2026 Fortune",
-      "publishedAt": "Wed, 02 Sep 2026 12:00:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices surge higher as US and Iran exchange fire for first time in a month - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaGgxQTlxdFZxWVVhWlpKUi1BWEtYZFd0N09MeWVucEpHbldVVV9jV2lnQy0tZDhoS1NOeG5nQ2o1QTF6RVczQnVEaTJEZDI1Uld4RXhiNkNMdk1rMjdDTmFIb3Jwd000ZTc2MHpZYmxKdGJzdHVxcTlfYkhOcHF2b1g4THU0aWl2M3g2eFVpLUFrbDFVSTMwb1NnOXgwQndoTGJhaklaejV3Wmk1WFFPYW9jMUFjYzlOQWFaME5seDFiS2FKS0tPYXBUamlYSlJU?oc=5",
-      "description": "Oil prices surge higher as US and Iran exchange fire for first time in a month Yahoo Finance",
-      "publishedAt": "Mon, 31 Aug 2026 13:16:12 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -231,29 +218,38 @@
       "impact": "medium"
     },
     {
-      "title": "Oil touches $97 per barrel as diesel prices surge to highest level this year - NBC News",
-      "source": "NBC News",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU2V1SjgzX0FLTlJIMWNJaUY0cVFmSTJ4M1llV05DV1VsRThwZ2RBVlFLRUxHWFV6QU5adVBWS1RpZ0VtU2VYV3N0LTlLU2VzNDExNkFYVVRMMzQ0eWtXRlFKVnMzRExBRXkyMEl4cFFheE5qTVY0Nm1aWFJRUzFiTWNYd3Z5Z0ZTZ0tKbkxFVGxpdERFMGM4Wk9MdEgwMDNycFgwTm0wb1VCT1Q1V0NfeA?oc=5",
-      "description": "Oil touches $97 per barrel as diesel prices surge to highest level this year NBC News",
-      "publishedAt": "Thu, 03 Sep 2026 20:11:15 GMT",
+      "title": "Current price of oil as of September 4, 2026 - Fortune",
+      "source": "Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFByeEtaUmVFMEl5MGN4WWp3Sjh1MkF1MlNQekNxY043bTNNd252Q08xMmpOWXJyUEdxOHBCWGVsYURXTWItcWNwbHJkR3dlYUh5SW5namN5THJkaENVTVVDZTZ3?oc=5",
+      "description": "Current price of oil as of September 4, 2026 Fortune",
+      "publishedAt": "Fri, 04 Sep 2026 13:00:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil prices rise and stocks fall after U.S. hits Iranian sites in the Strait of Hormuz - BNN Bloomberg",
-      "source": "BNN Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNXRYSm5wS2FFcXVtNTAtS0duTG5TbFB5WnJWZ2tRTExNOE40QmJHUlk2aDZobGN5eHB4Q0tpTU82RHhONXpjZnlQSF9CQWFrWjNabUZtcDgtQUJBNEgzcFl6OWQyRHRYU0hWMmhrM3dKVDRDTjFQUFdSNFpaejhwS0xmWW52VGNlUHNMQ1U0ZFNUZHppV2JGc1hYOXJMN0RLZUs5MmFsLVVGYWNpVlVGQkhwZ3h1eW1ZTFRZcE5FckY1N1RINF9neHNnYWtEVWpjblRwNWI1aWZqMlpGNVVj?oc=5",
-      "description": "Oil prices rise and stocks fall after U.S. hits Iranian sites in the Strait of Hormuz BNN Bloomberg",
-      "publishedAt": "Mon, 31 Aug 2026 20:40:44 GMT",
+      "title": "Global oil prices surge to a 6-week high after the U.S. strikes Iran in Hormuz - MarketWatch",
+      "source": "MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbzBJNXgtejZTOU9pRzRZZGFobGlBYmhldWpwVVJCcVpxMExNOU42OWFwNDBiUjNoSVBFcTIxRXZ6T2lZNHZGSXRqVXVMLXhIcWYwS2pUVHV6WmUyLTQzUnQ4YkZZSkhOaVh0dmZzYTl0VUNPUGp3MWFqX0xUZFR1UGJ3dFgtR25SQTNoeHBOS3JuR1F1TktyT1pvUnpEY1BfWWZpRWpFS0dfcjJiaHdaeWQwbjJyUmRlanpObmtJeGpmTVU?oc=5",
+      "description": "Global oil prices surge to a 6-week high after the U.S. strikes Iran in Hormuz MarketWatch",
+      "publishedAt": "Tue, 01 Sep 2026 20:13:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Americans hit with record-high Labor Day Weekend gasoline prices - BOE Report",
-      "source": "BOE Report",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTGJucHhyVm1TV2hwSlMybXJxeXZQdWZHV3p3bnNhMWhjb2lyUEhrd0NldXdpa2gxaEsyOWR2Z3FoaGpCSkVpei1TOWJacEZiTi1ULXMxenpCdEpoYzBIbmQ4T0RYYl9RY0RmeGRLa3ZtSTBiSVJzQjJiaWJxNEVPTGtLaldHb3hyMy1yTklBalJxeU1XUVdQOUM2cDVuX2dwQ3N2YdIBpAFBVV95cUxQTGJucHhyVm1TV2hwSlMybXJxeXZQdWZHV3p3bnNhMWhjb2lyUEhrd0NldXdpa2gxaEsyOWR2Z3FoaGpCSkVpei1TOWJacEZiTi1ULXMxenpCdEpoYzBIbmQ4T0RYYl9RY0RmeGRLa3ZtSTBiSVJzQjJiaWJxNEVPTGtLaldHb3hyMy1yTklBalJxeU1XUVdQOUM2cDVuX2dwQ3N2YQ?oc=5",
-      "description": "Americans hit with record-high Labor Day Weekend gasoline prices BOE Report",
-      "publishedAt": "Sat, 05 Sep 2026 13:14:33 GMT",
+      "title": "Stocks slip on Wall Street under pressure from higher oil prices and rising bond yields - ca.finance.yahoo.com",
+      "source": "ca.finance.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcFUxY0NuSWhaUGFjZGxwNHF4TGFjcGtfVFZyMDB0MVhYNWN4V1c5Nm82aTFQcHE5TEcwVVVnX3pHNTJGbGNnVDZsUWxuZUJFN1Z4UlZwZVJiR1dJdnZlQjNvbS00Q1lrVXh3WERGMVVjQ3FLVGQ1V25Eb1l5d0RHZDQxZw?oc=5",
+      "description": "Stocks slip on Wall Street under pressure from higher oil prices and rising bond yields ca.finance.yahoo.com",
+      "publishedAt": "Tue, 01 Sep 2026 20:49:12 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil prices jump as US, Iranian attacks stoke fears of escalation - Al Jazeera",
+      "source": "Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTzBVakF1VXpKSWdkbXZsNXJOYS0wRnV2bWstenBpNnhlNXBzTVVxVEFPUW5HeS14Rjh6UnM3b0RpWG5NWjdWdW5NdWNHdlJLV3psWHlhOVd2Y1FySF9MRlVmRGZab3RTcTd5Rmt2QkFONEVFWmJHVmZzMGxid2g0MjR0UzJXdmRZcVdEaGhlT1Z5RTAyT1VFVndXWU52ZGNlRENGaHNBVXF1YzTSAbABQVVfeXFMT2dkcDBqS3R3WmtGZmhqcl9RTzNSc0xObFNYam1fQTllaFdkamxnZnZ2OW11SXc3d1hNWER5WGxQclV4aDhYbnZxNE5tRGNWQllxQ3F0eXViSmZoTFNwamJTLXQ4cUxXS0tldkc1ODE0NGZMXzRFbFBfYkhSdFMtMnZfVkIySkRVMlBtLUxhaEpMZ2NxZUFRUEtMTFRlWDFjY25FaWtqMDNVT25hSWpJZ0E?oc=5",
+      "description": "Oil prices jump as US, Iranian attacks stoke fears of escalation Al Jazeera",
+      "publishedAt": "Tue, 01 Sep 2026 09:32:51 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
