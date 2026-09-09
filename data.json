@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08 08:29 UTC",
+  "generatedAt": "2026-09-09 08:31 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
     "regular": 186.9,
@@ -8,7 +8,6 @@
   },
   "history": {
     "labels": [
-      "Mar 07",
       "Mar 08",
       "Mar 09",
       "Mar 10",
@@ -34,10 +33,9 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Sep 08"
+      "Sep 09"
     ],
     "regular": [
-      153.1,
       153.1,
       153.0,
       152.8,
@@ -67,7 +65,6 @@
     ],
     "premium": [
       171.1,
-      171.1,
       171.0,
       170.8,
       170.5,
@@ -95,7 +92,6 @@
       204.9
     ],
     "diesel": [
-      163.6,
       163.6,
       163.5,
       163.3,
@@ -126,13 +122,13 @@
   },
   "prediction": {
     "labels": [
-      "Sep 09",
       "Sep 10",
       "Sep 11",
       "Sep 12",
       "Sep 13",
       "Sep 14",
-      "Sep 15"
+      "Sep 15",
+      "Sep 16"
     ],
     "regular": [
       187.9,
@@ -177,7 +173,7 @@
       "source": "BNN Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONkg5MGRZZ1JidGlSV0RIdWZwYmJWQ2EzaUhGWkVtOVRKUU5wMU11Y0NJOFliWEtJT2FOZWF3QUowb0dkc29GR011akp3MDZnbVg1bWgyYTBZQzhMYWJva0xXdGpVV0c1Z2F5Mllzb0ktNm11bUpMdDBpclk4ODg3OHpZTVFRX3hJRzYxeVFqQnczMVZ0Uk1ISHdhSXRDaWswSFpmUlU1ekxraUxMR2dOR2MtZEtVdEZNZG9Z?oc=5",
       "description": "Oil prices rise to six-week highs on worsening Middle East conflict BNN Bloomberg",
-      "publishedAt": "Mon, 07 Sep 2026 13:47:59 GMT",
+      "publishedAt": "Mon, 07 Sep 2026 17:40:23 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -191,29 +187,20 @@
       "impact": "medium"
     },
     {
-      "title": "High Oil Prices Speed Up China's Shift Away From Crude - Crude Oil Prices Today | OilPrice.com",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUHJKZUNZekJNRHdoaERwTkIyVVJZZldPT0REV1pMQmRzOFJBQ3VLRGVpOHhfMnozbDh6VmRaemd0a3dRdDl0QmRWVEp0UHdRYjlURkxoTVpDNm83MEQxT0tsZzJVajVTMXVIenVnaEllVjZoTWFROUhWamMyeTlydGRrM19PZ1ozN0gzaXctVjFoakk4YjIwQmRQQjhQNndZODBCUnZ4SWpuY05tUkHSAbMBQVVfeXFMTXEyeE1DY1BLVjUtSnJJaHZ4dS1MV1NzYml1eHozTkJWemJ3YVRvekFmXzFkTWR4Q2kzN2dQWWlxMlVCWHdYOHhqZVZ1TUE3d3Y3YWg3MHg2dkg5Mks4dnI5WU5UQnJ6WVdiVVpOMEt1c2lIZlRDbXNjbDRaZHRjSm9RckhQOFZkbkxuaEhoeXBwczRTS2pjd3hTV1ZBam5hVG4xbXgxWGI5RUJSOHY4RHVZMjA?oc=5",
-      "description": "High Oil Prices Speed Up China's Shift Away From Crude Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Thu, 03 Sep 2026 17:30:00 GMT",
+      "title": "Oil Prices Climb Toward $100 as Middle East Peace Hopes Fade - oilprice.com",
+      "source": "oilprice.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMjFKalgyNGQzZ1JHd3JIUFBpT3FHdjFib00wd2FyeGF1SmdqMTVGTkRXY1FFR2JvT2dKckVpWlc3M2YwVFZjWW12WktNaVk3c2hiSGw0WTZ2QlMzXzJFTy1aNWJNcUdzQXlaMlN0Q094b3JvcnVldlhPM1g2bVdYSEM5MDdjUHhkV3pKZllsUUNud2VocGZHZmhOd1hoWXhUd0xuRmEteXU1MGp2N3o5TWp0UU9GQdIBuwFBVV95cUxPQ2FvQzZ0eHVYMFh5WHViNDVtX3IycS1pQ0o1UXlmczRnbmRtSF9EMU9vS1FreTRfN3AwVFpyNjgyOE1fOHhWMHh3VVQwX1FzSGNCcUFCalMyUnhyMFR5alF1S3RzSTVNVTI4NmhyVnNuemN0WjNOU3BzaE5SUUozV2FNVHdmVW9aRmY0WUxUeDAyOUh6TDc0RUNteEMxYWtSTmxkemxENU0wMXBSMXJHeTBnT2RZbWhCM3Y0?oc=5",
+      "description": "Oil Prices Climb Toward $100 as Middle East Peace Hopes Fade oilprice.com",
+      "publishedAt": "Tue, 08 Sep 2026 05:30:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil prices settle up more than $4 a barrel on renewed US-Iran fighting - reuters.com",
-      "source": "reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNXzNva1pxcDRaVGJ0WkYwOFJ2Zm8wNFBiMmkxLUVIZVJZaUV4WlRGNVRZbk1JZHdpMUpXbXJ6VHZsVUtzS2haZ0M2bDd4d3RTa19vTHZTOWc3MFlGaW1jU3gwMG13cFhFY0hOR2tWSjM1cWQzd2pfUEZFRlpSRWdEcmJ3NHdlM3BydlNkQUgxY3lMYjBybFMwZ1Vxcjk2clc3cHZKdWxtMHlFWHBMNDREaEJoZlBIc2U5TGMyWF9GaEZhX0JlMlA4THpn?oc=5",
-      "description": "Oil prices settle up more than $4 a barrel on renewed US-Iran fighting reuters.com",
-      "publishedAt": "Wed, 02 Sep 2026 00:10:09 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil Prices Push Global Bond Market Closer to the Edge - WSJ",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRWJmT1RfbXVVTVJGX3FTNVJnbVBYS1lGRVVackRycVc4Z0hKcGowNV8yZzBwanJWQ0ZSS3Y3RVVSZDNHM1hYc2ZaeFJhZ1BjdnZVOVRxanJDQnJQbnZxaEpwSnJpRG9heDVSM3FCS1JXaG9GbVJPYktjTnJneEZQdlRQRjBVTnVPQnBGbkRlYUh3NmllY3F4TUVHYTNhY0ZvdVE?oc=5",
-      "description": "Oil Prices Push Global Bond Market Closer to the Edge WSJ",
-      "publishedAt": "Tue, 01 Sep 2026 19:51:00 GMT",
+      "title": "Oil prices rise above $100 a barrel for first time since July as Iran war escalates - The Guardian",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLXZ5YktKTkY1bjN4dUc2eExWcFA2YXFIaU5TWldqT2VhUHNvazFpcmQxU0NxdFNaT1MzQ1FlX1R6Qnl1SUdwMjg5bEVtZG5VRkJlczZDTUNoZW1mWmE2TXhhT19GZFo0RHJUZHgzMWYwVFpyV3NSenJPUXJXWGhZOVJBaVBNMXdwWFVFZmUyYmozOEVnZ2dFdTBVWnhPWTh2eFluYmtpeHJINC0wVmxoc2FCNng1dXpM?oc=5",
+      "description": "Oil prices rise above $100 a barrel for first time since July as Iran war escalates The Guardian",
+      "publishedAt": "Wed, 09 Sep 2026 07:50:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -227,29 +214,38 @@
       "impact": "medium"
     },
     {
-      "title": "Global oil prices surge to a 6-week high after the U.S. strikes Iran in Hormuz - MarketWatch",
-      "source": "MarketWatch",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbzBJNXgtejZTOU9pRzRZZGFobGlBYmhldWpwVVJCcVpxMExNOU42OWFwNDBiUjNoSVBFcTIxRXZ6T2lZNHZGSXRqVXVMLXhIcWYwS2pUVHV6WmUyLTQzUnQ4YkZZSkhOaVh0dmZzYTl0VUNPUGp3MWFqX0xUZFR1UGJ3dFgtR25SQTNoeHBOS3JuR1F1TktyT1pvUnpEY1BfWWZpRWpFS0dfcjJiaHdaeWQwbjJyUmRlanpObmtJeGpmTVU?oc=5",
-      "description": "Global oil prices surge to a 6-week high after the U.S. strikes Iran in Hormuz MarketWatch",
-      "publishedAt": "Tue, 01 Sep 2026 20:13:00 GMT",
+      "title": "Oil touches $97 per barrel as diesel prices surge to highest level this year - NBC News",
+      "source": "NBC News",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU2V1SjgzX0FLTlJIMWNJaUY0cVFmSTJ4M1llV05DV1VsRThwZ2RBVlFLRUxHWFV6QU5adVBWS1RpZ0VtU2VYV3N0LTlLU2VzNDExNkFYVVRMMzQ0eWtXRlFKVnMzRExBRXkyMEl4cFFheE5qTVY0Nm1aWFJRUzFiTWNYd3Z5Z0ZTZ0tKbkxFVGxpdERFMGM4Wk9MdEgwMDNycFgwTm0wb1VCT1Q1V0NfeA?oc=5",
+      "description": "Oil touches $97 per barrel as diesel prices surge to highest level this year NBC News",
+      "publishedAt": "Thu, 03 Sep 2026 20:11:15 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Stocks slip on Wall Street under pressure from higher oil prices and rising bond yields - ca.finance.yahoo.com",
-      "source": "ca.finance.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcFUxY0NuSWhaUGFjZGxwNHF4TGFjcGtfVFZyMDB0MVhYNWN4V1c5Nm82aTFQcHE5TEcwVVVnX3pHNTJGbGNnVDZsUWxuZUJFN1Z4UlZwZVJiR1dJdnZlQjNvbS00Q1lrVXh3WERGMVVjQ3FLVGQ1V25Eb1l5d0RHZDQxZw?oc=5",
-      "description": "Stocks slip on Wall Street under pressure from higher oil prices and rising bond yields ca.finance.yahoo.com",
-      "publishedAt": "Tue, 01 Sep 2026 20:49:12 GMT",
+      "title": "US stocks slip in early trading while oil prices push higher again - Castanet",
+      "source": "Castanet",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY3R3VW9hSDdiVVlwTXZwMWdKLW5uZVlPMldtSGJQSkUtVkxOMUdaYUhfLUM1MGM1eG1VSkl2TWRhQ1ZUYzlXckE2WUdGSWtXVl85RjdKNDdrbUxxM2JaR1FKYmpXaEMzWngwRXZGRXlCTEV4enVCT0pETFc3UHlVVUMwVHNDNzFvOUFFY0lQMFVzaDNLRFZpRlItYmJoMFZxdENidjFNQ25FRUdJYndFMlB3?oc=5",
+      "description": "US stocks slip in early trading while oil prices push higher again Castanet",
+      "publishedAt": "Tue, 08 Sep 2026 13:57:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil prices jump as US, Iranian attacks stoke fears of escalation - Al Jazeera",
-      "source": "Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTzBVakF1VXpKSWdkbXZsNXJOYS0wRnV2bWstenBpNnhlNXBzTVVxVEFPUW5HeS14Rjh6UnM3b0RpWG5NWjdWdW5NdWNHdlJLV3psWHlhOVd2Y1FySF9MRlVmRGZab3RTcTd5Rmt2QkFONEVFWmJHVmZzMGxid2g0MjR0UzJXdmRZcVdEaGhlT1Z5RTAyT1VFVndXWU52ZGNlRENGaHNBVXF1YzTSAbABQVVfeXFMT2dkcDBqS3R3WmtGZmhqcl9RTzNSc0xObFNYam1fQTllaFdkamxnZnZ2OW11SXc3d1hNWER5WGxQclV4aDhYbnZxNE5tRGNWQllxQ3F0eXViSmZoTFNwamJTLXQ4cUxXS0tldkc1ODE0NGZMXzRFbFBfYkhSdFMtMnZfVkIySkRVMlBtLUxhaEpMZ2NxZUFRUEtMTFRlWDFjY25FaWtqMDNVT25hSWpJZ0E?oc=5",
-      "description": "Oil prices jump as US, Iranian attacks stoke fears of escalation Al Jazeera",
-      "publishedAt": "Tue, 01 Sep 2026 09:32:51 GMT",
+      "title": "Goldman Sachs, HSBC raise oil price forecasts on Gulf disruptions - BOE Report",
+      "source": "BOE Report",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMGlsa09KVjlPYllTcHBHakhudmt6aDduSFVWTE9yVUFya3pZOWNKeVltZTBJRlplQTl0OVNRVUNVQzdkSl95Zy15Z09HblBBZmp3RmJDVTRnZmZobERFNmZTU3JkaFZWbndOSkZVNTdHVnkzQndGVndScU1qeGtuQm50dFNiZ2NkbGx5TVFxeXNwMmlhbUVZb0gtYktRS2fSAaQBQVVfeXFMTlZzTWkyOTJ6Qms0emVGSVI2NnMzMmRTUG5wTXl0b25Tam1OQ20tNDlOOWxBd0liM2YzMWVzOGxpaHo0ZEdIanoxUlJJNE40RDBNZUtnSWRVU3NhdG4xZ0pDR0ZNeE9lQi1fa1k4SVQtRGVPRjZJZFk5ZEhNUjZ1SHNTT0hiUm5PemR4SDJCRnhsdkxRXzk1dTc4N3NkS292aDBlbFI?oc=5",
+      "description": "Goldman Sachs, HSBC raise oil price forecasts on Gulf disruptions BOE Report",
+      "publishedAt": "Tue, 08 Sep 2026 11:24:25 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil ends week higher on renewed US-Iran strikes, diesel hits record - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQVZJdUE0TzFvS2xtSUJLOVUxZUVRZVRpMi1aUlNuSFZzX3h5TW4zSGJya0w3SjFlSno4QUlvdU90cHBBOS1xRllCZjR2aVRnUW16ZmQyN3M1SlRVSl9BYlk2Z2dvWGIzdEo3cXdTZjdWZkIzYXRNRzk3ZkM2cWMwN2ZWMVh1T09pNnRKVVAwRDhNSnJnSTFwVi1MZXdMNUNwOFJTU215REpkR1V0X1pVa09vNkVHeG9oX2lpVjdoTVl1ajI5MzU0dUN3?oc=5",
+      "description": "Oil ends week higher on renewed US-Iran strikes, diesel hits record Reuters",
+      "publishedAt": "Sun, 06 Sep 2026 01:33:53 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
