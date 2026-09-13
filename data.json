@@ -1,14 +1,13 @@
 {
-  "generatedAt": "2026-09-12 08:16 UTC",
+  "generatedAt": "2026-09-13 08:41 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 186.9,
-    "premium": 204.9,
-    "diesel": 197.4
+    "regular": 182.9,
+    "premium": 200.9,
+    "diesel": 193.4
   },
   "history": {
     "labels": [
-      "Mar 11",
       "Mar 12",
       "Mar 13",
       "Mar 14",
@@ -30,10 +29,9 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Sep 12"
+      "Sep 13"
     ],
     "regular": [
-      152.5,
       152.3,
       152.1,
       151.9,
@@ -55,10 +53,9 @@
       155.9,
       174.9,
       186.9,
-      186.9
+      182.9
     ],
     "premium": [
-      170.5,
       170.3,
       170.1,
       169.9,
@@ -80,10 +77,9 @@
       173.9,
       192.9,
       204.9,
-      204.9
+      200.9
     ],
     "diesel": [
-      163.0,
       162.8,
       162.6,
       162.4,
@@ -105,63 +101,63 @@
       166.4,
       185.4,
       197.4,
-      197.4
+      193.4
     ]
   },
   "prediction": {
     "labels": [
-      "Sep 13",
       "Sep 14",
       "Sep 15",
       "Sep 16",
       "Sep 17",
       "Sep 18",
-      "Sep 19"
+      "Sep 19",
+      "Sep 20"
     ],
     "regular": [
-      187.9,
-      188.8,
-      189.8,
-      190.7,
-      191.7,
-      192.7,
-      193.6
+      183.9,
+      184.8,
+      185.8,
+      186.7,
+      187.7,
+      188.7,
+      189.6
     ],
     "premium": [
-      205.9,
-      206.8,
-      207.8,
-      208.7,
-      209.7,
-      210.7,
-      211.6
+      201.9,
+      202.8,
+      203.8,
+      204.7,
+      205.7,
+      206.7,
+      207.6
     ],
     "diesel": [
-      198.4,
-      199.3,
-      200.3,
-      201.2,
-      202.2,
-      203.2,
-      204.1
+      194.4,
+      195.3,
+      196.3,
+      197.2,
+      198.2,
+      199.2,
+      200.1
     ]
   },
   "news": [
-    {
-      "title": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz - Al Jazeera",
-      "source": "Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcDlzUXFCcVJvUER3Ym1FeE9mREQ1a3FuaGV6T2hOdlV4WHU1bkRTN3V0eFVfNDJvYTRrSHFoMW9uSlBtaXNoQVJ2Sk42d1BNRmFjejAwaXg4a2swdTR4WFFnaVRBMFkzZUdjQmhfRnZIcGR3Qm9SYVZ5YkZQSDhJcUZOcDE3TlUyZTFaUnkwcWV5dWJOMXEwUGlTOFJhaGE5RXZHOW5qZDV2S0dM0gGyAUFVX3lxTE1xQXhqajhaRnRSRklMaUlJeWFCdU5Gb01qSXd6VmVNLUdaY0w5TTA2Rjk0bk9mdDgyZ0F2QTU4TkRXTzF3OUNnc3NxY2M5ZEVscXZBVXR5YXd4Z0hfVmtDMWQ5YThhMm5yY1RfcTFrTDFJaWFNalEybjk4SE1GRU1WTG5vdDNETEN6U0ZabThTQVdnNFpxR1dWM0VhYVJHSy1WMXo2Z0p1MkMwX1paQ0dpR3c?oc=5",
-      "description": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz Al Jazeera",
-      "publishedAt": "Mon, 07 Sep 2026 21:33:45 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
     {
       "title": "Oil prices leap to their highest since May and drag Wall Street lower - BNN Bloomberg",
       "source": "BNN Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORVBybnlXV08ycGlKOF9Yd1Bwam1qdlhkaHg0Z1otcHdIbzJucFJxUm1wOU9od3VMYVhydkZJRzlCS2JsVkV5QzdaUHhZSFhQaEkzX0xTcENQejU3NGxWQ0NBekg2RXB3S1FOdU5fa1Ryd0R3N0pZWmphS2VwSlFKcTUxRjY5LUlYWUFkdmRSZ0RBS1dWYzVLa1NwdERvTmRSUi1GYkdESkpHU0NnLTg0dlpGbGJtTnA1anVn?oc=5",
       "description": "Oil prices leap to their highest since May and drag Wall Street lower BNN Bloomberg",
       "publishedAt": "Thu, 10 Sep 2026 20:19:44 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz - Al Jazeera",
+      "source": "Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcDlzUXFCcVJvUER3Ym1FeE9mREQ1a3FuaGV6T2hOdlV4WHU1bkRTN3V0eFVfNDJvYTRrSHFoMW9uSlBtaXNoQVJ2Sk42d1BNRmFjejAwaXg4a2swdTR4WFFnaVRBMFkzZUdjQmhfRnZIcGR3Qm9SYVZ5YkZQSDhJcUZOcDE3TlUyZTFaUnkwcWV5dWJOMXEwUGlTOFJhaGE5RXZHOW5qZDV2S0dM0gGyAUFVX3lxTE1xQXhqajhaRnRSRklMaUlJeWFCdU5Gb01qSXd6VmVNLUdaY0w5TTA2Rjk0bk9mdDgyZ0F2QTU4TkRXTzF3OUNnc3NxY2M5ZEVscXZBVXR5YXd4Z0hfVmtDMWQ5YThhMm5yY1RfcTFrTDFJaWFNalEybjk4SE1GRU1WTG5vdDNETEN6U0ZabThTQVdnNFpxR1dWM0VhYVJHSy1WMXo2Z0p1MkMwX1paQ0dpR3c?oc=5",
+      "description": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz Al Jazeera",
+      "publishedAt": "Mon, 07 Sep 2026 21:33:45 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -175,20 +171,11 @@
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Surge to Four-Month Highs as War Risks Mount - Crude Oil Prices Today | OilPrice.com",
-      "source": "Crude Oil Prices Today | OilPrice.com",
+      "title": "Oil Prices Surge to Four-Month Highs as War Risks Mount - oilprice.com",
+      "source": "oilprice.com",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZzhRQ3NrZmxEZk80TVBFZW1MTVlfOHpIbi1XbjhPeW9TUjh0NzRMRl9OOTZRejM4RFhZSkNjelRsY2d1bVRHZmF1TFhXbzdMR3FVcm1fLXUtb3R2Z2tVMWVVNlRldWNtdzN5Y2NCa0pkTUljVl9naVgxZS1qR2RnaTZDUUhpNjhjRFZTZjZDRlhCek55aGc2dUF2Y1NhR19UZmtwYXBLdnJGNFdtMnRFTdIBtgFBVV95cUxNUDc4WnRRVGJFRkhsS1UxNVJNZW14YXJZZUd4YWVZRjE2Y0pJNnJJeUZXMnJYOVlxUnhvSldKLUdLZGFDM3RDeWdPS3ZDYXQ3a0hSNnI4QXowWnFsdEI1bjVDSVg3alRxeFBYejlSb1QzclF3NE1iQlNlVW14WkQxWE1rczFwRkdkQndxQjFIY2FBYTZjem5IZk9mMVFmQ2hTMElCSkJQZkhsamJvcjJ1bnNtVGpOUQ?oc=5",
-      "description": "Oil Prices Surge to Four-Month Highs as War Risks Mount Crude Oil Prices Today | OilPrice.com",
+      "description": "Oil Prices Surge to Four-Month Highs as War Risks Mount oilprice.com",
       "publishedAt": "Fri, 11 Sep 2026 05:30:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Renewed U.S.-Iran exchanges send oil price back over $100 US for first time in several weeks - CBC",
-      "source": "CBC",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0yQm81bGc5SkdjYUdhdlEyMVpUa055VDhpbXA5ZkVVV2MzSFRqbU52em1IYndyRlQwVVowVFpqc1FVZ1VJV285UVhNLU9XZzdGd3M4dExpY1ZoX2ZtcU4tZkhmRnVPYlBMbGs4NnI0d3V5a1Zo?oc=5",
-      "description": "Renewed U.S.-Iran exchanges send oil price back over $100 US for first time in several weeks CBC",
-      "publishedAt": "Wed, 09 Sep 2026 16:47:04 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -198,6 +185,15 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNWRUWm1JNlJuUXpZZWtjRlROdlFScHZuVEJnaFhZdllnYUc1YmJGVzlrbk4wUnRwX2dWX2RUSExGT1ltQ1lGS2hVVFhZUnNhWDZWcEgxTUlSOW9ncXVIaWVhbjNncktKbTBacHpSNnhvT1NmbnJfMlFVaGZ4TFhybG5uVGVPTnJjb0ZqVko1WlNBOWI0ZndPYm93MWN5cjd2?oc=5",
       "description": "Oil Prices Post Big Weekly Gain Amid Supply Risks WSJ",
       "publishedAt": "Fri, 11 Sep 2026 19:56:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Who are the Houthis? How they could send oil prices surging even further - CBC",
+      "source": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4ta2tqUVhpUkdxYXNlZ0lPY09Gdmt2QzFRdUo5NTBrSTBCV3pCbk9BVkk3TjlMUnNlMFJiazZ2OF95WWFkdURqYjdUTE5KNlo5RXVjMzh2VktKTlFOYnpxd1hTY1NwOVk?oc=5",
+      "description": "Who are the Houthis? How they could send oil prices surging even further CBC",
+      "publishedAt": "Fri, 11 Sep 2026 18:09:40 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -220,20 +216,20 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices soar to $108 for the first time since May as bond yields jump - NBC News",
-      "source": "NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQUc0eUlnRzFSZkJ5NWp4TFc3c3RqY2t5YVV2N1p4c3lFZmJZdHE5NG1KRDF3S0NIc19YdTZsMXB1T0VYTUFCRWx5eDd4aVF4WnpUcVJyUzJpbzB1aUZ3cWtwRExJeGk4c0VGNjVDVzdmZEpYQmMtcWxhWUxXT3BHZDMxSTBxRHV1?oc=5",
-      "description": "Oil prices soar to $108 for the first time since May as bond yields jump NBC News",
-      "publishedAt": "Thu, 10 Sep 2026 21:10:24 GMT",
+      "title": "Banks Hike Oil Price Forecasts on Prolonged Gulf Disruptions - EnergyNow",
+      "source": "EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZmQ3TDVSLTJIUVcwQTFkVi1yTzJDUVEyRnYwRzBXVGhYRGFnQS1SWEU5Y0hNRHVmcld4b0tqemJNTlpoVTNSSXNUYmJEMlZUZWdvZFVKNF9ZOXdoUWNxTDdmV0JUTU9Ba0JXUUJ6dFk1aUgwa0V2Mjk3VlZfUUtwWlhHdmJBNUVuS1NhSUEzbUpPZ3VK?oc=5",
+      "description": "Banks Hike Oil Price Forecasts on Prolonged Gulf Disruptions EnergyNow",
+      "publishedAt": "Fri, 11 Sep 2026 15:10:53 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Current price of oil as of September 10, 2026 - fortune.com",
-      "source": "fortune.com",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE53a25LaUItamJGZjk4SnU0Z1lwQnV4MHQ2ZUxtZzREb3QzUTN3N01NeHAxd2Y5Z09nWkR0UTdwOGx4WGpIVlZZMURJLVhoZEE2ckpwMzdSYWZRX01tMXlOaWl3?oc=5",
-      "description": "Current price of oil as of September 10, 2026 fortune.com",
-      "publishedAt": "Thu, 10 Sep 2026 12:30:00 GMT",
+      "title": "Current price of oil as of September 11, 2026 - Fortune",
+      "source": "Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qYXE5TVZLVVd6LXd3cTYyTWF3c1FnZTRtSzFVRlRhRFFreV8tcXVMVURJZUZidDZtYW4zZF9ubHdQZmxONVhNTVdBU0NBeHhKRnFsQnptaTZaZkNyQkhJOFlB?oc=5",
+      "description": "Current price of oil as of September 11, 2026 Fortune",
+      "publishedAt": "Fri, 11 Sep 2026 13:30:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
