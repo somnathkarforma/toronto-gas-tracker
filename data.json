@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14 09:27 UTC",
+  "generatedAt": "2026-09-15 09:07 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
     "regular": 182.9,
@@ -8,7 +8,6 @@
   },
   "history": {
     "labels": [
-      "Mar 13",
       "Mar 14",
       "Mar 15",
       "Mar 16",
@@ -28,10 +27,9 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Sep 14"
+      "Sep 15"
     ],
     "regular": [
-      152.1,
       151.9,
       151.9,
       152.0,
@@ -54,7 +52,6 @@
       182.9
     ],
     "premium": [
-      170.1,
       169.9,
       169.9,
       170.0,
@@ -77,7 +74,6 @@
       200.9
     ],
     "diesel": [
-      162.6,
       162.4,
       162.4,
       162.5,
@@ -102,13 +98,13 @@
   },
   "prediction": {
     "labels": [
-      "Sep 15",
       "Sep 16",
       "Sep 17",
       "Sep 18",
       "Sep 19",
       "Sep 20",
-      "Sep 21"
+      "Sep 21",
+      "Sep 22"
     ],
     "regular": [
       183.9,
@@ -140,29 +136,11 @@
   },
   "news": [
     {
-      "title": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz - Al Jazeera",
-      "source": "Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcDlzUXFCcVJvUER3Ym1FeE9mREQ1a3FuaGV6T2hOdlV4WHU1bkRTN3V0eFVfNDJvYTRrSHFoMW9uSlBtaXNoQVJ2Sk42d1BNRmFjejAwaXg4a2swdTR4WFFnaVRBMFkzZUdjQmhfRnZIcGR3Qm9SYVZ5YkZQSDhJcUZOcDE3TlUyZTFaUnkwcWV5dWJOMXEwUGlTOFJhaGE5RXZHOW5qZDV2S0dM0gGyAUFVX3lxTE1xQXhqajhaRnRSRklMaUlJeWFCdU5Gb01qSXd6VmVNLUdaY0w5TTA2Rjk0bk9mdDgyZ0F2QTU4TkRXTzF3OUNnc3NxY2M5ZEVscXZBVXR5YXd4Z0hfVmtDMWQ5YThhMm5yY1RfcTFrTDFJaWFNalEybjk4SE1GRU1WTG5vdDNETEN6U0ZabThTQVdnNFpxR1dWM0VhYVJHSy1WMXo2Z0p1MkMwX1paQ0dpR3c?oc=5",
-      "description": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz Al Jazeera",
-      "publishedAt": "Mon, 07 Sep 2026 21:33:45 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Further Oil Price Spikes Could Rekindle Recession Fears - Crude Oil Prices Today | OilPrice.com",
+      "title": "Soaring Oil Prices Put Fed on Track for September Rate Hike - Crude Oil Prices Today | OilPrice.com",
       "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdERGM1lxRUJ0U1ZNVEZmbWJsNV9takZ5ZHZwZnd2OF96VjZwY01oY2dTMG1pdS0zM3R5WUY5Zi1SeTdYSkNrMWk3a3RscXhtUVhBUHRmZnVmZG9yU2dUeGpObmFSRGZGZGRYRDloclE3MmJhWkplaDRYYXJ3N0lKR1RJUHo4c0NkZGJRNjlLclczdDVkTzM0clRDdHJCQi1N0gGmAUFVX3lxTE5hZ1pkVWx1Zy03Zm13S2tmMjBzZkMzNXMwa2FPcXg1aHRzUVpGQVMtcTc4bGxYTGlVNjVQNnBkZ0pkRWs0Rk1uVjNhSmFTcnlQM3ZDQkd0WWFtUllybUFvMUg5TG83bDFEcWQzZHhoUU12ZkV1aVFLQjFrUHc3bTI4T3BxOUhJLVhIN0hfVC0yUURia1h2NVl0c1FTeU9MakpXZTNucUE?oc=5",
-      "description": "Further Oil Price Spikes Could Rekindle Recession Fears Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Sun, 13 Sep 2026 21:00:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Brent crude oil tops $101 to close at highest level since May as fighting escalates in Persian Gulf - cnbc.com",
-      "source": "cnbc.com",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb3lFNkZod1g3RUVXbE1SLXhPRHNSTXRoZ2d6Z2duZlQ5Tks4VkhuOVBxZzYxdEw5U0FqbW1TbUF2ZkpsUWloWDduVGcySlJwVzE3M05VYWpmRWhwcUNJdUIxU3NaQWIyZjMxUjVLSnBQMUo0X1REQlN2QkUtRHZhQkZwOERIYW1uS05qV1F5d9IBlAFBVV95cUxQa1ZwMUJFQ1VvYmd5VnQzbmF1UGVzdGxKOWw1UEwzUXpBVlNEeDRzdTFVU3lEMGNmTFNZYXZUUGpSenVuMFNIVnR6Y2liUEpuUWRobEkxZ2V1azl4UzgwVGJKSTFpYnlQOGdZc2tRQy1PSHZyVHY3VHpYT0hCX00td3RjcE1iUmJ6VkIyenBzYWMtdzBw?oc=5",
-      "description": "Brent crude oil tops $101 to close at highest level since May as fighting escalates in Persian Gulf cnbc.com",
-      "publishedAt": "Wed, 09 Sep 2026 00:32:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOV0ttZ0Q2SEFDWUNnZ3d6SlJqZGtDalJublRJUFhUTzlIeERQckpnUWVnNl91cnIwdXl1UmJmYW94aUtuS2E2OUJfdTdybGluOVU3ZW14Z01XWnE1TloxVE5WOE40eW5lQm00SUIyNXVnVExNOU0yY0lhNGFLSmdSY3dNX2hFelotSS1vcFA5dUJNYlNqVFMyYXVwRnM5aTcwN1dhNkJvT3VQU21IWFdnMmxBVk9LQdIBuwFBVV95cUxOMDVpTHZfbGtETUFRTklHUms3Ty1ueXh4M0dLR2tFYUUweTZCUHZMc094c2JnRC1raHBQaDJlZ0otVGthLWVwRjd6RVpzWDMyT1dTR2xkWVFRd2NOOWFYZHh6ekp1WF9LWUlQMHJXT1F3WkZjNWFxc3NBOGZqWU1xOG90MS1kdzhkOVhFOUhYV1hUZERwYzNONENFSy1PODZWWURTMVVqYTBVbm41N0hwSFJKSXJDV3FscUln?oc=5",
+      "description": "Soaring Oil Prices Put Fed on Track for September Rate Hike Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Mon, 14 Sep 2026 08:00:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -176,20 +154,38 @@
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Slip After Recent Surge Amid Supply Risks - WSJ",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVmdLZG1QVzFmcEp2SHNlQzl3NEhiUW5HaG5UeGVzTndaZGtKOTg2U1N0RDdfVVJTU1owLVdJNFM3V3JzRWxMWDdyUkUwcVh1RlJ6SDEyYlR3Zl9SWEFESVMydU14U0IxRWlEdWtnZzlzb1oxa3ZFekFIaVRZRVBfTHFyWG1NaEhsemhPdlQ4UlN4WHlOYW9xUlgzUjNhVzlDejRB?oc=5",
-      "description": "Oil Prices Slip After Recent Surge Amid Supply Risks WSJ",
-      "publishedAt": "Fri, 11 Sep 2026 07:58:00 GMT",
+      "title": "Brent crude oil tops $101 to close at highest level since May as fighting escalates in Persian Gulf - CNBC",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb3lFNkZod1g3RUVXbE1SLXhPRHNSTXRoZ2d6Z2duZlQ5Tks4VkhuOVBxZzYxdEw5U0FqbW1TbUF2ZkpsUWloWDduVGcySlJwVzE3M05VYWpmRWhwcUNJdUIxU3NaQWIyZjMxUjVLSnBQMUo0X1REQlN2QkUtRHZhQkZwOERIYW1uS05qV1F5d9IBlAFBVV95cUxQa1ZwMUJFQ1VvYmd5VnQzbmF1UGVzdGxKOWw1UEwzUXpBVlNEeDRzdTFVU3lEMGNmTFNZYXZUUGpSenVuMFNIVnR6Y2liUEpuUWRobEkxZ2V1azl4UzgwVGJKSTFpYnlQOGdZc2tRQy1PSHZyVHY3VHpYT0hCX00td3RjcE1iUmJ6VkIyenBzYWMtdzBw?oc=5",
+      "description": "Brent crude oil tops $101 to close at highest level since May as fighting escalates in Persian Gulf CNBC",
+      "publishedAt": "Wed, 09 Sep 2026 00:32:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Banks Hike Oil Price Forecasts on Prolonged Gulf Disruptions - EnergyNow",
-      "source": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZmQ3TDVSLTJIUVcwQTFkVi1yTzJDUVEyRnYwRzBXVGhYRGFnQS1SWEU5Y0hNRHVmcld4b0tqemJNTlpoVTNSSXNUYmJEMlZUZWdvZFVKNF9ZOXdoUWNxTDdmV0JUTU9Ba0JXUUJ6dFk1aUgwa0V2Mjk3VlZfUUtwWlhHdmJBNUVuS1NhSUEzbUpPZ3VK?oc=5",
-      "description": "Banks Hike Oil Price Forecasts on Prolonged Gulf Disruptions EnergyNow",
-      "publishedAt": "Fri, 11 Sep 2026 15:12:35 GMT",
+      "title": "First Thing: Oil prices surge as attacks on Saudi Arabia stoke supply fears - The Guardian",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMzd6WVd1M2ZRd2c1V1EtZHZTc1VVbDVFTkV1VnowajhNd3NjOUdOMDZ1N0ZyaC1SUXVXem9QMmVHNnFmQzJxejBkSHRRUmxrdUtmNUFKUV9kVTFLX2VOSXVMUTQtTU00STVmQ2xPQkxQQTEwRzlmQ2hIbFVESXNKbFFkMjdNZGZFa1hIUHhiRHY0MnFhVUZIYUU5VWJ4c0Jyb3NWUmtvWVJYTDYzNFpodVJjNzlLUkU?oc=5",
+      "description": "First Thing: Oil prices surge as attacks on Saudi Arabia stoke supply fears The Guardian",
+      "publishedAt": "Mon, 14 Sep 2026 11:50:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil Prices Post Big Weekly Gain Amid Supply Risks - WSJ",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNWRUWm1JNlJuUXpZZWtjRlROdlFScHZuVEJnaFhZdllnYUc1YmJGVzlrbk4wUnRwX2dWX2RUSExGT1ltQ1lGS2hVVFhZUnNhWDZWcEgxTUlSOW9ncXVIaWVhbjNncktKbTBacHpSNnhvT1NmbnJfMlFVaGZ4TFhybG5uVGVPTnJjb0ZqVko1WlNBOWI0ZndPYm93MWN5cjd2?oc=5",
+      "description": "Oil Prices Post Big Weekly Gain Amid Supply Risks WSJ",
+      "publishedAt": "Fri, 11 Sep 2026 19:56:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil rises past $100 a barrel after latest Middle East attacks - The Hill",
+      "source": "The Hill",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ05XbUQtT093eVpYMmoxXzJzc0NDVXBRblFTVy1DdTIyU0Zub0FkMElGeldTNEk4UW5ndmxtLTBwX0tJdzMzamNub0RyN3ZxNzJSdlRyaE03aWVWMlM0aUlBRS1aaUFZbHo3WjF1aUhKSG5RTnBBY19GaU5ZbHNaZkFQUWt1NE1fZjg5NGhycTRzeGlNbWlr0gGcAUFVX3lxTE5sMG9HeVdTbkhRUHR5aVVTckpFb2ZSdExOelpWR2E4M3JNVE1zQzQwb2NobG9IRUl0UnJuZ0phSXNxQXd0cDN4V0lCWlVBWTJ5Vmt1VnBzdzZPQ3d3V1h6NWp6b0h6WHJXUGhUbG96T2JkaUEyeDdEaEt1NlZrYW1CVFBOcVN6OVRmYTQ3Sng3TmNmNnpndFRwOFFZdg?oc=5",
+      "description": "Oil rises past $100 a barrel after latest Middle East attacks The Hill",
+      "publishedAt": "Wed, 09 Sep 2026 12:58:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -203,29 +199,29 @@
       "impact": "medium"
     },
     {
-      "title": "Global bond sell-off resumes as surging oil prices stoke fears about inflation | Bonds - The Guardian",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNnZTNldEQUVCaWRsTTNsRGZfSlZqVXVfUXMwZkFpUWVNZEdoamVnUTZvZXRocnZKd1d2cVk2M0tlVEFwLVV0N3A3dGJkbU1yVnZBM0w2MG9kaU4zOUdpTXhSS3U0QjJmU1hPUm5fc09VTDZGaHNUdFAyVjVqVFo1eTQxM1NLWHh2LUN4U1pHbW81TURycVVHTV9iOExmQmlPcndLZXlYdEZ6WVJ2N3FMOFZEVHpvTzZQWnNzS0xkSldnMDNVbnVGeHRWMA?oc=5",
-      "description": "Global bond sell-off resumes as surging oil prices stoke fears about inflation | Bonds The Guardian",
-      "publishedAt": "Fri, 11 Sep 2026 01:30:00 GMT",
+      "title": "Banks Hike Oil Price Forecasts on Prolonged Gulf Disruptions - EnergyNow",
+      "source": "EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZmQ3TDVSLTJIUVcwQTFkVi1yTzJDUVEyRnYwRzBXVGhYRGFnQS1SWEU5Y0hNRHVmcld4b0tqemJNTlpoVTNSSXNUYmJEMlZUZWdvZFVKNF9ZOXdoUWNxTDdmV0JUTU9Ba0JXUUJ6dFk1aUgwa0V2Mjk3VlZfUUtwWlhHdmJBNUVuS1NhSUEzbUpPZ3VK?oc=5",
+      "description": "Banks Hike Oil Price Forecasts on Prolonged Gulf Disruptions EnergyNow",
+      "publishedAt": "Fri, 11 Sep 2026 15:12:35 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil prices up nearly 3% following new strikes on Saudi, Strait of Hormuz - Reuters",
+      "title": "Oil settles higher after Saudi strikes stoke supply worries - Reuters",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcXNvWlpHUEh2bzNITUYtX04zUG1vclFCeDZ1NVdQTkNXUk5OTmRESElsUXUyQjNsYVU1d2tEMFlNRjB1VXVnenR4UHZzd3F3dEZWR2tWSVZMREFiZXF6NjR5SlB5VmdaNXpTWHQ3UF9POFRGanpoR0NxZUV3ZUU4alAycW9mcGdLak5lQ2NXdlpHQ3I3eDVRM3JDWmI3SGdYUjZsbnJSaUVySHk3UFl4Y3AxVGFZbmg5?oc=5",
-      "description": "Oil prices up nearly 3% following new strikes on Saudi, Strait of Hormuz Reuters",
+      "description": "Oil settles higher after Saudi strikes stoke supply worries Reuters",
       "publishedAt": "Sun, 13 Sep 2026 22:23:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Current price of oil as of September 8, 2026 - Fortune",
-      "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE55MmI1QXRVV2dSQm11MnRGdlluWmhDUmkxajVxakUtX3Y0djBFLWhnQmFwQ1cySWNpdmwyOURnUDNfbDRvNS0wV1daZDJQVS1SbzkwRlc0NlhHZnRBclF3dFpR?oc=5",
-      "description": "Current price of oil as of September 8, 2026 Fortune",
-      "publishedAt": "Tue, 08 Sep 2026 13:00:00 GMT",
+      "title": "Canada's oil windfall may yet wipe out its losses from tariffs - CBC",
+      "source": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQTY1bmt1cE5McjFxRXVFMGRjYlJmZVdlNGJINGtYWHh3b09UbF8wbndSU2hSbkJpMWh4anF1Qy1hWFJHeTVIWjc2UVFsWXhLM2syWWs2dEdjbEtsWVNDSUE0cThsOGNGRDVvb2ZhS2lyeFVwTmFHODhIUkJYa012aW5wTmlLc19DVThGaXBOUk1CMzg?oc=5",
+      "description": "Canada's oil windfall may yet wipe out its losses from tariffs CBC",
+      "publishedAt": "Sun, 13 Sep 2026 08:00:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
