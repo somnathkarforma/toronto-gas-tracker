@@ -1,14 +1,13 @@
 {
-  "generatedAt": "2026-09-15 09:07 UTC",
+  "generatedAt": "2026-09-16 08:59 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 182.9,
-    "premium": 200.9,
-    "diesel": 193.4
+    "regular": 183.9,
+    "premium": 201.9,
+    "diesel": 194.4
   },
   "history": {
     "labels": [
-      "Mar 14",
       "Mar 15",
       "Mar 16",
       "Mar 17",
@@ -27,10 +26,9 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Sep 15"
+      "Sep 16"
     ],
     "regular": [
-      151.9,
       151.9,
       152.0,
       152.2,
@@ -49,10 +47,9 @@
       155.9,
       174.9,
       186.9,
-      182.9
+      183.9
     ],
     "premium": [
-      169.9,
       169.9,
       170.0,
       170.2,
@@ -71,10 +68,9 @@
       173.9,
       192.9,
       204.9,
-      200.9
+      201.9
     ],
     "diesel": [
-      162.4,
       162.4,
       162.5,
       162.7,
@@ -93,45 +89,45 @@
       166.4,
       185.4,
       197.4,
-      193.4
+      194.4
     ]
   },
   "prediction": {
     "labels": [
-      "Sep 16",
       "Sep 17",
       "Sep 18",
       "Sep 19",
       "Sep 20",
       "Sep 21",
-      "Sep 22"
+      "Sep 22",
+      "Sep 23"
     ],
     "regular": [
-      183.9,
-      184.8,
+      184.9,
       185.8,
-      186.7,
+      186.8,
       187.7,
       188.7,
-      189.6
+      189.7,
+      190.6
     ],
     "premium": [
-      201.9,
-      202.8,
+      202.9,
       203.8,
-      204.7,
+      204.8,
       205.7,
       206.7,
-      207.6
+      207.7,
+      208.6
     ],
     "diesel": [
-      194.4,
-      195.3,
+      195.4,
       196.3,
-      197.2,
+      197.3,
       198.2,
       199.2,
-      200.1
+      200.2,
+      201.1
     ]
   },
   "news": [
@@ -154,24 +150,6 @@
       "impact": "medium"
     },
     {
-      "title": "Brent crude oil tops $101 to close at highest level since May as fighting escalates in Persian Gulf - CNBC",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb3lFNkZod1g3RUVXbE1SLXhPRHNSTXRoZ2d6Z2duZlQ5Tks4VkhuOVBxZzYxdEw5U0FqbW1TbUF2ZkpsUWloWDduVGcySlJwVzE3M05VYWpmRWhwcUNJdUIxU3NaQWIyZjMxUjVLSnBQMUo0X1REQlN2QkUtRHZhQkZwOERIYW1uS05qV1F5d9IBlAFBVV95cUxQa1ZwMUJFQ1VvYmd5VnQzbmF1UGVzdGxKOWw1UEwzUXpBVlNEeDRzdTFVU3lEMGNmTFNZYXZUUGpSenVuMFNIVnR6Y2liUEpuUWRobEkxZ2V1azl4UzgwVGJKSTFpYnlQOGdZc2tRQy1PSHZyVHY3VHpYT0hCX00td3RjcE1iUmJ6VkIyenBzYWMtdzBw?oc=5",
-      "description": "Brent crude oil tops $101 to close at highest level since May as fighting escalates in Persian Gulf CNBC",
-      "publishedAt": "Wed, 09 Sep 2026 00:32:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "First Thing: Oil prices surge as attacks on Saudi Arabia stoke supply fears - The Guardian",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMzd6WVd1M2ZRd2c1V1EtZHZTc1VVbDVFTkV1VnowajhNd3NjOUdOMDZ1N0ZyaC1SUXVXem9QMmVHNnFmQzJxejBkSHRRUmxrdUtmNUFKUV9kVTFLX2VOSXVMUTQtTU00STVmQ2xPQkxQQTEwRzlmQ2hIbFVESXNKbFFkMjdNZGZFa1hIUHhiRHY0MnFhVUZIYUU5VWJ4c0Jyb3NWUmtvWVJYTDYzNFpodVJjNzlLUkU?oc=5",
-      "description": "First Thing: Oil prices surge as attacks on Saudi Arabia stoke supply fears The Guardian",
-      "publishedAt": "Mon, 14 Sep 2026 11:50:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
       "title": "Oil Prices Post Big Weekly Gain Amid Supply Risks - WSJ",
       "source": "WSJ",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNWRUWm1JNlJuUXpZZWtjRlROdlFScHZuVEJnaFhZdllnYUc1YmJGVzlrbk4wUnRwX2dWX2RUSExGT1ltQ1lGS2hVVFhZUnNhWDZWcEgxTUlSOW9ncXVIaWVhbjNncktKbTBacHpSNnhvT1NmbnJfMlFVaGZ4TFhybG5uVGVPTnJjb0ZqVko1WlNBOWI0ZndPYm93MWN5cjd2?oc=5",
@@ -181,11 +159,11 @@
       "impact": "medium"
     },
     {
-      "title": "Oil rises past $100 a barrel after latest Middle East attacks - The Hill",
-      "source": "The Hill",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ05XbUQtT093eVpYMmoxXzJzc0NDVXBRblFTVy1DdTIyU0Zub0FkMElGeldTNEk4UW5ndmxtLTBwX0tJdzMzamNub0RyN3ZxNzJSdlRyaE03aWVWMlM0aUlBRS1aaUFZbHo3WjF1aUhKSG5RTnBBY19GaU5ZbHNaZkFQUWt1NE1fZjg5NGhycTRzeGlNbWlr0gGcAUFVX3lxTE5sMG9HeVdTbkhRUHR5aVVTckpFb2ZSdExOelpWR2E4M3JNVE1zQzQwb2NobG9IRUl0UnJuZ0phSXNxQXd0cDN4V0lCWlVBWTJ5Vmt1VnBzdzZPQ3d3V1h6NWp6b0h6WHJXUGhUbG96T2JkaUEyeDdEaEt1NlZrYW1CVFBOcVN6OVRmYTQ3Sng3TmNmNnpndFRwOFFZdg?oc=5",
-      "description": "Oil rises past $100 a barrel after latest Middle East attacks The Hill",
-      "publishedAt": "Wed, 09 Sep 2026 12:58:00 GMT",
+      "title": "Oil prices fall Friday, but post sharp weekly gains as tensions in the Middle East rise - CNBC",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9hNHpYOUJUb3g4d2cyaG9nSG1DcEs3SVpZT1RaZzJZQ0xvVVBCUFFnV0Q4S1d4VjkxUXE4VlMzWGk0LUhfM3lKMzJBZk5yV3pfM3B3VjVZVlVidFo1QWs2SG5ydS1ENWFyZWtEdWpNcHQyYldyNG1TdzNqeWQ3d9IBgwFBVV95cUxPc3Z3S096WXFNWExocFlaYnBBYVFZQVA5aEtMcWo2dTdQTDdsQUN3NUphM1ZKR0x1bTlaTHVMbXE5T2Q1dUxEaV9xdmlSeTRybGk4amd4QlJGMVJMRk50dFRaOWpwcHJRNGoyc1B6NVdOczl0cHFTM2ItNmhhVXpnQ3I3dw?oc=5",
+      "description": "Oil prices fall Friday, but post sharp weekly gains as tensions in the Middle East rise CNBC",
+      "publishedAt": "Fri, 11 Sep 2026 10:39:09 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -199,11 +177,29 @@
       "impact": "medium"
     },
     {
-      "title": "Banks Hike Oil Price Forecasts on Prolonged Gulf Disruptions - EnergyNow",
-      "source": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZmQ3TDVSLTJIUVcwQTFkVi1yTzJDUVEyRnYwRzBXVGhYRGFnQS1SWEU5Y0hNRHVmcld4b0tqemJNTlpoVTNSSXNUYmJEMlZUZWdvZFVKNF9ZOXdoUWNxTDdmV0JUTU9Ba0JXUUJ6dFk1aUgwa0V2Mjk3VlZfUUtwWlhHdmJBNUVuS1NhSUEzbUpPZ3VK?oc=5",
-      "description": "Banks Hike Oil Price Forecasts on Prolonged Gulf Disruptions EnergyNow",
-      "publishedAt": "Fri, 11 Sep 2026 15:12:35 GMT",
+      "title": "Stock markets taking heat amid high oil prices, bond market jitters - Global News",
+      "source": "Global News",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjZ3lYeVRCNS1YbjVwa2RMQV9XaTdXVTVXdXg5OXJ2QWpHMVY5bEdLUVZsa2k3dUFrakdpQ3pIRV8yNURhNERQbE9rcGY3V3dwV1oyZlhjdkltWjlEV3ppZWpSbk9WTnRUZE5GZQ?oc=5",
+      "description": "Stock markets taking heat amid high oil prices, bond market jitters Global News",
+      "publishedAt": "Tue, 15 Sep 2026 15:40:02 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Global bond sell-off resumes as surging oil prices stoke fears about inflation | Bonds - The Guardian",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNnZTNldEQUVCaWRsTTNsRGZfSlZqVXVfUXMwZkFpUWVNZEdoamVnUTZvZXRocnZKd1d2cVk2M0tlVEFwLVV0N3A3dGJkbU1yVnZBM0w2MG9kaU4zOUdpTXhSS3U0QjJmU1hPUm5fc09VTDZGaHNUdFAyVjVqVFo1eTQxM1NLWHh2LUN4U1pHbW81TURycVVHTV9iOExmQmlPcndLZXlYdEZ6WVJ2N3FMOFZEVHpvTzZQWnNzS0xkSldnMDNVbnVGeHRWMA?oc=5",
+      "description": "Global bond sell-off resumes as surging oil prices stoke fears about inflation | Bonds The Guardian",
+      "publishedAt": "Fri, 11 Sep 2026 01:30:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil rises past $100 a barrel after latest Middle East attacks - The Hill",
+      "source": "The Hill",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ05XbUQtT093eVpYMmoxXzJzc0NDVXBRblFTVy1DdTIyU0Zub0FkMElGeldTNEk4UW5ndmxtLTBwX0tJdzMzamNub0RyN3ZxNzJSdlRyaE03aWVWMlM0aUlBRS1aaUFZbHo3WjF1aUhKSG5RTnBBY19GaU5ZbHNaZkFQUWt1NE1fZjg5NGhycTRzeGlNbWlr?oc=5",
+      "description": "Oil rises past $100 a barrel after latest Middle East attacks The Hill",
+      "publishedAt": "Wed, 09 Sep 2026 12:58:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -212,16 +208,16 @@
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcXNvWlpHUEh2bzNITUYtX04zUG1vclFCeDZ1NVdQTkNXUk5OTmRESElsUXUyQjNsYVU1d2tEMFlNRjB1VXVnenR4UHZzd3F3dEZWR2tWSVZMREFiZXF6NjR5SlB5VmdaNXpTWHQ3UF9POFRGanpoR0NxZUV3ZUU4alAycW9mcGdLak5lQ2NXdlpHQ3I3eDVRM3JDWmI3SGdYUjZsbnJSaUVySHk3UFl4Y3AxVGFZbmg5?oc=5",
       "description": "Oil settles higher after Saudi strikes stoke supply worries Reuters",
-      "publishedAt": "Sun, 13 Sep 2026 22:23:00 GMT",
+      "publishedAt": "Mon, 14 Sep 2026 17:42:40 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Canada's oil windfall may yet wipe out its losses from tariffs - CBC",
-      "source": "CBC",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQTY1bmt1cE5McjFxRXVFMGRjYlJmZVdlNGJINGtYWHh3b09UbF8wbndSU2hSbkJpMWh4anF1Qy1hWFJHeTVIWjc2UVFsWXhLM2syWWs2dEdjbEtsWVNDSUE0cThsOGNGRDVvb2ZhS2lyeFVwTmFHODhIUkJYa012aW5wTmlLc19DVThGaXBOUk1CMzg?oc=5",
-      "description": "Canada's oil windfall may yet wipe out its losses from tariffs CBC",
-      "publishedAt": "Sun, 13 Sep 2026 08:00:00 GMT",
+      "title": "Oil prices tick up as conflict widens, disruptions grow in Middle East - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSkdxQ2NTMWpuWUg5OTBzZmtyZ0E0b1dlVVB1VUkwTGpLTFFJM3FraGFuTW4zNXNDOFRXWjhrbHhTblJWemc3TWFMQ3dXUV9vMzI0aldvR1JfNDNZVWhtODZZWmpYT1RYckdwOGFSREI0cHNrYTVWRk1YQnhrM2pkUkZ6ODZDTjBxNnlhOVhETmhvZ1R4VTNueEd5bFVhMWo3VlVTRkEzdmJTRHdBWGFQT25wN3A1Mmlvd0JtM3FkVHg1ZFdla09TVFBSMkNMZnI4THpsOA?oc=5",
+      "description": "Oil prices tick up as conflict widens, disruptions grow in Middle East Yahoo Finance",
+      "publishedAt": "Tue, 15 Sep 2026 19:24:10 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
