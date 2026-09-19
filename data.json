@@ -1,14 +1,13 @@
 {
-  "generatedAt": "2026-09-18 08:39 UTC",
+  "generatedAt": "2026-09-19 08:26 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 180.9,
-    "premium": 198.9,
-    "diesel": 191.4
+    "regular": 182.9,
+    "premium": 200.9,
+    "diesel": 193.4
   },
   "history": {
     "labels": [
-      "Mar 17",
       "Mar 18",
       "Mar 19",
       "Mar 20",
@@ -24,10 +23,9 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Sep 18"
+      "Sep 19"
     ],
     "regular": [
-      152.2,
       152.6,
       153.1,
       153.6,
@@ -43,10 +41,9 @@
       155.9,
       174.9,
       186.9,
-      180.9
+      182.9
     ],
     "premium": [
-      170.2,
       170.6,
       171.1,
       171.6,
@@ -62,10 +59,9 @@
       173.9,
       192.9,
       204.9,
-      198.9
+      200.9
     ],
     "diesel": [
-      162.7,
       163.1,
       163.6,
       164.1,
@@ -81,45 +77,45 @@
       166.4,
       185.4,
       197.4,
-      191.4
+      193.4
     ]
   },
   "prediction": {
     "labels": [
-      "Sep 19",
       "Sep 20",
       "Sep 21",
       "Sep 22",
       "Sep 23",
       "Sep 24",
-      "Sep 25"
+      "Sep 25",
+      "Sep 26"
     ],
     "regular": [
-      181.9,
-      182.8,
-      183.8,
-      184.7,
-      185.7,
+      183.9,
+      184.8,
+      185.8,
       186.7,
-      187.6
+      187.7,
+      188.7,
+      189.6
     ],
     "premium": [
-      199.9,
-      200.8,
-      201.8,
-      202.7,
-      203.7,
+      201.9,
+      202.8,
+      203.8,
       204.7,
-      205.6
+      205.7,
+      206.7,
+      207.6
     ],
     "diesel": [
-      192.4,
-      193.3,
-      194.3,
-      195.2,
-      196.2,
+      194.4,
+      195.3,
+      196.3,
       197.2,
-      198.1
+      198.2,
+      199.2,
+      200.1
     ]
   },
   "news": [
@@ -133,19 +129,19 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices fall as Saudi supply hopes outweigh fresh Houthi strikes - CNBC",
+      "title": "Oil finishes the week flat as the market sees Saudi pipeline outage as less disruptive than feared - CNBC",
       "source": "CNBC",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObFVrTUIxTHp1MXFzWE0zbmZBRWhXZ3NiZldLbjVqUE5vMk9OZXdER3FfQmFmX2dkSjdtTXp5VkNpYjVEU0Nqck5WUEFfZEJaOGdJLXVCV1VoVk4yOUNiWWxmZlBXLURUaUFBN3o5eTZ2RTNFbVc4ZmtvN1lOU1NsSTgxWGg2cWRBemdz0gGQAUFVX3lxTFBXWmlwaXRIb0NsbUt1eVZhMDNJSXlVcUM1QllXSkhfLW5NTUlib3E4b2Y3ZnMwNjRhamJTRFlZWnlSczM0NjB3OE54Y3hYbDhIWlVFVnFUaUlsbWlGd0tjR25mRkZyY2Q0Qm1vdWdpOFcwdGNtZmx4cXl0TWV6M0h0X04wZHJVOVpjeHdLV0lmMg?oc=5",
-      "description": "Oil prices fall as Saudi supply hopes outweigh fresh Houthi strikes CNBC",
+      "description": "Oil finishes the week flat as the market sees Saudi pipeline outage as less disruptive than feared CNBC",
       "publishedAt": "Fri, 18 Sep 2026 01:35:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Climb Higher - wsj.com",
-      "source": "wsj.com",
+      "title": "Oil Prices Climb Higher - WSJ",
+      "source": "WSJ",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAwUjdqUndUb3JxR2dyWm5jcm1lMEU0TEh1b3ZlcmViT0lCTHdONFI1UlJZdURjZVpQUU9Xa0VLQ1BZY2RNNXV1aW9WZnF4c3NzcG5rZEkzeFpHaWJPSlNZRUpMYk5NY0VBQU0wQWo0RmlpR0o5UzRFWlhB?oc=5",
-      "description": "Oil Prices Climb Higher wsj.com",
+      "description": "Oil Prices Climb Higher WSJ",
       "publishedAt": "Tue, 15 Sep 2026 20:19:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
@@ -160,47 +156,20 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices up after new strikes on Saudi infrastructure - The Hill",
-      "source": "The Hill",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYUNyZGZvdDljdk5yYWNidjRMNkpiQ2ZEcy1qckJ2MlM1MmJzUVl1THZtZ3NKd0RGTFNrR21fc21SRDBIQ1BuN295Wl8ySlppWTlncHhHSzNQWTJ5MWFHUW53djNxdnh5dDlFYTRZOWNsXzNqNUg1RW9aWDJ3akk4dGNmY3BUcTVtZUxFT3hn0gGTAUFVX3lxTE9oSjRDR1BEQklvREFlc1ZfMTlsRVhNZGtDRmVpSEJDQk5XZEFpczJjdUs1UDNZWDMzNS1DVG80el9UWEZ6bDlMcWFUbU1RM05PVVF2NUFLY0gyMm9pQTZxYkxpZEJob2ZoVFdsQjR1akFaM3o3S003eGh0Nm9id3lpandDRTlYSFl6aW41ZmhUMGVSYw?oc=5",
-      "description": "Oil prices up after new strikes on Saudi infrastructure The Hill",
-      "publishedAt": "Mon, 14 Sep 2026 20:23:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Current price of oil as of September 11, 2026 - Fortune",
+      "title": "Current price of oil as of Sept. 15, 2026 - Fortune",
       "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qYXE5TVZLVVd6LXd3cTYyTWF3c1FnZTRtSzFVRlRhRFFreV8tcXVMVURJZUZidDZtYW4zZF9ubHdQZmxONVhNTVdBU0NBeHhKRnFsQnptaTZaZkNyQkhJOFlB?oc=5",
-      "description": "Current price of oil as of September 11, 2026 Fortune",
-      "publishedAt": "Fri, 11 Sep 2026 13:30:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB3VDV4VE03cXh1Y0Jaa3dvaTlZVUNLdmZPY3doWGR2OExYMFQwLWRBVnhjMlk0MG9ZbEJ0a3FmYWo0ek5FR1o5dHFVc1IwdnlnQUl5aktXUlpXS21ITGVZdzdR?oc=5",
+      "description": "Current price of oil as of Sept. 15, 2026 Fortune",
+      "publishedAt": "Tue, 15 Sep 2026 13:00:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil falls 1% as investors watch Middle East supply disruptions - Reuters",
+      "title": "Oil settles higher after Saudi strikes stoke supply worries - Reuters",
       "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQem15UTRSMDAta3NrU2VpWTcxVllaeWVZT2wyc1gwQUs5aER1ZFFtaG8zNmI4UkZGV09BOHV6eGVHdy1RbTZWZXVkdklmSkVnMUtqbk9JZkdPb19FakhJc1RaUFRMUlNxR3F1VUx2TTZRcElaQk9ISmJsaWozRFNETDcxcjZxT0lJTm4zbV9CN1hETXB2SnYzQkhwZVpobENkRTBfYU5UbjZoUVhGXzZtM2xNUDFWdkJqUVE?oc=5",
-      "description": "Oil falls 1% as investors watch Middle East supply disruptions Reuters",
-      "publishedAt": "Thu, 17 Sep 2026 01:00:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "U.S. stocks jump after oil prices ease and an inflation update comes in near expectations - BNN Bloomberg",
-      "source": "BNN Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPY2JPWkZQalVDSDZDVUJyTDktQ0EzNkU0eDZoMHFnbWZEY1ktVlpHRUVuYk1kdGhCR2xsUi03bklLNU1KdFBMdnhxdm93U0NwdDJfQ25HOE4tdkFQWGt3cXN1WE52NWh0X3o1MVphTDJTZDFGdGhGNUs5VmV3d3VFZVRRQUhfbG45STk3MUFFVm92ZURqZWdjOUZCRFFwOG4yT2k1TFY0UmdjdUM4OGtXX0ZSbDZfdEpDQUsyZVRvbWU2bW84OVBOemw3ZFpOeGxlUGJwZg?oc=5",
-      "description": "U.S. stocks jump after oil prices ease and an inflation update comes in near expectations BNN Bloomberg",
-      "publishedAt": "Fri, 11 Sep 2026 20:20:51 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices soar over 4% to 16-week high after Saudi strikes - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNa2otdmw3UllpNnlRX3ZCWmlxZnZZeE5kNXE2c1p0d3lIZUxYQ2ZfT3pVZmhlcUFzUXFUaWNfRV8wZ2VYS1NhcHc5eTBkcDd1eEFxOUtIdndFUzBvendCa1M5NFZiQVdVQlJRZk9Sa0hTajlTSV9zR1ZnaWRKeGRMbjJrNWxnQQ?oc=5",
-      "description": "Oil prices soar over 4% to 16-week high after Saudi strikes Yahoo Finance",
-      "publishedAt": "Mon, 14 Sep 2026 14:56:58 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcXNvWlpHUEh2bzNITUYtX04zUG1vclFCeDZ1NVdQTkNXUk5OTmRESElsUXUyQjNsYVU1d2tEMFlNRjB1VXVnenR4UHZzd3F3dEZWR2tWSVZMREFiZXF6NjR5SlB5VmdaNXpTWHQ3UF9POFRGanpoR0NxZUV3ZUU4alAycW9mcGdLak5lQ2NXdlpHQ3I3eDVRM3JDWmI3SGdYUjZsbnJSaUVySHk3UFl4Y3AxVGFZbmg5?oc=5",
+      "description": "Oil settles higher after Saudi strikes stoke supply worries Reuters",
+      "publishedAt": "Sun, 13 Sep 2026 22:26:41 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -210,6 +179,33 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONmYydkRWVVJiZ0hacFBMVEtFdEJsSHRnZXNZSEFacC1iM3BlYldxeFJuNGc0d0E0WHY5NklaUU02bVJJMFEzQUpzY2dyamZ3SXJ2N1RGeVdpcUdtblpWZnVPdjd6R3V3MHBYT3Rjbk1RQUItNDM5bkFrN2J0Tm1rUUdtaTVUSmF0akdhMDIxTkJrV3pTYmlENGRpTTZCckxobXFMRGlOdjhJNnQtNjFMQlZPVXA2MGl2MnY00gHAAUFVX3lxTFBuWE1QQVg1S0lDY0VuVU9Lam5RYmx3SkZyTWhudmdMZ0hHTzNMYW9ZcmoydmplNzZFVUFyVng4MzVGVTBOWnRGQVB1MUNDcm5Dc01tWGtVelpiTW0wTjdhMjE1WWdDR0VmclU4Z2g3WmhLTG13a2wycEtlXzFkR0JNZEZWeFZadkwxWENDT19CTGw3aFltNkZjSXl5eUxVc1IzVVB6LV9NTTNSRWpKVXlmSzZxNHJXSEl5RkJhaTlHSA?oc=5",
       "description": "Oil Prices Surge as Middle East Attacks Continue and Diplomacy Stumbles Crude Oil Prices Today | OilPrice.com",
       "publishedAt": "Mon, 14 Sep 2026 02:39:17 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil Prices Rise as Saudi East-West Pipeline Attack Threatens Export Routes - WSJ",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeDdvckhVQlJKZzN2eU90TEg3YU9vRmhZdTdjdkZ1cExSOUd4N09GVEktMTBVT012ZUdGWUdtc2JLaDdIWDJWWFdpUmlJU3pMVWt3MXR2bXRyUXlnSHJTVDJ2Vzg1bmx1ZFptX3ZoVmlMZS1EODlaM3FHbGFJTHFUM0I5YkE5WVRGcEs0UlNkZjdsdXhzdHF6dXFqbHV0bFFZRmRCNDF1WHpQOGZLeGJCdkJIRmNOa1Bzb1FKNU9fcGc?oc=5",
+      "description": "Oil Prices Rise as Saudi East-West Pipeline Attack Threatens Export Routes WSJ",
+      "publishedAt": "Sat, 19 Sep 2026 03:08:44 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "U.S. oil tops $105 as Saudi Arabia reportedly cancels some crude cargoes after pipeline closure - CNBC",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQV9wNE85VzFIRFBUV1ZCd1RLX00yTlF3eW5WNi1vX2FKbU53X09ZMVljYlBrTjZnZUJTQ0RmRWVjVXh1a2dsRy1KQ1NUeVpUTVg3RC1TUzVrWHpuX00wZkN2bURLYjFJdTRrWmlhdU5uUDZMVjRHdm0yVzZYeFVvbUNLc2xza1BrNlh6WEcwMUplNGJCdGdLQ0U1ONIBoAFBVV95cUxPVHp5bVZ4Nzh6VWJqdldveXVnR0gtZEMyeWc0eGdhNXBqbEFiM0xLQVZSYlp5elF4TGotRUVKTExYUklxeHhqQ0VBNHBVZmhvcG1YeTV1U2xYcjZsa1FtS2ZRNWN0UkdpMHJZY1NSOXhNTXdvUERWeVFneWZWVlhtLVZZblIwd2JKU2xRclBSWS13blFjU1pfUUNQLVF3RURF?oc=5",
+      "description": "U.S. oil tops $105 as Saudi Arabia reportedly cancels some crude cargoes after pipeline closure CNBC",
+      "publishedAt": "Tue, 15 Sep 2026 01:55:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil falls 1% as investors watch Middle East supply disruptions - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQem15UTRSMDAta3NrU2VpWTcxVllaeWVZT2wyc1gwQUs5aER1ZFFtaG8zNmI4UkZGV09BOHV6eGVHdy1RbTZWZXVkdklmSkVnMUtqbk9JZkdPb19FakhJc1RaUFRMUlNxR3F1VUx2TTZRcElaQk9ISmJsaWozRFNETDcxcjZxT0lJTm4zbV9CN1hETXB2SnYzQkhwZVpobENkRTBfYU5UbjZoUVhGXzZtM2xNUDFWdkJqUVE?oc=5",
+      "description": "Oil falls 1% as investors watch Middle East supply disruptions Reuters",
+      "publishedAt": "Fri, 18 Sep 2026 01:58:43 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
