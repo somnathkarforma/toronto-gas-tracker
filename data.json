@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20 08:58 UTC",
+  "generatedAt": "2026-09-21 09:29 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
     "regular": 183.9,
@@ -8,7 +8,6 @@
   },
   "history": {
     "labels": [
-      "Mar 19",
       "Mar 20",
       "Mar 21",
       "Mar 22",
@@ -22,10 +21,9 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Sep 20"
+      "Sep 21"
     ],
     "regular": [
-      153.1,
       153.6,
       154.3,
       154.9,
@@ -42,7 +40,6 @@
       183.9
     ],
     "premium": [
-      171.1,
       171.6,
       172.3,
       172.9,
@@ -59,7 +56,6 @@
       201.9
     ],
     "diesel": [
-      163.6,
       164.1,
       164.8,
       165.4,
@@ -78,13 +74,13 @@
   },
   "prediction": {
     "labels": [
-      "Sep 21",
       "Sep 22",
       "Sep 23",
       "Sep 24",
       "Sep 25",
       "Sep 26",
-      "Sep 27"
+      "Sep 27",
+      "Sep 28"
     ],
     "regular": [
       184.9,
@@ -116,20 +112,20 @@
   },
   "news": [
     {
-      "title": "Soaring Oil Prices Put Fed on Track for September Rate Hike - Crude Oil Prices Today | OilPrice.com",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOV0ttZ0Q2SEFDWUNnZ3d6SlJqZGtDalJublRJUFhUTzlIeERQckpnUWVnNl91cnIwdXl1UmJmYW94aUtuS2E2OUJfdTdybGluOVU3ZW14Z01XWnE1TloxVE5WOE40eW5lQm00SUIyNXVnVExNOU0yY0lhNGFLSmdSY3dNX2hFelotSS1vcFA5dUJNYlNqVFMyYXVwRnM5aTcwN1dhNkJvT3VQU21IWFdnMmxBVk9LQdIBuwFBVV95cUxOMDVpTHZfbGtETUFRTklHUms3Ty1ueXh4M0dLR2tFYUUweTZCUHZMc094c2JnRC1raHBQaDJlZ0otVGthLWVwRjd6RVpzWDMyT1dTR2xkWVFRd2NOOWFYZHh6ekp1WF9LWUlQMHJXT1F3WkZjNWFxc3NBOGZqWU1xOG90MS1kdzhkOVhFOUhYV1hUZERwYzNONENFSy1PODZWWURTMVVqYTBVbm41N0hwSFJKSXJDV3FscUln?oc=5",
-      "description": "Soaring Oil Prices Put Fed on Track for September Rate Hike Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Mon, 14 Sep 2026 08:00:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
       "title": "Oil Prices Climb Higher - WSJ",
       "source": "WSJ",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAwUjdqUndUb3JxR2dyWm5jcm1lMEU0TEh1b3ZlcmViT0lCTHdONFI1UlJZdURjZVpQUU9Xa0VLQ1BZY2RNNXV1aW9WZnF4c3NzcG5rZEkzeFpHaWJPSlNZRUpMYk5NY0VBQU0wQWo0RmlpR0o5UzRFWlhB?oc=5",
       "description": "Oil Prices Climb Higher WSJ",
       "publishedAt": "Tue, 15 Sep 2026 20:19:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil Prices Slide as Saudi Arabia Reroutes Crude via Oman - Crude Oil Prices Today | OilPrice.com",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYzJGNEtRTjVBUUxpVjhGMTdFTHlJSVVtWmpkbzNlU2hMbXRfQ3dzNlhqa01rcXRlSGVxVkMtTFIta1hTN3hPcVdLVndJY21EVlJaY2Voa3pDWG9OUVNmM2x3V0h0VkZEMF9za1NqaF8tY2lBa1NnRnZkakpTLW4tN3otYVVzOXM4aUwtUmtDeWVGQ3U5d2ZDMmZyN1c1VksyaTNfM3JNY2VONWpQOEctbm5B0gG3AUFVX3lxTE5OS09DS01LQ0VvdVRGZGhJV1FCaW5LYXM3bW44ZlVlc1h2bzQ2Z3ltWlJrcFFEQ3YwTkNKOWtKLUplWnRYY25aVkNNNTBaOG9ESlhIaF8xYzVZVDdMbmJfSGJEeVlrd2hEcUpDeHd5eTNuNi1lSE55cGNLTmdZQmQtT3NnS0V4TnRjRG1OdnVYUFpVd2xEbGl3WnB5dWVkdHllVkNJT2JXT0NsVmZ0ampJbWxfSklvaw?oc=5",
+      "description": "Oil Prices Slide as Saudi Arabia Reroutes Crude via Oman Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Thu, 17 Sep 2026 05:20:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -143,11 +139,11 @@
       "impact": "medium"
     },
     {
-      "title": "Oil falls 1% as investors watch Middle East supply disruptions - Reuters",
+      "title": "Oil slides after China asks Iran to limit Houthi attacks on Saudi oil facilities - Reuters",
       "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQem15UTRSMDAta3NrU2VpWTcxVllaeWVZT2wyc1gwQUs5aER1ZFFtaG8zNmI4UkZGV09BOHV6eGVHdy1RbTZWZXVkdklmSkVnMUtqbk9JZkdPb19FakhJc1RaUFRMUlNxR3F1VUx2TTZRcElaQk9ISmJsaWozRFNETDcxcjZxT0lJTm4zbV9CN1hETXB2SnYzQkhwZVpobENkRTBfYU5UbjZoUVhGXzZtM2xNUDFWdkJqUVE?oc=5",
-      "description": "Oil falls 1% as investors watch Middle East supply disruptions Reuters",
-      "publishedAt": "Thu, 17 Sep 2026 19:38:32 GMT",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeDVrUGNRTzdTOG1wQ1ljY2w0Y002MjMxSVNvM2RrLTBhM3B1dEJVS1B6bnJWTjhydS1BUHpfTVFtbHh2QkdMdFU1ZVo3MDJtQ01kbldpa0lfWFM0QXFWbmVsN1RqcjcxMHczN3JGSHItelVZMzQtYklTN1kwVlJxLU5RVzAwc3BEQV9iVFI1N0xhRXluaGZxN0NrWkxFMDk5Q0pYZw?oc=5",
+      "description": "Oil slides after China asks Iran to limit Houthi attacks on Saudi oil facilities Reuters",
+      "publishedAt": "Sat, 19 Sep 2026 08:20:38 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -157,15 +153,6 @@
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjZ3lYeVRCNS1YbjVwa2RMQV9XaTdXVTVXdXg5OXJ2QWpHMVY5bEdLUVZsa2k3dUFrakdpQ3pIRV8yNURhNERQbE9rcGY3V3dwV1oyZlhjdkltWjlEV3ppZWpSbk9WTnRUZE5GZQ?oc=5",
       "description": "Stock markets taking heat amid high oil prices, bond market jitters Global News",
       "publishedAt": "Tue, 15 Sep 2026 15:40:02 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices up after new strikes on Saudi infrastructure - The Hill",
-      "source": "The Hill",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYUNyZGZvdDljdk5yYWNidjRMNkpiQ2ZEcy1qckJ2MlM1MmJzUVl1THZtZ3NKd0RGTFNrR21fc21SRDBIQ1BuN295Wl8ySlppWTlncHhHSzNQWTJ5MWFHUW53djNxdnh5dDlFYTRZOWNsXzNqNUg1RW9aWDJ3akk4dGNmY3BUcTVtZUxFT3hn0gGTAUFVX3lxTE9oSjRDR1BEQklvREFlc1ZfMTlsRVhNZGtDRmVpSEJDQk5XZEFpczJjdUs1UDNZWDMzNS1DVG80el9UWEZ6bDlMcWFUbU1RM05PVVF2NUFLY0gyMm9pQTZxYkxpZEJob2ZoVFdsQjR1akFaM3o3S003eGh0Nm9id3lpandDRTlYSFl6aW41ZmhUMGVSYw?oc=5",
-      "description": "Oil prices up after new strikes on Saudi infrastructure The Hill",
-      "publishedAt": "Mon, 14 Sep 2026 20:23:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -188,20 +175,29 @@
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Surge as Middle East Attacks Continue and Diplomacy Stumbles - Crude Oil Prices Today | OilPrice.com",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONmYydkRWVVJiZ0hacFBMVEtFdEJsSHRnZXNZSEFacC1iM3BlYldxeFJuNGc0d0E0WHY5NklaUU02bVJJMFEzQUpzY2dyamZ3SXJ2N1RGeVdpcUdtblpWZnVPdjd6R3V3MHBYT3Rjbk1RQUItNDM5bkFrN2J0Tm1rUUdtaTVUSmF0akdhMDIxTkJrV3pTYmlENGRpTTZCckxobXFMRGlOdjhJNnQtNjFMQlZPVXA2MGl2MnY00gHAAUFVX3lxTFBuWE1QQVg1S0lDY0VuVU9Lam5RYmx3SkZyTWhudmdMZ0hHTzNMYW9ZcmoydmplNzZFVUFyVng4MzVGVTBOWnRGQVB1MUNDcm5Dc01tWGtVelpiTW0wTjdhMjE1WWdDR0VmclU4Z2g3WmhLTG13a2wycEtlXzFkR0JNZEZWeFZadkwxWENDT19CTGw3aFltNkZjSXl5eUxVc1IzVVB6LV9NTTNSRWpKVXlmSzZxNHJXSEl5RkJhaTlHSA?oc=5",
-      "description": "Oil Prices Surge as Middle East Attacks Continue and Diplomacy Stumbles Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Mon, 14 Sep 2026 02:39:17 GMT",
+      "title": "China faces oil challenge as prices soar and supply options narrow - Al Jazeera",
+      "source": "Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPelYzVkpEeXpXRGtTNzVYMkItR0RUbjhhc2puRTJNOUtheVZPTkVac3pyYUNLYW1kNEFaWHE4eTFIUEY1enNTdjdNTGVlZnh0a2RadjFha2dpaGZNdkhnU0Q5MkZiRGhKeTZmcnJVREhwTXBCbGhFR2N5U3dkRDJUMTQ1azJSX29nN0E0M05GYkRQM3ZnQk5uSFc3aVFGSFIyN1h4MGhjVEF1bjjSAbABQVVfeXFMTjlMZXZJQmxLTmdoMXR2TGJJc01OUTUxM0FzNFAwZ2ZYdHpsN0hTNk1yN1g1VVcyakIwVVNRR3dJck9vVXlkUDRBdlUyRjVBcEUyYUYtd25fM2tiQXRZTE9vcVdpaHcwcHNWZ1JMNy1CSmg0TmVRSHVsSVRVc2M0NVE2M2l0RGZVS3lEZWFoYWd5Z3VyQnJjR3g5NmlxZWZ2V0ZhMDJSTlJkVG1KUGtEQXA?oc=5",
+      "description": "China faces oil challenge as prices soar and supply options narrow Al Jazeera",
+      "publishedAt": "Thu, 17 Sep 2026 15:02:39 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Rise as Middle East Supply Concerns Persist - WSJ",
+      "title": "Oil Prices Rise as Saudi East-West Pipeline Attack Threatens Export Routes - WSJ",
       "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYXllQnlVNEJ6c3dqT3FrUUhwVzZZeDRmVGtZdDNFa21QbmVIVHJEYTBqZnFkbUYxTV9FZjJWZ0hrak82UkdJYml3WDJRbWhDYzdaUGxWTURrN0VhazNiMWJaT1VuOFBUWkR0dV9KbEdYa19xaW40MlltdHFhbEZGZzlrb3VoTVR0bjNNM2xaT1FaNDUybm5pTkVLS01QV1hQUFhEckNn?oc=5",
-      "description": "Oil Prices Rise as Middle East Supply Concerns Persist WSJ",
-      "publishedAt": "Tue, 15 Sep 2026 19:48:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeDdvckhVQlJKZzN2eU90TEg3YU9vRmhZdTdjdkZ1cExSOUd4N09GVEktMTBVT012ZUdGWUdtc2JLaDdIWDJWWFdpUmlJU3pMVWt3MXR2bXRyUXlnSHJTVDJ2Vzg1bmx1ZFptX3ZoVmlMZS1EODlaM3FHbGFJTHFUM0I5YkE5WVRGcEs0UlNkZjdsdXhzdHF6dXFqbHV0bFFZRmRCNDF1WHpQOGZLeGJCdkJIRmNOa1Bzb1FKNU9fcGc?oc=5",
+      "description": "Oil Prices Rise as Saudi East-West Pipeline Attack Threatens Export Routes WSJ",
+      "publishedAt": "Mon, 14 Sep 2026 19:39:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "U.S. Oil Inventories Edge Lower as Fuel Demand Softens - Crude Oil Prices Today | OilPrice.com",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQUpQeGlpXzVxZ3dVR0JCZ3VKZk56X182eTZta2ZNdkRwT3JKdTRDQUNib3hXQTY5VXhTbE9UeW9lbTNQdnBvTm40R0hPb1FQZVFtQnNsanV3Z3g0dTNINGFyV2JTOGNXWGpndFpzMjdNdFk3b1dWTXZBNm1SRUNCQldrOElrOGltbDB1RFBMRVRiaFJWSUZiaTlyVdIBoAFBVV95cUxPdkVpQkNseG55OVhYTXc2RndsM2NrMjNWOW8zbzN2OVBId015VWtZb0kwTU55a3JudWVfQThIaWpVZFN1Y2hJT0FZeDJGbVdqS3ctZ1dNZncwN25DejdnSlMwUkJUS19pWGp3V1dxOVhMVGdWV1libVNaWTI1UXAtVnBib2tsb2MtLWQzN3BvLWxDVHdQSG1MbXh1NmtxYkds?oc=5",
+      "description": "U.S. Oil Inventories Edge Lower as Fuel Demand Softens Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Wed, 16 Sep 2026 14:41:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
