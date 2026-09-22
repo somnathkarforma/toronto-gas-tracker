@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21 09:29 UTC",
+  "generatedAt": "2026-09-22 08:57 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
     "regular": 183.9,
@@ -8,7 +8,6 @@
   },
   "history": {
     "labels": [
-      "Mar 20",
       "Mar 21",
       "Mar 22",
       "Mar 23",
@@ -21,10 +20,9 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Sep 21"
+      "Sep 22"
     ],
     "regular": [
-      153.6,
       154.3,
       154.9,
       155.4,
@@ -40,7 +38,6 @@
       183.9
     ],
     "premium": [
-      171.6,
       172.3,
       172.9,
       173.4,
@@ -56,7 +53,6 @@
       201.9
     ],
     "diesel": [
-      164.1,
       164.8,
       165.4,
       165.9,
@@ -74,13 +70,13 @@
   },
   "prediction": {
     "labels": [
-      "Sep 22",
       "Sep 23",
       "Sep 24",
       "Sep 25",
       "Sep 26",
       "Sep 27",
-      "Sep 28"
+      "Sep 28",
+      "Sep 29"
     ],
     "regular": [
       184.9,
@@ -112,20 +108,29 @@
   },
   "news": [
     {
-      "title": "Oil Prices Climb Higher - WSJ",
+      "title": "Oil Prices Fall for Fourth Day as Supply Concerns Ease - WSJ",
       "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAwUjdqUndUb3JxR2dyWm5jcm1lMEU0TEh1b3ZlcmViT0lCTHdONFI1UlJZdURjZVpQUU9Xa0VLQ1BZY2RNNXV1aW9WZnF4c3NzcG5rZEkzeFpHaWJPSlNZRUpMYk5NY0VBQU0wQWo0RmlpR0o5UzRFWlhB?oc=5",
-      "description": "Oil Prices Climb Higher WSJ",
-      "publishedAt": "Tue, 15 Sep 2026 20:19:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcEZWRkFoeVdVQnQtNnE2OXRQM2ViMkhkdk41di05ZWhjQXgwRGJFaW12REM2ZnVxMl9zYUR6Vlh2NVVJRFk4X2RUUk9HRXZDUVVHWmw0YjRlcDFsTTlwQjYxZGlwRnVXTUUxTnU5ZzFXMy02Ri1TNkE3Y1ZTa29yWFR2VVZoYWQ0eEttX081M0w5bkpIZ1FmNFdOOGNINWR3LW9N?oc=5",
+      "description": "Oil Prices Fall for Fourth Day as Supply Concerns Ease WSJ",
+      "publishedAt": "Mon, 21 Sep 2026 20:01:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Slide as Saudi Arabia Reroutes Crude via Oman - Crude Oil Prices Today | OilPrice.com",
+      "title": "Oil Prices Slide as Traders Bet on Iran Diplomacy - Crude Oil Prices Today | OilPrice.com",
       "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYzJGNEtRTjVBUUxpVjhGMTdFTHlJSVVtWmpkbzNlU2hMbXRfQ3dzNlhqa01rcXRlSGVxVkMtTFIta1hTN3hPcVdLVndJY21EVlJaY2Voa3pDWG9OUVNmM2x3V0h0VkZEMF9za1NqaF8tY2lBa1NnRnZkakpTLW4tN3otYVVzOXM4aUwtUmtDeWVGQ3U5d2ZDMmZyN1c1VksyaTNfM3JNY2VONWpQOEctbm5B0gG3AUFVX3lxTE5OS09DS01LQ0VvdVRGZGhJV1FCaW5LYXM3bW44ZlVlc1h2bzQ2Z3ltWlJrcFFEQ3YwTkNKOWtKLUplWnRYY25aVkNNNTBaOG9ESlhIaF8xYzVZVDdMbmJfSGJEeVlrd2hEcUpDeHd5eTNuNi1lSE55cGNLTmdZQmQtT3NnS0V4TnRjRG1OdnVYUFpVd2xEbGl3WnB5dWVkdHllVkNJT2JXT0NsVmZ0ampJbWxfSklvaw?oc=5",
-      "description": "Oil Prices Slide as Saudi Arabia Reroutes Crude via Oman Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Thu, 17 Sep 2026 05:20:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOekdLT0FIRzE1RkRfdG44RmJqcjBfbE5wajNldmhnRng1Zks5T1JveFpjdEw2ZGx6aG85R0ZTM1BlWl9EX25fNWlvSnRIN0hEamJRT1dMNGdkMGNNUWxUcGJmcDN2bVp1NldUaXQ1OU1yaEJHTF9xdXVOd3pha0Rra3hiZTVZa2Y0MmVlNmdkTEt4d3NwVUowdzlyMDkzS2NtWGl4dzcxWl_SAa4BQVVfeXFMT0EyOGFjZ1pzWml5N2dQblhvdnVtNFYxX1I2elpjX1BudW5BN0VTaTJGNVNBaHN0WEFGYVBhQlBoN19ENG5NTGF1YjJZWk01Nk1heHlSMGxOY2pHc2tQaWstQ3oyM2ZJMnF4YjU0UkxXQ0VGV1RFZW1GWUlKS3FhZWJPdzNRc1lHLWxSNDF0ZGtIUExSampRd2NWNTNrem9IZkppMEhkRkNYTjQ3VVNn?oc=5",
+      "description": "Oil Prices Slide as Traders Bet on Iran Diplomacy Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Mon, 21 Sep 2026 05:45:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil prices and bond yields give back some of last week’s jumps - globalnews.ca",
+      "source": "globalnews.ca",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa1Y0cTFlRnJVMVlfWm01ekFKZ0dLSnpjc1huYWQ4ZWJhMEVETmxJRWM2X3FYcDdvQnNkVWpGT3ZNWW5SQ2pxTENBODRTS0Y2ZmxXVXdWMEpBeXo3UXRYcGE2YzR0a3AwOEFoX1JKaldFWWNDbF9nUlBfMDdtS1dmem1yeDJJM1ZrN29ieTk0NnVfNlhVQWw5dkJRNTFFaDQ?oc=5",
+      "description": "Oil prices and bond yields give back some of last week’s jumps globalnews.ca",
+      "publishedAt": "Mon, 21 Sep 2026 19:19:11 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -148,28 +153,19 @@
       "impact": "medium"
     },
     {
-      "title": "Stock markets taking heat amid high oil prices, bond market jitters - Global News",
-      "source": "Global News",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjZ3lYeVRCNS1YbjVwa2RMQV9XaTdXVTVXdXg5OXJ2QWpHMVY5bEdLUVZsa2k3dUFrakdpQ3pIRV8yNURhNERQbE9rcGY3V3dwV1oyZlhjdkltWjlEV3ppZWpSbk9WTnRUZE5GZQ?oc=5",
-      "description": "Stock markets taking heat amid high oil prices, bond market jitters Global News",
-      "publishedAt": "Tue, 15 Sep 2026 15:40:02 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices tick up as conflict widens, disruptions grow in Middle East - finance.yahoo.com",
-      "source": "finance.yahoo.com",
+      "title": "Oil prices tick up as conflict widens, disruptions grow in Middle East - Yahoo Finance",
+      "source": "Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSkdxQ2NTMWpuWUg5OTBzZmtyZ0E0b1dlVVB1VUkwTGpLTFFJM3FraGFuTW4zNXNDOFRXWjhrbHhTblJWemc3TWFMQ3dXUV9vMzI0aldvR1JfNDNZVWhtODZZWmpYT1RYckdwOGFSREI0cHNrYTVWRk1YQnhrM2pkUkZ6ODZDTjBxNnlhOVhETmhvZ1R4VTNueEd5bFVhMWo3VlVTRkEzdmJTRHdBWGFQT25wN3A1Mmlvd0JtM3FkVHg1ZFdla09TVFBSMkNMZnI4THpsOA?oc=5",
-      "description": "Oil prices tick up as conflict widens, disruptions grow in Middle East finance.yahoo.com",
+      "description": "Oil prices tick up as conflict widens, disruptions grow in Middle East Yahoo Finance",
       "publishedAt": "Tue, 15 Sep 2026 19:24:10 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Current price of oil as of Sept. 15, 2026 - Fortune",
-      "source": "Fortune",
+      "title": "Current price of oil as of Sept. 15, 2026 - fortune.com",
+      "source": "fortune.com",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB3VDV4VE03cXh1Y0Jaa3dvaTlZVUNLdmZPY3doWGR2OExYMFQwLWRBVnhjMlk0MG9ZbEJ0a3FmYWo0ek5FR1o5dHFVc1IwdnlnQUl5aktXUlpXS21ITGVZdzdR?oc=5",
-      "description": "Current price of oil as of Sept. 15, 2026 Fortune",
+      "description": "Current price of oil as of Sept. 15, 2026 fortune.com",
       "publishedAt": "Tue, 15 Sep 2026 13:00:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
@@ -184,20 +180,20 @@
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Rise as Saudi East-West Pipeline Attack Threatens Export Routes - WSJ",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeDdvckhVQlJKZzN2eU90TEg3YU9vRmhZdTdjdkZ1cExSOUd4N09GVEktMTBVT012ZUdGWUdtc2JLaDdIWDJWWFdpUmlJU3pMVWt3MXR2bXRyUXlnSHJTVDJ2Vzg1bmx1ZFptX3ZoVmlMZS1EODlaM3FHbGFJTHFUM0I5YkE5WVRGcEs0UlNkZjdsdXhzdHF6dXFqbHV0bFFZRmRCNDF1WHpQOGZLeGJCdkJIRmNOa1Bzb1FKNU9fcGc?oc=5",
-      "description": "Oil Prices Rise as Saudi East-West Pipeline Attack Threatens Export Routes WSJ",
-      "publishedAt": "Mon, 14 Sep 2026 19:39:00 GMT",
+      "title": "Oil Prices Slide as Saudi Arabia Reroutes Crude via Oman - Crude Oil Prices Today | OilPrice.com",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYzJGNEtRTjVBUUxpVjhGMTdFTHlJSVVtWmpkbzNlU2hMbXRfQ3dzNlhqa01rcXRlSGVxVkMtTFIta1hTN3hPcVdLVndJY21EVlJaY2Voa3pDWG9OUVNmM2x3V0h0VkZEMF9za1NqaF8tY2lBa1NnRnZkakpTLW4tN3otYVVzOXM4aUwtUmtDeWVGQ3U5d2ZDMmZyN1c1VksyaTNfM3JNY2VONWpQOEctbm5B0gG3AUFVX3lxTE5OS09DS01LQ0VvdVRGZGhJV1FCaW5LYXM3bW44ZlVlc1h2bzQ2Z3ltWlJrcFFEQ3YwTkNKOWtKLUplWnRYY25aVkNNNTBaOG9ESlhIaF8xYzVZVDdMbmJfSGJEeVlrd2hEcUpDeHd5eTNuNi1lSE55cGNLTmdZQmQtT3NnS0V4TnRjRG1OdnVYUFpVd2xEbGl3WnB5dWVkdHllVkNJT2JXT0NsVmZ0ampJbWxfSklvaw?oc=5",
+      "description": "Oil Prices Slide as Saudi Arabia Reroutes Crude via Oman Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Thu, 17 Sep 2026 05:20:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "U.S. Oil Inventories Edge Lower as Fuel Demand Softens - Crude Oil Prices Today | OilPrice.com",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQUpQeGlpXzVxZ3dVR0JCZ3VKZk56X182eTZta2ZNdkRwT3JKdTRDQUNib3hXQTY5VXhTbE9UeW9lbTNQdnBvTm40R0hPb1FQZVFtQnNsanV3Z3g0dTNINGFyV2JTOGNXWGpndFpzMjdNdFk3b1dWTXZBNm1SRUNCQldrOElrOGltbDB1RFBMRVRiaFJWSUZiaTlyVdIBoAFBVV95cUxPdkVpQkNseG55OVhYTXc2RndsM2NrMjNWOW8zbzN2OVBId015VWtZb0kwTU55a3JudWVfQThIaWpVZFN1Y2hJT0FZeDJGbVdqS3ctZ1dNZncwN25DejdnSlMwUkJUS19pWGp3V1dxOVhMVGdWV1libVNaWTI1UXAtVnBib2tsb2MtLWQzN3BvLWxDVHdQSG1MbXh1NmtxYkds?oc=5",
-      "description": "U.S. Oil Inventories Edge Lower as Fuel Demand Softens Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Wed, 16 Sep 2026 14:41:00 GMT",
+      "title": "Oil Prices Rise as Saudi East-West Pipeline Attack Threatens Export Routes - WSJ",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeDdvckhVQlJKZzN2eU90TEg3YU9vRmhZdTdjdkZ1cExSOUd4N09GVEktMTBVT012ZUdGWUdtc2JLaDdIWDJWWFdpUmlJU3pMVWt3MXR2bXRyUXlnSHJTVDJ2Vzg1bmx1ZFptX3ZoVmlMZS1EODlaM3FHbGFJTHFUM0I5YkE5WVRGcEs0UlNkZjdsdXhzdHF6dXFqbHV0bFFZRmRCNDF1WHpQOGZLeGJCdkJIRmNOa1Bzb1FKNU9fcGc?oc=5",
+      "description": "Oil Prices Rise as Saudi East-West Pipeline Attack Threatens Export Routes WSJ",
+      "publishedAt": "Tue, 22 Sep 2026 03:52:56 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
