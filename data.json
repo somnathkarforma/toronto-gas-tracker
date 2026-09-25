@@ -1,14 +1,13 @@
 {
-  "generatedAt": "2026-09-24 08:55 UTC",
+  "generatedAt": "2026-09-25 09:16 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 183.9,
-    "premium": 201.9,
-    "diesel": 194.4
+    "regular": 187.9,
+    "premium": 205.9,
+    "diesel": 198.4
   },
   "history": {
     "labels": [
-      "Mar 23",
       "Mar 24",
       "Mar 25",
       "Mar 26",
@@ -18,10 +17,9 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Sep 24"
+      "Sep 25"
     ],
     "regular": [
-      155.4,
       155.9,
       156.3,
       156.6,
@@ -31,10 +29,9 @@
       155.9,
       174.9,
       186.9,
-      183.9
+      187.9
     ],
     "premium": [
-      173.4,
       173.9,
       174.3,
       174.6,
@@ -44,10 +41,9 @@
       173.9,
       192.9,
       204.9,
-      201.9
+      205.9
     ],
     "diesel": [
-      165.9,
       166.4,
       166.8,
       167.1,
@@ -57,72 +53,63 @@
       166.4,
       185.4,
       197.4,
-      194.4
+      198.4
     ]
   },
   "prediction": {
     "labels": [
-      "Sep 25",
       "Sep 26",
       "Sep 27",
       "Sep 28",
       "Sep 29",
       "Sep 30",
-      "Oct 01"
+      "Oct 01",
+      "Oct 02"
     ],
     "regular": [
-      184.9,
-      185.8,
-      186.8,
-      187.7,
-      188.7,
-      189.7,
-      190.6
+      188.9,
+      189.8,
+      190.8,
+      191.7,
+      192.7,
+      193.7,
+      194.6
     ],
     "premium": [
-      202.9,
-      203.8,
-      204.8,
-      205.7,
-      206.7,
-      207.7,
-      208.6
+      206.9,
+      207.8,
+      208.8,
+      209.7,
+      210.7,
+      211.7,
+      212.6
     ],
     "diesel": [
-      195.4,
-      196.3,
-      197.3,
-      198.2,
-      199.2,
-      200.2,
-      201.1
+      199.4,
+      200.3,
+      201.3,
+      202.2,
+      203.2,
+      204.2,
+      205.1
     ]
   },
   "news": [
+    {
+      "title": "Oil prices jump after Yemen’s Houthis claim attacks on Saudi facilities - Al Jazeera",
+      "source": "Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaUFlanpwUG5kdGtER2U3TUl4ck9SRy1zdmx0aXc3U1JGUGZWaURnR2xvaENDOXRBNWNGaTZKWml5ajZycm4zR2R2ZGoyVEs2NkNyWHdCS2Z3NXlMc0JsV19zdllRWFF5NHB2MHVoeDh5MGMybkFDbVJoUjNnemZta19jeFY0LUppVXU2UndfVGtzV2J2b0NZOEpzbzFjUkRHRGg0THFoeVBfRWRsdlMzM29jeG3SAboBQVVfeXFMTVUxX1hWc0JudlVOdFZiVS1KV3V4bEdiNTFqamZKcW1nQmw4X3g3cGlkaUgzVS1XOGxIdjhEZ09fNTNMMVdRSTF5VnlWblhiOE1USXcxTHlYSUpKVUtfQXE4elBxd2V1ck1YZEVyTVVYMmRydWtiTXJtdUItWngyd1JkQTgweVM2aEVwdE9NVTlIZ2VOdFY3QUdCZFJqQmQ4U203ek9iY01SYjV6aTZfUld2Um54NV9naXlB?oc=5",
+      "description": "Oil prices jump after Yemen’s Houthis claim attacks on Saudi facilities Al Jazeera",
+      "publishedAt": "Fri, 25 Sep 2026 03:44:57 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
     {
       "title": "Rising imports of oil by China pose another risk to the price of crude - Financial Post",
       "source": "Financial Post",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT3RuOGJIYXhTODVfbENpb05XYXpjWTBUbTdBeFFwMkZQRTZQbGlRQWJmT0pUblFWajJvRHRyZ1AwcEFlZ2RBNFo3OFpNU0c4SjJuY1VXejFUNnk4VkZUbV9Oc3QwZnc0cGM1NjljNnZHVzJtU2s4SWN0ekNRbHZhdHRBNlhlUWxRMHVmNVhObGRLX3FxR0I1WHpB?oc=5",
       "description": "Rising imports of oil by China pose another risk to the price of crude Financial Post",
       "publishedAt": "Mon, 21 Sep 2026 17:03:45 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil Prices Fall for Fourth Day as Supply Concerns Ease - WSJ",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcEZWRkFoeVdVQnQtNnE2OXRQM2ViMkhkdk41di05ZWhjQXgwRGJFaW12REM2ZnVxMl9zYUR6Vlh2NVVJRFk4X2RUUk9HRXZDUVVHWmw0YjRlcDFsTTlwQjYxZGlwRnVXTUUxTnU5ZzFXMy02Ri1TNkE3Y1ZTa29yWFR2VVZoYWQ0eEttX081M0w5bkpIZ1FmNFdOOGNINWR3LW9N?oc=5",
-      "description": "Oil Prices Fall for Fourth Day as Supply Concerns Ease WSJ",
-      "publishedAt": "Mon, 21 Sep 2026 20:01:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices see-saw, as markets weigh Trump’s UN speech, potential Saudi pipeline fix - NBC News",
-      "source": "NBC News",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObU1tZnZwTkhweW9HMkM5cDFMMjB3YUY1ZFdaN3ZfRzktSEhudU5wYzVPVVNZcDhIVFBZaWNBT2ItVFo1VmJPZUZETmRzR1pUU3Z1Qk1Nc0Y1dmNSRTNPZ2RBeUkySDBGcGJGMlFxa1JTLUI2SDVTYXgyX2JIX3NzUXZLbm1Kcmt2enRjSThGaVItRVJCb09jOENjVU95NGdoam5RUS1fZlg0cUtCNVA0N2N3?oc=5",
-      "description": "Oil prices see-saw, as markets weigh Trump’s UN speech, potential Saudi pipeline fix NBC News",
-      "publishedAt": "Tue, 22 Sep 2026 19:55:10 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -136,29 +123,11 @@
       "impact": "medium"
     },
     {
-      "title": "Current price of oil as of Sept. 21, 2026 - Fortune",
-      "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KS291VGxrSWo1UjJNRHhZRHlWeFNadWVKS3dfb2VXbzZpOUE4OU9lc0dpWDhJN19ENFlnbEsyUWFySVVyNF8yR2dkSUxzcXJCcHQ4dC1KVzltU0cyWHJ3ajNR?oc=5",
-      "description": "Current price of oil as of Sept. 21, 2026 Fortune",
-      "publishedAt": "Mon, 21 Sep 2026 13:55:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices rise, snap five day losing streak as Iran vows it will not surrender - cnbc.com",
-      "source": "cnbc.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jRmVBbWp6NkRiRDNUZGZDQXl4STBBNVlqdl9sSzNNZGxNbEg0bHkzaE5sNm9NVkRRRE9zSHVjdERobTN3V2lTRDhGdllrcTd0dzk4eDN3a3RUeEY4bGI1c2F5azluVDZvRmluNlBETVdnVlgxQWfSAXtBVV95cUxNYnBvYXFFNUQ2STVBNmI4c2V4VEZIWlA3bTlYRnlRRy1ZMnNDcGhjOGNUWmJ1SUV4eG5hdXJXNGxINkZuYUJfQ2QxRktBMkIzQzIyR0F1NklJNWFOZmxvdXNsNGFTVnRSVTZPTk9fRGl0N1ljMUl4NDNEQzg?oc=5",
-      "description": "Oil prices rise, snap five day losing streak as Iran vows it will not surrender cnbc.com",
-      "publishedAt": "Wed, 23 Sep 2026 01:04:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices settle lower as crude flows from Middle East improve - Reuters",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMzJ5LUNVMlYtZzRwaGc4MDRoSlpkWFJpVkZnUWlIR2dhbHlqc3ltYXpEQTd2SmhDWlhydUFqMkpMQ2FrZkk0NzlUYWwwR0R2SDBKcWMxaklPcV9FNGpvN2tYOExMb1kzMzZFTGJrNHpvY1FvSElhUDBBSDgxakxoUTlJOXVncjJJbXQyZy15bHFkUzViQlhlTHpMeUNpa2lxN0E?oc=5",
-      "description": "Oil prices settle lower as crude flows from Middle East improve Reuters",
-      "publishedAt": "Tue, 22 Sep 2026 19:45:46 GMT",
+      "title": "Oil Prices Fall for Fourth Day as Supply Concerns Ease - WSJ",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcEZWRkFoeVdVQnQtNnE2OXRQM2ViMkhkdk41di05ZWhjQXgwRGJFaW12REM2ZnVxMl9zYUR6Vlh2NVVJRFk4X2RUUk9HRXZDUVVHWmw0YjRlcDFsTTlwQjYxZGlwRnVXTUUxTnU5ZzFXMy02Ri1TNkE3Y1ZTa29yWFR2VVZoYWQ0eEttX081M0w5bkpIZ1FmNFdOOGNINWR3LW9N?oc=5",
+      "description": "Oil Prices Fall for Fourth Day as Supply Concerns Ease WSJ",
+      "publishedAt": "Mon, 21 Sep 2026 20:01:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -172,11 +141,38 @@
       "impact": "medium"
     },
     {
-      "title": "Strong GDP, oil prices boost federal fiscal position - CTV News",
-      "source": "CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeHFDVFlwRWlNa1NCZnNfazd6VmJkWmUxOF9pRmxoQ2pVa1ZZbU9fT0VQcHhQLTFOcEJXb0cwZnRueV8xYVFlN0xDU1BMT0d3TmxVMGM2SUtQdzFqeDh2a2tlS09qQXRkRjJvMF9VTHFzU0lJMzdRSUdIOW1JdGIxeEcwM3Z0cVd4QnNaZk85Z1lwVWNqWDhCbURSRTU0Y3AyaExMc3VxUjdIa0E?oc=5",
-      "description": "Strong GDP, oil prices boost federal fiscal position CTV News",
-      "publishedAt": "Sat, 19 Sep 2026 11:18:22 GMT",
+      "title": "Oil slides after China asks Iran to limit Houthi attacks on Saudi oil facilities - reuters.com",
+      "source": "reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeDVrUGNRTzdTOG1wQ1ljY2w0Y002MjMxSVNvM2RrLTBhM3B1dEJVS1B6bnJWTjhydS1BUHpfTVFtbHh2QkdMdFU1ZVo3MDJtQ01kbldpa0lfWFM0QXFWbmVsN1RqcjcxMHczN3JGSHItelVZMzQtYklTN1kwVlJxLU5RVzAwc3BEQV9iVFI1N0xhRXluaGZxN0NrWkxFMDk5Q0pYZw?oc=5",
+      "description": "Oil slides after China asks Iran to limit Houthi attacks on Saudi oil facilities reuters.com",
+      "publishedAt": "Sat, 19 Sep 2026 08:20:38 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil prices rise, snap five day losing streak as Iran vows it will not surrender - CNBC",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jRmVBbWp6NkRiRDNUZGZDQXl4STBBNVlqdl9sSzNNZGxNbEg0bHkzaE5sNm9NVkRRRE9zSHVjdERobTN3V2lTRDhGdllrcTd0dzk4eDN3a3RUeEY4bGI1c2F5azluVDZvRmluNlBETVdnVlgxQWfSAXtBVV95cUxNYnBvYXFFNUQ2STVBNmI4c2V4VEZIWlA3bTlYRnlRRy1ZMnNDcGhjOGNUWmJ1SUV4eG5hdXJXNGxINkZuYUJfQ2QxRktBMkIzQzIyR0F1NklJNWFOZmxvdXNsNGFTVnRSVTZPTk9fRGl0N1ljMUl4NDNEQzg?oc=5",
+      "description": "Oil prices rise, snap five day losing streak as Iran vows it will not surrender CNBC",
+      "publishedAt": "Wed, 23 Sep 2026 01:04:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil prices see-saw, as markets weigh Trump’s UN speech, potential Saudi pipeline fix - NBC News",
+      "source": "NBC News",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObU1tZnZwTkhweW9HMkM5cDFMMjB3YUY1ZFdaN3ZfRzktSEhudU5wYzVPVVNZcDhIVFBZaWNBT2ItVFo1VmJPZUZETmRzR1pUU3Z1Qk1Nc0Y1dmNSRTNPZ2RBeUkySDBGcGJGMlFxa1JTLUI2SDVTYXgyX2JIX3NzUXZLbm1Kcmt2enRjSThGaVItRVJCb09jOENjVU95NGdoam5RUS1fZlg0cUtCNVA0N2N3?oc=5",
+      "description": "Oil prices see-saw, as markets weigh Trump’s UN speech, potential Saudi pipeline fix NBC News",
+      "publishedAt": "Tue, 22 Sep 2026 19:55:10 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Current price of oil as of September 23, 2026 - Fortune",
+      "source": "Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9MQlhZYnZHNkNsc0k4M3R2RGZISkJQcWtjM0ZRMms4ODVvdlQ4RlhqQ290Y0dCcm1YSV9ZaUxmOHMzYlNyQzFKT0ZsbnROazVGc1REVVc0WEFkZ01WYUpoS3JR?oc=5",
+      "description": "Current price of oil as of September 23, 2026 Fortune",
+      "publishedAt": "Wed, 23 Sep 2026 14:00:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
