@@ -1,14 +1,13 @@
 {
-  "generatedAt": "2026-09-25 09:16 UTC",
+  "generatedAt": "2026-09-26 08:58 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 187.9,
-    "premium": 205.9,
-    "diesel": 198.4
+    "regular": 188.9,
+    "premium": 206.9,
+    "diesel": 199.4
   },
   "history": {
     "labels": [
-      "Mar 24",
       "Mar 25",
       "Mar 26",
       "Mar 27",
@@ -17,10 +16,9 @@
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Sep 25"
+      "Sep 26"
     ],
     "regular": [
-      155.9,
       156.3,
       156.6,
       156.7,
@@ -29,10 +27,9 @@
       155.9,
       174.9,
       186.9,
-      187.9
+      188.9
     ],
     "premium": [
-      173.9,
       174.3,
       174.6,
       174.7,
@@ -41,10 +38,9 @@
       173.9,
       192.9,
       204.9,
-      205.9
+      206.9
     ],
     "diesel": [
-      166.4,
       166.8,
       167.1,
       167.2,
@@ -53,45 +49,45 @@
       166.4,
       185.4,
       197.4,
-      198.4
+      199.4
     ]
   },
   "prediction": {
     "labels": [
-      "Sep 26",
       "Sep 27",
       "Sep 28",
       "Sep 29",
       "Sep 30",
       "Oct 01",
-      "Oct 02"
+      "Oct 02",
+      "Oct 03"
     ],
     "regular": [
-      188.9,
-      189.8,
+      189.9,
       190.8,
-      191.7,
+      191.8,
       192.7,
       193.7,
-      194.6
+      194.7,
+      195.6
     ],
     "premium": [
-      206.9,
-      207.8,
+      207.9,
       208.8,
-      209.7,
+      209.8,
       210.7,
       211.7,
-      212.6
+      212.7,
+      213.6
     ],
     "diesel": [
-      199.4,
-      200.3,
+      200.4,
       201.3,
-      202.2,
+      202.3,
       203.2,
       204.2,
-      205.1
+      205.2,
+      206.1
     ]
   },
   "news": [
@@ -114,11 +110,11 @@
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Slide as Traders Bet on Iran Diplomacy - oilprice.com",
-      "source": "oilprice.com",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOekdLT0FIRzE1RkRfdG44RmJqcjBfbE5wajNldmhnRng1Zks5T1JveFpjdEw2ZGx6aG85R0ZTM1BlWl9EX25fNWlvSnRIN0hEamJRT1dMNGdkMGNNUWxUcGJmcDN2bVp1NldUaXQ1OU1yaEJHTF9xdXVOd3pha0Rra3hiZTVZa2Y0MmVlNmdkTEt4d3NwVUowdzlyMDkzS2NtWGl4dzcxWl_SAa4BQVVfeXFMT0EyOGFjZ1pzWml5N2dQblhvdnVtNFYxX1I2elpjX1BudW5BN0VTaTJGNVNBaHN0WEFGYVBhQlBoN19ENG5NTGF1YjJZWk01Nk1heHlSMGxOY2pHc2tQaWstQ3oyM2ZJMnF4YjU0UkxXQ0VGV1RFZW1GWUlKS3FhZWJPdzNRc1lHLWxSNDF0ZGtIUExSampRd2NWNTNrem9IZkppMEhkRkNYTjQ3VVNn?oc=5",
-      "description": "Oil Prices Slide as Traders Bet on Iran Diplomacy oilprice.com",
-      "publishedAt": "Mon, 21 Sep 2026 05:45:00 GMT",
+      "title": "Oil prices slide about 2% as US, Iran explore path out of war - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV3EzX3oydnQxRk5Ld1BKbk82ek14ZVdyLVpTdldjdEpqeDJfTVZ2Q0F1TnhvaWlhR1p0Z3hScDV0S2Z1UFR5OXhKSWk3NmtqTzd0SkJfa2RLRFpOOUlEcE5mR1d4Z21Td2FCQVZqNHV1eDloQkplT1NHaHhyTDlqOG5DYlFFdnRERThxNU0yX29LcTRyal9pMHQ4ZzNoU0VKZkdHN2hFYjhCZUpZZ3d2am11SDJYYVBiN0JxWVBtczNRYkh1?oc=5",
+      "description": "Oil prices slide about 2% as US, Iran explore path out of war Reuters",
+      "publishedAt": "Fri, 25 Sep 2026 01:11:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -132,29 +128,20 @@
       "impact": "medium"
     },
     {
+      "title": "Oil Prices Slide as Traders Bet on Iran Diplomacy - Crude Oil Prices Today | OilPrice.com",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOekdLT0FIRzE1RkRfdG44RmJqcjBfbE5wajNldmhnRng1Zks5T1JveFpjdEw2ZGx6aG85R0ZTM1BlWl9EX25fNWlvSnRIN0hEamJRT1dMNGdkMGNNUWxUcGJmcDN2bVp1NldUaXQ1OU1yaEJHTF9xdXVOd3pha0Rra3hiZTVZa2Y0MmVlNmdkTEt4d3NwVUowdzlyMDkzS2NtWGl4dzcxWl_SAa4BQVVfeXFMT0EyOGFjZ1pzWml5N2dQblhvdnVtNFYxX1I2elpjX1BudW5BN0VTaTJGNVNBaHN0WEFGYVBhQlBoN19ENG5NTGF1YjJZWk01Nk1heHlSMGxOY2pHc2tQaWstQ3oyM2ZJMnF4YjU0UkxXQ0VGV1RFZW1GWUlKS3FhZWJPdzNRc1lHLWxSNDF0ZGtIUExSampRd2NWNTNrem9IZkppMEhkRkNYTjQ3VVNn?oc=5",
+      "description": "Oil Prices Slide as Traders Bet on Iran Diplomacy Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Mon, 21 Sep 2026 05:45:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
       "title": "Oil prices and bond yields give back some of last week’s jumps - Global News",
       "source": "Global News",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa1Y0cTFlRnJVMVlfWm01ekFKZ0dLSnpjc1huYWQ4ZWJhMEVETmxJRWM2X3FYcDdvQnNkVWpGT3ZNWW5SQ2pxTENBODRTS0Y2ZmxXVXdWMEpBeXo3UXRYcGE2YzR0a3AwOEFoX1JKaldFWWNDbF9nUlBfMDdtS1dmem1yeDJJM1ZrN29ieTk0NnVfNlhVQWw5dkJRNTFFaDQ?oc=5",
       "description": "Oil prices and bond yields give back some of last week’s jumps Global News",
       "publishedAt": "Mon, 21 Sep 2026 19:19:11 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil slides after China asks Iran to limit Houthi attacks on Saudi oil facilities - reuters.com",
-      "source": "reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeDVrUGNRTzdTOG1wQ1ljY2w0Y002MjMxSVNvM2RrLTBhM3B1dEJVS1B6bnJWTjhydS1BUHpfTVFtbHh2QkdMdFU1ZVo3MDJtQ01kbldpa0lfWFM0QXFWbmVsN1RqcjcxMHczN3JGSHItelVZMzQtYklTN1kwVlJxLU5RVzAwc3BEQV9iVFI1N0xhRXluaGZxN0NrWkxFMDk5Q0pYZw?oc=5",
-      "description": "Oil slides after China asks Iran to limit Houthi attacks on Saudi oil facilities reuters.com",
-      "publishedAt": "Sat, 19 Sep 2026 08:20:38 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices rise, snap five day losing streak as Iran vows it will not surrender - CNBC",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jRmVBbWp6NkRiRDNUZGZDQXl4STBBNVlqdl9sSzNNZGxNbEg0bHkzaE5sNm9NVkRRRE9zSHVjdERobTN3V2lTRDhGdllrcTd0dzk4eDN3a3RUeEY4bGI1c2F5azluVDZvRmluNlBETVdnVlgxQWfSAXtBVV95cUxNYnBvYXFFNUQ2STVBNmI4c2V4VEZIWlA3bTlYRnlRRy1ZMnNDcGhjOGNUWmJ1SUV4eG5hdXJXNGxINkZuYUJfQ2QxRktBMkIzQzIyR0F1NklJNWFOZmxvdXNsNGFTVnRSVTZPTk9fRGl0N1ljMUl4NDNEQzg?oc=5",
-      "description": "Oil prices rise, snap five day losing streak as Iran vows it will not surrender CNBC",
-      "publishedAt": "Wed, 23 Sep 2026 01:04:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -168,20 +155,29 @@
       "impact": "medium"
     },
     {
-      "title": "Current price of oil as of September 23, 2026 - Fortune",
-      "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9MQlhZYnZHNkNsc0k4M3R2RGZISkJQcWtjM0ZRMms4ODVvdlQ4RlhqQ290Y0dCcm1YSV9ZaUxmOHMzYlNyQzFKT0ZsbnROazVGc1REVVc0WEFkZ01WYUpoS3JR?oc=5",
-      "description": "Current price of oil as of September 23, 2026 Fortune",
-      "publishedAt": "Wed, 23 Sep 2026 14:00:00 GMT",
+      "title": "Oil prices rise, snap five day losing streak as Iran vows it will not surrender - CNBC",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jRmVBbWp6NkRiRDNUZGZDQXl4STBBNVlqdl9sSzNNZGxNbEg0bHkzaE5sNm9NVkRRRE9zSHVjdERobTN3V2lTRDhGdllrcTd0dzk4eDN3a3RUeEY4bGI1c2F5azluVDZvRmluNlBETVdnVlgxQWfSAXtBVV95cUxNYnBvYXFFNUQ2STVBNmI4c2V4VEZIWlA3bTlYRnlRRy1ZMnNDcGhjOGNUWmJ1SUV4eG5hdXJXNGxINkZuYUJfQ2QxRktBMkIzQzIyR0F1NklJNWFOZmxvdXNsNGFTVnRSVTZPTk9fRGl0N1ljMUl4NDNEQzg?oc=5",
+      "description": "Oil prices rise, snap five day losing streak as Iran vows it will not surrender CNBC",
+      "publishedAt": "Wed, 23 Sep 2026 01:04:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Off Lows On Trump's Mixed Iran Message At U.N. - Investor's Business Daily",
-      "source": "Investor's Business Daily",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcU1SaTZOendaY0gwd1JDTUt2eTdXeUxTSHRuOWgxSllNOXEyVFZ2TGhIM3N2WWxfb2wtTDNfYUhOMm5DN1UtUHhGbjFKTHc0aHRwVm1pRjJ0cF9laEl4RHpsMFdvMmlBajZXb0R3d051a0thUi1naWdUZkloRktEMA?oc=5",
-      "description": "Oil Prices Off Lows On Trump's Mixed Iran Message At U.N. Investor's Business Daily",
-      "publishedAt": "Tue, 22 Sep 2026 15:20:00 GMT",
+      "title": "Current price of oil as of Sept. 21, 2026 - Fortune",
+      "source": "Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KS291VGxrSWo1UjJNRHhZRHlWeFNadWVKS3dfb2VXbzZpOUE4OU9lc0dpWDhJN19ENFlnbEsyUWFySVVyNF8yR2dkSUxzcXJCcHQ4dC1KVzltU0cyWHJ3ajNR?oc=5",
+      "description": "Current price of oil as of Sept. 21, 2026 Fortune",
+      "publishedAt": "Mon, 21 Sep 2026 13:55:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil prices fall as markets look to Iran truce, but remain wary of attacks on oil facilities - boereport.com",
+      "source": "boereport.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVl92SzQzYnp2d2QwWmNELThUNHpwLVc1Z0NoY09UeHNFVHJma25jSnBHeFY4S25EbWF6WTdPZ0xUODg5T21TWUF0Y3ZwbmNEMVNDSUpqenlHSHJyUjBUM2NJX2I5d2JuemM0SXVKWDZ4eTlVUWRNN2xLdEhFNGFNeVZUVU9hLWl5STg2dnc5T3AwdnJmU1M1cUFHRUNZV2lLNXNlN0RodHNDbk5iWG5aT0I3Ym5PRy1hLXl4NEdGbW9ad9IBxwFBVV95cUxPWmRYLThKa1JabHJhUnk0bXNabE9ZdmNuZk5PLWZ5NUstbkJOMDgtNTdwVWlxNDB3UnczVUEzWkZYczYtT2NoVlhpQmN0UEtCdHVoc1R2dFphTU1IUHdqeFdZNUpiVkpjeXNVTmQwVmJNMDE3Q0QyX0RKblMzaGRDdEY4bHdTZzE1eHh0b0JGX2ZkdDlZcXdFVFdDUjl0dlhJU0RrZl9iRnVnSkNYdzgtel9jc0ZSR0haN2luNkVyUnpvdzJsRExR?oc=5",
+      "description": "Oil prices fall as markets look to Iran truce, but remain wary of attacks on oil facilities boereport.com",
+      "publishedAt": "Fri, 25 Sep 2026 07:26:59 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
