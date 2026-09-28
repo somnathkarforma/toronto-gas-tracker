@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27 09:43 UTC",
+  "generatedAt": "2026-09-28 10:23 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
     "regular": 181.9,
@@ -8,17 +8,15 @@
   },
   "history": {
     "labels": [
-      "Mar 26",
       "Mar 27",
       "Mar 28",
       "Mar 29",
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Sep 27"
+      "Sep 28"
     ],
     "regular": [
-      156.6,
       156.7,
       156.7,
       156.6,
@@ -28,7 +26,6 @@
       181.9
     ],
     "premium": [
-      174.6,
       174.7,
       174.7,
       174.6,
@@ -38,7 +35,6 @@
       199.9
     ],
     "diesel": [
-      167.1,
       167.2,
       167.2,
       167.1,
@@ -50,13 +46,13 @@
   },
   "prediction": {
     "labels": [
-      "Sep 28",
       "Sep 29",
       "Sep 30",
       "Oct 01",
       "Oct 02",
       "Oct 03",
-      "Oct 04"
+      "Oct 04",
+      "Oct 05"
     ],
     "regular": [
       182.9,
@@ -97,20 +93,20 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices slide about 2% as US, Iran explore path out of war - reuters.com",
-      "source": "reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV3EzX3oydnQxRk5Ld1BKbk82ek14ZVdyLVpTdldjdEpqeDJfTVZ2Q0F1TnhvaWlhR1p0Z3hScDV0S2Z1UFR5OXhKSWk3NmtqTzd0SkJfa2RLRFpOOUlEcE5mR1d4Z21Td2FCQVZqNHV1eDloQkplT1NHaHhyTDlqOG5DYlFFdnRERThxNU0yX29LcTRyal9pMHQ4ZzNoU0VKZkdHN2hFYjhCZUpZZ3d2am11SDJYYVBiN0JxWVBtczNRYkh1?oc=5",
-      "description": "Oil prices slide about 2% as US, Iran explore path out of war reuters.com",
-      "publishedAt": "Fri, 25 Sep 2026 19:28:52 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
       "title": "Oil prices jump after Yemen’s Houthis claim attacks on Saudi facilities - Al Jazeera",
       "source": "Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaUFlanpwUG5kdGtER2U3TUl4ck9SRy1zdmx0aXc3U1JGUGZWaURnR2xvaENDOXRBNWNGaTZKWml5ajZycm4zR2R2ZGoyVEs2NkNyWHdCS2Z3NXlMc0JsV19zdllRWFF5NHB2MHVoeDh5MGMybkFDbVJoUjNnemZta19jeFY0LUppVXU2UndfVGtzV2J2b0NZOEpzbzFjUkRHRGg0THFoeVBfRWRsdlMzM29jeG3SAboBQVVfeXFMTVUxX1hWc0JudlVOdFZiVS1KV3V4bEdiNTFqamZKcW1nQmw4X3g3cGlkaUgzVS1XOGxIdjhEZ09fNTNMMVdRSTF5VnlWblhiOE1USXcxTHlYSUpKVUtfQXE4elBxd2V1ck1YZEVyTVVYMmRydWtiTXJtdUItWngyd1JkQTgweVM2aEVwdE9NVTlIZ2VOdFY3QUdCZFJqQmQ4U203ek9iY01SYjV6aTZfUld2Um54NV9naXlB?oc=5",
       "description": "Oil prices jump after Yemen’s Houthis claim attacks on Saudi facilities Al Jazeera",
       "publishedAt": "Fri, 25 Sep 2026 03:44:57 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil prices slide about 2% as US, Iran explore path out of war - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV3EzX3oydnQxRk5Ld1BKbk82ek14ZVdyLVpTdldjdEpqeDJfTVZ2Q0F1TnhvaWlhR1p0Z3hScDV0S2Z1UFR5OXhKSWk3NmtqTzd0SkJfa2RLRFpOOUlEcE5mR1d4Z21Td2FCQVZqNHV1eDloQkplT1NHaHhyTDlqOG5DYlFFdnRERThxNU0yX29LcTRyal9pMHQ4ZzNoU0VKZkdHN2hFYjhCZUpZZ3d2am11SDJYYVBiN0JxWVBtczNRYkh1?oc=5",
+      "description": "Oil prices slide about 2% as US, Iran explore path out of war Reuters",
+      "publishedAt": "Fri, 25 Sep 2026 20:13:04 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -124,38 +120,29 @@
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Slide as Traders Bet on Iran Diplomacy - Crude Oil Prices Today | OilPrice.com",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOekdLT0FIRzE1RkRfdG44RmJqcjBfbE5wajNldmhnRng1Zks5T1JveFpjdEw2ZGx6aG85R0ZTM1BlWl9EX25fNWlvSnRIN0hEamJRT1dMNGdkMGNNUWxUcGJmcDN2bVp1NldUaXQ1OU1yaEJHTF9xdXVOd3pha0Rra3hiZTVZa2Y0MmVlNmdkTEt4d3NwVUowdzlyMDkzS2NtWGl4dzcxWl_SAa4BQVVfeXFMT0EyOGFjZ1pzWml5N2dQblhvdnVtNFYxX1I2elpjX1BudW5BN0VTaTJGNVNBaHN0WEFGYVBhQlBoN19ENG5NTGF1YjJZWk01Nk1heHlSMGxOY2pHc2tQaWstQ3oyM2ZJMnF4YjU0UkxXQ0VGV1RFZW1GWUlKS3FhZWJPdzNRc1lHLWxSNDF0ZGtIUExSampRd2NWNTNrem9IZkppMEhkRkNYTjQ3VVNn?oc=5",
-      "description": "Oil Prices Slide as Traders Bet on Iran Diplomacy Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Mon, 21 Sep 2026 05:45:00 GMT",
+      "title": "Brent crude tops $108 as Trump rejects Iranian proposal to reopen Hormuz Strait - CNBC",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1iS25pUWtaQlhIVkNyU2oyYjg1enVuSE9EV3VvR1RnM1NkeUFBTzNoZW1WZDhkTERTQm5WZmUyYkxMczhLLUVXaExhMEhyc3RCcHlxZHMxNk5JSjNJamZmSklPTXVHWWhwVE80YWR2Y3ZZS0FKakFTQzhGQWhmd9IBgwFBVV95cUxPRkh5X0phRnhfLXYzbGtUbXU2UTA0UVowTU5hTzZKNzJEZHZ2SUZXb1VwSUR5M2lwU0x4Qk9EUU9XeW9pREVrdmRMZjVRZXM1MWZ1NFR0d2xaS0Vzc3dWUnQzVWFfUUE2WTdDcC0xSzZETm1VZ0w0N2pCQjJvbXFjLV9UNA?oc=5",
+      "description": "Brent crude tops $108 as Trump rejects Iranian proposal to reopen Hormuz Strait CNBC",
+      "publishedAt": "Sun, 27 Sep 2026 23:58:57 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil prices and bond yields give back some of last week’s jumps - Global News",
-      "source": "Global News",
+      "title": "Oil prices and bond yields give back some of last week’s jumps - globalnews.ca",
+      "source": "globalnews.ca",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa1Y0cTFlRnJVMVlfWm01ekFKZ0dLSnpjc1huYWQ4ZWJhMEVETmxJRWM2X3FYcDdvQnNkVWpGT3ZNWW5SQ2pxTENBODRTS0Y2ZmxXVXdWMEpBeXo3UXRYcGE2YzR0a3AwOEFoX1JKaldFWWNDbF9nUlBfMDdtS1dmem1yeDJJM1ZrN29ieTk0NnVfNlhVQWw5dkJRNTFFaDQ?oc=5",
-      "description": "Oil prices and bond yields give back some of last week’s jumps Global News",
+      "description": "Oil prices and bond yields give back some of last week’s jumps globalnews.ca",
       "publishedAt": "Mon, 21 Sep 2026 19:19:11 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Current price of oil as of Sept. 21, 2026 - Fortune",
-      "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KS291VGxrSWo1UjJNRHhZRHlWeFNadWVKS3dfb2VXbzZpOUE4OU9lc0dpWDhJN19ENFlnbEsyUWFySVVyNF8yR2dkSUxzcXJCcHQ4dC1KVzltU0cyWHJ3ajNR?oc=5",
-      "description": "Current price of oil as of Sept. 21, 2026 Fortune",
-      "publishedAt": "Mon, 21 Sep 2026 13:55:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices see-saw, as markets weigh Trump’s UN speech, potential Saudi pipeline fix - NBC News",
-      "source": "NBC News",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObU1tZnZwTkhweW9HMkM5cDFMMjB3YUY1ZFdaN3ZfRzktSEhudU5wYzVPVVNZcDhIVFBZaWNBT2ItVFo1VmJPZUZETmRzR1pUU3Z1Qk1Nc0Y1dmNSRTNPZ2RBeUkySDBGcGJGMlFxa1JTLUI2SDVTYXgyX2JIX3NzUXZLbm1Kcmt2enRjSThGaVItRVJCb09jOENjVU95NGdoam5RUS1fZlg0cUtCNVA0N2N3?oc=5",
-      "description": "Oil prices see-saw, as markets weigh Trump’s UN speech, potential Saudi pipeline fix NBC News",
-      "publishedAt": "Tue, 22 Sep 2026 19:55:10 GMT",
+      "title": "Why WTI Is Suddenly Trading $12 Below Brent - Crude Oil Prices Today | OilPrice.com",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObTdQc3ZENkRHRjVPTDdDdUh5ZFNaR2dQM2xVQnpHblpZV295dmpBV01tR2dFZzM2S3JkWGFRQ3lNaXVBVnhvem1CMUlreEVzYW9HN1l3MFlMbjBlRzhRQ1V1Wk81OWUyUm5XeHByYzQxZWtTUHVLbzdQR3JWOU5OUE1FNkdlUjhHSzBERWhR?oc=5",
+      "description": "Why WTI Is Suddenly Trading $12 Below Brent Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Fri, 25 Sep 2026 16:15:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -169,11 +156,20 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices rise, snap five day losing streak as Iran vows it will not surrender - CNBC",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jRmVBbWp6NkRiRDNUZGZDQXl4STBBNVlqdl9sSzNNZGxNbEg0bHkzaE5sNm9NVkRRRE9zSHVjdERobTN3V2lTRDhGdllrcTd0dzk4eDN3a3RUeEY4bGI1c2F5azluVDZvRmluNlBETVdnVlgxQWfSAXtBVV95cUxNYnBvYXFFNUQ2STVBNmI4c2V4VEZIWlA3bTlYRnlRRy1ZMnNDcGhjOGNUWmJ1SUV4eG5hdXJXNGxINkZuYUJfQ2QxRktBMkIzQzIyR0F1NklJNWFOZmxvdXNsNGFTVnRSVTZPTk9fRGl0N1ljMUl4NDNEQzg?oc=5",
-      "description": "Oil prices rise, snap five day losing streak as Iran vows it will not surrender CNBC",
-      "publishedAt": "Wed, 23 Sep 2026 01:04:00 GMT",
+      "title": "Oil prices see-saw, as markets weigh Trump’s UN speech, potential Saudi pipeline fix - NBC News",
+      "source": "NBC News",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObU1tZnZwTkhweW9HMkM5cDFMMjB3YUY1ZFdaN3ZfRzktSEhudU5wYzVPVVNZcDhIVFBZaWNBT2ItVFo1VmJPZUZETmRzR1pUU3Z1Qk1Nc0Y1dmNSRTNPZ2RBeUkySDBGcGJGMlFxa1JTLUI2SDVTYXgyX2JIX3NzUXZLbm1Kcmt2enRjSThGaVItRVJCb09jOENjVU95NGdoam5RUS1fZlg0cUtCNVA0N2N3?oc=5",
+      "description": "Oil prices see-saw, as markets weigh Trump’s UN speech, potential Saudi pipeline fix NBC News",
+      "publishedAt": "Tue, 22 Sep 2026 19:55:10 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Current price of oil as of Sept. 21, 2026 - Fortune",
+      "source": "Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KS291VGxrSWo1UjJNRHhZRHlWeFNadWVKS3dfb2VXbzZpOUE4OU9lc0dpWDhJN19ENFlnbEsyUWFySVVyNF8yR2dkSUxzcXJCcHQ4dC1KVzltU0cyWHJ3ajNR?oc=5",
+      "description": "Current price of oil as of Sept. 21, 2026 Fortune",
+      "publishedAt": "Mon, 21 Sep 2026 13:55:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
