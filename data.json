@@ -1,89 +1,85 @@
 {
-  "generatedAt": "2026-09-29 10:18 UTC",
+  "generatedAt": "2026-09-30 10:11 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 181.9,
-    "premium": 199.9,
-    "diesel": 192.4
+    "regular": 180.9,
+    "premium": 198.9,
+    "diesel": 191.4
   },
   "history": {
     "labels": [
-      "Mar 28",
       "Mar 29",
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Sep 29"
+      "Sep 30"
     ],
     "regular": [
-      156.7,
       156.6,
       155.9,
       174.9,
       186.9,
-      181.9
+      180.9
     ],
     "premium": [
-      174.7,
       174.6,
       173.9,
       192.9,
       204.9,
-      199.9
+      198.9
     ],
     "diesel": [
-      167.2,
       167.1,
       166.4,
       185.4,
       197.4,
-      192.4
+      191.4
     ]
   },
   "prediction": {
     "labels": [
-      "Sep 30",
       "Oct 01",
       "Oct 02",
       "Oct 03",
       "Oct 04",
       "Oct 05",
-      "Oct 06"
+      "Oct 06",
+      "Oct 07"
     ],
     "regular": [
-      182.9,
+      181.9,
+      182.8,
       183.8,
-      184.8,
+      184.7,
       185.7,
       186.7,
-      187.7,
-      188.6
+      187.6
     ],
     "premium": [
-      200.9,
+      199.9,
+      200.8,
       201.8,
-      202.8,
+      202.7,
       203.7,
       204.7,
-      205.7,
-      206.6
+      205.6
     ],
     "diesel": [
-      193.4,
+      192.4,
+      193.3,
       194.3,
-      195.3,
+      195.2,
       196.2,
       197.2,
-      198.2,
-      199.1
+      198.1
     ]
   },
   "news": [
     {
-      "title": "Oil prices surge after Trump rejects Iran’s plan to reopen Strait of Hormuz - aljazeera.com",
-      "source": "aljazeera.com",
+      "title": "Oil prices surge after Trump rejects Iran’s plan to reopen Strait of Hormuz - Al Jazeera",
+      "source": "Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTG9KcEZwMUZtVnNtZnBmMnBsa0RZN1I2V250T0xaSjBmT2tpNWx0T1ZodnBubENDcks5SWZiZlgwV1NWT3NDemFaX3FkRHFYNV8zdmo0elJfdGY2SWoxMUZZMTBmN1JjczNVYkVGNHNmOGNLR1NUeUJiMzJBejl1c2d5NUo0TFZKdkEtbHBEZFN0Slo5eDM3N1k5eXNpcnBNeVdOQ3U0M1FlVmk1aWNlLVkteVRKVDliUFHSAb8BQVVfeXFMT1lDRk9jWTJZZnFlQXprRWFFZ3pKVFZocjNKYTNtb014MFFXMDc0WEhNa2Exeng5Z1pRb21rWG5NUTYtUVNyeXZNck5pVVpPMDRRZHNIUDlHQUhMeTRsWGlwUWF0SEVGY3U2MGgtWjBDVlB1TWI0QldYRTZLQ0FfZDRfMW9hWXVTWldIZ3JyN2FWWlkxTkcxMHozT2gyNHdwTFM0clU2RDhFNTVGaC1WVG5Hc3d1aFNhTlk2N29VclE?oc=5",
-      "description": "Oil prices surge after Trump rejects Iran’s plan to reopen Strait of Hormuz aljazeera.com",
+      "description": "Oil prices surge after Trump rejects Iran’s plan to reopen Strait of Hormuz Al Jazeera",
       "publishedAt": "Tue, 29 Sep 2026 00:42:44 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
@@ -107,38 +103,11 @@
       "impact": "medium"
     },
     {
-      "title": "Stock markets struggling to keep up with rising oil prices and bond yields - National - Global News",
-      "source": "Global News",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9CVk9GNTZEUlpvVDV2aHBvYmsxTjI0d0VJNU9DWTNqMGVWckV1Tm9FRlZkQ1RkTmIwM25GbzNDbzRnRTRUUGtGMG03eUxuZktGcWVfM2VBdFktU0FWNy1RMU5aZG9RZTVRVHJjS3BMRlZiQzJN?oc=5",
-      "description": "Stock markets struggling to keep up with rising oil prices and bond yields - National Global News",
-      "publishedAt": "Mon, 28 Sep 2026 17:32:01 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
       "title": "Oil Prices Pare Gains After Saudi Pipeline Reopens - WSJ",
       "source": "WSJ",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUmdBMWtUcFBJLUFsS1dSQThUVVU1TDNjVlQyMzBFYi1qeVZ5bHBmeE1oRERGdHdOaFU1QXVWU2J4WHEzaWxMNWN3NUxtS2ZvY19Gc2FvcldWQ0dfV0t0YUxZWXdYY1JXNWxQNHRxZk5rZHRXOHZ0Sm9VaHhhOWVfNVRzQlpQZGpGNHVxZldidm1VRXVhaVJqYTlDR2dHQjFjYkdHMlZ4d3N2SkY0dHc?oc=5",
       "description": "Oil Prices Pare Gains After Saudi Pipeline Reopens WSJ",
-      "publishedAt": "Mon, 28 Sep 2026 18:40:18 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices see-saw, as markets weigh Trump’s UN speech, potential Saudi pipeline fix - NBC News",
-      "source": "NBC News",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObU1tZnZwTkhweW9HMkM5cDFMMjB3YUY1ZFdaN3ZfRzktSEhudU5wYzVPVVNZcDhIVFBZaWNBT2ItVFo1VmJPZUZETmRzR1pUU3Z1Qk1Nc0Y1dmNSRTNPZ2RBeUkySDBGcGJGMlFxa1JTLUI2SDVTYXgyX2JIX3NzUXZLbm1Kcmt2enRjSThGaVItRVJCb09jOENjVU95NGdoam5RUS1fZlg0cUtCNVA0N2N3?oc=5",
-      "description": "Oil prices see-saw, as markets weigh Trump’s UN speech, potential Saudi pipeline fix NBC News",
-      "publishedAt": "Tue, 22 Sep 2026 19:55:10 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Why WTI Is Suddenly Trading $12 Below Brent - Crude Oil Prices Today | OilPrice.com",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObTdQc3ZENkRHRjVPTDdDdUh5ZFNaR2dQM2xVQnpHblpZV295dmpBV01tR2dFZzM2S3JkWGFRQ3lNaXVBVnhvem1CMUlreEVzYW9HN1l3MFlMbjBlRzhRQ1V1Wk81OWUyUm5XeHByYzQxZWtTUHVLbzdQR3JWOU5OUE1FNkdlUjhHSzBERWhR0gGTAUFVX3lxTE5OM25fbHNJM09TQU9zQVVwdFlXY0lvY243Y295UHBKanp1N3g1Yk1TZjZjVEpGRWdRY05kMjl5NU9jWWdTQ0F6S3YxelUtRGd0M0EtazBGRW1Lekh5aGVJUlVJZktFZlVmcGNYS2NnWUJILU1MX0xiMDZrM2QxMmtoT1VnTUVJOXZqazRGMExWd2l2NA?oc=5",
-      "description": "Why WTI Is Suddenly Trading $12 Below Brent Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Fri, 25 Sep 2026 16:15:00 GMT",
+      "publishedAt": "Mon, 28 Sep 2026 18:22:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -152,20 +121,47 @@
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Hit One-Week Low After US, Iran Pause Fighting Over Weekend - EnergyNow",
-      "source": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZm5CWkhVUS1LUEd5UWtITGIyakRUM2VHdjdOc2pONnRBcHNCOFREZ1RPNjhGSWo0cWdsT0pEbWRyNXVQbkRQNjJ6c2N4ckVYcEtaVF9XZDBQeV90eEZGeklyLXo2V2N1aWxlSDgtb0V0LU11UlFhaW0xWVYxOWNaQnFmOFNoSko5MlNTNE9CZGVQaVkzR1hYcUZINjVsbjZpRng0RzVB?oc=5",
-      "description": "Oil Prices Hit One-Week Low After US, Iran Pause Fighting Over Weekend EnergyNow",
-      "publishedAt": "Sat, 26 Sep 2026 12:27:43 GMT",
+      "title": "Why WTI Is Suddenly Trading $12 Below Brent - Crude Oil Prices Today | OilPrice.com",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObTdQc3ZENkRHRjVPTDdDdUh5ZFNaR2dQM2xVQnpHblpZV295dmpBV01tR2dFZzM2S3JkWGFRQ3lNaXVBVnhvem1CMUlreEVzYW9HN1l3MFlMbjBlRzhRQ1V1Wk81OWUyUm5XeHByYzQxZWtTUHVLbzdQR3JWOU5OUE1FNkdlUjhHSzBERWhR0gGTAUFVX3lxTE5OM25fbHNJM09TQU9zQVVwdFlXY0lvY243Y295UHBKanp1N3g1Yk1TZjZjVEpGRWdRY05kMjl5NU9jWWdTQ0F6S3YxelUtRGd0M0EtazBGRW1Lekh5aGVJUlVJZktFZlVmcGNYS2NnWUJILU1MX0xiMDZrM2QxMmtoT1VnTUVJOXZqazRGMExWd2l2NA?oc=5",
+      "description": "Why WTI Is Suddenly Trading $12 Below Brent Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Fri, 25 Sep 2026 16:15:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil prices jump after Yemen’s Houthis claim attacks on Saudi facilities - aljazeera.com",
-      "source": "aljazeera.com",
+      "title": "A shaky day for oil prices and the bond market leaves U.S. stocks not far from where they started - BNN Bloomberg",
+      "source": "BNN Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVFdyUUthQ2ZSVEJDZTh3eUxBdGFEaHhhM3gwQWItM3JFSnRER1BpT0lab0dKMk9fUkdtUUdNMjEyNlBHY0pwTVNLdDVLbXg1VDRxZG1sWDZsZjJvZXQyclFtMXN1S3M1cTE3LVhndlpCd3oxUXJCd1FoempGNVlhaVZTXzNDc3F0QlJDUElxVTB5blhZc01NVENwaFktTDhMM3NjRTdsTktCcVlkYkJ3ZVZIS0g?oc=5",
+      "description": "A shaky day for oil prices and the bond market leaves U.S. stocks not far from where they started BNN Bloomberg",
+      "publishedAt": "Thu, 24 Sep 2026 20:22:31 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil prices jump after Yemen’s Houthis claim attacks on Saudi facilities - Al Jazeera",
+      "source": "Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaUFlanpwUG5kdGtER2U3TUl4ck9SRy1zdmx0aXc3U1JGUGZWaURnR2xvaENDOXRBNWNGaTZKWml5ajZycm4zR2R2ZGoyVEs2NkNyWHdCS2Z3NXlMc0JsV19zdllRWFF5NHB2MHVoeDh5MGMybkFDbVJoUjNnemZta19jeFY0LUppVXU2UndfVGtzV2J2b0NZOEpzbzFjUkRHRGg0THFoeVBfRWRsdlMzM29jeG3SAboBQVVfeXFMTVUxX1hWc0JudlVOdFZiVS1KV3V4bEdiNTFqamZKcW1nQmw4X3g3cGlkaUgzVS1XOGxIdjhEZ09fNTNMMVdRSTF5VnlWblhiOE1USXcxTHlYSUpKVUtfQXE4elBxd2V1ck1YZEVyTVVYMmRydWtiTXJtdUItWngyd1JkQTgweVM2aEVwdE9NVTlIZ2VOdFY3QUdCZFJqQmQ4U203ek9iY01SYjV6aTZfUld2Um54NV9naXlB?oc=5",
-      "description": "Oil prices jump after Yemen’s Houthis claim attacks on Saudi facilities aljazeera.com",
+      "description": "Oil prices jump after Yemen’s Houthis claim attacks on Saudi facilities Al Jazeera",
       "publishedAt": "Fri, 25 Sep 2026 03:44:57 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil Prices Rebound Amid Persistent Middle East Supply Risks - WSJ",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRUo0V3BWdFhfQ2RSSDVkT2d1Vk9XWmluUktieE1hSU8za2kyOHRRZWxyNXpubVVweFdOTC1uMmprOUlhdjFOUVhhQTFlSDlhVnY1Wloxa2VzME92cm9oZWYtUmJ6R0lvOXl0SW5wTlBaRWtCNkRXMERyb3V5bmJQanhWQlptQzI4M3UwTm81TnMwSnJobHV2TEwzUmx5Mlk5T3MzOGJjNG1uYTV2MWNpU1drRUdUd245UVdHazVB?oc=5",
+      "description": "Oil Prices Rebound Amid Persistent Middle East Supply Risks WSJ",
+      "publishedAt": "Wed, 23 Sep 2026 19:44:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil prices settle down 2.5% on signs Middle East exports recovering - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPalFIekNtR2pWcEdaNDNsUElsMTRodXZvOVBPbFJnSFlhbDlqbldRbE1TTGVUeTJGN2NRTk4zUGFlWG1NTl9PUkVjNHVzbnZ4YVJxbXg5aVZfZXJzYWhDa3FfZl92OG5Ic3ZNWEluX0N5ZV9aRlRYYXVYeUNUR3lXVGo1dHp4dmdzaF9pZDVGMjVCUGptMU5YcmlzcEhBa2t1NTZMMmsyeFVBWnNPLVJxS2NoM0FIUEQ0Q2ZF?oc=5",
+      "description": "Oil prices settle down 2.5% on signs Middle East exports recovering Reuters",
+      "publishedAt": "Tue, 29 Sep 2026 00:33:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
