@@ -1,77 +1,73 @@
 {
-  "generatedAt": "2026-09-30 10:11 UTC",
+  "generatedAt": "2026-10-01 10:38 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 180.9,
-    "premium": 198.9,
-    "diesel": 191.4
+    "regular": 178.9,
+    "premium": 196.9,
+    "diesel": 189.4
   },
   "history": {
     "labels": [
-      "Mar 29",
       "Mar 30",
       "Apr 01",
       "Apr 04",
-      "Sep 30"
+      "Oct 01"
     ],
     "regular": [
-      156.6,
       155.9,
       174.9,
       186.9,
-      180.9
+      178.9
     ],
     "premium": [
-      174.6,
       173.9,
       192.9,
       204.9,
-      198.9
+      196.9
     ],
     "diesel": [
-      167.1,
       166.4,
       185.4,
       197.4,
-      191.4
+      189.4
     ]
   },
   "prediction": {
     "labels": [
-      "Oct 01",
       "Oct 02",
       "Oct 03",
       "Oct 04",
       "Oct 05",
       "Oct 06",
-      "Oct 07"
+      "Oct 07",
+      "Oct 08"
     ],
     "regular": [
-      181.9,
-      182.8,
-      183.8,
+      179.9,
+      180.8,
+      181.8,
+      182.7,
+      183.7,
       184.7,
-      185.7,
-      186.7,
-      187.6
+      185.6
     ],
     "premium": [
-      199.9,
-      200.8,
-      201.8,
+      197.9,
+      198.8,
+      199.8,
+      200.7,
+      201.7,
       202.7,
-      203.7,
-      204.7,
-      205.6
+      203.6
     ],
     "diesel": [
-      192.4,
-      193.3,
-      194.3,
+      190.4,
+      191.3,
+      192.3,
+      193.2,
+      194.2,
       195.2,
-      196.2,
-      197.2,
-      198.1
+      196.1
     ]
   },
   "news": [
@@ -103,6 +99,15 @@
       "impact": "medium"
     },
     {
+      "title": "Oil Price Forecasts Jump as Hormuz Disruption Drags On - Crude Oil Prices Today | OilPrice.com",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeGRLOFpDc3lGTjVaUm5tamN6YXo4VnRUX0FNc1FyUEdabFRGNmp0Y0dmYW5PODdQanI5SGNIWXQ0SkhueHRtSHF5VWY5Z1JoODNta2lEa1RyTTdBOFhtcktXbkFIUGR6Qzdja2hXbkFaSk1MRUVaQWhRWkw2b291OWI4YmgxVk5nWEFGaFAyNVduUFBsdDIwaC1QaFpSbHPSAaQBQVVfeXFMUF8ySmIzdHlaTzFYemhlZUpwMG5yUWZZRk1PQlBYaVExcl8wWEVmNC01VDFuVF9lc2R1Mzhyc0ZIb3BlUUtBOHM4U3dFbFRrRWt3Y3VnbEFHc29wT196ejFVeF9KRG54Nmg0SWg3TXJweUFqN3dXVGRDMUc2LVFlZmZ5TW8taUs4SFlNVVRHSUhSNFFCNVZ3bU1uOGloQjE1bHdOQko?oc=5",
+      "description": "Oil Price Forecasts Jump as Hormuz Disruption Drags On Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Wed, 30 Sep 2026 16:00:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
       "title": "Oil Prices Pare Gains After Saudi Pipeline Reopens - WSJ",
       "source": "WSJ",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUmdBMWtUcFBJLUFsS1dSQThUVVU1TDNjVlQyMzBFYi1qeVZ5bHBmeE1oRERGdHdOaFU1QXVWU2J4WHEzaWxMNWN3NUxtS2ZvY19Gc2FvcldWQ0dfV0t0YUxZWXdYY1JXNWxQNHRxZk5rZHRXOHZ0Sm9VaHhhOWVfNVRzQlpQZGpGNHVxZldidm1VRXVhaVJqYTlDR2dHQjFjYkdHMlZ4d3N2SkY0dHc?oc=5",
@@ -112,29 +117,11 @@
       "impact": "medium"
     },
     {
-      "title": "Current price of oil as of September 23, 2026 - Fortune",
+      "title": "Current price of oil as of Sept. 29, 2026 - Fortune",
       "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9MQlhZYnZHNkNsc0k4M3R2RGZISkJQcWtjM0ZRMms4ODVvdlQ4RlhqQ290Y0dCcm1YSV9ZaUxmOHMzYlNyQzFKT0ZsbnROazVGc1REVVc0WEFkZ01WYUpoS3JR?oc=5",
-      "description": "Current price of oil as of September 23, 2026 Fortune",
-      "publishedAt": "Wed, 23 Sep 2026 14:00:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Why WTI Is Suddenly Trading $12 Below Brent - Crude Oil Prices Today | OilPrice.com",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObTdQc3ZENkRHRjVPTDdDdUh5ZFNaR2dQM2xVQnpHblpZV295dmpBV01tR2dFZzM2S3JkWGFRQ3lNaXVBVnhvem1CMUlreEVzYW9HN1l3MFlMbjBlRzhRQ1V1Wk81OWUyUm5XeHByYzQxZWtTUHVLbzdQR3JWOU5OUE1FNkdlUjhHSzBERWhR0gGTAUFVX3lxTE5OM25fbHNJM09TQU9zQVVwdFlXY0lvY243Y295UHBKanp1N3g1Yk1TZjZjVEpGRWdRY05kMjl5NU9jWWdTQ0F6S3YxelUtRGd0M0EtazBGRW1Lekh5aGVJUlVJZktFZlVmcGNYS2NnWUJILU1MX0xiMDZrM2QxMmtoT1VnTUVJOXZqazRGMExWd2l2NA?oc=5",
-      "description": "Why WTI Is Suddenly Trading $12 Below Brent Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Fri, 25 Sep 2026 16:15:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "A shaky day for oil prices and the bond market leaves U.S. stocks not far from where they started - BNN Bloomberg",
-      "source": "BNN Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVFdyUUthQ2ZSVEJDZTh3eUxBdGFEaHhhM3gwQWItM3JFSnRER1BpT0lab0dKMk9fUkdtUUdNMjEyNlBHY0pwTVNLdDVLbXg1VDRxZG1sWDZsZjJvZXQyclFtMXN1S3M1cTE3LVhndlpCd3oxUXJCd1FoempGNVlhaVZTXzNDc3F0QlJDUElxVTB5blhZc01NVENwaFktTDhMM3NjRTdsTktCcVlkYkJ3ZVZIS0g?oc=5",
-      "description": "A shaky day for oil prices and the bond market leaves U.S. stocks not far from where they started BNN Bloomberg",
-      "publishedAt": "Thu, 24 Sep 2026 20:22:31 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9EQ2JJX2xER191QzNaT3Vreno0endDUnItajk1aGEyLVd2aGppX25JUW9DRjU0Ti00X1VmcEJUdGJPNEU5X3M2RHlrQjk5SFFNejR1UDY1WFZEMWVqMjhoMG1B?oc=5",
+      "description": "Current price of oil as of Sept. 29, 2026 Fortune",
+      "publishedAt": "Tue, 29 Sep 2026 18:52:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -148,11 +135,20 @@
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Rebound Amid Persistent Middle East Supply Risks - WSJ",
+      "title": "Oil's New Normal Is Higher Prices - Crude Oil Prices Today | OilPrice.com",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTDk2UXVmUEdZQk02UWg4S25nVS1YNEVHY3pZaW9nSGtuVGl0M053eDlfWE5YaTk2MTJBMEJ2UGtnOHJ0VnJEbGtac3dWS0xtRGVWVnRtc2QzRFI5Tzl4MjRXbnlZWXBaWDktZU95anhLQWtnaGhleVVpWmhaQUlkSWRTbk8wUG_SAYwBQVVfeXFMTWpaUDhwSGRacHZFREhkb18wTVpSVThYWkZnZi1zeUNLc2FDalQwajV4UTJUM3dxNDAyWGlFa1dYLXl2NWIxd3pTcndENlBvNFlLdlQ1c2FRSFVDSzRGNGJhWkwzQXZkZl9PMFM2STJsTXhvRGdpZ01vU1p4bXptSzFYZjhIX1E5Ulg5SHo?oc=5",
+      "description": "Oil's New Normal Is Higher Prices Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Wed, 30 Sep 2026 00:00:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil Prices Fall as Gulf Crude Exports Recover - WSJ",
       "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRUo0V3BWdFhfQ2RSSDVkT2d1Vk9XWmluUktieE1hSU8za2kyOHRRZWxyNXpubVVweFdOTC1uMmprOUlhdjFOUVhhQTFlSDlhVnY1Wloxa2VzME92cm9oZWYtUmJ6R0lvOXl0SW5wTlBaRWtCNkRXMERyb3V5bmJQanhWQlptQzI4M3UwTm81TnMwSnJobHV2TEwzUmx5Mlk5T3MzOGJjNG1uYTV2MWNpU1drRUdUd245UVdHazVB?oc=5",
-      "description": "Oil Prices Rebound Amid Persistent Middle East Supply Risks WSJ",
-      "publishedAt": "Wed, 23 Sep 2026 19:44:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ1UwdjZ0Qk53aGpUZnhLRG93OE5SRm9idmd2VDJuMmJhRS1KaC1WTGMxWUQ0bVk5OW5RNXZ5V29sZmJIcEg5UWs2ZjA4RTNacjIwalpnaVhhVE54Zl9HVXNkajROUWVQTFZwR1E0VGZSU0xwVGRzTlRBdzBxZEI3aHZueUxEQXJpNUY1UFlaRG53RXhZTkd2ZV93NWxDdzVI?oc=5",
+      "description": "Oil Prices Fall as Gulf Crude Exports Recover WSJ",
+      "publishedAt": "Tue, 29 Sep 2026 18:59:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -161,7 +157,7 @@
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPalFIekNtR2pWcEdaNDNsUElsMTRodXZvOVBPbFJnSFlhbDlqbldRbE1TTGVUeTJGN2NRTk4zUGFlWG1NTl9PUkVjNHVzbnZ4YVJxbXg5aVZfZXJzYWhDa3FfZl92OG5Ic3ZNWEluX0N5ZV9aRlRYYXVYeUNUR3lXVGo1dHp4dmdzaF9pZDVGMjVCUGptMU5YcmlzcEhBa2t1NTZMMmsyeFVBWnNPLVJxS2NoM0FIUEQ0Q2ZF?oc=5",
       "description": "Oil prices settle down 2.5% on signs Middle East exports recovering Reuters",
-      "publishedAt": "Tue, 29 Sep 2026 00:33:00 GMT",
+      "publishedAt": "Wed, 30 Sep 2026 00:48:06 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
