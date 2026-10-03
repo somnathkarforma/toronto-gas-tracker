@@ -1,86 +1,77 @@
 {
-  "generatedAt": "2026-10-02 10:13 UTC",
+  "generatedAt": "2026-10-03 09:35 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 184.9,
-    "premium": 202.9,
-    "diesel": 195.4
+    "regular": 190.9,
+    "premium": 208.9,
+    "diesel": 201.4
   },
   "history": {
     "labels": [
       "Apr 01",
       "Apr 04",
-      "Oct 02"
+      "Oct 03"
     ],
     "regular": [
       174.9,
       186.9,
-      184.9
+      190.9
     ],
     "premium": [
       192.9,
       204.9,
-      202.9
+      208.9
     ],
     "diesel": [
       185.4,
       197.4,
-      195.4
+      201.4
     ]
   },
   "prediction": {
     "labels": [
-      "Oct 03",
       "Oct 04",
       "Oct 05",
       "Oct 06",
       "Oct 07",
       "Oct 08",
-      "Oct 09"
+      "Oct 09",
+      "Oct 10"
     ],
     "regular": [
-      185.9,
-      186.8,
-      187.8,
-      188.7,
-      189.7,
-      190.7,
-      191.6
+      191.9,
+      192.8,
+      193.8,
+      194.7,
+      195.7,
+      196.7,
+      197.6
     ],
     "premium": [
-      203.9,
-      204.8,
-      205.8,
-      206.7,
-      207.7,
-      208.7,
-      209.6
+      209.9,
+      210.8,
+      211.8,
+      212.7,
+      213.7,
+      214.7,
+      215.6
     ],
     "diesel": [
-      196.4,
-      197.3,
-      198.3,
-      199.2,
-      200.2,
-      201.2,
-      202.1
+      202.4,
+      203.3,
+      204.3,
+      205.2,
+      206.2,
+      207.2,
+      208.1
     ]
   },
   "news": [
     {
-      "title": "Oil jumps 4% on reports China halts fuel exports, US troops head to Middle East - Reuters",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcGNFYVVqQ0xkMTkyblJkMU5mMnJ6Y1RhTEhBWjJyWEhDaXdCVzg3aF9pWTFYdVkyN3d5WmpIRDdHQ283dUJhVlV4WTJzSEMwTy1uZkhwS2NNNndEZlhJY2lGTHgtRng1TjQ0XzRWdUNnUjRPQ2ZoaDg2UlJ1cTgtRGZHbTNVcUVFenI1SlIxREdDbWJJX25kWFY2ZWxxVzRyOFl3SGZzbjZUWEk2NklWOUR2UzEwanpPSzU1TnJyXzVveDRoX2c?oc=5",
-      "description": "Oil jumps 4% on reports China halts fuel exports, US troops head to Middle East Reuters",
-      "publishedAt": "Thu, 01 Oct 2026 01:10:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "India Emphasizes That Shipping Chaos, Not Supply, Is Driving High Oil Prices - Crude Oil Prices Today | OilPrice.com",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWkRVWmpvM01mRllqZHhNcjFfZnpQZlhPZWZwOVJtQUswR0pHRmt2aHZUUFY5dTV2dXhRczVOcGNQZkZTQlBROVNaUFJiVzdraklQNmM5VUlBVnZWN0s1czQ4dlVfNTl3a2V4UGN1TWhiczM3QXg4UGFXR1V4U0JjOS1LUm42MERtMUx2RXpGdDdRTzRIbUdWNThPMTZ5aXpuLU56WFVPUjBaTG5DTjlvLThDc3ZjUDBEWkZlYlg5QWJkdXhZVjlFMHJ30gHPAUFVX3lxTE1KR282MFF5UFBxQlFZeGtUR01xVU5YNFQzdDREVmlqZWdraFduNzBQWDNhejY3OU1RamU2dXdsTnRzdFhwUlJGckdLVFFfV0ZYSU1CODZJOUZOZWZCdmN0YTdvMU4xWHpLYUEzNDVFOGVpeC1aSnpEU1lxY2lWcVJvMnNwSmJEQWl1ekRqSmwwcUVXaF9CM3pMaG94R05ILWZUYTZpSkN5NzlUbUFXVHJDc1RDZ0toenljN3N6Y0dWV0ZmZ2hFSkMtdzlHYWktOA?oc=5",
-      "description": "India Emphasizes That Shipping Chaos, Not Supply, Is Driving High Oil Prices Crude Oil Prices Today | OilPrice.com",
+      "title": "India Emphasizes That Shipping Chaos, Not Supply, Is Driving High Oil Prices - oilprice.com",
+      "source": "oilprice.com",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWkRVWmpvM01mRllqZHhNcjFfZnpQZlhPZWZwOVJtQUswR0pHRmt2aHZUUFY5dTV2dXhRczVOcGNQZkZTQlBROVNaUFJiVzdraklQNmM5VUlBVnZWN0s1czQ4dlVfNTl3a2V4UGN1TWhiczM3QXg4UGFXR1V4U0JjOS1LUm42MERtMUx2RXpGdDdRTzRIbUdWNThPMTZ5aXpuLU56WFVPUjBaTG5DTjlvLThDc3ZjUDBEWkZlYlg5QWJkdXhZVjlFMHJ3?oc=5",
+      "description": "India Emphasizes That Shipping Chaos, Not Supply, Is Driving High Oil Prices oilprice.com",
       "publishedAt": "Thu, 01 Oct 2026 14:30:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
@@ -104,11 +95,29 @@
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Pare Gains After Saudi Pipeline Reopens - WSJ",
-      "source": "WSJ",
+      "title": "Oil Prices Pare Gains After Saudi Pipeline Reopens - wsj.com",
+      "source": "wsj.com",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUmdBMWtUcFBJLUFsS1dSQThUVVU1TDNjVlQyMzBFYi1qeVZ5bHBmeE1oRERGdHdOaFU1QXVWU2J4WHEzaWxMNWN3NUxtS2ZvY19Gc2FvcldWQ0dfV0t0YUxZWXdYY1JXNWxQNHRxZk5rZHRXOHZ0Sm9VaHhhOWVfNVRzQlpQZGpGNHVxZldidm1VRXVhaVJqYTlDR2dHQjFjYkdHMlZ4d3N2SkY0dHc?oc=5",
-      "description": "Oil Prices Pare Gains After Saudi Pipeline Reopens WSJ",
+      "description": "Oil Prices Pare Gains After Saudi Pipeline Reopens wsj.com",
       "publishedAt": "Mon, 28 Sep 2026 18:22:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Opinion | If You Think Rising Oil Prices Are Bad, Just Wait for the Inevitable Crash - nytimes.com",
+      "source": "nytimes.com",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfWWZBWjNOUGNjMVZoYlFwcFg1ZVJCUlNOdGR6LTMzYTN4WHA0LTkxdVpaSXR4MzR4YTNoazVSOVFxSHZMejcxMFNlX3FYMDdDLWoxVzkybm96ck9STzBEbDczcXZYSk9jM1J4VUVFc1F6T1A3SEVN?oc=5",
+      "description": "Opinion | If You Think Rising Oil Prices Are Bad, Just Wait for the Inevitable Crash nytimes.com",
+      "publishedAt": "Thu, 01 Oct 2026 09:01:54 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil prices rise by about $1/bbl on stalled US-Iran talks and tight fuel markets - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbEZNSGlvd0hfTjdOVTQxTEVYczRjUjdId3NlSGJDSV90UVVjTGhjaFF2OS1xckpOWElrcWRoUXNPa29WTHhsLW9yWVc2N1REdXZONl9iZ2ZUSkNOQ0xndE16LWpMa3c3T2FHWE0yajBlek1La3hVeTVnWkpLc2hhTTRNMnVILWY0RG9VbzVVZnZGV0JmM3VJWkNhVmlfNDlVMThOSVNtNlR3cFJUekNpMVZ3aE03Zw?oc=5",
+      "description": "Oil prices rise by about $1/bbl on stalled US-Iran talks and tight fuel markets Reuters",
+      "publishedAt": "Wed, 30 Sep 2026 19:19:17 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -122,37 +131,28 @@
       "impact": "medium"
     },
     {
-      "title": "Opinion | If You Think Rising Oil Prices Are Bad, Just Wait for the Inevitable Crash - The New York Times",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfWWZBWjNOUGNjMVZoYlFwcFg1ZVJCUlNOdGR6LTMzYTN4WHA0LTkxdVpaSXR4MzR4YTNoazVSOVFxSHZMejcxMFNlX3FYMDdDLWoxVzkybm96ck9STzBEbDczcXZYSk9jM1J4VUVFc1F6T1A3SEVN?oc=5",
-      "description": "Opinion | If You Think Rising Oil Prices Are Bad, Just Wait for the Inevitable Crash The New York Times",
-      "publishedAt": "Thu, 01 Oct 2026 09:01:54 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices slide about 2% as US, Iran explore path out of war - Reuters",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV3EzX3oydnQxRk5Ld1BKbk82ek14ZVdyLVpTdldjdEpqeDJfTVZ2Q0F1TnhvaWlhR1p0Z3hScDV0S2Z1UFR5OXhKSWk3NmtqTzd0SkJfa2RLRFpOOUlEcE5mR1d4Z21Td2FCQVZqNHV1eDloQkplT1NHaHhyTDlqOG5DYlFFdnRERThxNU0yX29LcTRyal9pMHQ4ZzNoU0VKZkdHN2hFYjhCZUpZZ3d2am11SDJYYVBiN0JxWVBtczNRYkh1?oc=5",
-      "description": "Oil prices slide about 2% as US, Iran explore path out of war Reuters",
-      "publishedAt": "Fri, 25 Sep 2026 20:13:04 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil Price Forecasts Jump as Hormuz Disruption Drags On - Crude Oil Prices Today | OilPrice.com",
-      "source": "Crude Oil Prices Today | OilPrice.com",
+      "title": "Oil Price Forecasts Jump as Hormuz Disruption Drags On - oilprice.com",
+      "source": "oilprice.com",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeGRLOFpDc3lGTjVaUm5tamN6YXo4VnRUX0FNc1FyUEdabFRGNmp0Y0dmYW5PODdQanI5SGNIWXQ0SkhueHRtSHF5VWY5Z1JoODNta2lEa1RyTTdBOFhtcktXbkFIUGR6Qzdja2hXbkFaSk1MRUVaQWhRWkw2b291OWI4YmgxVk5nWEFGaFAyNVduUFBsdDIwaC1QaFpSbHPSAaQBQVVfeXFMUF8ySmIzdHlaTzFYemhlZUpwMG5yUWZZRk1PQlBYaVExcl8wWEVmNC01VDFuVF9lc2R1Mzhyc0ZIb3BlUUtBOHM4U3dFbFRrRWt3Y3VnbEFHc29wT196ejFVeF9KRG54Nmg0SWg3TXJweUFqN3dXVGRDMUc2LVFlZmZ5TW8taUs4SFlNVVRHSUhSNFFCNVZ3bU1uOGloQjE1bHdOQko?oc=5",
-      "description": "Oil Price Forecasts Jump as Hormuz Disruption Drags On Crude Oil Prices Today | OilPrice.com",
+      "description": "Oil Price Forecasts Jump as Hormuz Disruption Drags On oilprice.com",
       "publishedAt": "Wed, 30 Sep 2026 16:00:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Fall as Gulf Crude Exports Recover - WSJ",
-      "source": "WSJ",
+      "title": "Oil prices lower as G7 nations to release diesel stocks, Saudis reportedly plan attack on Houthis - CNBC",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVTUyNzJqcnoxNnd5aFVZYzNMbmVzR0pvZW11eXBHUlhWX1NyZ1JKZ3JrZjN2NWdxQVVmSzN6cnd5dVhJWlk2cmxjZkRfWkRBTDZNeHNSYmlKZ05LMVRLQXFSZWdxVVFFLUFDWU5tUkZZSFdoR2hXMnVKQmJJV25TSzd5eUvSAYoBQVVfeXFMTkRoQTgtdG5Mc3pnWjduNVhrNWhYN0YyckxTdm1WN25zSVBQLUZtZUpVc0pTazlLRlZEeWZsZElBZHpXa3NVeG5Iemk0eEFXYmVTSktkMHVqQk90Q0tLWkdIMXpIcmp2RWNucm02RXVFZjZ0TklHcmtUVURTVmNlV2xlMFI0c2duVGxR?oc=5",
+      "description": "Oil prices lower as G7 nations to release diesel stocks, Saudis reportedly plan attack on Houthis CNBC",
+      "publishedAt": "Fri, 02 Oct 2026 08:37:15 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil Prices Fall as Gulf Crude Exports Recover - wsj.com",
+      "source": "wsj.com",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ1UwdjZ0Qk53aGpUZnhLRG93OE5SRm9idmd2VDJuMmJhRS1KaC1WTGMxWUQ0bVk5OW5RNXZ5V29sZmJIcEg5UWs2ZjA4RTNacjIwalpnaVhhVE54Zl9HVXNkajROUWVQTFZwR1E0VGZSU0xwVGRzTlRBdzBxZEI3aHZueUxEQXJpNUY1UFlaRG53RXhZTkd2ZV93NWxDdzVI?oc=5",
-      "description": "Oil Prices Fall as Gulf Crude Exports Recover WSJ",
+      "description": "Oil Prices Fall as Gulf Crude Exports Recover wsj.com",
       "publishedAt": "Tue, 29 Sep 2026 18:59:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
