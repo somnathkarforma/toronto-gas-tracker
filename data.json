@@ -1,77 +1,73 @@
 {
-  "generatedAt": "2026-10-03 09:35 UTC",
+  "generatedAt": "2026-10-04 10:20 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 190.9,
-    "premium": 208.9,
-    "diesel": 201.4
+    "regular": 187.9,
+    "premium": 205.9,
+    "diesel": 198.4
   },
   "history": {
     "labels": [
-      "Apr 01",
       "Apr 04",
-      "Oct 03"
+      "Oct 04"
     ],
     "regular": [
-      174.9,
       186.9,
-      190.9
+      187.9
     ],
     "premium": [
-      192.9,
       204.9,
-      208.9
+      205.9
     ],
     "diesel": [
-      185.4,
       197.4,
-      201.4
+      198.4
     ]
   },
   "prediction": {
     "labels": [
-      "Oct 04",
       "Oct 05",
       "Oct 06",
       "Oct 07",
       "Oct 08",
       "Oct 09",
-      "Oct 10"
+      "Oct 10",
+      "Oct 11"
     ],
     "regular": [
+      188.7,
+      189.5,
+      190.3,
+      191.1,
       191.9,
-      192.8,
-      193.8,
-      194.7,
-      195.7,
-      196.7,
-      197.6
+      192.7,
+      193.5
     ],
     "premium": [
+      206.7,
+      207.5,
+      208.3,
+      209.1,
       209.9,
-      210.8,
-      211.8,
-      212.7,
-      213.7,
-      214.7,
-      215.6
+      210.7,
+      211.5
     ],
     "diesel": [
+      199.2,
+      200.0,
+      200.8,
+      201.6,
       202.4,
-      203.3,
-      204.3,
-      205.2,
-      206.2,
-      207.2,
-      208.1
+      203.2,
+      204.0
     ]
   },
   "news": [
     {
-      "title": "India Emphasizes That Shipping Chaos, Not Supply, Is Driving High Oil Prices - oilprice.com",
-      "source": "oilprice.com",
+      "title": "India Emphasizes That Shipping Chaos, Not Supply, Is Driving High Oil Prices - Crude Oil Prices Today | OilPrice.com",
+      "source": "Crude Oil Prices Today | OilPrice.com",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWkRVWmpvM01mRllqZHhNcjFfZnpQZlhPZWZwOVJtQUswR0pHRmt2aHZUUFY5dTV2dXhRczVOcGNQZkZTQlBROVNaUFJiVzdraklQNmM5VUlBVnZWN0s1czQ4dlVfNTl3a2V4UGN1TWhiczM3QXg4UGFXR1V4U0JjOS1LUm42MERtMUx2RXpGdDdRTzRIbUdWNThPMTZ5aXpuLU56WFVPUjBaTG5DTjlvLThDc3ZjUDBEWkZlYlg5QWJkdXhZVjlFMHJ3?oc=5",
-      "description": "India Emphasizes That Shipping Chaos, Not Supply, Is Driving High Oil Prices oilprice.com",
+      "description": "India Emphasizes That Shipping Chaos, Not Supply, Is Driving High Oil Prices Crude Oil Prices Today | OilPrice.com",
       "publishedAt": "Thu, 01 Oct 2026 14:30:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
@@ -95,29 +91,38 @@
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Pare Gains After Saudi Pipeline Reopens - wsj.com",
-      "source": "wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUmdBMWtUcFBJLUFsS1dSQThUVVU1TDNjVlQyMzBFYi1qeVZ5bHBmeE1oRERGdHdOaFU1QXVWU2J4WHEzaWxMNWN3NUxtS2ZvY19Gc2FvcldWQ0dfV0t0YUxZWXdYY1JXNWxQNHRxZk5rZHRXOHZ0Sm9VaHhhOWVfNVRzQlpQZGpGNHVxZldidm1VRXVhaVJqYTlDR2dHQjFjYkdHMlZ4d3N2SkY0dHc?oc=5",
-      "description": "Oil Prices Pare Gains After Saudi Pipeline Reopens wsj.com",
-      "publishedAt": "Mon, 28 Sep 2026 18:22:00 GMT",
+      "title": "Oil Prices Lower On G-7 Fuel Release Plan - WSJ",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdnBHZHk3blRobW1RR1dhMnZOcjBhNHhXN3ZWZHdpMVpkTHRiU1dSN1c0TjVEUWxPVDFacG84LXc5aDEwQkNhWF9JUjVZTTNaTG5Rb3JBNUVoa1ZvVjhEajBxdlBVTWYzTXl2X1I2TGllakdEQkNNcGt1UzZDaUZnbkprMENuVkpZMWlfYmhCUDI1bjhEc291U25Mc0R0TFpzVlQzMkZOZGVZTldLUWFHMVJ5VGN6RG1Jal9qNXF1MHZ3QzUwc2c?oc=5",
+      "description": "Oil Prices Lower On G-7 Fuel Release Plan WSJ",
+      "publishedAt": "Sun, 04 Oct 2026 08:48:11 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Opinion | If You Think Rising Oil Prices Are Bad, Just Wait for the Inevitable Crash - nytimes.com",
-      "source": "nytimes.com",
+      "title": "Opinion | If You Think Rising Oil Prices Are Bad, Just Wait for the Inevitable Crash - The New York Times",
+      "source": "The New York Times",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfWWZBWjNOUGNjMVZoYlFwcFg1ZVJCUlNOdGR6LTMzYTN4WHA0LTkxdVpaSXR4MzR4YTNoazVSOVFxSHZMejcxMFNlX3FYMDdDLWoxVzkybm96ck9STzBEbDczcXZYSk9jM1J4VUVFc1F6T1A3SEVN?oc=5",
-      "description": "Opinion | If You Think Rising Oil Prices Are Bad, Just Wait for the Inevitable Crash nytimes.com",
+      "description": "Opinion | If You Think Rising Oil Prices Are Bad, Just Wait for the Inevitable Crash The New York Times",
       "publishedAt": "Thu, 01 Oct 2026 09:01:54 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil prices rise by about $1/bbl on stalled US-Iran talks and tight fuel markets - Reuters",
+      "title": "IEA's Birol says oil prices starting to fall after reserve release decision - Reuters",
       "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbEZNSGlvd0hfTjdOVTQxTEVYczRjUjdId3NlSGJDSV90UVVjTGhjaFF2OS1xckpOWElrcWRoUXNPa29WTHhsLW9yWVc2N1REdXZONl9iZ2ZUSkNOQ0xndE16LWpMa3c3T2FHWE0yajBlek1La3hVeTVnWkpLc2hhTTRNMnVILWY0RG9VbzVVZnZGV0JmM3VJWkNhVmlfNDlVMThOSVNtNlR3cFJUekNpMVZ3aE03Zw?oc=5",
-      "description": "Oil prices rise by about $1/bbl on stalled US-Iran talks and tight fuel markets Reuters",
-      "publishedAt": "Wed, 30 Sep 2026 19:19:17 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcHZzWUw2YjVHbmx6SmNmYURKOGxkcy0zbndDQnpTMnRSc0JLOEpIaWw0MzVmeGRzNGZPeUFZQlM4aGduVEV5cVRCYlFwSk53RUQxYzhoZHd2UFhwX25mZlJKbmFzR2Zza3E3OGRVRVN4M0lvV2w3bTQwb1FzQ0s5eUhvQ3VjZTBZbW11QzVKTWctQ3FYQk9GZ2VYRVdKMEo1RVp2S3Z0LTVVMV9OZE15ZURBejNCWVkteVdzZDRsMHc?oc=5",
+      "description": "IEA's Birol says oil prices starting to fall after reserve release decision Reuters",
+      "publishedAt": "Fri, 02 Oct 2026 17:36:32 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "G7 nations will release 100 million barrels of oil and diesel fuel after prices soar - bnnbloomberg.ca",
+      "source": "bnnbloomberg.ca",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTndwLTFqZmxrc2hteTZWcXJ0QkV5VUVUZW1YTllXdlh1azVfNWpPU056Q1Fweno4VjAzN2dDQVhOMTFFdGNITzhhOVM3dG55UFlCRFZlNGNnV1VqQ2RTYzJUMjBDdXE5dW9VWi1OME1pM2dVQTR0RjNzd0RfSmxfVGNpSnpVV1FXbngydEEwRnFXYVZtYmtJNUxyM05ucFpBZE90Q0QzNElud0U0OERjOWV4bFZEZkFiakl6ZGZ0QndqQmN0MEhpT3BTRHRXVUlRSFE?oc=5",
+      "description": "G7 nations will release 100 million barrels of oil and diesel fuel after prices soar bnnbloomberg.ca",
+      "publishedAt": "Fri, 02 Oct 2026 21:33:19 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -131,29 +136,20 @@
       "impact": "medium"
     },
     {
-      "title": "Oil Price Forecasts Jump as Hormuz Disruption Drags On - oilprice.com",
-      "source": "oilprice.com",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeGRLOFpDc3lGTjVaUm5tamN6YXo4VnRUX0FNc1FyUEdabFRGNmp0Y0dmYW5PODdQanI5SGNIWXQ0SkhueHRtSHF5VWY5Z1JoODNta2lEa1RyTTdBOFhtcktXbkFIUGR6Qzdja2hXbkFaSk1MRUVaQWhRWkw2b291OWI4YmgxVk5nWEFGaFAyNVduUFBsdDIwaC1QaFpSbHPSAaQBQVVfeXFMUF8ySmIzdHlaTzFYemhlZUpwMG5yUWZZRk1PQlBYaVExcl8wWEVmNC01VDFuVF9lc2R1Mzhyc0ZIb3BlUUtBOHM4U3dFbFRrRWt3Y3VnbEFHc29wT196ejFVeF9KRG54Nmg0SWg3TXJweUFqN3dXVGRDMUc2LVFlZmZ5TW8taUs4SFlNVVRHSUhSNFFCNVZ3bU1uOGloQjE1bHdOQko?oc=5",
-      "description": "Oil Price Forecasts Jump as Hormuz Disruption Drags On oilprice.com",
-      "publishedAt": "Wed, 30 Sep 2026 16:00:00 GMT",
+      "title": "Gasoline prices expected to remain high as global supply shortages continue - The Globe and Mail",
+      "source": "The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVjBkbFN3a0h2MG1GSkFuOWNHYzQydmtXY2NIR2huV0xfVXdkRkI4OEpGakx1UVNPbGU1RkdiZzVWLWZBM21qcEtHb2FJb09nb0JqUUk1a1hvbHpTczdIQWxEdlB3ekVWWjlrNlFLdmZ1Mzh2clJRSFJJWmVFT2lleXpXTFhUUFl0MzN0bFpzYnNOYl9vQWExag?oc=5",
+      "description": "Gasoline prices expected to remain high as global supply shortages continue The Globe and Mail",
+      "publishedAt": "Fri, 02 Oct 2026 18:26:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil prices lower as G7 nations to release diesel stocks, Saudis reportedly plan attack on Houthis - CNBC",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVTUyNzJqcnoxNnd5aFVZYzNMbmVzR0pvZW11eXBHUlhWX1NyZ1JKZ3JrZjN2NWdxQVVmSzN6cnd5dVhJWlk2cmxjZkRfWkRBTDZNeHNSYmlKZ05LMVRLQXFSZWdxVVFFLUFDWU5tUkZZSFdoR2hXMnVKQmJJV25TSzd5eUvSAYoBQVVfeXFMTkRoQTgtdG5Mc3pnWjduNVhrNWhYN0YyckxTdm1WN25zSVBQLUZtZUpVc0pTazlLRlZEeWZsZElBZHpXa3NVeG5Iemk0eEFXYmVTSktkMHVqQk90Q0tLWkdIMXpIcmp2RWNucm02RXVFZjZ0TklHcmtUVURTVmNlV2xlMFI0c2duVGxR?oc=5",
-      "description": "Oil prices lower as G7 nations to release diesel stocks, Saudis reportedly plan attack on Houthis CNBC",
-      "publishedAt": "Fri, 02 Oct 2026 08:37:15 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil Prices Fall as Gulf Crude Exports Recover - wsj.com",
-      "source": "wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ1UwdjZ0Qk53aGpUZnhLRG93OE5SRm9idmd2VDJuMmJhRS1KaC1WTGMxWUQ0bVk5OW5RNXZ5V29sZmJIcEg5UWs2ZjA4RTNacjIwalpnaVhhVE54Zl9HVXNkajROUWVQTFZwR1E0VGZSU0xwVGRzTlRBdzBxZEI3aHZueUxEQXJpNUY1UFlaRG53RXhZTkd2ZV93NWxDdzVI?oc=5",
-      "description": "Oil Prices Fall as Gulf Crude Exports Recover wsj.com",
-      "publishedAt": "Tue, 29 Sep 2026 18:59:00 GMT",
+      "title": "Oil's New Normal Is Higher Prices - Crude Oil Prices Today | OilPrice.com",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTDk2UXVmUEdZQk02UWg4S25nVS1YNEVHY3pZaW9nSGtuVGl0M053eDlfWE5YaTk2MTJBMEJ2UGtnOHJ0VnJEbGtac3dWS0xtRGVWVnRtc2QzRFI5Tzl4MjRXbnlZWXBaWDktZU95anhLQWtnaGhleVVpWmhaQUlkSWRTbk8wUG_SAYwBQVVfeXFMTWpaUDhwSGRacHZFREhkb18wTVpSVThYWkZnZi1zeUNLc2FDalQwajV4UTJUM3dxNDAyWGlFa1dYLXl2NWIxd3pTcndENlBvNFlLdlQ1c2FRSFVDSzRGNGJhWkwzQXZkZl9PMFM2STJsTXhvRGdpZ01vU1p4bXptSzFYZjhIX1E5Ulg5SHo?oc=5",
+      "description": "Oil's New Normal Is Higher Prices Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Wed, 30 Sep 2026 00:00:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
