@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04 10:20 UTC",
+  "generatedAt": "2026-10-05 11:04 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
     "regular": 187.9,
@@ -9,7 +9,7 @@
   "history": {
     "labels": [
       "Apr 04",
-      "Oct 04"
+      "Oct 05"
     ],
     "regular": [
       186.9,
@@ -26,13 +26,13 @@
   },
   "prediction": {
     "labels": [
-      "Oct 05",
       "Oct 06",
       "Oct 07",
       "Oct 08",
       "Oct 09",
       "Oct 10",
-      "Oct 11"
+      "Oct 11",
+      "Oct 12"
     ],
     "regular": [
       188.7,
@@ -82,20 +82,47 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices off highs after reports Saudi pipeline ramping back up - CNBC",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1iS25pUWtaQlhIVkNyU2oyYjg1enVuSE9EV3VvR1RnM1NkeUFBTzNoZW1WZDhkTERTQm5WZmUyYkxMczhLLUVXaExhMEhyc3RCcHlxZHMxNk5JSjNJamZmSklPTXVHWWhwVE80YWR2Y3ZZS0FKakFTQzhGQWhmd9IBgwFBVV95cUxPRkh5X0phRnhfLXYzbGtUbXU2UTA0UVowTU5hTzZKNzJEZHZ2SUZXb1VwSUR5M2lwU0x4Qk9EUU9XeW9pREVrdmRMZjVRZXM1MWZ1NFR0d2xaS0Vzc3dWUnQzVWFfUUE2WTdDcC0xSzZETm1VZ0w0N2pCQjJvbXFjLV9UNA?oc=5",
-      "description": "Oil prices off highs after reports Saudi pipeline ramping back up CNBC",
-      "publishedAt": "Sun, 27 Sep 2026 23:58:57 GMT",
+      "title": "Diesel prices could fall below $2 a litre in coming months: expert - BNN Bloomberg",
+      "source": "BNN Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeVVDQTNYenRhWWp6cTU2TkFRWWVtS3d6Yy1ObF9YOGFwNk1fNS1ObS12VHlkbGhwZk45ZTAwN25iZGhmYml1SmFFN3lzNE41UkxZcEVIeWVhbGlMYWNoN3JPMGR4NUMxd2pjbzQzSU92OENkdTVQUVh2cWp6c3d1Qng1dE05WFNUM2xsbXBOYm9oaTdHSk9ZWXdnazVfRGFyNk4weFdqODJlNnVveDJFeUowY3RteFRuSkxJQl82QXY?oc=5",
+      "description": "Diesel prices could fall below $2 a litre in coming months: expert BNN Bloomberg",
+      "publishedAt": "Sun, 04 Oct 2026 13:45:21 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Lower On G-7 Fuel Release Plan - WSJ",
+      "title": "Saudi Arabia unexpectedly cuts November oil prices to Asia to 6-year lows - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOWpva2NQNVZ6d29Gekc1UUNmUGZCZmladGdPeDBQWDZ1MVJqNkh0SzZYNDVsbVpCTWlZck9WdGEzckxPUVBDTkU4TnZnVlZjMEFpbDJKN3R6aFNmU2Y0UWlBa2pISGRxYzVVTUtKaVZuc2xFOUpYdDdpVW9PR2E5emRUc1FaQ0J4QUFNTkNkQ1dsYUc3YlMwWmVUMjczX2c?oc=5",
+      "description": "Saudi Arabia unexpectedly cuts November oil prices to Asia to 6-year lows Reuters",
+      "publishedAt": "Sun, 04 Oct 2026 23:50:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil prices lower as G7 nations to release diesel stocks, Saudis reportedly plan attack on Houthis - CNBC",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVTUyNzJqcnoxNnd5aFVZYzNMbmVzR0pvZW11eXBHUlhWX1NyZ1JKZ3JrZjN2NWdxQVVmSzN6cnd5dVhJWlk2cmxjZkRfWkRBTDZNeHNSYmlKZ05LMVRLQXFSZWdxVVFFLUFDWU5tUkZZSFdoR2hXMnVKQmJJV25TSzd5eUvSAYoBQVVfeXFMTkRoQTgtdG5Mc3pnWjduNVhrNWhYN0YyckxTdm1WN25zSVBQLUZtZUpVc0pTazlLRlZEeWZsZElBZHpXa3NVeG5Iemk0eEFXYmVTSktkMHVqQk90Q0tLWkdIMXpIcmp2RWNucm02RXVFZjZ0TklHcmtUVURTVmNlV2xlMFI0c2duVGxR?oc=5",
+      "description": "Oil prices lower as G7 nations to release diesel stocks, Saudis reportedly plan attack on Houthis CNBC",
+      "publishedAt": "Fri, 02 Oct 2026 08:37:15 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil Prices Pare Gains After Saudi Pipeline Reopens - WSJ",
       "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdnBHZHk3blRobW1RR1dhMnZOcjBhNHhXN3ZWZHdpMVpkTHRiU1dSN1c0TjVEUWxPVDFacG84LXc5aDEwQkNhWF9JUjVZTTNaTG5Rb3JBNUVoa1ZvVjhEajBxdlBVTWYzTXl2X1I2TGllakdEQkNNcGt1UzZDaUZnbkprMENuVkpZMWlfYmhCUDI1bjhEc291U25Mc0R0TFpzVlQzMkZOZGVZTldLUWFHMVJ5VGN6RG1Jal9qNXF1MHZ3QzUwc2c?oc=5",
-      "description": "Oil Prices Lower On G-7 Fuel Release Plan WSJ",
-      "publishedAt": "Sun, 04 Oct 2026 08:48:11 GMT",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUmdBMWtUcFBJLUFsS1dSQThUVVU1TDNjVlQyMzBFYi1qeVZ5bHBmeE1oRERGdHdOaFU1QXVWU2J4WHEzaWxMNWN3NUxtS2ZvY19Gc2FvcldWQ0dfV0t0YUxZWXdYY1JXNWxQNHRxZk5rZHRXOHZ0Sm9VaHhhOWVfNVRzQlpQZGpGNHVxZldidm1VRXVhaVJqYTlDR2dHQjFjYkdHMlZ4d3N2SkY0dHc?oc=5",
+      "description": "Oil Prices Pare Gains After Saudi Pipeline Reopens WSJ",
+      "publishedAt": "Mon, 28 Sep 2026 18:22:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Gasoline prices expected to remain high as global supply shortages continue - The Globe and Mail",
+      "source": "The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVjBkbFN3a0h2MG1GSkFuOWNHYzQydmtXY2NIR2huV0xfVXdkRkI4OEpGakx1UVNPbGU1RkdiZzVWLWZBM21qcEtHb2FJb09nb0JqUUk1a1hvbHpTczdIQWxEdlB3ekVWWjlrNlFLdmZ1Mzh2clJRSFJJWmVFT2lleXpXTFhUUFl0MzN0bFpzYnNOYl9vQWExag?oc=5",
+      "description": "Gasoline prices expected to remain high as global supply shortages continue The Globe and Mail",
+      "publishedAt": "Fri, 02 Oct 2026 18:26:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -109,38 +136,11 @@
       "impact": "medium"
     },
     {
-      "title": "IEA's Birol says oil prices starting to fall after reserve release decision - Reuters",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcHZzWUw2YjVHbmx6SmNmYURKOGxkcy0zbndDQnpTMnRSc0JLOEpIaWw0MzVmeGRzNGZPeUFZQlM4aGduVEV5cVRCYlFwSk53RUQxYzhoZHd2UFhwX25mZlJKbmFzR2Zza3E3OGRVRVN4M0lvV2w3bTQwb1FzQ0s5eUhvQ3VjZTBZbW11QzVKTWctQ3FYQk9GZ2VYRVdKMEo1RVp2S3Z0LTVVMV9OZE15ZURBejNCWVkteVdzZDRsMHc?oc=5",
-      "description": "IEA's Birol says oil prices starting to fall after reserve release decision Reuters",
-      "publishedAt": "Fri, 02 Oct 2026 17:36:32 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "G7 nations will release 100 million barrels of oil and diesel fuel after prices soar - bnnbloomberg.ca",
-      "source": "bnnbloomberg.ca",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTndwLTFqZmxrc2hteTZWcXJ0QkV5VUVUZW1YTllXdlh1azVfNWpPU056Q1Fweno4VjAzN2dDQVhOMTFFdGNITzhhOVM3dG55UFlCRFZlNGNnV1VqQ2RTYzJUMjBDdXE5dW9VWi1OME1pM2dVQTR0RjNzd0RfSmxfVGNpSnpVV1FXbngydEEwRnFXYVZtYmtJNUxyM05ucFpBZE90Q0QzNElud0U0OERjOWV4bFZEZkFiakl6ZGZ0QndqQmN0MEhpT3BTRHRXVUlRSFE?oc=5",
-      "description": "G7 nations will release 100 million barrels of oil and diesel fuel after prices soar bnnbloomberg.ca",
-      "publishedAt": "Fri, 02 Oct 2026 21:33:19 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
       "title": "Current price of oil as of Sept. 29, 2026 - Fortune",
       "source": "Fortune",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9EQ2JJX2xER191QzNaT3Vreno0endDUnItajk1aGEyLVd2aGppX25JUW9DRjU0Ti00X1VmcEJUdGJPNEU5X3M2RHlrQjk5SFFNejR1UDY1WFZEMWVqMjhoMG1B?oc=5",
       "description": "Current price of oil as of Sept. 29, 2026 Fortune",
       "publishedAt": "Tue, 29 Sep 2026 18:52:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Gasoline prices expected to remain high as global supply shortages continue - The Globe and Mail",
-      "source": "The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVjBkbFN3a0h2MG1GSkFuOWNHYzQydmtXY2NIR2huV0xfVXdkRkI4OEpGakx1UVNPbGU1RkdiZzVWLWZBM21qcEtHb2FJb09nb0JqUUk1a1hvbHpTczdIQWxEdlB3ekVWWjlrNlFLdmZ1Mzh2clJRSFJJWmVFT2lleXpXTFhUUFl0MzN0bFpzYnNOYl9vQWExag?oc=5",
-      "description": "Gasoline prices expected to remain high as global supply shortages continue The Globe and Mail",
-      "publishedAt": "Fri, 02 Oct 2026 18:26:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
