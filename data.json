@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05 11:04 UTC",
+  "generatedAt": "2026-10-06 10:57 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
     "regular": 187.9,
@@ -9,7 +9,7 @@
   "history": {
     "labels": [
       "Apr 04",
-      "Oct 05"
+      "Oct 06"
     ],
     "regular": [
       186.9,
@@ -26,13 +26,13 @@
   },
   "prediction": {
     "labels": [
-      "Oct 06",
       "Oct 07",
       "Oct 08",
       "Oct 09",
       "Oct 10",
       "Oct 11",
-      "Oct 12"
+      "Oct 12",
+      "Oct 13"
     ],
     "regular": [
       188.7,
@@ -73,11 +73,11 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices surge after Trump rejects Iran’s plan to reopen Strait of Hormuz - Al Jazeera",
-      "source": "Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTG9KcEZwMUZtVnNtZnBmMnBsa0RZN1I2V250T0xaSjBmT2tpNWx0T1ZodnBubENDcks5SWZiZlgwV1NWT3NDemFaX3FkRHFYNV8zdmo0elJfdGY2SWoxMUZZMTBmN1JjczNVYkVGNHNmOGNLR1NUeUJiMzJBejl1c2d5NUo0TFZKdkEtbHBEZFN0Slo5eDM3N1k5eXNpcnBNeVdOQ3U0M1FlVmk1aWNlLVkteVRKVDliUFHSAb8BQVVfeXFMT1lDRk9jWTJZZnFlQXprRWFFZ3pKVFZocjNKYTNtb014MFFXMDc0WEhNa2Exeng5Z1pRb21rWG5NUTYtUVNyeXZNck5pVVpPMDRRZHNIUDlHQUhMeTRsWGlwUWF0SEVGY3U2MGgtWjBDVlB1TWI0QldYRTZLQ0FfZDRfMW9hWXVTWldIZ3JyN2FWWlkxTkcxMHozT2gyNHdwTFM0clU2RDhFNTVGaC1WVG5Hc3d1aFNhTlk2N29VclE?oc=5",
-      "description": "Oil prices surge after Trump rejects Iran’s plan to reopen Strait of Hormuz Al Jazeera",
-      "publishedAt": "Tue, 29 Sep 2026 00:42:44 GMT",
+      "title": "Crude oil prices and refinery margins generally increased throughout the third quarter - U.S. Energy Information Administration (EIA) (.gov)",
+      "source": "U.S. Energy Information Administration (EIA) (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5KRmxycVhJeUlHVmVsTnlsQXgtdFpsQ1BYaUxiUjF3bjZuYmFfUHlQY3JTdHBkMEJwVWJOUmpjM2hjNXl2X1BwVFJwQVlCUGlSXzBfWEVOZU9UQVVuN0xjdEJCVQ?oc=5",
+      "description": "Crude oil prices and refinery margins generally increased throughout the third quarter U.S. Energy Information Administration (EIA) (.gov)",
+      "publishedAt": "Mon, 05 Oct 2026 13:04:29 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -91,29 +91,11 @@
       "impact": "medium"
     },
     {
-      "title": "Saudi Arabia unexpectedly cuts November oil prices to Asia to 6-year lows - Reuters",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOWpva2NQNVZ6d29Gekc1UUNmUGZCZmladGdPeDBQWDZ1MVJqNkh0SzZYNDVsbVpCTWlZck9WdGEzckxPUVBDTkU4TnZnVlZjMEFpbDJKN3R6aFNmU2Y0UWlBa2pISGRxYzVVTUtKaVZuc2xFOUpYdDdpVW9PR2E5emRUc1FaQ0J4QUFNTkNkQ1dsYUc3YlMwWmVUMjczX2c?oc=5",
-      "description": "Saudi Arabia unexpectedly cuts November oil prices to Asia to 6-year lows Reuters",
-      "publishedAt": "Sun, 04 Oct 2026 23:50:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices lower as G7 nations to release diesel stocks, Saudis reportedly plan attack on Houthis - CNBC",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVTUyNzJqcnoxNnd5aFVZYzNMbmVzR0pvZW11eXBHUlhWX1NyZ1JKZ3JrZjN2NWdxQVVmSzN6cnd5dVhJWlk2cmxjZkRfWkRBTDZNeHNSYmlKZ05LMVRLQXFSZWdxVVFFLUFDWU5tUkZZSFdoR2hXMnVKQmJJV25TSzd5eUvSAYoBQVVfeXFMTkRoQTgtdG5Mc3pnWjduNVhrNWhYN0YyckxTdm1WN25zSVBQLUZtZUpVc0pTazlLRlZEeWZsZElBZHpXa3NVeG5Iemk0eEFXYmVTSktkMHVqQk90Q0tLWkdIMXpIcmp2RWNucm02RXVFZjZ0TklHcmtUVURTVmNlV2xlMFI0c2duVGxR?oc=5",
-      "description": "Oil prices lower as G7 nations to release diesel stocks, Saudis reportedly plan attack on Houthis CNBC",
-      "publishedAt": "Fri, 02 Oct 2026 08:37:15 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil Prices Pare Gains After Saudi Pipeline Reopens - WSJ",
+      "title": "Oil Prices Fall as G-7 Plans Crude, Diesel Release But Hormuz Shipping Risks Persist - WSJ",
       "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUmdBMWtUcFBJLUFsS1dSQThUVVU1TDNjVlQyMzBFYi1qeVZ5bHBmeE1oRERGdHdOaFU1QXVWU2J4WHEzaWxMNWN3NUxtS2ZvY19Gc2FvcldWQ0dfV0t0YUxZWXdYY1JXNWxQNHRxZk5rZHRXOHZ0Sm9VaHhhOWVfNVRzQlpQZGpGNHVxZldidm1VRXVhaVJqYTlDR2dHQjFjYkdHMlZ4d3N2SkY0dHc?oc=5",
-      "description": "Oil Prices Pare Gains After Saudi Pipeline Reopens WSJ",
-      "publishedAt": "Mon, 28 Sep 2026 18:22:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOFA5UUZFdndtdnBodnFleklOcmpCZmdBUzlROTlFSkFiWkZsNG5sMHU4M0VoR2ZLNFVNYlhKbmpjYlc4Q0NObmdDdFNLenRmU0VQdVZfWXU1YU44NWFUcnlWeUNtQkhBMlAyZGpDemdPY3VkY3NzdDRpNWlOcTlabURzNE1udEdkOVVYeW5qcmhndjM3VHVHYVFSZy0yQzYyR1VnSnJGWVdZdEZTUV9IeF84OXpEaFcyNUxzNFIwaFAybGplVHN3cTM1THc?oc=5",
+      "description": "Oil Prices Fall as G-7 Plans Crude, Diesel Release But Hormuz Shipping Risks Persist WSJ",
+      "publishedAt": "Mon, 05 Oct 2026 20:10:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -136,20 +118,38 @@
       "impact": "medium"
     },
     {
-      "title": "Current price of oil as of Sept. 29, 2026 - Fortune",
-      "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9EQ2JJX2xER191QzNaT3Vreno0endDUnItajk1aGEyLVd2aGppX25JUW9DRjU0Ti00X1VmcEJUdGJPNEU5X3M2RHlrQjk5SFFNejR1UDY1WFZEMWVqMjhoMG1B?oc=5",
-      "description": "Current price of oil as of Sept. 29, 2026 Fortune",
-      "publishedAt": "Tue, 29 Sep 2026 18:52:00 GMT",
+      "title": "Oil prices lower as G7 nations to release diesel stocks, Saudis reportedly plan attack on Houthis - CNBC",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVTUyNzJqcnoxNnd5aFVZYzNMbmVzR0pvZW11eXBHUlhWX1NyZ1JKZ3JrZjN2NWdxQVVmSzN6cnd5dVhJWlk2cmxjZkRfWkRBTDZNeHNSYmlKZ05LMVRLQXFSZWdxVVFFLUFDWU5tUkZZSFdoR2hXMnVKQmJJV25TSzd5eUvSAYoBQVVfeXFMTkRoQTgtdG5Mc3pnWjduNVhrNWhYN0YyckxTdm1WN25zSVBQLUZtZUpVc0pTazlLRlZEeWZsZElBZHpXa3NVeG5Iemk0eEFXYmVTSktkMHVqQk90Q0tLWkdIMXpIcmp2RWNucm02RXVFZjZ0TklHcmtUVURTVmNlV2xlMFI0c2duVGxR?oc=5",
+      "description": "Oil prices lower as G7 nations to release diesel stocks, Saudis reportedly plan attack on Houthis CNBC",
+      "publishedAt": "Fri, 02 Oct 2026 08:37:15 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil's New Normal Is Higher Prices - Crude Oil Prices Today | OilPrice.com",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTDk2UXVmUEdZQk02UWg4S25nVS1YNEVHY3pZaW9nSGtuVGl0M053eDlfWE5YaTk2MTJBMEJ2UGtnOHJ0VnJEbGtac3dWS0xtRGVWVnRtc2QzRFI5Tzl4MjRXbnlZWXBaWDktZU95anhLQWtnaGhleVVpWmhaQUlkSWRTbk8wUG_SAYwBQVVfeXFMTWpaUDhwSGRacHZFREhkb18wTVpSVThYWkZnZi1zeUNLc2FDalQwajV4UTJUM3dxNDAyWGlFa1dYLXl2NWIxd3pTcndENlBvNFlLdlQ1c2FRSFVDSzRGNGJhWkwzQXZkZl9PMFM2STJsTXhvRGdpZ01vU1p4bXptSzFYZjhIX1E5Ulg5SHo?oc=5",
-      "description": "Oil's New Normal Is Higher Prices Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Wed, 30 Sep 2026 00:00:00 GMT",
+      "title": "Saudi Arabia unexpectedly cuts November oil prices to Asia to 6-year lows - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOWpva2NQNVZ6d29Gekc1UUNmUGZCZmladGdPeDBQWDZ1MVJqNkh0SzZYNDVsbVpCTWlZck9WdGEzckxPUVBDTkU4TnZnVlZjMEFpbDJKN3R6aFNmU2Y0UWlBa2pISGRxYzVVTUtKaVZuc2xFOUpYdDdpVW9PR2E5emRUc1FaQ0J4QUFNTkNkQ1dsYUc3YlMwWmVUMjczX2c?oc=5",
+      "description": "Saudi Arabia unexpectedly cuts November oil prices to Asia to 6-year lows Reuters",
+      "publishedAt": "Sun, 04 Oct 2026 23:50:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Current price of oil as of October 5, 2026 - Fortune",
+      "source": "Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9EbkRLZjBkY2xqVUFPNEJaRy1ZR2wtZjA3RU5KaGZQTEdCX21HVy1ZWEFRNDcwTjdCMmFTYmhiSjVQNFNmcHp2aXk1cktBTUhXMVZLd0RzTkU0VHpZT3RQSU5R?oc=5",
+      "description": "Current price of oil as of October 5, 2026 Fortune",
+      "publishedAt": "Mon, 05 Oct 2026 11:15:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Crude Oil Prices Fall on Dollar Strength and Saudi Price Cuts - Barchart.com",
+      "source": "Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeVVfRXZaWFVQUFZqZXdLdUlwZW9nbVdqWVN3a0h4eGNTVjZfREphdE11QXJDY0Z1Y0w0SksyUDJaSUwwR2pDdVUyQzlkaUlfMTRFZHFxb1k1amhzblE3X0JBSk91UWYzRW5YUWhDMEVSSlVxdWR3T3BGTXJ4eDUwS2NvQzZwZDRZbG14WVQtNXFRcm5oNlpEQUtybU1GTjNCV0k0ZFR2YUk?oc=5",
+      "description": "Crude Oil Prices Fall on Dollar Strength and Saudi Price Cuts Barchart.com",
+      "publishedAt": "Mon, 05 Oct 2026 19:21:45 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
