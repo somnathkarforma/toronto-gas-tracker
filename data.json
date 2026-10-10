@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-10-09 11:04 UTC",
+  "generatedAt": "2026-10-10 10:21 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 184.9,
-    "premium": 202.9,
-    "diesel": 195.4
+    "regular": 182.9,
+    "premium": 200.9,
+    "diesel": 193.4
   },
   "history": {
     "labels": [
-      "Oct 09"
+      "Oct 10"
     ],
     "regular": [
-      184.9
+      182.9
     ],
     "premium": [
-      202.9
+      200.9
     ],
     "diesel": [
-      195.4
+      193.4
     ]
   },
   "prediction": {
     "labels": [
-      "Oct 10",
       "Oct 11",
       "Oct 12",
       "Oct 13",
       "Oct 14",
       "Oct 15",
-      "Oct 16"
+      "Oct 16",
+      "Oct 17"
     ],
     "regular": [
-      184.9,
-      184.9,
-      184.9,
-      184.9,
-      184.9,
-      184.9,
-      184.9
+      182.9,
+      182.9,
+      182.9,
+      182.9,
+      182.9,
+      182.9,
+      182.9
     ],
     "premium": [
-      202.9,
-      202.9,
-      202.9,
-      202.9,
-      202.9,
-      202.9,
-      202.9
+      200.9,
+      200.9,
+      200.9,
+      200.9,
+      200.9,
+      200.9,
+      200.9
     ],
     "diesel": [
-      195.4,
-      195.4,
-      195.4,
-      195.4,
-      195.4,
-      195.4,
-      195.4
+      193.4,
+      193.4,
+      193.4,
+      193.4,
+      193.4,
+      193.4,
+      193.4
     ]
   },
   "news": [
@@ -74,15 +74,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVUtheGJTemRRTGF2MkZTclRRZXJJYjRCZW1LdmJwaENZSVNWbTNIMkxEOVhZR3NHR1pEN2I5OVVuRDc2bnlJWF96aGlNbmptT0dqRVFxVnNadUxRVW1WYU1vSjRNbXVNSzc2U3NxOUhSNEx5R2ZpNEZZRWRqdVdQLTB0UU5DZmF5WmlBMmF0Z3VWUmhsS2ZLLW9XalJzX1FOaEdtWmlMWTI?oc=5",
       "description": "Oil prices jump 5% on Middle East tensions and US hurricane threat The Guardian",
       "publishedAt": "Thu, 08 Oct 2026 08:44:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Crude oil prices and refinery margins generally increased throughout the third quarter - U.S. Energy Information Administration (EIA) (.gov)",
-      "source": "U.S. Energy Information Administration (EIA) (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5KRmxycVhJeUlHVmVsTnlsQXgtdFpsQ1BYaUxiUjF3bjZuYmFfUHlQY3JTdHBkMEJwVWJOUmpjM2hjNXl2X1BwVFJwQVlCUGlSXzBfWEVOZU9UQVVuN0xjdEJCVQ?oc=5",
-      "description": "Crude oil prices and refinery margins generally increased throughout the third quarter U.S. Energy Information Administration (EIA) (.gov)",
-      "publishedAt": "Mon, 05 Oct 2026 13:04:29 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -114,20 +105,20 @@
       "impact": "medium"
     },
     {
-      "title": "Rising oil prices, falling technology stocks and reversing bond yields keep Wall Street unsettled - BNN Bloomberg",
-      "source": "BNN Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMEliQVNFYUNPUldJZ3FmLUdCbXRkaEN5TmRQUzV3UVBwSGdvbDZpRmdQM1o4M1huOVR5M2xCMXl5YXBzZ1FkZi0wX0JUQ29UbDVsTGYxQVZuTXhKcXRIMEpDRXdkaFRPOGlsbF9kVWpLUDk3NDVPSDEzQ3FTTmlqTWszREhVakF2RDYwUHVrMzc1alZvMkJ0c0RhNXpWTEZqczlVZ0RiTHE2T2x5dDZPLUZ3N3I?oc=5",
-      "description": "Rising oil prices, falling technology stocks and reversing bond yields keep Wall Street unsettled BNN Bloomberg",
-      "publishedAt": "Thu, 08 Oct 2026 20:23:00 GMT",
+      "title": "Depleted Global Stocks Set Higher Floor Under Oil Prices - Crude Oil Prices Today | OilPrice.com",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVDRhRWRseW45YXRJQ1laREVPVm1DRU01clIyTnpFSUI0WXgyZDRfb2Y4bk5yY1JqejBYbHdrcElTOWlsVzVOX05ycFhiaDc1US0yU0htNHhfR3U2dXZYWVdHbFRpOG1jdE01OG55NmkyZXBaY0tfcGpqWWx3bTd2akFtcWp0MGhmQTJ1WUhsN1RjYm92RTgxeGxxYXBlamVv0gGmAUFVX3lxTE5SZjMwekRVT2tJajFXdVh3d3lENTBFUjF4djh0MGJ0cWM0Wk1pcHRvMVNjMkR0ZDFLaUF5WHRoS3JXd2NDMmtHNzVEamNaV1UwWFFqbldxSVpQbFlEZW9hdjdCQkNNWi1FODhLUl9EZDFKdXhCUDNmVHpLTU9WZW5uMldTaktmZi1wMkExakhPRFVLMFg3eVdqTGppY2FfdVlwd0xWa3c?oc=5",
+      "description": "Depleted Global Stocks Set Higher Floor Under Oil Prices Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Wed, 07 Oct 2026 22:00:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Fall as G-7 Plans Crude, Diesel Release But Hormuz Shipping Risks Persist - WSJ",
+      "title": "Oil Prices Fall Back As Supply Optimism Outweighs Conflict, Storm Risks - WSJ",
       "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOFA5UUZFdndtdnBodnFleklOcmpCZmdBUzlROTlFSkFiWkZsNG5sMHU4M0VoR2ZLNFVNYlhKbmpjYlc4Q0NObmdDdFNLenRmU0VQdVZfWXU1YU44NWFUcnlWeUNtQkhBMlAyZGpDemdPY3VkY3NzdDRpNWlOcTlabURzNE1udEdkOVVYeW5qcmhndjM3VHVHYVFSZy0yQzYyR1VnSnJGWVdZdEZTUV9IeF84OXpEaFcyNUxzNFIwaFAybGplVHN3cTM1THc?oc=5",
-      "description": "Oil Prices Fall as G-7 Plans Crude, Diesel Release But Hormuz Shipping Risks Persist WSJ",
-      "publishedAt": "Mon, 05 Oct 2026 20:10:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRHUxNFFZWVFoTFM4cFRPMW50NmpZd1JBRWN2OGlJRm1IWnZ1aVVlZTc5MU5uZXV5M1c5Uk8wR2FEQzR4VHVkaWxjMUV1UVBra05GaVpiQXE3X2VGMlRVNTdYeFR5THBOdjFQV2cydGpiR3ZWUmhvV1NMMFRvMEtwY2Y2RDZIanFYbW9WVTRFRElCQ2txcHVqQW04NEwwUHZSeERzd3BtVnV3WUtPbm5CcWZjaHQ4Ylk?oc=5",
+      "description": "Oil Prices Fall Back As Supply Optimism Outweighs Conflict, Storm Risks WSJ",
+      "publishedAt": "Wed, 07 Oct 2026 19:49:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -141,11 +132,20 @@
       "impact": "medium"
     },
     {
-      "title": "U.S. Oil Drilling Inches Up As Prices Fall - Crude Oil Prices Today | OilPrice.com",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNDY0ZGdsd1hWeWNaXzJ0blRXMEt3a200V2IzSmR5d2NyallMaXU3MUtWNTk3c0JLTjBEUzZSaEdFQVF2blJBem1KaXB6U3hIUUJWTkVBdHpkUm52YnBuZTFMbFUzN3ZIYlFwaHQ3eGlTTnN0OElWM3Q4dTRpV3hwUmJwa3R6MmkxYVd30gGQAUFVX3lxTFAwUXh2RE1LQlg4bUo5azhpb3RXMmhoRDdzenFUZzMwUnZieXpVTWRDMEpESEdYcThCVWdNUk9URXBLYUxHNHJBekpyUEJ5SjRBQnpnUWxIOWhraFA3RlNVVG9PRFNZZk1Qam9pMmNVci1hRjE5NGFKRmhMRDY5SnN3WTRQMnlyTFdxQ0V0UFE0VQ?oc=5",
-      "description": "U.S. Oil Drilling Inches Up As Prices Fall Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Fri, 02 Oct 2026 17:16:00 GMT",
+      "title": "Rising oil prices, falling technology stocks and reversing bond yields keep Wall Street unsettled - BNN Bloomberg",
+      "source": "BNN Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMEliQVNFYUNPUldJZ3FmLUdCbXRkaEN5TmRQUzV3UVBwSGdvbDZpRmdQM1o4M1huOVR5M2xCMXl5YXBzZ1FkZi0wX0JUQ29UbDVsTGYxQVZuTXhKcXRIMEpDRXdkaFRPOGlsbF9kVWpLUDk3NDVPSDEzQ3FTTmlqTWszREhVakF2RDYwUHVrMzc1alZvMkJ0c0RhNXpWTEZqczlVZ0RiTHE2T2x5dDZPLUZ3N3I?oc=5",
+      "description": "Rising oil prices, falling technology stocks and reversing bond yields keep Wall Street unsettled BNN Bloomberg",
+      "publishedAt": "Thu, 08 Oct 2026 20:23:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Current price of oil as of October 6, 2026 - Fortune",
+      "source": "Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5MZmozMnVtXzc0d05fSHRGNzBSYVFyWko1R1VYMzF5bTdObTYxX0djMGdOVFVUczBGWVhnU2p0YkRqRmh1UEpqQ1plT01vbU1oUkw5WDNQRlFIbkdQNkNWenRB?oc=5",
+      "description": "Current price of oil as of October 6, 2026 Fortune",
+      "publishedAt": "Tue, 06 Oct 2026 11:45:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
