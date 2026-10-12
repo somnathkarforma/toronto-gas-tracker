@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11 10:29 UTC",
+  "generatedAt": "2026-10-12 11:33 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
     "regular": 181.9,
@@ -8,7 +8,7 @@
   },
   "history": {
     "labels": [
-      "Oct 11"
+      "Oct 12"
     ],
     "regular": [
       181.9
@@ -22,13 +22,13 @@
   },
   "prediction": {
     "labels": [
-      "Oct 12",
       "Oct 13",
       "Oct 14",
       "Oct 15",
       "Oct 16",
       "Oct 17",
-      "Oct 18"
+      "Oct 18",
+      "Oct 19"
     ],
     "regular": [
       181.9,
@@ -82,16 +82,7 @@
       "source": "WSJ",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRHUxNFFZWVFoTFM4cFRPMW50NmpZd1JBRWN2OGlJRm1IWnZ1aVVlZTc5MU5uZXV5M1c5Uk8wR2FEQzR4VHVkaWxjMUV1UVBra05GaVpiQXE3X2VGMlRVNTdYeFR5THBOdjFQV2cydGpiR3ZWUmhvV1NMMFRvMEtwY2Y2RDZIanFYbW9WVTRFRElCQ2txcHVqQW04NEwwUHZSeERzd3BtVnV3WUtPbm5CcWZjaHQ4Ylk?oc=5",
       "description": "Oil Prices Fall Back As Supply Optimism Outweighs Conflict, Storm Risks WSJ",
-      "publishedAt": "Sun, 11 Oct 2026 01:45:18 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Depleted Global Stocks Set Higher Floor Under Oil Prices - Crude Oil Prices Today | OilPrice.com",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVDRhRWRseW45YXRJQ1laREVPVm1DRU01clIyTnpFSUI0WXgyZDRfb2Y4bk5yY1JqejBYbHdrcElTOWlsVzVOX05ycFhiaDc1US0yU0htNHhfR3U2dXZYWVdHbFRpOG1jdE01OG55NmkyZXBaY0tfcGpqWWx3bTd2akFtcWp0MGhmQTJ1WUhsN1RjYm92RTgxeGxxYXBlamVv0gGmAUFVX3lxTE5SZjMwekRVT2tJajFXdVh3d3lENTBFUjF4djh0MGJ0cWM0Wk1pcHRvMVNjMkR0ZDFLaUF5WHRoS3JXd2NDMmtHNzVEamNaV1UwWFFqbldxSVpQbFlEZW9hdjdCQkNNWi1FODhLUl9EZDFKdXhCUDNmVHpLTU9WZW5uMldTaktmZi1wMkExakhPRFVLMFg3eVdqTGppY2FfdVlwd0xWa3c?oc=5",
-      "description": "Depleted Global Stocks Set Higher Floor Under Oil Prices Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Wed, 07 Oct 2026 22:00:00 GMT",
+      "publishedAt": "Mon, 12 Oct 2026 05:15:02 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -101,6 +92,15 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSHYwa2g1N1NQR1ZHcFR2eVJ3cjJySlZLVlA1UjBQeU9yNl81Z2tGYTk3TVk4V3JMcXh1LVpscTVDdTdrZGFOZjd4VWNzeXNEM1lHYmV5bDFzV2ZrN3NuQUE4VXV6cE16enQzSi1ZU3l1aXVPa00yVDkxeDRYbFI5WjhOVGR0VHFUMWNkWFMtNmxDSW9YRUtHY2pKWTlxTFRPclRzTA?oc=5",
       "description": "Oil prices settle down as IEA agrees to accelerate oil stock release Reuters",
       "publishedAt": "Wed, 07 Oct 2026 11:05:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Depleted Global Stocks Set Higher Floor Under Oil Prices - Crude Oil Prices Today | OilPrice.com",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVDRhRWRseW45YXRJQ1laREVPVm1DRU01clIyTnpFSUI0WXgyZDRfb2Y4bk5yY1JqejBYbHdrcElTOWlsVzVOX05ycFhiaDc1US0yU0htNHhfR3U2dXZYWVdHbFRpOG1jdE01OG55NmkyZXBaY0tfcGpqWWx3bTd2akFtcWp0MGhmQTJ1WUhsN1RjYm92RTgxeGxxYXBlamVv0gGmAUFVX3lxTE5SZjMwekRVT2tJajFXdVh3d3lENTBFUjF4djh0MGJ0cWM0Wk1pcHRvMVNjMkR0ZDFLaUF5WHRoS3JXd2NDMmtHNzVEamNaV1UwWFFqbldxSVpQbFlEZW9hdjdCQkNNWi1FODhLUl9EZDFKdXhCUDNmVHpLTU9WZW5uMldTaktmZi1wMkExakhPRFVLMFg3eVdqTGppY2FfdVlwd0xWa3c?oc=5",
+      "description": "Depleted Global Stocks Set Higher Floor Under Oil Prices Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Wed, 07 Oct 2026 22:00:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -141,11 +141,11 @@
       "impact": "medium"
     },
     {
-      "title": "Current price of oil as of October 5, 2026 - Fortune",
+      "title": "Current price of oil as of October 9, 2026 - Fortune",
       "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9EbkRLZjBkY2xqVUFPNEJaRy1ZR2wtZjA3RU5KaGZQTEdCX21HVy1ZWEFRNDcwTjdCMmFTYmhiSjVQNFNmcHp2aXk1cktBTUhXMVZLd0RzTkU0VHpZT3RQSU5R?oc=5",
-      "description": "Current price of oil as of October 5, 2026 Fortune",
-      "publishedAt": "Mon, 05 Oct 2026 11:15:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE11dlNrd3RfTU5KV21YYXRVNVp2Q0FkbmFHQTRMelcxTG56eEl2OHZ6bjBMSk9RZVU0cEZmWlZUaUluZUVYSndjZnpzYm9xS2JWMUlyeV94d3JkX2VLYWRRVHV3?oc=5",
+      "description": "Current price of oil as of October 9, 2026 Fortune",
+      "publishedAt": "Fri, 09 Oct 2026 11:00:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
