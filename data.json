@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13 11:19 UTC",
+  "generatedAt": "2026-10-14 09:12 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
     "regular": 181.9,
@@ -8,7 +8,7 @@
   },
   "history": {
     "labels": [
-      "Oct 13"
+      "Oct 14"
     ],
     "regular": [
       181.9
@@ -22,13 +22,13 @@
   },
   "prediction": {
     "labels": [
-      "Oct 14",
       "Oct 15",
       "Oct 16",
       "Oct 17",
       "Oct 18",
       "Oct 19",
-      "Oct 20"
+      "Oct 20",
+      "Oct 21"
     ],
     "regular": [
       181.9,
@@ -60,38 +60,20 @@
   },
   "news": [
     {
-      "title": "Oil prices jump 5% on Middle East tensions and US hurricane threat - The Guardian",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVUtheGJTemRRTGF2MkZTclRRZXJJYjRCZW1LdmJwaENZSVNWbTNIMkxEOVhZR3NHR1pEN2I5OVVuRDc2bnlJWF96aGlNbmptT0dqRVFxVnNadUxRVW1WYU1vSjRNbXVNSzc2U3NxOUhSNEx5R2ZpNEZZRWRqdVdQLTB0UU5DZmF5WmlBMmF0Z3VWUmhsS2ZLLW9XalJzX1FOaEdtWmlMWTI?oc=5",
-      "description": "Oil prices jump 5% on Middle East tensions and US hurricane threat The Guardian",
-      "publishedAt": "Thu, 08 Oct 2026 08:44:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices fall as traders assess Russian diesel supply prospects and Saudi-Houthi conflict - CNBC",
+      "title": "Oil prices mixed as traders assess Russian diesel supply prospects and Saudi-Houthi conflict - CNBC",
       "source": "CNBC",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54ZkU0elVpRTVVZkFtMGJtbm05b2padDh0eVJVdjBfZk9XNHN0aDBYZV9tU2JTdHlwMnY5VGRSN043MkUxU1RTVEN3Vk1JV1pfRkJkT3ZlZXNQVERBR0pOaHVIeFVPbGRGakNvWmthQ1FsNEtzTlg3cFpn0gF_QVVfeXFMTnBkQlZnZkpDYTRoY2ZaMHlnWWp4eFF5LUNZTTF5ZHNQaFlqem01T3hPUGI1VHBUc0VMdW1mREp4elRwSmEzVFd5NTRuOHNFMTVrelh5cGJwYTlsQ2N0NGhZRk1hZVpxbGV6bzdQVjAwX3JtNnBLVTAwYVQ1NzlSWQ?oc=5",
-      "description": "Oil prices fall as traders assess Russian diesel supply prospects and Saudi-Houthi conflict CNBC",
+      "description": "Oil prices mixed as traders assess Russian diesel supply prospects and Saudi-Houthi conflict CNBC",
       "publishedAt": "Tue, 13 Oct 2026 03:45:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Fall Back As Supply Optimism Outweighs Conflict, Storm Risks - WSJ",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRHUxNFFZWVFoTFM4cFRPMW50NmpZd1JBRWN2OGlJRm1IWnZ1aVVlZTc5MU5uZXV5M1c5Uk8wR2FEQzR4VHVkaWxjMUV1UVBra05GaVpiQXE3X2VGMlRVNTdYeFR5THBOdjFQV2cydGpiR3ZWUmhvV1NMMFRvMEtwY2Y2RDZIanFYbW9WVTRFRElCQ2txcHVqQW04NEwwUHZSeERzd3BtVnV3WUtPbm5CcWZjaHQ4Ylk?oc=5",
-      "description": "Oil Prices Fall Back As Supply Optimism Outweighs Conflict, Storm Risks WSJ",
-      "publishedAt": "Wed, 07 Oct 2026 19:49:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Depleted Global Stocks Set Higher Floor Under Oil Prices - Crude Oil Prices Today | OilPrice.com",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVDRhRWRseW45YXRJQ1laREVPVm1DRU01clIyTnpFSUI0WXgyZDRfb2Y4bk5yY1JqejBYbHdrcElTOWlsVzVOX05ycFhiaDc1US0yU0htNHhfR3U2dXZYWVdHbFRpOG1jdE01OG55NmkyZXBaY0tfcGpqWWx3bTd2akFtcWp0MGhmQTJ1WUhsN1RjYm92RTgxeGxxYXBlamVv0gGmAUFVX3lxTE5SZjMwekRVT2tJajFXdVh3d3lENTBFUjF4djh0MGJ0cWM0Wk1pcHRvMVNjMkR0ZDFLaUF5WHRoS3JXd2NDMmtHNzVEamNaV1UwWFFqbldxSVpQbFlEZW9hdjdCQkNNWi1FODhLUl9EZDFKdXhCUDNmVHpLTU9WZW5uMldTaktmZi1wMkExakhPRFVLMFg3eVdqTGppY2FfdVlwd0xWa3c?oc=5",
-      "description": "Depleted Global Stocks Set Higher Floor Under Oil Prices Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Wed, 07 Oct 2026 22:00:00 GMT",
+      "title": "Oil prices jump 5% on Middle East tensions and US hurricane threat - The Guardian",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVUtheGJTemRRTGF2MkZTclRRZXJJYjRCZW1LdmJwaENZSVNWbTNIMkxEOVhZR3NHR1pEN2I5OVVuRDc2bnlJWF96aGlNbmptT0dqRVFxVnNadUxRVW1WYU1vSjRNbXVNSzc2U3NxOUhSNEx5R2ZpNEZZRWRqdVdQLTB0UU5DZmF5WmlBMmF0Z3VWUmhsS2ZLLW9XalJzX1FOaEdtWmlMWTI?oc=5",
+      "description": "Oil prices jump 5% on Middle East tensions and US hurricane threat The Guardian",
+      "publishedAt": "Thu, 08 Oct 2026 08:44:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -105,20 +87,29 @@
       "impact": "medium"
     },
     {
+      "title": "Depleted Global Stocks Set Higher Floor Under Oil Prices - Crude Oil Prices Today | OilPrice.com",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVDRhRWRseW45YXRJQ1laREVPVm1DRU01clIyTnpFSUI0WXgyZDRfb2Y4bk5yY1JqejBYbHdrcElTOWlsVzVOX05ycFhiaDc1US0yU0htNHhfR3U2dXZYWVdHbFRpOG1jdE01OG55NmkyZXBaY0tfcGpqWWx3bTd2akFtcWp0MGhmQTJ1WUhsN1RjYm92RTgxeGxxYXBlamVv0gGmAUFVX3lxTE5SZjMwekRVT2tJajFXdVh3d3lENTBFUjF4djh0MGJ0cWM0Wk1pcHRvMVNjMkR0ZDFLaUF5WHRoS3JXd2NDMmtHNzVEamNaV1UwWFFqbldxSVpQbFlEZW9hdjdCQkNNWi1FODhLUl9EZDFKdXhCUDNmVHpLTU9WZW5uMldTaktmZi1wMkExakhPRFVLMFg3eVdqTGppY2FfdVlwd0xWa3c?oc=5",
+      "description": "Depleted Global Stocks Set Higher Floor Under Oil Prices Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Wed, 07 Oct 2026 22:00:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil Prices Fall Back As Supply Optimism Outweighs Conflict, Storm Risks - WSJ",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRHUxNFFZWVFoTFM4cFRPMW50NmpZd1JBRWN2OGlJRm1IWnZ1aVVlZTc5MU5uZXV5M1c5Uk8wR2FEQzR4VHVkaWxjMUV1UVBra05GaVpiQXE3X2VGMlRVNTdYeFR5THBOdjFQV2cydGpiR3ZWUmhvV1NMMFRvMEtwY2Y2RDZIanFYbW9WVTRFRElCQ2txcHVqQW04NEwwUHZSeERzd3BtVnV3WUtPbm5CcWZjaHQ4Ylk?oc=5",
+      "description": "Oil Prices Fall Back As Supply Optimism Outweighs Conflict, Storm Risks WSJ",
+      "publishedAt": "Wed, 14 Oct 2026 03:00:06 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
       "title": "Oil prices spike after Houthi attacks on Saudi airports - The Hill",
       "source": "The Hill",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTTZ5RGNoVEhkQU9PWXZCMWlyaTB2NFJmb2dZa2FMSkl3VWdrTUZrY3dTTU9scnJ6TUxWazRLbjluTUNFUVFKUFFGaDdjUng4QWczcERLUXhlNEFMWTNBVWs2bDJWYXZZZU5yX2hvdmdOandqZVJiVWhKYzg0QTRhZm1LNFFhajFfRVlpajdicE_SAZYBQVVfeXFMT1hrMExFRVMxY2V5MF80bTRKbVRpMzR1eVQyRjVFQnBTOTJjTkVwb3RHTm1KOGRxNEE2Yl9ieWkxQ0t4SFQ5SFB2enFyTlVsTTdOZjZZWEVTMU81ZkhjSHVBOUlCUi1hUVViV1JhaWZxbWNBSGdJMlA0XzdoalFsM2dLOXpPSVdMdUhScE9CQ0tnVjZNVmZR?oc=5",
       "description": "Oil prices spike after Houthi attacks on Saudi airports The Hill",
       "publishedAt": "Mon, 12 Oct 2026 21:30:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil Prices Rise as Attacks on Saudi Arabia and Middle East Tankers Renew Global Supply Concerns - EnergyNow",
-      "source": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbnRDYjRFc1RZWkhjNVplYXZkcU45OTM2eU5BT1VDXzNhUGtXMllub05jSVNfeWhBa09jc3FDdjRMWUJ3Y1RsdzNYYjllWWFOUUdHRHl4UWs4NlpISGNZc3JMQndCUnJBV01wRUp3MEsxWGZJSFJnOTR3eGo0a0lYNmNDclR3YXlQZ1gtdUxmWndPWW8xMHNwN3owYlZMODgxUUVvSmFtNi1UbXFEZzZUQl8xVUJfbEluT3pHVFRhZFlMSEk?oc=5",
-      "description": "Oil Prices Rise as Attacks on Saudi Arabia and Middle East Tankers Renew Global Supply Concerns EnergyNow",
-      "publishedAt": "Mon, 12 Oct 2026 13:12:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -146,6 +137,15 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLTA0TXdyTldZVG9YbjBHRHJZUXJvN3JVZHlmRlRnVVgwOFJSVHZlM3ItWG9QeWUyVUJObVd0WjgtUGhES1NkOE9QSFJ1dFBZV3FtX2ctdkNHSjgyWU9RN184RTh3akIwcXE4SU9qaktLTGNlTE5WLW1OUC0xMzBEV0hneW9ZQQ?oc=5",
       "description": "Trump’s pledge not to strike Iran before midterms fails to soothe oil markets NBC News",
       "publishedAt": "Thu, 08 Oct 2026 20:19:19 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Current price of oil as of October 9, 2026 - Fortune",
+      "source": "Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE11dlNrd3RfTU5KV21YYXRVNVp2Q0FkbmFHQTRMelcxTG56eEl2OHZ6bjBMSk9RZVU0cEZmWlZUaUluZUVYSndjZnpzYm9xS2JWMUlyeV94d3JkX2VLYWRRVHV3?oc=5",
+      "description": "Current price of oil as of October 9, 2026 Fortune",
+      "publishedAt": "Fri, 09 Oct 2026 11:00:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
