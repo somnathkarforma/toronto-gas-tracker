@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-10-14 09:12 UTC",
+  "generatedAt": "2026-10-15 08:44 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 181.9,
-    "premium": 199.9,
-    "diesel": 192.4
+    "regular": 179.9,
+    "premium": 197.9,
+    "diesel": 190.4
   },
   "history": {
     "labels": [
-      "Oct 14"
+      "Oct 15"
     ],
     "regular": [
-      181.9
+      179.9
     ],
     "premium": [
-      199.9
+      197.9
     ],
     "diesel": [
-      192.4
+      190.4
     ]
   },
   "prediction": {
     "labels": [
-      "Oct 15",
       "Oct 16",
       "Oct 17",
       "Oct 18",
       "Oct 19",
       "Oct 20",
-      "Oct 21"
+      "Oct 21",
+      "Oct 22"
     ],
     "regular": [
-      181.9,
-      181.9,
-      181.9,
-      181.9,
-      181.9,
-      181.9,
-      181.9
+      179.9,
+      179.9,
+      179.9,
+      179.9,
+      179.9,
+      179.9,
+      179.9
     ],
     "premium": [
-      199.9,
-      199.9,
-      199.9,
-      199.9,
-      199.9,
-      199.9,
-      199.9
+      197.9,
+      197.9,
+      197.9,
+      197.9,
+      197.9,
+      197.9,
+      197.9
     ],
     "diesel": [
-      192.4,
-      192.4,
-      192.4,
-      192.4,
-      192.4,
-      192.4,
-      192.4
+      190.4,
+      190.4,
+      190.4,
+      190.4,
+      190.4,
+      190.4,
+      190.4
     ]
   },
   "news": [
@@ -69,38 +69,11 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices jump 5% on Middle East tensions and US hurricane threat - The Guardian",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVUtheGJTemRRTGF2MkZTclRRZXJJYjRCZW1LdmJwaENZSVNWbTNIMkxEOVhZR3NHR1pEN2I5OVVuRDc2bnlJWF96aGlNbmptT0dqRVFxVnNadUxRVW1WYU1vSjRNbXVNSzc2U3NxOUhSNEx5R2ZpNEZZRWRqdVdQLTB0UU5DZmF5WmlBMmF0Z3VWUmhsS2ZLLW9XalJzX1FOaEdtWmlMWTI?oc=5",
-      "description": "Oil prices jump 5% on Middle East tensions and US hurricane threat The Guardian",
-      "publishedAt": "Thu, 08 Oct 2026 08:44:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices settle down as IEA agrees to accelerate oil stock release - Reuters",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSHYwa2g1N1NQR1ZHcFR2eVJ3cjJySlZLVlA1UjBQeU9yNl81Z2tGYTk3TVk4V3JMcXh1LVpscTVDdTdrZGFOZjd4VWNzeXNEM1lHYmV5bDFzV2ZrN3NuQUE4VXV6cE16enQzSi1ZU3l1aXVPa00yVDkxeDRYbFI5WjhOVGR0VHFUMWNkWFMtNmxDSW9YRUtHY2pKWTlxTFRPclRzTA?oc=5",
-      "description": "Oil prices settle down as IEA agrees to accelerate oil stock release Reuters",
-      "publishedAt": "Wed, 07 Oct 2026 11:05:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Depleted Global Stocks Set Higher Floor Under Oil Prices - Crude Oil Prices Today | OilPrice.com",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVDRhRWRseW45YXRJQ1laREVPVm1DRU01clIyTnpFSUI0WXgyZDRfb2Y4bk5yY1JqejBYbHdrcElTOWlsVzVOX05ycFhiaDc1US0yU0htNHhfR3U2dXZYWVdHbFRpOG1jdE01OG55NmkyZXBaY0tfcGpqWWx3bTd2akFtcWp0MGhmQTJ1WUhsN1RjYm92RTgxeGxxYXBlamVv0gGmAUFVX3lxTE5SZjMwekRVT2tJajFXdVh3d3lENTBFUjF4djh0MGJ0cWM0Wk1pcHRvMVNjMkR0ZDFLaUF5WHRoS3JXd2NDMmtHNzVEamNaV1UwWFFqbldxSVpQbFlEZW9hdjdCQkNNWi1FODhLUl9EZDFKdXhCUDNmVHpLTU9WZW5uMldTaktmZi1wMkExakhPRFVLMFg3eVdqTGppY2FfdVlwd0xWa3c?oc=5",
-      "description": "Depleted Global Stocks Set Higher Floor Under Oil Prices Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Wed, 07 Oct 2026 22:00:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil Prices Fall Back As Supply Optimism Outweighs Conflict, Storm Risks - WSJ",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRHUxNFFZWVFoTFM4cFRPMW50NmpZd1JBRWN2OGlJRm1IWnZ1aVVlZTc5MU5uZXV5M1c5Uk8wR2FEQzR4VHVkaWxjMUV1UVBra05GaVpiQXE3X2VGMlRVNTdYeFR5THBOdjFQV2cydGpiR3ZWUmhvV1NMMFRvMEtwY2Y2RDZIanFYbW9WVTRFRElCQ2txcHVqQW04NEwwUHZSeERzd3BtVnV3WUtPbm5CcWZjaHQ4Ylk?oc=5",
-      "description": "Oil Prices Fall Back As Supply Optimism Outweighs Conflict, Storm Risks WSJ",
-      "publishedAt": "Wed, 14 Oct 2026 03:00:06 GMT",
+      "title": "Higher crude oil prices are a ‘net positive’ for Canada: TD report - BNN Bloomberg",
+      "source": "BNN Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQLVVVR1Z1SWhJMXZLeUpUTEpYTEtGejZYLW5yeDNRNnNVVmIxR3hNNHM3alpvZG9VM0l5WnNhdU4tQWJ2UThiODFqWExwNm9sRlhtSzhpaEtMaXRMeHZGa1JZSEFOT0xUMmJpT1U3d1E5eEE5a0JBVUQ5anRDUHpwOE02empsY0w1SGIwVmJicFduam1sVkpjeWd2QTgxVW1TVkZOUGxISkpraHdSbks3UW1ubnZ6M1FRR1drWmVIX1ljMUNtU1NkN0o2RjktdkVXMXhraHZNcEJ1cnlL?oc=5",
+      "description": "Higher crude oil prices are a ‘net positive’ for Canada: TD report BNN Bloomberg",
+      "publishedAt": "Wed, 14 Oct 2026 17:36:05 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -114,24 +87,6 @@
       "impact": "medium"
     },
     {
-      "title": "US stocks slide as oil prices fluctuate over renewed Iran war fears - Al Jazeera",
-      "source": "Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOHQ5dFo2YXd1enA3VnJ3blZXek5Fc2dnV1NzRURHQmZWV2RINk9fR0M3VThhaGdTYW9TTXk1b1dhbEptX2hWT1RZZ3NhTi1VMGNJVFJrU2hsaDVhMXBybU9Na0RpR3RDM1hZX0RsekdCWmxYWVI3WHdMN1dZd2hEWDlrYlluNURWUFJGYldqYU1nel9aY0hUQ1U2dlVVT0JGaERIRzYzakpyNDZp0gGyAUFVX3lxTE5zMkNybGZYZ09LeHFxY2JiMW1Bdk8tQTJFX21pakFEUnZuTWtxMmpkbENQcll4M3pqN2d4V1R6MGFjektoWDVsTHdiWWRBbUk4V29wWVpWLUkyWnI0MG5hUjZObGJYUlQ1T0xOdDhyRG45cmNWUHVsNDNxZE5OMzRnOExsbjMwOE82MHpDdEs5WmpkU2dXYnhEWmNuRXJ1SF9kOWNWT3VwWTFjSzg4RS1adHc?oc=5",
-      "description": "US stocks slide as oil prices fluctuate over renewed Iran war fears Al Jazeera",
-      "publishedAt": "Thu, 08 Oct 2026 03:34:37 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Rising oil prices, falling technology stocks and reversing bond yields keep Wall Street unsettled - BNN Bloomberg",
-      "source": "BNN Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMEliQVNFYUNPUldJZ3FmLUdCbXRkaEN5TmRQUzV3UVBwSGdvbDZpRmdQM1o4M1huOVR5M2xCMXl5YXBzZ1FkZi0wX0JUQ29UbDVsTGYxQVZuTXhKcXRIMEpDRXdkaFRPOGlsbF9kVWpLUDk3NDVPSDEzQ3FTTmlqTWszREhVakF2RDYwUHVrMzc1alZvMkJ0c0RhNXpWTEZqczlVZ0RiTHE2T2x5dDZPLUZ3N3I?oc=5",
-      "description": "Rising oil prices, falling technology stocks and reversing bond yields keep Wall Street unsettled BNN Bloomberg",
-      "publishedAt": "Thu, 08 Oct 2026 20:23:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
       "title": "Trump’s pledge not to strike Iran before midterms fails to soothe oil markets - NBC News",
       "source": "NBC News",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLTA0TXdyTldZVG9YbjBHRHJZUXJvN3JVZHlmRlRnVVgwOFJSVHZlM3ItWG9QeWUyVUJObVd0WjgtUGhES1NkOE9QSFJ1dFBZV3FtX2ctdkNHSjgyWU9RN184RTh3akIwcXE4SU9qaktLTGNlTE5WLW1OUC0xMzBEV0hneW9ZQQ?oc=5",
@@ -141,11 +96,56 @@
       "impact": "medium"
     },
     {
-      "title": "Current price of oil as of October 9, 2026 - Fortune",
+      "title": "BMI Predicts Brent Crude Will Remain Above $100 for Months - Crude Oil Prices Today | OilPrice.com",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ3hPQ21jRXVBM3BPalBXdWh2dmllVVRMdDUtM05vM2lPeldXTmlja3ZTbGpnN2I0b1JUWW1tcDBWX3hUdllpNjhkM19kY05SMWRlQXU4emNtdmpLRm81Tk1CUjVhazVnUjBfek9uZzhiYWs1T0xPanpPeDFVWXlSQWZqOTJOTGN5WDJGVkxycy11dk5oX3dzZ0I3THFXRU9vQUx6eU1ZZ2xXczdFdlBzR2dtUdIBuAFBVV95cUxNZk42UDRocERYRThBVzNiTEZaUjB4YmJESE50a1dETnA4ODd4bm1vZ1VVeTRqcFdZdDVHaU5IS05XQXd3dHlzMzZzOXJqVHctLXBBOVNLXzJ1WElCUWw3cEJkV0pvdkJtWTc0MW1WZUJTRnhGSm9Db0l4bmc0a2s5UEpqdHVmZzZnMDU2WUlUMzUxa3FQWkdUaUhmc2FBMW1QN3VET1pRcjhqbkphUlgzNXdSQUZmVW9o?oc=5",
+      "description": "BMI Predicts Brent Crude Will Remain Above $100 for Months Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Mon, 12 Oct 2026 10:30:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil prices settle higher as more production shut ahead of hurricane - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONW0wejJNQmpGTE9heFBmZG8wTWE5a010VFNMSDBqcThNXzBFTjZkbWF3NnpxSWxoVkRJSEhMcDk4VDh5OVp3bzlZNzdiS0pNTnd6aGkwQVZsU0JiOU9wb0k1ckN1V2ZUVl9sTFRuZnVhLXFlaDUwZGIxT2VxNW1RZUwyNlJ3c2ZxRkdONll5RVdtTnlfcDllN0pnLWE4VU1FblRvbHdkTkIwbHNk?oc=5",
+      "description": "Oil prices settle higher as more production shut ahead of hurricane Reuters",
+      "publishedAt": "Fri, 09 Oct 2026 20:19:51 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Current price of oil as of October 12, 2026 - Fortune",
       "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE11dlNrd3RfTU5KV21YYXRVNVp2Q0FkbmFHQTRMelcxTG56eEl2OHZ6bjBMSk9RZVU0cEZmWlZUaUluZUVYSndjZnpzYm9xS2JWMUlyeV94d3JkX2VLYWRRVHV3?oc=5",
-      "description": "Current price of oil as of October 9, 2026 Fortune",
-      "publishedAt": "Fri, 09 Oct 2026 11:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBBUnpTblBFMXR5ZElCU3hWS0M0cjRhZ3lKY2JnV0t1dzc4cy1OTDlQX0RReDk4ZTU2bjVYeURQbHVBdmtTX0k3QzhzVnl5RU1QalNiTkgzMGtVM1RMYXBqN0VR?oc=5",
+      "description": "Current price of oil as of October 12, 2026 Fortune",
+      "publishedAt": "Mon, 12 Oct 2026 14:21:30 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil Prices Steady After Trump Appears to Rule Out Iran Strikes Before Midterms - WSJ",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPenNnUDYybWpPV1NGRGZCVnRjbGxHNEZVRnBobXR4YUlfZ3FuVDFrZF95enJwZUF1cm1vZEFCYkFLVmxTU2RwRzg1dGQyWVE2dDE2bks5YkxRNzhlaEt6eUJSVHpJdFlYRVpaMGtmX3l4T2NyUzZiSkhCMnFMWkFETjlZdG9WbVhqMkNqU0NzV0hxSzFKRE0yQWNZOFZxMFJMVF9meW1aa3FsZk9HV0luU0VVZVp0RE0xYXQyTTk1SlFoUW9uMEZ3?oc=5",
+      "description": "Oil Prices Steady After Trump Appears to Rule Out Iran Strikes Before Midterms WSJ",
+      "publishedAt": "Fri, 09 Oct 2026 19:33:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Canadians keep spending through higher oil prices but momentum eased in September - RBC",
+      "source": "RBC",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMHUycEpaaVg3b0pjaGNqeHFOdm14aE9DSnpyY0J5TjZ0akVXRzZLTnRoRjRhS1c5R1p0cVk5VFlOQlUxSl9MTDJ5T3dZbWJPeFNZc3JWd0kteXR4ZFRjOU5hUVFILS1WUHFydjlqRnpCWVpQSHI4T0dlQ3hHTHBrcWV0UlJZQktJbWxPcUVxX0pOMHBFTDJDMHZHbm1ZUWNFMmZsd0RqeEhrMFJma2Y3UnVTWWI2QU5qX0tobFBZWllMSGZkblg0eUF3QUx2ZXM4Nk1FendpYUgyOGxqdnFzYWhFckczV1UyMWFaQV9tZlBaMkJfbWc?oc=5",
+      "description": "Canadians keep spending through higher oil prices but momentum eased in September RBC",
+      "publishedAt": "Wed, 14 Oct 2026 15:51:56 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil falls as investors assess Mideast tensions, International Energy Agency's report - CNBC",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DVlpiaVB3TDNMcWszU0s4YVotdmZpYjUzVDVkZ1EwWU5nNTVfWDlsbVI2eVJHRHB6NDJrbXNONEtCdzFoWDJmVDF5V0ltWk5HUE1DMVNWRlhPREYtSmhMZEZUOUN6QnI3d2ZadVYwNErSAXZBVV95cUxNTnU2bkR5aVZmeE40Q3o5cjE5bmNZT2NLRVJhbnkwVzdyNFBHY0JNREQ2NjFfdy1GWEUwblVobnBYRHhiRUw4RkpLN3B6WngycUdQeTJkQlVuYVB0ekhlLUJEeVJBXzJzQlM1X1BQbGxLQmMtdndn?oc=5",
+      "description": "Oil falls as investors assess Mideast tensions, International Energy Agency's report CNBC",
+      "publishedAt": "Thu, 15 Oct 2026 04:09:18 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
