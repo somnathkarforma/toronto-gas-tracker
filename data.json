@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-10-15 08:44 UTC",
+  "generatedAt": "2026-10-16 08:40 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 179.9,
-    "premium": 197.9,
-    "diesel": 190.4
+    "regular": 180.9,
+    "premium": 198.9,
+    "diesel": 191.4
   },
   "history": {
     "labels": [
-      "Oct 15"
+      "Oct 16"
     ],
     "regular": [
-      179.9
+      180.9
     ],
     "premium": [
-      197.9
+      198.9
     ],
     "diesel": [
-      190.4
+      191.4
     ]
   },
   "prediction": {
     "labels": [
-      "Oct 16",
       "Oct 17",
       "Oct 18",
       "Oct 19",
       "Oct 20",
       "Oct 21",
-      "Oct 22"
+      "Oct 22",
+      "Oct 23"
     ],
     "regular": [
-      179.9,
-      179.9,
-      179.9,
-      179.9,
-      179.9,
-      179.9,
-      179.9
+      180.9,
+      180.9,
+      180.9,
+      180.9,
+      180.9,
+      180.9,
+      180.9
     ],
     "premium": [
-      197.9,
-      197.9,
-      197.9,
-      197.9,
-      197.9,
-      197.9,
-      197.9
+      198.9,
+      198.9,
+      198.9,
+      198.9,
+      198.9,
+      198.9,
+      198.9
     ],
     "diesel": [
-      190.4,
-      190.4,
-      190.4,
-      190.4,
-      190.4,
-      190.4,
-      190.4
+      191.4,
+      191.4,
+      191.4,
+      191.4,
+      191.4,
+      191.4,
+      191.4
     ]
   },
   "news": [
@@ -78,20 +78,11 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices spike after Houthi attacks on Saudi airports - The Hill",
-      "source": "The Hill",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTTZ5RGNoVEhkQU9PWXZCMWlyaTB2NFJmb2dZa2FMSkl3VWdrTUZrY3dTTU9scnJ6TUxWazRLbjluTUNFUVFKUFFGaDdjUng4QWczcERLUXhlNEFMWTNBVWs2bDJWYXZZZU5yX2hvdmdOandqZVJiVWhKYzg0QTRhZm1LNFFhajFfRVlpajdicE_SAZYBQVVfeXFMT1hrMExFRVMxY2V5MF80bTRKbVRpMzR1eVQyRjVFQnBTOTJjTkVwb3RHTm1KOGRxNEE2Yl9ieWkxQ0t4SFQ5SFB2enFyTlVsTTdOZjZZWEVTMU81ZkhjSHVBOUlCUi1hUVViV1JhaWZxbWNBSGdJMlA0XzdoalFsM2dLOXpPSVdMdUhScE9CQ0tnVjZNVmZR?oc=5",
-      "description": "Oil prices spike after Houthi attacks on Saudi airports The Hill",
-      "publishedAt": "Mon, 12 Oct 2026 21:30:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Trump’s pledge not to strike Iran before midterms fails to soothe oil markets - NBC News",
-      "source": "NBC News",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLTA0TXdyTldZVG9YbjBHRHJZUXJvN3JVZHlmRlRnVVgwOFJSVHZlM3ItWG9QeWUyVUJObVd0WjgtUGhES1NkOE9QSFJ1dFBZV3FtX2ctdkNHSjgyWU9RN184RTh3akIwcXE4SU9qaktLTGNlTE5WLW1OUC0xMzBEV0hneW9ZQQ?oc=5",
-      "description": "Trump’s pledge not to strike Iran before midterms fails to soothe oil markets NBC News",
-      "publishedAt": "Thu, 08 Oct 2026 20:19:19 GMT",
+      "title": "Oil prices climb as Iran deploys new tactics to target ships transiting Hormuz - BOE Report",
+      "source": "BOE Report",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPejBFY2V3RVFPRXFhcXJxRFJhcm81cFRaQU5KN1dxeFJmMEFKOEVEODJNeG1NdWRZVmdMWklOUVVhQ0Fkb1paVTBPejlFZXE0OE1rQldFUTd5UG1wMmZlWE1HOGwyNzFQMjBHNHluYmt5Q0Z6LW00Q3E5ZjNuZGlPMkp4QWMwTjJmRGM3c0ZZd19ySVNBZnRTTFZINnRVX0owQkx3UHBjT3NEVHNhV2ZOWUxB0gG3AUFVX3lxTE51N0xudmxSMlpLYzN6Z2ZWaWtTSnlqSWtRX3QwMU0xalEyRWlVMXpBMEx3X0c4QUZ0S293NVg5cGw2aWxQQUI2NGZkQWM3bEl3X045WEg2ZXBIWEtVVERHMlRsQUxPQVFNLWJvRW5jaGlGRnBlWmxVdE94RjdoWHI5UllVNUVJRlZYRUxmczlaVnlEVHNPR1N2QmdXZWFlZzNQZ1dBcVJHZ0FKcXpTUmxEcGdJZVlucw?oc=5",
+      "description": "Oil prices climb as Iran deploys new tactics to target ships transiting Hormuz BOE Report",
+      "publishedAt": "Wed, 14 Oct 2026 06:25:05 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -114,11 +105,29 @@
       "impact": "medium"
     },
     {
+      "title": "Oil prices spike after Houthi attacks on Saudi airports - The Hill",
+      "source": "The Hill",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTTZ5RGNoVEhkQU9PWXZCMWlyaTB2NFJmb2dZa2FMSkl3VWdrTUZrY3dTTU9scnJ6TUxWazRLbjluTUNFUVFKUFFGaDdjUng4QWczcERLUXhlNEFMWTNBVWs2bDJWYXZZZU5yX2hvdmdOandqZVJiVWhKYzg0QTRhZm1LNFFhajFfRVlpajdicE_SAZYBQVVfeXFMT1hrMExFRVMxY2V5MF80bTRKbVRpMzR1eVQyRjVFQnBTOTJjTkVwb3RHTm1KOGRxNEE2Yl9ieWkxQ0t4SFQ5SFB2enFyTlVsTTdOZjZZWEVTMU81ZkhjSHVBOUlCUi1hUVViV1JhaWZxbWNBSGdJMlA0XzdoalFsM2dLOXpPSVdMdUhScE9CQ0tnVjZNVmZR?oc=5",
+      "description": "Oil prices spike after Houthi attacks on Saudi airports The Hill",
+      "publishedAt": "Mon, 12 Oct 2026 21:30:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
       "title": "Current price of oil as of October 12, 2026 - Fortune",
       "source": "Fortune",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBBUnpTblBFMXR5ZElCU3hWS0M0cjRhZ3lKY2JnV0t1dzc4cy1OTDlQX0RReDk4ZTU2bjVYeURQbHVBdmtTX0k3QzhzVnl5RU1QalNiTkgzMGtVM1RMYXBqN0VR?oc=5",
       "description": "Current price of oil as of October 12, 2026 Fortune",
-      "publishedAt": "Mon, 12 Oct 2026 14:21:30 GMT",
+      "publishedAt": "Mon, 12 Oct 2026 11:00:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Higher oil prices are lifting Canada’s purchasing power—but the gains are uneven - RBC",
+      "source": "RBC",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZm9EX0pkOWVSdVhmdVpWbnVkSjFRd2pORU5JX3lwVy1SVm10Xzh6M1JCeUx4STFzRlFST3REM09BWWVNSXp3UkdrdE1CN0hLTGQ3aldnVWlXZC0wTjkzdTVUU1BPNWdZTm90MlA4MFU5bGtOYzR5U25sQmdhM0xpRjFQYUJvb2ptX01LUDFCMHY4WEl4SjZ0VzJESFhQZE0wektuN2RIMVJnWUNucDVYTnk3d0VzNG8tQzZPV1pneU53WmlIbzFoSm9CeWZQVGx0OGxJLWlCWXJVVnlkalVvUE1QaGVtbWlBdnVRTm5UMA?oc=5",
+      "description": "Higher oil prices are lifting Canada’s purchasing power—but the gains are uneven RBC",
+      "publishedAt": "Thu, 15 Oct 2026 22:19:27 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -132,19 +141,10 @@
       "impact": "medium"
     },
     {
-      "title": "Canadians keep spending through higher oil prices but momentum eased in September - RBC",
-      "source": "RBC",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMHUycEpaaVg3b0pjaGNqeHFOdm14aE9DSnpyY0J5TjZ0akVXRzZLTnRoRjRhS1c5R1p0cVk5VFlOQlUxSl9MTDJ5T3dZbWJPeFNZc3JWd0kteXR4ZFRjOU5hUVFILS1WUHFydjlqRnpCWVpQSHI4T0dlQ3hHTHBrcWV0UlJZQktJbWxPcUVxX0pOMHBFTDJDMHZHbm1ZUWNFMmZsd0RqeEhrMFJma2Y3UnVTWWI2QU5qX0tobFBZWllMSGZkblg0eUF3QUx2ZXM4Nk1FendpYUgyOGxqdnFzYWhFckczV1UyMWFaQV9tZlBaMkJfbWc?oc=5",
-      "description": "Canadians keep spending through higher oil prices but momentum eased in September RBC",
-      "publishedAt": "Wed, 14 Oct 2026 15:51:56 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil falls as investors assess Mideast tensions, International Energy Agency's report - CNBC",
+      "title": "U.S. crude oil near $98 as Iran steps up attacks in Strait of Hormuz - CNBC",
       "source": "CNBC",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DVlpiaVB3TDNMcWszU0s4YVotdmZpYjUzVDVkZ1EwWU5nNTVfWDlsbVI2eVJHRHB6NDJrbXNONEtCdzFoWDJmVDF5V0ltWk5HUE1DMVNWRlhPREYtSmhMZEZUOUN6QnI3d2ZadVYwNErSAXZBVV95cUxNTnU2bkR5aVZmeE40Q3o5cjE5bmNZT2NLRVJhbnkwVzdyNFBHY0JNREQ2NjFfdy1GWEUwblVobnBYRHhiRUw4RkpLN3B6WngycUdQeTJkQlVuYVB0ekhlLUJEeVJBXzJzQlM1X1BQbGxLQmMtdndn?oc=5",
-      "description": "Oil falls as investors assess Mideast tensions, International Energy Agency's report CNBC",
+      "description": "U.S. crude oil near $98 as Iran steps up attacks in Strait of Hormuz CNBC",
       "publishedAt": "Thu, 15 Oct 2026 04:09:18 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
