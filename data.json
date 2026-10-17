@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-10-16 08:40 UTC",
+  "generatedAt": "2026-10-17 08:11 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 180.9,
-    "premium": 198.9,
-    "diesel": 191.4
+    "regular": 176.9,
+    "premium": 194.9,
+    "diesel": 187.4
   },
   "history": {
     "labels": [
-      "Oct 16"
+      "Oct 17"
     ],
     "regular": [
-      180.9
+      176.9
     ],
     "premium": [
-      198.9
+      194.9
     ],
     "diesel": [
-      191.4
+      187.4
     ]
   },
   "prediction": {
     "labels": [
-      "Oct 17",
       "Oct 18",
       "Oct 19",
       "Oct 20",
       "Oct 21",
       "Oct 22",
-      "Oct 23"
+      "Oct 23",
+      "Oct 24"
     ],
     "regular": [
-      180.9,
-      180.9,
-      180.9,
-      180.9,
-      180.9,
-      180.9,
-      180.9
+      176.9,
+      176.9,
+      176.9,
+      176.9,
+      176.9,
+      176.9,
+      176.9
     ],
     "premium": [
-      198.9,
-      198.9,
-      198.9,
-      198.9,
-      198.9,
-      198.9,
-      198.9
+      194.9,
+      194.9,
+      194.9,
+      194.9,
+      194.9,
+      194.9,
+      194.9
     ],
     "diesel": [
-      191.4,
-      191.4,
-      191.4,
-      191.4,
-      191.4,
-      191.4,
-      191.4
+      187.4,
+      187.4,
+      187.4,
+      187.4,
+      187.4,
+      187.4,
+      187.4
     ]
   },
   "news": [
@@ -78,11 +78,20 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices climb as Iran deploys new tactics to target ships transiting Hormuz - BOE Report",
-      "source": "BOE Report",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPejBFY2V3RVFPRXFhcXJxRFJhcm81cFRaQU5KN1dxeFJmMEFKOEVEODJNeG1NdWRZVmdMWklOUVVhQ0Fkb1paVTBPejlFZXE0OE1rQldFUTd5UG1wMmZlWE1HOGwyNzFQMjBHNHluYmt5Q0Z6LW00Q3E5ZjNuZGlPMkp4QWMwTjJmRGM3c0ZZd19ySVNBZnRTTFZINnRVX0owQkx3UHBjT3NEVHNhV2ZOWUxB0gG3AUFVX3lxTE51N0xudmxSMlpLYzN6Z2ZWaWtTSnlqSWtRX3QwMU0xalEyRWlVMXpBMEx3X0c4QUZ0S293NVg5cGw2aWxQQUI2NGZkQWM3bEl3X045WEg2ZXBIWEtVVERHMlRsQUxPQVFNLWJvRW5jaGlGRnBlWmxVdE94RjdoWHI5UllVNUVJRlZYRUxmczlaVnlEVHNPR1N2QmdXZWFlZzNQZ1dBcVJHZ0FKcXpTUmxEcGdJZVlucw?oc=5",
-      "description": "Oil prices climb as Iran deploys new tactics to target ships transiting Hormuz BOE Report",
-      "publishedAt": "Wed, 14 Oct 2026 06:25:05 GMT",
+      "title": "Higher oil prices are lifting Canada’s purchasing power—but the gains are uneven - RBC",
+      "source": "RBC",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZm9EX0pkOWVSdVhmdVpWbnVkSjFRd2pORU5JX3lwVy1SVm10Xzh6M1JCeUx4STFzRlFST3REM09BWWVNSXp3UkdrdE1CN0hLTGQ3aldnVWlXZC0wTjkzdTVUU1BPNWdZTm90MlA4MFU5bGtOYzR5U25sQmdhM0xpRjFQYUJvb2ptX01LUDFCMHY4WEl4SjZ0VzJESFhQZE0wektuN2RIMVJnWUNucDVYTnk3d0VzNG8tQzZPV1pneU53WmlIbzFoSm9CeWZQVGx0OGxJLWlCWXJVVnlkalVvUE1QaGVtbWlBdnVRTm5UMA?oc=5",
+      "description": "Higher oil prices are lifting Canada’s purchasing power—but the gains are uneven RBC",
+      "publishedAt": "Thu, 15 Oct 2026 22:19:27 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Will Oil Prices Decline as Middle East Supply Recovers? - Goldman Sachs",
+      "source": "Goldman Sachs",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaUg4Q214OThjdDJOX21aLVhqWDNZV3lwNllfT3BMSkZteUhIUi1DanZsa0Q3d0I0VXdsRldlV0Q3a3J2MENlbkh1NVJURk1MQ2RhaXk5Q2RWUzBsRHpaMDRZdjdPaFdyTWhIdUVlano2a1NLZVlGQ0d2RlJqanlyR0FrNzVpWEpDZk9VNlNaU3FPQ05UUTlYcVpwZHJzSzk3aWlR?oc=5",
+      "description": "Will Oil Prices Decline as Middle East Supply Recovers? Goldman Sachs",
+      "publishedAt": "Fri, 16 Oct 2026 19:01:07 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -96,11 +105,38 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices settle higher as more production shut ahead of hurricane - Reuters",
+      "title": "Oil prices climb as Iran deploys new tactics to target ships transiting Hormuz - BOE Report",
+      "source": "BOE Report",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPejBFY2V3RVFPRXFhcXJxRFJhcm81cFRaQU5KN1dxeFJmMEFKOEVEODJNeG1NdWRZVmdMWklOUVVhQ0Fkb1paVTBPejlFZXE0OE1rQldFUTd5UG1wMmZlWE1HOGwyNzFQMjBHNHluYmt5Q0Z6LW00Q3E5ZjNuZGlPMkp4QWMwTjJmRGM3c0ZZd19ySVNBZnRTTFZINnRVX0owQkx3UHBjT3NEVHNhV2ZOWUxB0gG3AUFVX3lxTE51N0xudmxSMlpLYzN6Z2ZWaWtTSnlqSWtRX3QwMU0xalEyRWlVMXpBMEx3X0c4QUZ0S293NVg5cGw2aWxQQUI2NGZkQWM3bEl3X045WEg2ZXBIWEtVVERHMlRsQUxPQVFNLWJvRW5jaGlGRnBlWmxVdE94RjdoWHI5UllVNUVJRlZYRUxmczlaVnlEVHNPR1N2QmdXZWFlZzNQZ1dBcVJHZ0FKcXpTUmxEcGdJZVlucw?oc=5",
+      "description": "Oil prices climb as Iran deploys new tactics to target ships transiting Hormuz BOE Report",
+      "publishedAt": "Wed, 14 Oct 2026 06:25:05 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil prices gain on attacks in Saudi Arabia, Iran's new tactics to target tankers - Reuters",
       "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONW0wejJNQmpGTE9heFBmZG8wTWE5a010VFNMSDBqcThNXzBFTjZkbWF3NnpxSWxoVkRJSEhMcDk4VDh5OVp3bzlZNzdiS0pNTnd6aGkwQVZsU0JiOU9wb0k1ckN1V2ZUVl9sTFRuZnVhLXFlaDUwZGIxT2VxNW1RZUwyNlJ3c2ZxRkdONll5RVdtTnlfcDllN0pnLWE4VU1FblRvbHdkTkIwbHNk?oc=5",
-      "description": "Oil prices settle higher as more production shut ahead of hurricane Reuters",
-      "publishedAt": "Fri, 09 Oct 2026 20:19:51 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON0hPaGRDOW9haXRKcUJ3WVU5dVdwSjB2ZzNMZTVWd0lRYV9ZUjRNRTI4VjVXeERGeW1XVU1GanZidjZneXhKeFh1dWM0OUJ6ZGltVXFXdHJNVk52MDN5M3NvRnhUUWN6aEFiSldFUWxfeHNPYmQ2R21JMGlhaUNaWEFNckc0T0ItSFpYcHA3MmM4UUdnTVd0VFg0NWhtbm91MllPWllha0pqdVBjZlRldDgxaG5PclVud0xtNQ?oc=5",
+      "description": "Oil prices gain on attacks in Saudi Arabia, Iran's new tactics to target tankers Reuters",
+      "publishedAt": "Wed, 14 Oct 2026 20:01:08 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Current price of oil as of October 14, 2026 - Fortune",
+      "source": "Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1JcHVBNWl0R1ZQVnc2RWd3WXJ1ajU2bTVWMlI0NWJWVENhdExuRUtVU29FRElCS2RCbmx1UERubklpMkpHYlhBTVIyUm8tN1Vuc3N1a2lHc0p3TEs3eC1UYXBB?oc=5",
+      "description": "Current price of oil as of October 14, 2026 Fortune",
+      "publishedAt": "Wed, 14 Oct 2026 11:30:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Tech stocks erase $1 trillion of wealth as oil surges to $110 for the first time since May - NBC News",
+      "source": "NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcWwtaE0zalpGS3dlQkJuT2lJSHdXdEVjbkItLUVDMlYzWHNjYnpQWGF3TlpnNDV5ME9DWG5YU0ZtbVVGdnZNRndsSkdOZHRzUU5iQjVhd20yY1h6WF9VUjMwVXdLQktSX0o3amgyZVpmeXJiY1gtRHVCbTNfV3VsQ2ZLcHU2ek9a?oc=5",
+      "description": "Tech stocks erase $1 trillion of wealth as oil surges to $110 for the first time since May NBC News",
+      "publishedAt": "Fri, 16 Oct 2026 21:16:52 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -110,42 +146,6 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTTZ5RGNoVEhkQU9PWXZCMWlyaTB2NFJmb2dZa2FMSkl3VWdrTUZrY3dTTU9scnJ6TUxWazRLbjluTUNFUVFKUFFGaDdjUng4QWczcERLUXhlNEFMWTNBVWs2bDJWYXZZZU5yX2hvdmdOandqZVJiVWhKYzg0QTRhZm1LNFFhajFfRVlpajdicE_SAZYBQVVfeXFMT1hrMExFRVMxY2V5MF80bTRKbVRpMzR1eVQyRjVFQnBTOTJjTkVwb3RHTm1KOGRxNEE2Yl9ieWkxQ0t4SFQ5SFB2enFyTlVsTTdOZjZZWEVTMU81ZkhjSHVBOUlCUi1hUVViV1JhaWZxbWNBSGdJMlA0XzdoalFsM2dLOXpPSVdMdUhScE9CQ0tnVjZNVmZR?oc=5",
       "description": "Oil prices spike after Houthi attacks on Saudi airports The Hill",
       "publishedAt": "Mon, 12 Oct 2026 21:30:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Current price of oil as of October 12, 2026 - Fortune",
-      "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBBUnpTblBFMXR5ZElCU3hWS0M0cjRhZ3lKY2JnV0t1dzc4cy1OTDlQX0RReDk4ZTU2bjVYeURQbHVBdmtTX0k3QzhzVnl5RU1QalNiTkgzMGtVM1RMYXBqN0VR?oc=5",
-      "description": "Current price of oil as of October 12, 2026 Fortune",
-      "publishedAt": "Mon, 12 Oct 2026 11:00:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Higher oil prices are lifting Canada’s purchasing power—but the gains are uneven - RBC",
-      "source": "RBC",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZm9EX0pkOWVSdVhmdVpWbnVkSjFRd2pORU5JX3lwVy1SVm10Xzh6M1JCeUx4STFzRlFST3REM09BWWVNSXp3UkdrdE1CN0hLTGQ3aldnVWlXZC0wTjkzdTVUU1BPNWdZTm90MlA4MFU5bGtOYzR5U25sQmdhM0xpRjFQYUJvb2ptX01LUDFCMHY4WEl4SjZ0VzJESFhQZE0wektuN2RIMVJnWUNucDVYTnk3d0VzNG8tQzZPV1pneU53WmlIbzFoSm9CeWZQVGx0OGxJLWlCWXJVVnlkalVvUE1QaGVtbWlBdnVRTm5UMA?oc=5",
-      "description": "Higher oil prices are lifting Canada’s purchasing power—but the gains are uneven RBC",
-      "publishedAt": "Thu, 15 Oct 2026 22:19:27 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil Prices Steady After Trump Appears to Rule Out Iran Strikes Before Midterms - WSJ",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPenNnUDYybWpPV1NGRGZCVnRjbGxHNEZVRnBobXR4YUlfZ3FuVDFrZF95enJwZUF1cm1vZEFCYkFLVmxTU2RwRzg1dGQyWVE2dDE2bks5YkxRNzhlaEt6eUJSVHpJdFlYRVpaMGtmX3l4T2NyUzZiSkhCMnFMWkFETjlZdG9WbVhqMkNqU0NzV0hxSzFKRE0yQWNZOFZxMFJMVF9meW1aa3FsZk9HV0luU0VVZVp0RE0xYXQyTTk1SlFoUW9uMEZ3?oc=5",
-      "description": "Oil Prices Steady After Trump Appears to Rule Out Iran Strikes Before Midterms WSJ",
-      "publishedAt": "Fri, 09 Oct 2026 19:33:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "U.S. crude oil near $98 as Iran steps up attacks in Strait of Hormuz - CNBC",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DVlpiaVB3TDNMcWszU0s4YVotdmZpYjUzVDVkZ1EwWU5nNTVfWDlsbVI2eVJHRHB6NDJrbXNONEtCdzFoWDJmVDF5V0ltWk5HUE1DMVNWRlhPREYtSmhMZEZUOUN6QnI3d2ZadVYwNErSAXZBVV95cUxNTnU2bkR5aVZmeE40Q3o5cjE5bmNZT2NLRVJhbnkwVzdyNFBHY0JNREQ2NjFfdy1GWEUwblVobnBYRHhiRUw4RkpLN3B6WngycUdQeTJkQlVuYVB0ekhlLUJEeVJBXzJzQlM1X1BQbGxLQmMtdndn?oc=5",
-      "description": "U.S. crude oil near $98 as Iran steps up attacks in Strait of Hormuz CNBC",
-      "publishedAt": "Thu, 15 Oct 2026 04:09:18 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
