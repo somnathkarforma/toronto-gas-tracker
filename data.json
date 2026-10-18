@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-10-17 08:11 UTC",
+  "generatedAt": "2026-10-18 08:28 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 176.9,
-    "premium": 194.9,
-    "diesel": 187.4
+    "regular": 178.9,
+    "premium": 196.9,
+    "diesel": 189.4
   },
   "history": {
     "labels": [
-      "Oct 17"
+      "Oct 18"
     ],
     "regular": [
-      176.9
+      178.9
     ],
     "premium": [
-      194.9
+      196.9
     ],
     "diesel": [
-      187.4
+      189.4
     ]
   },
   "prediction": {
     "labels": [
-      "Oct 18",
       "Oct 19",
       "Oct 20",
       "Oct 21",
       "Oct 22",
       "Oct 23",
-      "Oct 24"
+      "Oct 24",
+      "Oct 25"
     ],
     "regular": [
-      176.9,
-      176.9,
-      176.9,
-      176.9,
-      176.9,
-      176.9,
-      176.9
+      178.9,
+      178.9,
+      178.9,
+      178.9,
+      178.9,
+      178.9,
+      178.9
     ],
     "premium": [
-      194.9,
-      194.9,
-      194.9,
-      194.9,
-      194.9,
-      194.9,
-      194.9
+      196.9,
+      196.9,
+      196.9,
+      196.9,
+      196.9,
+      196.9,
+      196.9
     ],
     "diesel": [
-      187.4,
-      187.4,
-      187.4,
-      187.4,
-      187.4,
-      187.4,
-      187.4
+      189.4,
+      189.4,
+      189.4,
+      189.4,
+      189.4,
+      189.4,
+      189.4
     ]
   },
   "news": [
@@ -87,38 +87,11 @@
       "impact": "medium"
     },
     {
-      "title": "Will Oil Prices Decline as Middle East Supply Recovers? - Goldman Sachs",
-      "source": "Goldman Sachs",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaUg4Q214OThjdDJOX21aLVhqWDNZV3lwNllfT3BMSkZteUhIUi1DanZsa0Q3d0I0VXdsRldlV0Q3a3J2MENlbkh1NVJURk1MQ2RhaXk5Q2RWUzBsRHpaMDRZdjdPaFdyTWhIdUVlano2a1NLZVlGQ0d2RlJqanlyR0FrNzVpWEpDZk9VNlNaU3FPQ05UUTlYcVpwZHJzSzk3aWlR?oc=5",
-      "description": "Will Oil Prices Decline as Middle East Supply Recovers? Goldman Sachs",
-      "publishedAt": "Fri, 16 Oct 2026 19:01:07 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
       "title": "BMI Predicts Brent Crude Will Remain Above $100 for Months - Crude Oil Prices Today | OilPrice.com",
       "source": "Crude Oil Prices Today | OilPrice.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ3hPQ21jRXVBM3BPalBXdWh2dmllVVRMdDUtM05vM2lPeldXTmlja3ZTbGpnN2I0b1JUWW1tcDBWX3hUdllpNjhkM19kY05SMWRlQXU4emNtdmpLRm81Tk1CUjVhazVnUjBfek9uZzhiYWs1T0xPanpPeDFVWXlSQWZqOTJOTGN5WDJGVkxycy11dk5oX3dzZ0I3THFXRU9vQUx6eU1ZZ2xXczdFdlBzR2dtUdIBuAFBVV95cUxNZk42UDRocERYRThBVzNiTEZaUjB4YmJESE50a1dETnA4ODd4bm1vZ1VVeTRqcFdZdDVHaU5IS05XQXd3dHlzMzZzOXJqVHctLXBBOVNLXzJ1WElCUWw3cEJkV0pvdkJtWTc0MW1WZUJTRnhGSm9Db0l4bmc0a2s5UEpqdHVmZzZnMDU2WUlUMzUxa3FQWkdUaUhmc2FBMW1QN3VET1pRcjhqbkphUlgzNXdSQUZmVW9o?oc=5",
       "description": "BMI Predicts Brent Crude Will Remain Above $100 for Months Crude Oil Prices Today | OilPrice.com",
       "publishedAt": "Mon, 12 Oct 2026 10:30:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices climb as Iran deploys new tactics to target ships transiting Hormuz - BOE Report",
-      "source": "BOE Report",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPejBFY2V3RVFPRXFhcXJxRFJhcm81cFRaQU5KN1dxeFJmMEFKOEVEODJNeG1NdWRZVmdMWklOUVVhQ0Fkb1paVTBPejlFZXE0OE1rQldFUTd5UG1wMmZlWE1HOGwyNzFQMjBHNHluYmt5Q0Z6LW00Q3E5ZjNuZGlPMkp4QWMwTjJmRGM3c0ZZd19ySVNBZnRTTFZINnRVX0owQkx3UHBjT3NEVHNhV2ZOWUxB0gG3AUFVX3lxTE51N0xudmxSMlpLYzN6Z2ZWaWtTSnlqSWtRX3QwMU0xalEyRWlVMXpBMEx3X0c4QUZ0S293NVg5cGw2aWxQQUI2NGZkQWM3bEl3X045WEg2ZXBIWEtVVERHMlRsQUxPQVFNLWJvRW5jaGlGRnBlWmxVdE94RjdoWHI5UllVNUVJRlZYRUxmczlaVnlEVHNPR1N2QmdXZWFlZzNQZ1dBcVJHZ0FKcXpTUmxEcGdJZVlucw?oc=5",
-      "description": "Oil prices climb as Iran deploys new tactics to target ships transiting Hormuz BOE Report",
-      "publishedAt": "Wed, 14 Oct 2026 06:25:05 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices gain on attacks in Saudi Arabia, Iran's new tactics to target tankers - Reuters",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON0hPaGRDOW9haXRKcUJ3WVU5dVdwSjB2ZzNMZTVWd0lRYV9ZUjRNRTI4VjVXeERGeW1XVU1GanZidjZneXhKeFh1dWM0OUJ6ZGltVXFXdHJNVk52MDN5M3NvRnhUUWN6aEFiSldFUWxfeHNPYmQ2R21JMGlhaUNaWEFNckc0T0ItSFpYcHA3MmM4UUdnTVd0VFg0NWhtbm91MllPWllha0pqdVBjZlRldDgxaG5PclVud0xtNQ?oc=5",
-      "description": "Oil prices gain on attacks in Saudi Arabia, Iran's new tactics to target tankers Reuters",
-      "publishedAt": "Wed, 14 Oct 2026 20:01:08 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -132,11 +105,20 @@
       "impact": "medium"
     },
     {
-      "title": "Tech stocks erase $1 trillion of wealth as oil surges to $110 for the first time since May - NBC News",
-      "source": "NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcWwtaE0zalpGS3dlQkJuT2lJSHdXdEVjbkItLUVDMlYzWHNjYnpQWGF3TlpnNDV5ME9DWG5YU0ZtbVVGdnZNRndsSkdOZHRzUU5iQjVhd20yY1h6WF9VUjMwVXdLQktSX0o3amgyZVpmeXJiY1gtRHVCbTNfV3VsQ2ZLcHU2ek9a?oc=5",
-      "description": "Tech stocks erase $1 trillion of wealth as oil surges to $110 for the first time since May NBC News",
-      "publishedAt": "Fri, 16 Oct 2026 21:16:52 GMT",
+      "title": "Oil prices gain on attacks in Saudi Arabia, Iran's new tactics to target tankers - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON0hPaGRDOW9haXRKcUJ3WVU5dVdwSjB2ZzNMZTVWd0lRYV9ZUjRNRTI4VjVXeERGeW1XVU1GanZidjZneXhKeFh1dWM0OUJ6ZGltVXFXdHJNVk52MDN5M3NvRnhUUWN6aEFiSldFUWxfeHNPYmQ2R21JMGlhaUNaWEFNckc0T0ItSFpYcHA3MmM4UUdnTVd0VFg0NWhtbm91MllPWllha0pqdVBjZlRldDgxaG5PclVud0xtNQ?oc=5",
+      "description": "Oil prices gain on attacks in Saudi Arabia, Iran's new tactics to target tankers Reuters",
+      "publishedAt": "Wed, 14 Oct 2026 20:01:08 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Why oil prices could be poised for a 'super spike': Analyst - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWm5YZmdHT0ZrWGV3eVA4Nk9HUjQ2VktEM3RvVVM1cUhWWi1tVzFhZ28xcmlZVVFGZ2hVTzFJNWNRblJ3YzljWlBEYVpyaEZ5OVFwTWM3aHEwS2M1RDdibHJxaERadmk3U2NOZk56blVNM092UWRIaThndmZYQnBlYzB5Vkd1S01PaTBmMHo5djdVZHU1Q1J6ODZ6b0tMMElzOEhPVWtqSVFvWE45dkF4MTN3?oc=5",
+      "description": "Why oil prices could be poised for a 'super spike': Analyst Yahoo Finance",
+      "publishedAt": "Sat, 17 Oct 2026 11:59:27 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -146,6 +128,24 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTTZ5RGNoVEhkQU9PWXZCMWlyaTB2NFJmb2dZa2FMSkl3VWdrTUZrY3dTTU9scnJ6TUxWazRLbjluTUNFUVFKUFFGaDdjUng4QWczcERLUXhlNEFMWTNBVWs2bDJWYXZZZU5yX2hvdmdOandqZVJiVWhKYzg0QTRhZm1LNFFhajFfRVlpajdicE_SAZYBQVVfeXFMT1hrMExFRVMxY2V5MF80bTRKbVRpMzR1eVQyRjVFQnBTOTJjTkVwb3RHTm1KOGRxNEE2Yl9ieWkxQ0t4SFQ5SFB2enFyTlVsTTdOZjZZWEVTMU81ZkhjSHVBOUlCUi1hUVViV1JhaWZxbWNBSGdJMlA0XzdoalFsM2dLOXpPSVdMdUhScE9CQ0tnVjZNVmZR?oc=5",
       "description": "Oil prices spike after Houthi attacks on Saudi airports The Hill",
       "publishedAt": "Mon, 12 Oct 2026 21:30:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil Prices Rise as Traders Weigh Saudi Aramco Attack Report, Hormuz Shipping Risks - WSJ",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZzlrRVp3SjY0Qjc1ejhzdHcxQWFQejJLS2hfZzJocWhnV3AtUi1OM1NGX2s2b0NjQkV4NnpYZUxTOGJTRVBlSEM2blAzMXRhbjNydFRjVnYyNGM4a25waTR1aGVTVWt1MXlKOURybDlzS0kxQXVrbUNlQTlRN3lxa3YxMEZ5djByOUhzTlg4MUZUYTRMT1V6MzBYODY3d2FhSk5zRkxMdWpocU1KYTV0TUVLMUtHcWZHbkJWVHVHc2NIRGFwQ1F2c0x3?oc=5",
+      "description": "Oil Prices Rise as Traders Weigh Saudi Aramco Attack Report, Hormuz Shipping Risks WSJ",
+      "publishedAt": "Wed, 14 Oct 2026 20:12:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Tech stocks erase $1 trillion of wealth as oil surges to $110 for the first time since May - NBC News",
+      "source": "NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcWwtaE0zalpGS3dlQkJuT2lJSHdXdEVjbkItLUVDMlYzWHNjYnpQWGF3TlpnNDV5ME9DWG5YU0ZtbVVGdnZNRndsSkdOZHRzUU5iQjVhd20yY1h6WF9VUjMwVXdLQktSX0o3amgyZVpmeXJiY1gtRHVCbTNfV3VsQ2ZLcHU2ek9a?oc=5",
+      "description": "Tech stocks erase $1 trillion of wealth as oil surges to $110 for the first time since May NBC News",
+      "publishedAt": "Fri, 16 Oct 2026 21:16:52 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
