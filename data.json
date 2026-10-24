@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-10-23 08:59 UTC",
+  "generatedAt": "2026-10-24 08:33 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 174.9,
-    "premium": 192.9,
-    "diesel": 185.4
+    "regular": 176.9,
+    "premium": 194.9,
+    "diesel": 187.4
   },
   "history": {
     "labels": [
-      "Oct 23"
+      "Oct 24"
     ],
     "regular": [
-      174.9
+      176.9
     ],
     "premium": [
-      192.9
+      194.9
     ],
     "diesel": [
-      185.4
+      187.4
     ]
   },
   "prediction": {
     "labels": [
-      "Oct 24",
       "Oct 25",
       "Oct 26",
       "Oct 27",
       "Oct 28",
       "Oct 29",
-      "Oct 30"
+      "Oct 30",
+      "Oct 31"
     ],
     "regular": [
-      174.9,
-      174.9,
-      174.9,
-      174.9,
-      174.9,
-      174.9,
-      174.9
+      176.9,
+      176.9,
+      176.9,
+      176.9,
+      176.9,
+      176.9,
+      176.9
     ],
     "premium": [
-      192.9,
-      192.9,
-      192.9,
-      192.9,
-      192.9,
-      192.9,
-      192.9
+      194.9,
+      194.9,
+      194.9,
+      194.9,
+      194.9,
+      194.9,
+      194.9
     ],
     "diesel": [
-      185.4,
-      185.4,
-      185.4,
-      185.4,
-      185.4,
-      185.4,
-      185.4
+      187.4,
+      187.4,
+      187.4,
+      187.4,
+      187.4,
+      187.4,
+      187.4
     ]
   },
   "news": [
@@ -69,11 +69,11 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices jump to five-month high as attacks threaten global supply - The Guardian",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSkIzeWdNTnhad3RfQTdsMFg0OHQ5ejlGVjF2R016akVNelJYNDdVQVNsaE5PRXQ2SWJpT1JDbG5RRmtDdWFEazN2b3FLYkY3eUx5Rmk4bThDcVZmWExKcTFBVW51cEpSUHBPd0ZsUGVnWXF5eTJxY0V1aHlaYUtQTHhsYU00WjdtWk8yOS1UMW9SVVAwN2I3bU43OA?oc=5",
-      "description": "Oil prices jump to five-month high as attacks threaten global supply The Guardian",
-      "publishedAt": "Thu, 22 Oct 2026 16:10:00 GMT",
+      "title": "Rising oil prices cause Wall Street to lose ground - Global News",
+      "source": "Global News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JUGRuUkJRVzJPV0YwSHhSOW1maTF0ZF9wYWt2aE5SR0xFX29ZcnpVaUNOaG9Zdnd3Ukpuclg4ZEJFcFVjeW9WZ3ZFeXRhWXlUUks5YkQ0cHVLckZ3RVBQaWNsamhwU3NXa3paVW4taw?oc=5",
+      "description": "Rising oil prices cause Wall Street to lose ground Global News",
+      "publishedAt": "Fri, 23 Oct 2026 14:39:13 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -87,11 +87,20 @@
       "impact": "medium"
     },
     {
-      "title": "AI stocks tumble and drag down markets worldwide as oil prices climb - Castanet",
-      "source": "Castanet",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQb2FwYXdkbmtxcVZvbFhMdzhES1pNVGFESHR5NktmSDNDaXhibW9rQ2JEV0RGbm16VnZtaXZvUXd1WXB4S2E1OVBMMWhvbUZhTU1jLVBMNHAwa1k1cHZwQXYzemFsQ3gyZjB6RHhBRVMyRkJOSkNDank2aXljZ3ByUHVubzdPV1JtNUVQSk5BLWpQSFMyREk5OW1FcGxvZUNrcWdKRFZ1cmJva2dyQm1wZVNXV18?oc=5",
-      "description": "AI stocks tumble and drag down markets worldwide as oil prices climb Castanet",
-      "publishedAt": "Thu, 22 Oct 2026 14:11:00 GMT",
+      "title": "Oil prices jump to five-month high as attacks threaten global supply - The Guardian",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSkIzeWdNTnhad3RfQTdsMFg0OHQ5ejlGVjF2R016akVNelJYNDdVQVNsaE5PRXQ2SWJpT1JDbG5RRmtDdWFEazN2b3FLYkY3eUx5Rmk4bThDcVZmWExKcTFBVW51cEpSUHBPd0ZsUGVnWXF5eTJxY0V1aHlaYUtQTHhsYU00WjdtWk8yOS1UMW9SVVAwN2I3bU43OA?oc=5",
+      "description": "Oil prices jump to five-month high as attacks threaten global supply The Guardian",
+      "publishedAt": "Thu, 22 Oct 2026 16:10:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil prices hit five-month high as Houthi attacks stoke Middle East supply fears - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYzBEdGVKYmZ3VVpJajg0TW5DN2VHVEM2aDVTcFJKQVduMnVMTU5NbVcyMGxBanBHY3VvMzJQR1VrQWM4b0hLeG1YaTFWcldTeU9yTlBXc3FiR1FtcUp0SmxhRkJkWmpmZ2x6X3VGZHZEUDNLTE9LTFZNSlBWWjNJVGtaV3YwWkc4QVhxbHozYkx5THpZMVlYVDAtd0dqbUMyOUcyVk91NEYxaFFCZklRWWhjQm5qN2NvVHdWdnZIQVJSMk0?oc=5",
+      "description": "Oil prices hit five-month high as Houthi attacks stoke Middle East supply fears Reuters",
+      "publishedAt": "Thu, 22 Oct 2026 23:54:39 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -105,20 +114,11 @@
       "impact": "medium"
     },
     {
-      "title": "From groceries to home loans, high oil prices permeate daily life - Reuters",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPam52bzA3TTBVZjZQOC1ISHZJal8xZmcyc3hYZVJEYXpTZ1VUWHBvUVBQZDlKUUlwSFIwWFYtMUxucy1lS1ZRRDZEaW0tZmd5WndsSnNDNVUycTJVYWUyaFVVNDJIZnlfb0tMNGY5dW9BNkU1R0lVOWY0czhfN3pxcUhzejl5SUdLaGlMWFpjWnhWekJ4TWxzM3E2YXo3VVZzbGdCdi1CblkyTzRP?oc=5",
-      "description": "From groceries to home loans, high oil prices permeate daily life Reuters",
-      "publishedAt": "Wed, 21 Oct 2026 23:04:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil Futures End Mixed as Traders Weigh Supply Recovery Against Shipping Risks - WSJ",
+      "title": "Oil Prices Rise on Fears of Middle East Conflict Escalation - WSJ",
       "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUThvQVl1RnVpSjI0NnV3VGhRWUU2eWVmOC01c3hpOXJ6eTR0OXNUOTh3VE1vNW1jNFlobjF6QmJRcDc5eF9nbTZQbngzUlZWbWJ6aXpSYndoNHhsRVFoWURGWHF1WmwwOS1QUTRyTmgwaUZLVlB0UTJqMmUyTTY0SnluSUhTVGR4anFHZGhMTUItM3I5VUlIZkhRVEQydw?oc=5",
-      "description": "Oil Futures End Mixed as Traders Weigh Supply Recovery Against Shipping Risks WSJ",
-      "publishedAt": "Wed, 21 Oct 2026 19:51:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM1hJV09vQ2pHZVVPLU5uUVVCSTdEVk56TzBQSW5Walc2eU5XTTVqWmZLVUdJSGRFRUhUR2RJb18xbWVGOFN1OHJyZWpNYXNQU1d4R3RTcnRjTkJNc3FPTFVUa1lhRDFreU9Dc3JucjNvR0tTNUJScmtBYWdwLVZiUDUwaVFnMEZrQkRWdzNqNDNGRTVmZWc?oc=5",
+      "description": "Oil Prices Rise on Fears of Middle East Conflict Escalation WSJ",
+      "publishedAt": "Fri, 23 Oct 2026 19:54:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -132,20 +132,20 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices fall as traders hope for diplomatic progress in Middle East - CNBC",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03NjBGWFYwdTRJdGVxMnJ4QVNWUzNxeW9BUzZUTThjU3V5NThLWDBHdUx2RVhFMEI3WnVsdzBQVWtvZ1FUelQ4bkgyNk9MTmxFeWV4eFRoRWZVV3JQTEpQSVI1aXNpTW9uVk5IX3VNSdIBdEFVX3lxTE5BVFpmcUNCZTlrOXhpOGttMmlaLW03M3pabEk3TzVReVhkYmc4b0xLNU9henJ4Tl9uVkc2OHJ4UjVNUmlYdGp6Y3FyZXFFbVU0ZF9Zb3RELW1Pb3Q2RFlQVHBDUTRrTVVkZHdaUmZkNnI4Y21S?oc=5",
-      "description": "Oil prices fall as traders hope for diplomatic progress in Middle East CNBC",
-      "publishedAt": "Tue, 20 Oct 2026 10:48:27 GMT",
+      "title": "Wall Street loses ground under pressure from rising oil prices - BNN Bloomberg",
+      "source": "BNN Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQ3VJNk9JbDVoRVlfUFhVUXNTZUc3SktoMDlXNEFiVk9zLUNuZ3h0N1lIdTdOX2lKYkdKU0dHenVWR2FUSHI3akttRFk5VzM4NzJxZU8wNkN3VUNYMzc4c25wUWY3eDZXdDkydWR5cHEyNVFHQkVncUZQZUFJU1RQdXBEQnI2M2Y5QkpCbXc5TVp5a1hmMm90SUhLV0N1OXNZV0poemM0TUlueU12U0Y1dzNNaF9nZ1NS?oc=5",
+      "description": "Wall Street loses ground under pressure from rising oil prices BNN Bloomberg",
+      "publishedAt": "Fri, 23 Oct 2026 20:37:21 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Stay High as War Keeps Supply Tight Into 2027 - Crude Oil Prices Today | OilPrice.com",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdWk4WFNnZ1pCa1hzQ3FlZWNhMmJlVC1QejlndUplUDllMWtOVXNpbklEZ1ZsRFBldlgtNURlQWJlSVMzQjBESkFtMzdVWjUxVHNJWk1ITDV2Z280VWFZY3J6Y0xTZHNTdDJMZElwa2FZUzU5QjlIMzJXNmQ0TUo3T0N6UmFReXk2VDV1czdlT2FVT1VDZXVVbl9fOFhfV2xvbEHSAacBQVVfeXFMTnhFV1FibGFVc2t2YnRBdkt6NmhNWDNSSmNQMjJSeE5IZUx0MFFwWV9Kb0dHaHliYVJmZkMtVGZ0RlhpLWNiSk1XaXBILURySi1Ca3ktZGNWbllfQUxmdEJJZVpTUmRpSnY2cWszdU1uVUdRLWYxN25xamQ3ZGZFb29lNmlFdVNqLUt0R0UxNi1PUWtIZldkekJTMjYtOFVQZWY3SmkxczQ?oc=5",
-      "description": "Oil Prices Stay High as War Keeps Supply Tight Into 2027 Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Sat, 17 Oct 2026 23:00:00 GMT",
+      "title": "Oil prices hit levels not seen since March - Transport Topics",
+      "source": "Transport Topics",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBDS0N2dkttVWpPTGZrTHltb25NdGhzZEJpSnM5cV91YjBvUVVwS3ZkTDZqTDZCVEJkSVBieHJCSWVRTm5nRHN4cC0yUXEtVk1MQUJPSl9UdzFDMC1UR0V5eXhucw?oc=5",
+      "description": "Oil prices hit levels not seen since March Transport Topics",
+      "publishedAt": "Fri, 23 Oct 2026 12:06:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
