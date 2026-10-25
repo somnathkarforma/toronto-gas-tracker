@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-10-24 08:33 UTC",
+  "generatedAt": "2026-10-25 08:52 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 176.9,
-    "premium": 194.9,
-    "diesel": 187.4
+    "regular": 177.9,
+    "premium": 195.9,
+    "diesel": 188.4
   },
   "history": {
     "labels": [
-      "Oct 24"
+      "Oct 25"
     ],
     "regular": [
-      176.9
+      177.9
     ],
     "premium": [
-      194.9
+      195.9
     ],
     "diesel": [
-      187.4
+      188.4
     ]
   },
   "prediction": {
     "labels": [
-      "Oct 25",
       "Oct 26",
       "Oct 27",
       "Oct 28",
       "Oct 29",
       "Oct 30",
-      "Oct 31"
+      "Oct 31",
+      "Nov 01"
     ],
     "regular": [
-      176.9,
-      176.9,
-      176.9,
-      176.9,
-      176.9,
-      176.9,
-      176.9
+      177.9,
+      177.9,
+      177.9,
+      177.9,
+      177.9,
+      177.9,
+      177.9
     ],
     "premium": [
-      194.9,
-      194.9,
-      194.9,
-      194.9,
-      194.9,
-      194.9,
-      194.9
+      195.9,
+      195.9,
+      195.9,
+      195.9,
+      195.9,
+      195.9,
+      195.9
     ],
     "diesel": [
-      187.4,
-      187.4,
-      187.4,
-      187.4,
-      187.4,
-      187.4,
-      187.4
+      188.4,
+      188.4,
+      188.4,
+      188.4,
+      188.4,
+      188.4,
+      188.4
     ]
   },
   "news": [
@@ -78,6 +78,15 @@
       "impact": "medium"
     },
     {
+      "title": "Oil prices jump to five-month high as attacks threaten global supply - The Guardian",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSkIzeWdNTnhad3RfQTdsMFg0OHQ5ejlGVjF2R016akVNelJYNDdVQVNsaE5PRXQ2SWJpT1JDbG5RRmtDdWFEazN2b3FLYkY3eUx5Rmk4bThDcVZmWExKcTFBVW51cEpSUHBPd0ZsUGVnWXF5eTJxY0V1aHlaYUtQTHhsYU00WjdtWk8yOS1UMW9SVVAwN2I3bU43OA?oc=5",
+      "description": "Oil prices jump to five-month high as attacks threaten global supply The Guardian",
+      "publishedAt": "Thu, 22 Oct 2026 11:28:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
       "title": "Brent Tops $110 as Tanker Attacks Threaten Persian Gulf Supply - Crude Oil Prices Today | OilPrice.com",
       "source": "Crude Oil Prices Today | OilPrice.com",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaW83NHlCcUdTYUZfc2xfc3FheUdVSFNsbTIyQ1JxYlFQREsyRUlKR19LRlBpOTNfSGtUVDFJaXNfM09IOVgwcEhjb25IMEhwYi1xMEhHekpNZEhzSzVSX013S3h4RTlBXzdLbWFoUmRMU0ZzVTQwODRoR2c3aS10SnlwcWRIdjNDVm1HYXlSQmlDWHZoMWtXaEhNQ2pKaW1Zcjg4UUIwZ2IxZ0ZLTERrU3pWX2ZtMXdW0gG-AUFVX3lxTFBkOE5nNUFqMTR2OGxNSk1pLVB2VHpMeEtSV3ZlMFFnV2FDUF9oenB4UjhyUms0REY5N3JvVmhYckN4VjZkT25LYS1rU19ZSWpfdDlNc0NLbGV1ZlFmNUdkVTdEODBfTEhHdlJ4T2hySy1Odk4wSGNkSWNCdndEX3lrNWNyekduVXJFQkZpSTR4UnFFcktNX2k1UDlkMDlVUktOUS1qZGJtZ3R5cU1zQmllMC1Fcm55bnZWcjc2bFE?oc=5",
@@ -87,11 +96,11 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices jump to five-month high as attacks threaten global supply - The Guardian",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSkIzeWdNTnhad3RfQTdsMFg0OHQ5ejlGVjF2R016akVNelJYNDdVQVNsaE5PRXQ2SWJpT1JDbG5RRmtDdWFEazN2b3FLYkY3eUx5Rmk4bThDcVZmWExKcTFBVW51cEpSUHBPd0ZsUGVnWXF5eTJxY0V1aHlaYUtQTHhsYU00WjdtWk8yOS1UMW9SVVAwN2I3bU43OA?oc=5",
-      "description": "Oil prices jump to five-month high as attacks threaten global supply The Guardian",
-      "publishedAt": "Thu, 22 Oct 2026 16:10:00 GMT",
+      "title": "AI stocks tumble and drag down markets worldwide as oil prices climb - Castanet",
+      "source": "Castanet",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQb2FwYXdkbmtxcVZvbFhMdzhES1pNVGFESHR5NktmSDNDaXhibW9rQ2JEV0RGbm16VnZtaXZvUXd1WXB4S2E1OVBMMWhvbUZhTU1jLVBMNHAwa1k1cHZwQXYzemFsQ3gyZjB6RHhBRVMyRkJOSkNDank2aXljZ3ByUHVubzdPV1JtNUVQSk5BLWpQSFMyREk5OW1FcGxvZUNrcWdKRFZ1cmJva2dyQm1wZVNXV18?oc=5",
+      "description": "AI stocks tumble and drag down markets worldwide as oil prices climb Castanet",
+      "publishedAt": "Thu, 22 Oct 2026 14:11:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -105,15 +114,6 @@
       "impact": "medium"
     },
     {
-      "title": "Current price of oil as of Oct. 19, 2026 - Fortune",
-      "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KYndkRDVoRzRjN3dZdTJjSVQyczNiUHRTdERRS0ljYmdzNndrR05WRVhpY3VINUwwZGhMT2tOQ1N6UktTVV9lbkFKTDhiN3RUVFNmZnNzRXIyM292Q0NsVHFB?oc=5",
-      "description": "Current price of oil as of Oct. 19, 2026 Fortune",
-      "publishedAt": "Mon, 19 Oct 2026 13:00:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
       "title": "Oil Prices Rise on Fears of Middle East Conflict Escalation - WSJ",
       "source": "WSJ",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM1hJV09vQ2pHZVVPLU5uUVVCSTdEVk56TzBQSW5Walc2eU5XTTVqWmZLVUdJSGRFRUhUR2RJb18xbWVGOFN1OHJyZWpNYXNQU1d4R3RTcnRjTkJNc3FPTFVUa1lhRDFreU9Dc3JucjNvR0tTNUJScmtBYWdwLVZiUDUwaVFnMEZrQkRWdzNqNDNGRTVmZWc?oc=5",
@@ -123,11 +123,11 @@
       "impact": "medium"
     },
     {
-      "title": "Why oil prices could be poised for a 'super spike': Analyst - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWm5YZmdHT0ZrWGV3eVA4Nk9HUjQ2VktEM3RvVVM1cUhWWi1tVzFhZ28xcmlZVVFGZ2hVTzFJNWNRblJ3YzljWlBEYVpyaEZ5OVFwTWM3aHEwS2M1RDdibHJxaERadmk3U2NOZk56blVNM092UWRIaThndmZYQnBlYzB5Vkd1S01PaTBmMHo5djdVZHU1Q1J6ODZ6b0tMMElzOEhPVWtqSVFvWE45dkF4MTN3?oc=5",
-      "description": "Why oil prices could be poised for a 'super spike': Analyst Yahoo Finance",
-      "publishedAt": "Sat, 17 Oct 2026 11:59:27 GMT",
+      "title": "Current price of oil as of Oct. 19, 2026 - Fortune",
+      "source": "Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KYndkRDVoRzRjN3dZdTJjSVQyczNiUHRTdERRS0ljYmdzNndrR05WRVhpY3VINUwwZGhMT2tOQ1N6UktTVV9lbkFKTDhiN3RUVFNmZnNzRXIyM292Q0NsVHFB?oc=5",
+      "description": "Current price of oil as of Oct. 19, 2026 Fortune",
+      "publishedAt": "Mon, 19 Oct 2026 13:00:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -145,7 +145,7 @@
       "source": "Transport Topics",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBDS0N2dkttVWpPTGZrTHltb25NdGhzZEJpSnM5cV91YjBvUVVwS3ZkTDZqTDZCVEJkSVBieHJCSWVRTm5nRHN4cC0yUXEtVk1MQUJPSl9UdzFDMC1UR0V5eXhucw?oc=5",
       "description": "Oil prices hit levels not seen since March Transport Topics",
-      "publishedAt": "Fri, 23 Oct 2026 12:06:00 GMT",
+      "publishedAt": "Fri, 23 Oct 2026 14:32:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
