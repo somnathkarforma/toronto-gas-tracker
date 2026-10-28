@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27 09:30 UTC",
+  "generatedAt": "2026-10-28 10:15 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
     "regular": 177.9,
@@ -8,7 +8,7 @@
   },
   "history": {
     "labels": [
-      "Oct 27"
+      "Oct 28"
     ],
     "regular": [
       177.9
@@ -22,13 +22,13 @@
   },
   "prediction": {
     "labels": [
-      "Oct 28",
       "Oct 29",
       "Oct 30",
       "Oct 31",
       "Nov 01",
       "Nov 02",
-      "Nov 03"
+      "Nov 03",
+      "Nov 04"
     ],
     "regular": [
       177.9,
@@ -60,11 +60,11 @@
   },
   "news": [
     {
-      "title": "Oil prices mixed as traders assess Middle East developments - CNBC",
+      "title": "Oil prices rise as Houthi attacks on Saudi Arabian refinery raise supply worries - CNBC",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMGJ5Y1pPUDFBa2J6dUEwc0RnYmVRWnNFQmhTNjhsa1ItUVBFZG14cGVzTU1kZ205RDN4Mmcyd1pzQjRJNGl6N2F1Nng2WlBGSWVZd2JBSXVYWmFNTnpZRWxBZTVqUmdaVFNRRUEwczJtcC1PcnhDSkN3RXU2eWllNlZGcFQyQzVzaXA3V09PTXYwVVAx0gGaAUFVX3lxTE95am5EZGd5cEZod2RCX0FMZTdIOE1paDJvTUQ2OERsckxsYVZON19rZ0JWbTZYWDhVZXlqU0dNRm0ydlp6dUVxQkcwU1VtbWFRWE9kRk5PLUNubG9MSWF5anBIQThhQ0FKS0UzaHVRdXRRN0V2Nkl2SFVHV05JaThJZFlMT2tsY1ZxdUxDUUJZRFBpN1hHSjJ2TkE?oc=5",
-      "description": "Oil prices mixed as traders assess Middle East developments CNBC",
-      "publishedAt": "Wed, 21 Oct 2026 05:27:19 GMT",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1VVTZnQjZMOUgxd3doMmJKclN5eUlkbFJoOE9TZDJQVlN5Zm92aDRIYW5yMWcwTGxtRHBfNW9FQ3NIbTJXSmdJZU9ibE9XZFRaQWJXb3JYbDJWY1l4c2o5OU5xeC1VbmFRN1JmMWZUUG9LNVhCYnk2ZNIBfkFVX3lxTE9PVWR4YV9Fa0UyQi0tN013V0d5bjY3bUJqZ1R2VGlsSHdGOURZVkRTSDhLUkpQS2lyV0ZDVlNua3RRelVoMmV4QUdfZUU5S09oV0ZHQTAzNm1hVWxVTVMzRWd0X2M3b3RfdVFUcFNfckgxMUdKMnNldWo2RWpIdw?oc=5",
+      "description": "Oil prices rise as Houthi attacks on Saudi Arabian refinery raise supply worries CNBC",
+      "publishedAt": "Wed, 28 Oct 2026 05:52:51 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -78,6 +78,15 @@
       "impact": "medium"
     },
     {
+      "title": "Will Higher Oil Prices Justify More Spending in Next Week’s Budget? - C.D. Howe Institute",
+      "source": "C.D. Howe Institute",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORjRLOEZ1NThXM25WQlhyUm1HU09sTFZmMFQ5cXlmdjA0ZGo4Tjg0QkVvN2RRQlRlQWdZYnZQZ2ZRUXZ0S1RmM2tYQ2g5eFp0M2N3TFhUU1NhOEdQQTVOMUVBXy1ybGFOVVFoX1dQbTE3SVZSRW9kVWcyLTlXUlh0dmVhbmtQOEdpajNvUFVjZ05JN2V1WXZEUW9xM0wtUQ?oc=5",
+      "description": "Will Higher Oil Prices Justify More Spending in Next Week’s Budget? C.D. Howe Institute",
+      "publishedAt": "Tue, 27 Oct 2026 12:30:44 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
       "title": "Oil prices jump to five-month high as attacks threaten global supply - The Guardian",
       "source": "The Guardian",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSkIzeWdNTnhad3RfQTdsMFg0OHQ5ejlGVjF2R016akVNelJYNDdVQVNsaE5PRXQ2SWJpT1JDbG5RRmtDdWFEazN2b3FLYkY3eUx5Rmk4bThDcVZmWExKcTFBVW51cEpSUHBPd0ZsUGVnWXF5eTJxY0V1aHlaYUtQTHhsYU00WjdtWk8yOS1UMW9SVVAwN2I3bU43OA?oc=5",
@@ -87,11 +96,11 @@
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Fall as Traders Weigh U.S.-Iran Diplomacy, Saudi Attacks - WSJ",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdHd1Q1FTWEFlUlUtZ1FQRWJfYm1QYm5KZW1jTVA2cS01R0cxb0xsNVNrdXJVNm44VTd2ZWN4WnY1R0tla0JuM3NVUmpBVF9GLTl2WEdFRmNUTFpEVUpHVHQzdUREUFBwN2ZEZ2xGcThUa0lKamdzaEY2c19pRy1PcXZCd2hPUmRfTmQ4bUNGWkFPbTM3Z04zLXB2bUdtclBvVmpmQmhqcEloSTJUOHg2ZzRsbEI?oc=5",
-      "description": "Oil Prices Fall as Traders Weigh U.S.-Iran Diplomacy, Saudi Attacks WSJ",
-      "publishedAt": "Mon, 26 Oct 2026 19:49:00 GMT",
+      "title": "Oil settles lower on peace hopes, Saudi attacks limit losses - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb2J2QlNheno1OW9FdmN3RTJWVHF1RXdLX0VQSGlKSkZlZEtNTnFxU3FUd1Zab1FPME1felpOVl9oM1oyNXc0T2xkdDZhc0JfUVlSTFU4Vm9aYWRrd1BhQmw1QThZRDZHbEZZR3Y5UlhNaDlWWm8tbjU2bjVtaFRVM0VMcml2OXY4TUtxNXRZU2c3c0lC?oc=5",
+      "description": "Oil settles lower on peace hopes, Saudi attacks limit losses Reuters",
+      "publishedAt": "Mon, 26 Oct 2026 18:06:36 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -105,47 +114,38 @@
       "impact": "medium"
     },
     {
-      "title": "Oil settles lower on peace hopes, Saudi attacks limit losses - Reuters",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb2J2QlNheno1OW9FdmN3RTJWVHF1RXdLX0VQSGlKSkZlZEtNTnFxU3FUd1Zab1FPME1felpOVl9oM1oyNXc0T2xkdDZhc0JfUVlSTFU4Vm9aYWRrd1BhQmw1QThZRDZHbEZZR3Y5UlhNaDlWWm8tbjU2bjVtaFRVM0VMcml2OXY4TUtxNXRZU2c3c0lC?oc=5",
-      "description": "Oil settles lower on peace hopes, Saudi attacks limit losses Reuters",
-      "publishedAt": "Sun, 25 Oct 2026 23:24:00 GMT",
+      "title": "Oil Prices Fall as Traders Weigh U.S.-Iran Diplomacy, Saudi Attacks - WSJ",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdHd1Q1FTWEFlUlUtZ1FQRWJfYm1QYm5KZW1jTVA2cS01R0cxb0xsNVNrdXJVNm44VTd2ZWN4WnY1R0tla0JuM3NVUmpBVF9GLTl2WEdFRmNUTFpEVUpHVHQzdUREUFBwN2ZEZ2xGcThUa0lKamdzaEY2c19pRy1PcXZCd2hPUmRfTmQ4bUNGWkFPbTM3Z04zLXB2bUdtclBvVmpmQmhqcEloSTJUOHg2ZzRsbEI?oc=5",
+      "description": "Oil Prices Fall as Traders Weigh U.S.-Iran Diplomacy, Saudi Attacks WSJ",
+      "publishedAt": "Mon, 26 Oct 2026 19:49:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Current price of oil as of Oct. 21, 2026 - Fortune",
+      "title": "Current price of oil as of October 27, 2026 - Fortune",
       "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aZlZ5LWJWVTdsTTd5R1FFM0p4OEpDdXBTNmZWcjhpRkxoQWRFdDdNcDR1TlRDLU4tc25MXzRsWWdzdENrSmRrcVFmOG5uVWVrQ3pjNnVTUC1NdkVuVGY5dHZn?oc=5",
-      "description": "Current price of oil as of Oct. 21, 2026 Fortune",
-      "publishedAt": "Wed, 21 Oct 2026 12:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9tdWxGWURPbDhqV1A2Z1RrVW9CcDk1dlZtY0REajdhMGxDMkRHQmF1OEpJLW00cTJjbmRYNGhoNGIxak00REI2dHlFdTk1MTlXaEtleGdISWR4R1lTdWlDVlVB?oc=5",
+      "description": "Current price of oil as of October 27, 2026 Fortune",
+      "publishedAt": "Tue, 27 Oct 2026 13:15:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil prices hit levels not seen since March - Transport Topics",
-      "source": "Transport Topics",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBDS0N2dkttVWpPTGZrTHltb25NdGhzZEJpSnM5cV91YjBvUVVwS3ZkTDZqTDZCVEJkSVBieHJCSWVRTm5nRHN4cC0yUXEtVk1MQUJPSl9UdzFDMC1UR0V5eXhucw?oc=5",
-      "description": "Oil prices hit levels not seen since March Transport Topics",
-      "publishedAt": "Fri, 23 Oct 2026 14:32:00 GMT",
+      "title": "Pre-Markets in Red on Higher Crude Oil Prices - Yahoo! Finance Canada",
+      "source": "Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZlNENXRVWW5mblJkTjZWSHkxNHJxUUF6OXN3X3BTQWUtZUZ4ZWxoSlAzYXd4S05CY3I4VUFzM291Y19HUDJ6YjJCSjVxWVFOWWplZDB0X2JvNTgxMkM1UnFabWROQk9pWGdlS3B1UmtJM2FheXVDREtMazVTRUNPTWlnQQ?oc=5",
+      "description": "Pre-Markets in Red on Higher Crude Oil Prices Yahoo! Finance Canada",
+      "publishedAt": "Thu, 22 Oct 2026 14:09:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil prices fall as traders hope for diplomatic progress in Middle East - CNBC",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03NjBGWFYwdTRJdGVxMnJ4QVNWUzNxeW9BUzZUTThjU3V5NThLWDBHdUx2RVhFMEI3WnVsdzBQVWtvZ1FUelQ4bkgyNk9MTmxFeWV4eFRoRWZVV3JQTEpQSVI1aXNpTW9uVk5IX3VNSdIBdEFVX3lxTE5BVFpmcUNCZTlrOXhpOGttMmlaLW03M3pabEk3TzVReVhkYmc4b0xLNU9henJ4Tl9uVkc2OHJ4UjVNUmlYdGp6Y3FyZXFFbVU0ZF9Zb3RELW1Pb3Q2RFlQVHBDUTRrTVVkZHdaUmZkNnI4Y21S?oc=5",
-      "description": "Oil prices fall as traders hope for diplomatic progress in Middle East CNBC",
-      "publishedAt": "Tue, 20 Oct 2026 10:48:27 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "$120 Oil Is Almost Here, and Trump Has Few Good Options - Crude Oil Prices Today | OilPrice.com",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWk5aRGFqX3EyZDV2QzZJU3FNQVc4XzEyVkczb0ZQdzV2bm55VmFJVnpqbll5enNpeGhCYnhxaS1qN3BjckJkWXFiNFJfUE11Umw0WUotdXB2aDl3c2hud1JRQjVhTFk4bmpPMVNBczAxUGthWXhtQjVSeThNNHN3Tk9zN0h4QXVHTkF0OHNBVzI2T0hJeUlnVHZ3amd1Q05LblNr0gGoAUFVX3lxTE9YbFlSY29JVVVyQWV4ZkhTM3dmTXdqMExadWExWUlrRE41RkR3ZnIwV0JxMW1NdzVHNTR2d3J1UHV1S3JYVWVPZG5SMkpuTHZCd0NUT2dSUEdldVAyUElMWVN2WTkxVXFaNTllU1F5V0poM2F6WWN0andOTzJuZVNZU1RtMU9jWnZGQlJJNXNERVVjRDhMdTRUM3dUYXlnVGhYN3FEd2FuSg?oc=5",
-      "description": "$120 Oil Is Almost Here, and Trump Has Few Good Options Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Fri, 23 Oct 2026 16:30:00 GMT",
+      "title": "Crude Oil Prices Fall Back As Iran’s Supreme Leader Reiterates Deal Terms - Barchart.com",
+      "source": "Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVjZjOGZFQjhBUmhZbzBlaDlCbjIwWW53bDBWS2pUaUpWWHlTS3FNREdfaE8xaXFwRjlZaHZOZ0w0ckNtZW16YW9tTld2dWdwTXFLbDhEQzRWaGczaUxMSmRNc1ZJeEpGaFRlTjhzVG8xRE9ZYzVEbzE0dnkzVkowT3M4emFwUmtPenNGYWJEZFBSZk53RGRHNk9GRkEwUDRDbTViWkF2TnpNMXBuYW11MW91QmtRWjA?oc=5",
+      "description": "Crude Oil Prices Fall Back As Iran’s Supreme Leader Reiterates Deal Terms Barchart.com",
+      "publishedAt": "Tue, 27 Oct 2026 15:58:50 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
