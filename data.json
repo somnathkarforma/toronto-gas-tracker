@@ -1,69 +1,69 @@
 {
-  "generatedAt": "2026-10-28 10:15 UTC",
+  "generatedAt": "2026-10-29 10:39 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 177.9,
-    "premium": 195.9,
-    "diesel": 188.4
+    "regular": 174.9,
+    "premium": 192.9,
+    "diesel": 185.4
   },
   "history": {
     "labels": [
-      "Oct 28"
+      "Oct 29"
     ],
     "regular": [
-      177.9
+      174.9
     ],
     "premium": [
-      195.9
+      192.9
     ],
     "diesel": [
-      188.4
+      185.4
     ]
   },
   "prediction": {
     "labels": [
-      "Oct 29",
       "Oct 30",
       "Oct 31",
       "Nov 01",
       "Nov 02",
       "Nov 03",
-      "Nov 04"
+      "Nov 04",
+      "Nov 05"
     ],
     "regular": [
-      177.9,
-      177.9,
-      177.9,
-      177.9,
-      177.9,
-      177.9,
-      177.9
+      174.9,
+      174.9,
+      174.9,
+      174.9,
+      174.9,
+      174.9,
+      174.9
     ],
     "premium": [
-      195.9,
-      195.9,
-      195.9,
-      195.9,
-      195.9,
-      195.9,
-      195.9
+      192.9,
+      192.9,
+      192.9,
+      192.9,
+      192.9,
+      192.9,
+      192.9
     ],
     "diesel": [
-      188.4,
-      188.4,
-      188.4,
-      188.4,
-      188.4,
-      188.4,
-      188.4
+      185.4,
+      185.4,
+      185.4,
+      185.4,
+      185.4,
+      185.4,
+      185.4
     ]
   },
   "news": [
     {
-      "title": "Oil prices rise as Houthi attacks on Saudi Arabian refinery raise supply worries - CNBC",
+      "title": "Oil prices rise as U.S. reportedly tells Gulf countries to prepare for Iran strikes after midterm elections - CNBC",
       "source": "CNBC",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1VVTZnQjZMOUgxd3doMmJKclN5eUlkbFJoOE9TZDJQVlN5Zm92aDRIYW5yMWcwTGxtRHBfNW9FQ3NIbTJXSmdJZU9ibE9XZFRaQWJXb3JYbDJWY1l4c2o5OU5xeC1VbmFRN1JmMWZUUG9LNVhCYnk2ZNIBfkFVX3lxTE9PVWR4YV9Fa0UyQi0tN013V0d5bjY3bUJqZ1R2VGlsSHdGOURZVkRTSDhLUkpQS2lyV0ZDVlNua3RRelVoMmV4QUdfZUU5S09oV0ZHQTAzNm1hVWxVTVMzRWd0X2M3b3RfdVFUcFNfckgxMUdKMnNldWo2RWpIdw?oc=5",
-      "description": "Oil prices rise as Houthi attacks on Saudi Arabian refinery raise supply worries CNBC",
+      "description": "Oil prices rise as U.S. reportedly tells Gulf countries to prepare for Iran strikes after midterm elections CNBC",
       "publishedAt": "Wed, 28 Oct 2026 05:52:51 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
@@ -91,25 +91,16 @@
       "source": "The Guardian",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSkIzeWdNTnhad3RfQTdsMFg0OHQ5ejlGVjF2R016akVNelJYNDdVQVNsaE5PRXQ2SWJpT1JDbG5RRmtDdWFEazN2b3FLYkY3eUx5Rmk4bThDcVZmWExKcTFBVW51cEpSUHBPd0ZsUGVnWXF5eTJxY0V1aHlaYUtQTHhsYU00WjdtWk8yOS1UMW9SVVAwN2I3bU43OA?oc=5",
       "description": "Oil prices jump to five-month high as attacks threaten global supply The Guardian",
-      "publishedAt": "Thu, 22 Oct 2026 11:28:00 GMT",
+      "publishedAt": "Thu, 22 Oct 2026 16:10:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil settles lower on peace hopes, Saudi attacks limit losses - Reuters",
+      "title": "Oil falls as diplomacy hopes outweigh Middle East escalation fears - Reuters",
       "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb2J2QlNheno1OW9FdmN3RTJWVHF1RXdLX0VQSGlKSkZlZEtNTnFxU3FUd1Zab1FPME1felpOVl9oM1oyNXc0T2xkdDZhc0JfUVlSTFU4Vm9aYWRrd1BhQmw1QThZRDZHbEZZR3Y5UlhNaDlWWm8tbjU2bjVtaFRVM0VMcml2OXY4TUtxNXRZU2c3c0lC?oc=5",
-      "description": "Oil settles lower on peace hopes, Saudi attacks limit losses Reuters",
-      "publishedAt": "Mon, 26 Oct 2026 18:06:36 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Wall Street loses ground under pressure from rising oil prices - BNN Bloomberg",
-      "source": "BNN Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQ3VJNk9JbDVoRVlfUFhVUXNTZUc3SktoMDlXNEFiVk9zLUNuZ3h0N1lIdTdOX2lKYkdKU0dHenVWR2FUSHI3akttRFk5VzM4NzJxZU8wNkN3VUNYMzc4c25wUWY3eDZXdDkydWR5cHEyNVFHQkVncUZQZUFJU1RQdXBEQnI2M2Y5QkpCbXc5TVp5a1hmMm90SUhLV0N1OXNZV0poemM0TUlueU12U0Y1dzNNaF9nZ1NS?oc=5",
-      "description": "Wall Street loses ground under pressure from rising oil prices BNN Bloomberg",
-      "publishedAt": "Fri, 23 Oct 2026 20:37:21 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdy1kTGwzTi1ZWVpiLUFTbF9HS0VGbXFnVWhMVzBfOUhieU95OGhLZnpZLTB3ckdrOEFMZms2UU1qYUMyY01yd3VOQmNhNGU4MmZvNE1uUzdqcXc0OWxLYlRRSk5NaU85cUdZYTd0a1d0QU93S0JfaTNMdlpVa3pMeVBUZnFtd0ZMVXhMWGhHejZOVjQtZlN2ekVsaTdWU2hCVE8xaTlpamEzXzQ?oc=5",
+      "description": "Oil falls as diplomacy hopes outweigh Middle East escalation fears Reuters",
+      "publishedAt": "Thu, 29 Oct 2026 00:28:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -123,29 +114,38 @@
       "impact": "medium"
     },
     {
-      "title": "Current price of oil as of October 27, 2026 - Fortune",
-      "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9tdWxGWURPbDhqV1A2Z1RrVW9CcDk1dlZtY0REajdhMGxDMkRHQmF1OEpJLW00cTJjbmRYNGhoNGIxak00REI2dHlFdTk1MTlXaEtleGdISWR4R1lTdWlDVlVB?oc=5",
-      "description": "Current price of oil as of October 27, 2026 Fortune",
-      "publishedAt": "Tue, 27 Oct 2026 13:15:00 GMT",
+      "title": "Oil trading in triple digits, but Canadian crude selling at steeper discount - CBC",
+      "source": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZXdvZ2xXR2hlektyaHMwcTI3aFZpWHlZY2RUb0dFUHpDQ3VDUmE5TG5vX3BDQWJER250dHRib0kya1JTQWxLNU9wTi1SMFBUa1VTWnplMHR4cDZRd0c4OF96OGsxa2k2N2xVRVR3MFVxbXlrc0czbjVEYXdYaGhaaTlfUDIzdnlVWm1N?oc=5",
+      "description": "Oil trading in triple digits, but Canadian crude selling at steeper discount CBC",
+      "publishedAt": "Wed, 28 Oct 2026 18:51:14 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Pre-Markets in Red on Higher Crude Oil Prices - Yahoo! Finance Canada",
-      "source": "Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZlNENXRVWW5mblJkTjZWSHkxNHJxUUF6OXN3X3BTQWUtZUZ4ZWxoSlAzYXd4S05CY3I4VUFzM291Y19HUDJ6YjJCSjVxWVFOWWplZDB0X2JvNTgxMkM1UnFabWROQk9pWGdlS3B1UmtJM2FheXVDREtMazVTRUNPTWlnQQ?oc=5",
-      "description": "Pre-Markets in Red on Higher Crude Oil Prices Yahoo! Finance Canada",
-      "publishedAt": "Thu, 22 Oct 2026 14:09:00 GMT",
+      "title": "Wall Street loses ground under pressure from rising oil prices - BNN Bloomberg",
+      "source": "BNN Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQ3VJNk9JbDVoRVlfUFhVUXNTZUc3SktoMDlXNEFiVk9zLUNuZ3h0N1lIdTdOX2lKYkdKU0dHenVWR2FUSHI3akttRFk5VzM4NzJxZU8wNkN3VUNYMzc4c25wUWY3eDZXdDkydWR5cHEyNVFHQkVncUZQZUFJU1RQdXBEQnI2M2Y5QkpCbXc5TVp5a1hmMm90SUhLV0N1OXNZV0poemM0TUlueU12U0Y1dzNNaF9nZ1NS?oc=5",
+      "description": "Wall Street loses ground under pressure from rising oil prices BNN Bloomberg",
+      "publishedAt": "Fri, 23 Oct 2026 20:37:21 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Crude Oil Prices Fall Back As Iran’s Supreme Leader Reiterates Deal Terms - Barchart.com",
-      "source": "Barchart.com",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVjZjOGZFQjhBUmhZbzBlaDlCbjIwWW53bDBWS2pUaUpWWHlTS3FNREdfaE8xaXFwRjlZaHZOZ0w0ckNtZW16YW9tTld2dWdwTXFLbDhEQzRWaGczaUxMSmRNc1ZJeEpGaFRlTjhzVG8xRE9ZYzVEbzE0dnkzVkowT3M4emFwUmtPenNGYWJEZFBSZk53RGRHNk9GRkEwUDRDbTViWkF2TnpNMXBuYW11MW91QmtRWjA?oc=5",
-      "description": "Crude Oil Prices Fall Back As Iran’s Supreme Leader Reiterates Deal Terms Barchart.com",
-      "publishedAt": "Tue, 27 Oct 2026 15:58:50 GMT",
+      "title": "How rising crude oil prices could impact the U.S. and global economy - Marketplace.org",
+      "source": "Marketplace.org",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaWtKWFdrRTNETkswb3FkZGNGZXBtQXNpY0ItcU5kMUlKaWxBdHZCMmxHZGZ4QzNNUDhkN3BpWjdFS2hhdzk1ZGNnaTA4NEJ5VkdtV210MHhRYjVWZFkzcXlUNnVrNS04Y0ZDVnlOTUNVcE9NeEtUN3JiRGRuTklXZ0pWQmZXOUxWeXhINEhKeUxSUQ?oc=5",
+      "description": "How rising crude oil prices could impact the U.S. and global economy Marketplace.org",
+      "publishedAt": "Thu, 22 Oct 2026 21:30:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Trump says Iran is trying to drive up oil prices before the midterm elections - BOE Report",
+      "source": "BOE Report",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNS293LVpQdVNYNWVLSFQxMDNvNTY5WHdLLW52a1czLVBPZjBHVTkzOWtia3kwMFdDYWp5aDc4cWNKcHdqbFVQd1NWSTVWTW5mblNwVUthTk5DVlBXZU1WN0RkWU5jdWRNTTFZVmMzcEFrM2RqM1V4dEJZeHRBckVsdXU2alpteWRibFp0WXU5cEJ1eWtWUERGa1NYVDV0MFNoVnp3WHVWR3hXVFNNZEJTb9IBtgFBVV95cUxPVW5EazkzUWFPaFUzZ2lrZklVUVBqNVNKOGNJTnY5aFFQOENhTXUxYzlxYWJUM21qcDFvaXhST3RvZXltUzdMMGtsS3h6T2lvLVdSV3M2a3VlZGl2Q1FIUFQyWkxzMFEzSEtxU2habExOSDFQMDdVTldCb2J5WWdJODRBRThEdXhPNmZvbEJDeEZrUGRXMXhRckRUOVU5OWRiN00yaWZ4VTVhZ3hZMmNvajBXeGZYUQ?oc=5",
+      "description": "Trump says Iran is trying to drive up oil prices before the midterm elections BOE Report",
+      "publishedAt": "Fri, 23 Oct 2026 00:41:18 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
