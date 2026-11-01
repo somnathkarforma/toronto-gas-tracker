@@ -1,64 +1,73 @@
 {
-  "generatedAt": "2026-10-31 10:05 UTC",
+  "generatedAt": "2026-11-01 10:57 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 173.9,
-    "premium": 191.9,
-    "diesel": 184.4
+    "regular": 177.9,
+    "premium": 195.9,
+    "diesel": 188.4
   },
   "history": {
     "labels": [
-      "Oct 31"
+      "Nov 01"
     ],
     "regular": [
-      173.9
+      177.9
     ],
     "premium": [
-      191.9
+      195.9
     ],
     "diesel": [
-      184.4
+      188.4
     ]
   },
   "prediction": {
     "labels": [
-      "Nov 01",
       "Nov 02",
       "Nov 03",
       "Nov 04",
       "Nov 05",
       "Nov 06",
-      "Nov 07"
+      "Nov 07",
+      "Nov 08"
     ],
     "regular": [
-      173.9,
-      173.9,
-      173.9,
-      173.9,
-      173.9,
-      173.9,
-      173.9
+      177.9,
+      177.9,
+      177.9,
+      177.9,
+      177.9,
+      177.9,
+      177.9
     ],
     "premium": [
-      191.9,
-      191.9,
-      191.9,
-      191.9,
-      191.9,
-      191.9,
-      191.9
+      195.9,
+      195.9,
+      195.9,
+      195.9,
+      195.9,
+      195.9,
+      195.9
     ],
     "diesel": [
-      184.4,
-      184.4,
-      184.4,
-      184.4,
-      184.4,
-      184.4,
-      184.4
+      188.4,
+      188.4,
+      188.4,
+      188.4,
+      188.4,
+      188.4,
+      188.4
     ]
   },
   "news": [
+    {
+      "title": "Oil prices settles lower as diplomacy hopes offset some Mideast supply concerns - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdy1kTGwzTi1ZWVpiLUFTbF9HS0VGbXFnVWhMVzBfOUhieU95OGhLZnpZLTB3ckdrOEFMZms2UU1qYUMyY01yd3VOQmNhNGU4MmZvNE1uUzdqcXc0OWxLYlRRSk5NaU85cUdZYTd0a1d0QU93S0JfaTNMdlpVa3pMeVBUZnFtd0ZMVXhMWGhHejZOVjQtZlN2ekVsaTdWU2hCVE8xaTlpamEzXzQ?oc=5",
+      "description": "Oil prices settles lower as diplomacy hopes offset some Mideast supply concerns Reuters",
+      "publishedAt": "Thu, 29 Oct 2026 16:10:02 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
     {
       "title": "Whitecap rides high oil prices, banks the cash - Financial Post",
       "source": "Financial Post",
@@ -87,38 +96,11 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices settles lower as diplomacy hopes offset some Mideast supply concerns - Reuters",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdy1kTGwzTi1ZWVpiLUFTbF9HS0VGbXFnVWhMVzBfOUhieU95OGhLZnpZLTB3ckdrOEFMZms2UU1qYUMyY01yd3VOQmNhNGU4MmZvNE1uUzdqcXc0OWxLYlRRSk5NaU85cUdZYTd0a1d0QU93S0JfaTNMdlpVa3pMeVBUZnFtd0ZMVXhMWGhHejZOVjQtZlN2ekVsaTdWU2hCVE8xaTlpamEzXzQ?oc=5",
-      "description": "Oil prices settles lower as diplomacy hopes offset some Mideast supply concerns Reuters",
-      "publishedAt": "Thu, 29 Oct 2026 16:10:02 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil flows are up as Iran war turmoil eases. Why do prices keep rising? - Al Jazeera",
-      "source": "Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTlNLUkh5cVYwaDlIQU45RC1MUm9Wa3gwRDlTOGVaNWFnaDN4dTNjeWR1V2N3UVZIeEFTV0tHRFl5ZUIxQ3lnNVlndjd2ZDZDTmZaZDR0YTJ6amtJZXBVNTZZMWp5d1N4X2h6T3loSGQxTHNoMzdiM0JuZjhMUklUSmJESDcwVGFHMFpBbHFWZzZFYmdub3huUVJpUGw5eVNnMnZpRUluSWZ6YlJaMXVUMmN0b9IBuAFBVV95cUxPZlFzaS1EWm9uVXR2aHZiMGVGWnRLTW9GbVlvclI0bjlFSFFmRXNnc0h6UU1VYTU3VHlvcHEzZmRpRUQ1VTVuc2RjQVhzMkNWYndQWEszSFZDQW9jaTlYeERWT2VpUnFaenB2dFJLRzBWNEZKUy1FMERmWVJ5dENkUHBTWC1HVGRsVUNZeW9QX05BSV9HWG5JNFpWT0NGLXgyNFBvMEZaZWtqUTFINWxNbzg3LXRMeUNf?oc=5",
-      "description": "Oil flows are up as Iran war turmoil eases. Why do prices keep rising? Al Jazeera",
-      "publishedAt": "Fri, 30 Oct 2026 08:37:51 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil trading in triple digits, but Canadian crude selling at steeper discount - CBC",
-      "source": "CBC",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZXdvZ2xXR2hlektyaHMwcTI3aFZpWHlZY2RUb0dFUHpDQ3VDUmE5TG5vX3BDQWJER250dHRib0kya1JTQWxLNU9wTi1SMFBUa1VTWnplMHR4cDZRd0c4OF96OGsxa2k2N2xVRVR3MFVxbXlrc0czbjVEYXdYaGhaaTlfUDIzdnlVWm1N?oc=5",
-      "description": "Oil trading in triple digits, but Canadian crude selling at steeper discount CBC",
-      "publishedAt": "Wed, 28 Oct 2026 18:51:14 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "ExxonMobil and Chevron report blowout profits as Trump touts benefits of high oil prices - NBC News",
-      "source": "NBC News",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMjhodndJTm9MRlp4bnZKWjNpSmlKa1I1VUJON1d4NnFHcVdGeVpmb0JHalhYdGFma3NjOUdJN05wWnk1U3RfenFvUi1nVENLcG91VGZFTlF4WjJpZ1RyS1I2RjEwdGJINUYtSUZmQ2NEQXpPTnE3MDJ3OXB6M3FLSWhwYnU0UVpsWHdGa1prN29ZRDBRUEtTQW03WGNZZmtV?oc=5",
-      "description": "ExxonMobil and Chevron report blowout profits as Trump touts benefits of high oil prices NBC News",
-      "publishedAt": "Fri, 30 Oct 2026 19:06:03 GMT",
+      "title": "Current price of oil as of October 30, 2026 - Fortune",
+      "source": "Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sQlNTbGZfT1dXT2JUUDZ6UGRIU3Y4WWVvRFdaSVp0OFp4TlR1NkhNaHJYd1cyUHRud3BQWDR0ZXBKSmFJU3NyeUJNUHA2SlpPTmgtVnM4dXBmQU0zbVdtaFVB?oc=5",
+      "description": "Current price of oil as of October 30, 2026 Fortune",
+      "publishedAt": "Fri, 30 Oct 2026 12:32:22 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -132,20 +114,38 @@
       "impact": "medium"
     },
     {
-      "title": "Current price of oil as of October 28, 2026 - Fortune",
-      "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9GTjM1LTcyTFZxcmNuZjNtWmF3aHQ1Ui1KQ2k2akpNRk4tMWtHY213Zzlvdk5fc1FCTEFUMkQ0M2R5Uzh3RUlKaHJubEZlcUV0WHdWODVzczl3UThObTNhUl9R?oc=5",
-      "description": "Current price of oil as of October 28, 2026 Fortune",
-      "publishedAt": "Wed, 28 Oct 2026 12:15:00 GMT",
+      "title": "Oil trading in triple digits, but Canadian crude selling at steeper discount - CBC",
+      "source": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZXdvZ2xXR2hlektyaHMwcTI3aFZpWHlZY2RUb0dFUHpDQ3VDUmE5TG5vX3BDQWJER250dHRib0kya1JTQWxLNU9wTi1SMFBUa1VTWnplMHR4cDZRd0c4OF96OGsxa2k2N2xVRVR3MFVxbXlrc0czbjVEYXdYaGhaaTlfUDIzdnlVWm1N?oc=5",
+      "description": "Oil trading in triple digits, but Canadian crude selling at steeper discount CBC",
+      "publishedAt": "Wed, 28 Oct 2026 18:51:14 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "US Oil Inventories Fall Again As Prices Rise - Crude Oil Prices Today | OilPrice.com",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRDFiOTVscHd5djkzUEhKZGV5dDhoZlZXOXdEeHlsdEZrX3QzNXZnSzVKUjFhMDZiUDhvNzBJejRlUlJOdmU5RVAzSUZkTnp5aHluWHBCYlp5UVVtOGduWVM5czBNc0RhakdUS1FoT04tX1Z6RWQzWnV3dng3YlMwTzhqWlNPaWRLVW1CWjVmSVnSAZYBQVVfeXFMTmNEdTlRVHZBZElGOXd3Y1A2UVVUcVp1dDhIUnJJUjR6OTh4N20td0hpVUFTM1FOdnM0Tll6Vmoyd3BaX0xrOUlyd1R4cUt4MEVwRE1ycFI0aDVLaEJyRFVxQlJNY0JjZFg5UV9MeVNQVGVsY1VtQ3FTb1NMZHktZ1JDSU5GUFp4ZnlmR2pIMndxS2ZTMi1n?oc=5",
-      "description": "US Oil Inventories Fall Again As Prices Rise Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Wed, 28 Oct 2026 14:44:00 GMT",
+      "title": "No Change in Gasoline Prices, but Diesel Falls 7 Cents - VOCM",
+      "source": "VOCM",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNV2N5NEVDOHE4QUxIZHk1cUZfNGx4ZGYydFBTVmlKMTBkNGxwaXdfMlE0UUNrTlFta1czZU9EY05CekpZbTJhS08ybVBOdF9GbDlLMVR0Q1NZZ3Nkak1vSmZyMEozM0VmVm1ZZ3dhMjhXNUFqNG9wQ2FRVjNab05DdDJRUjc4d0YtY0E?oc=5",
+      "description": "No Change in Gasoline Prices, but Diesel Falls 7 Cents VOCM",
+      "publishedAt": "Sat, 31 Oct 2026 08:44:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "ExxonMobil and Chevron report blowout profits as Trump touts benefits of high oil prices - NBC News",
+      "source": "NBC News",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMjhodndJTm9MRlp4bnZKWjNpSmlKa1I1VUJON1d4NnFHcVdGeVpmb0JHalhYdGFma3NjOUdJN05wWnk1U3RfenFvUi1nVENLcG91VGZFTlF4WjJpZ1RyS1I2RjEwdGJINUYtSUZmQ2NEQXpPTnE3MDJ3OXB6M3FLSWhwYnU0UVpsWHdGa1prN29ZRDBRUEtTQW03WGNZZmtV?oc=5",
+      "description": "ExxonMobil and Chevron report blowout profits as Trump touts benefits of high oil prices NBC News",
+      "publishedAt": "Fri, 30 Oct 2026 19:06:03 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil settles lower on peace hopes, Saudi attacks limit losses - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb2J2QlNheno1OW9FdmN3RTJWVHF1RXdLX0VQSGlKSkZlZEtNTnFxU3FUd1Zab1FPME1felpOVl9oM1oyNXc0T2xkdDZhc0JfUVlSTFU4Vm9aYWRrd1BhQmw1QThZRDZHbEZZR3Y5UlhNaDlWWm8tbjU2bjVtaFRVM0VMcml2OXY4TUtxNXRZU2c3c0lC?oc=5",
+      "description": "Oil settles lower on peace hopes, Saudi attacks limit losses Reuters",
+      "publishedAt": "Sun, 25 Oct 2026 23:29:45 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
