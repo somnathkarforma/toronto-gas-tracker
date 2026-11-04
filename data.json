@@ -1,79 +1,97 @@
 {
-  "generatedAt": "2026-11-03 11:31 UTC",
+  "generatedAt": "2026-11-04 11:47 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 177.9,
-    "premium": 195.9,
-    "diesel": 188.4
+    "regular": 166.9,
+    "premium": 184.9,
+    "diesel": 177.4
   },
   "history": {
     "labels": [
-      "Nov 03"
+      "Nov 04"
     ],
     "regular": [
-      177.9
+      166.9
     ],
     "premium": [
-      195.9
+      184.9
     ],
     "diesel": [
-      188.4
+      177.4
     ]
   },
   "prediction": {
     "labels": [
-      "Nov 04",
       "Nov 05",
       "Nov 06",
       "Nov 07",
       "Nov 08",
       "Nov 09",
-      "Nov 10"
+      "Nov 10",
+      "Nov 11"
     ],
     "regular": [
-      177.9,
-      177.9,
-      177.9,
-      177.9,
-      177.9,
-      177.9,
-      177.9
+      166.9,
+      166.9,
+      166.9,
+      166.9,
+      166.9,
+      166.9,
+      166.9
     ],
     "premium": [
-      195.9,
-      195.9,
-      195.9,
-      195.9,
-      195.9,
-      195.9,
-      195.9
+      184.9,
+      184.9,
+      184.9,
+      184.9,
+      184.9,
+      184.9,
+      184.9
     ],
     "diesel": [
-      188.4,
-      188.4,
-      188.4,
-      188.4,
-      188.4,
-      188.4,
-      188.4
+      177.4,
+      177.4,
+      177.4,
+      177.4,
+      177.4,
+      177.4,
+      177.4
     ]
   },
   "news": [
     {
-      "title": "Oil and Gas Prices - Oil Sands Magazine",
-      "source": "Oil Sands Magazine",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oX2Z0dXd5SU9OM05IN2YwZGVucTRZUU03OEdTOFUwYmFnbmVvb0hFX182ZVRYWDNkYzlRQS0yM2U2NlNKRHJ2VW5WOExVOWQyZlBsbzBzVkNKMkR0Q3RPbEUxNWFqanNTaG5Lb1NEWGU1NU9KajdfeQ?oc=5",
-      "description": "Oil and Gas Prices Oil Sands Magazine",
-      "publishedAt": "Fri, 30 Oct 2026 07:00:00 GMT",
+      "title": "Whitecap rides high oil prices, banks the cash - Financial Post",
+      "source": "Financial Post",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ2sxOTltVVJrNVhZSjEzMF9lV3dRelVhQnQtcW9GWFp6ZDgyRHZZUnVfNWlqRXhNYXQzTlI3VXV0Qjk4X3pzZUZ2aWpvZThhRTltNlVDMFZHM3VSQzVLeWs0c2FaZ2lpNTZSTjdEM3RIcFFWWlgxQ1lJdHNSeTVuTzE1dEpUNVR3NTJnaWdxZlI3aVZ5ak1mVmt6TTZjTmlqM2o5WE9fOVlrRlNEMnZUVzdEUHE2UU5BWlpfdkFNMUQzTmZkOGJaVGhEbi1KM0E?oc=5",
+      "description": "Whitecap rides high oil prices, banks the cash Financial Post",
+      "publishedAt": "Thu, 29 Oct 2026 21:05:14 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Plunge as Draft Proposal to End U.S.-Iran War is Circulated - Crude Oil Prices Today | OilPrice.com",
+      "title": "Oil Prices Rebound as Middle East Supply Fears Return - Crude Oil Prices Today | OilPrice.com",
       "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd3dzT0pETVlKbFJyMkhiQk1oNVV0dkhiTmJkT0xVU2xZNjVMSURGc0lfdFdCaGMyYWpITGRLX1BfVnJ6cUV3aFRtM1VBQUhZRGZubzBvSWNyZGk2UU9vemU5RXRQdUR3Z19pdlQ1VHh3QmY0enhJQWJ6b3VjdVNJZW5mdk9LU29ZdjRNVzZQQkZfZ25RUmFJbHdWUElGTndGWlI0WjN1TkxKRVh2b2NqTXVQOWpabDVtQjFodS1GMlFCZ9IBxwFBVV95cUxObVpyRFRzQWJyd1dfeFpqeWt0bjF3TXozTzU4eF9SVEt3M2lFd1dHNHlNSU1DTFVqajltdzI2S0U2LUQ0MWttNUhNalc0R2NLb3Jfc18xc3k2bVNJaUlrejJvTkhBcm5EOTFESWVCUEpleUFYWUIzeE5NOG1wNGNaaURfb3ZzTlhzNG5qbEpoUEJoaDA5cWMwX1B3RGh2dEM3SmlXa1Jpa2E0c1BpeHB0ZVMzNVUyaHl3emp1bWR3MTA3YVI0cUNZ?oc=5",
-      "description": "Oil Prices Plunge as Draft Proposal to End U.S.-Iran War is Circulated Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Mon, 02 Nov 2026 14:30:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOWVBTGY0NXRUc3UyVms3Y0h1VUItOE1qLXFkNWVsR1A3aWZOLS0yNVc1RXpMYzlZNWR6OHJxNU81cnBzNW14eXVmRS1NR3hncl9sNE16U1M5VWs2ZkVTRFdVaXNEMVhBTThsNDE3ZC01c01hRTFiQmIzOGo2ZjdkcmY0YXVXUmZsVDk0TnVRZkVVV0NJQndsNEthVUx2R21YUDBQVGt2dlV2eUdTMUHSAbMBQVVfeXFMTld0ZWlGOUQ0NGxhS3pBV2dXWFVteE5ZOGlUMG5kQUJVVlY2c21kRzJfc1gxRUNxczNCX1ZzVlVVbGZkYUVRdXJ0aDZOSnEzV1l5RzVVZVZGOXR4QTJ3cVpQUm9SeWZQTW1ZRmtuMjlFTXBwSXEzdzg4NDFVX29Hb0h3WHRZOFViNDZzcXpVTDYwSTR5dXMyczRiRTluTV9SVU9YU1VZUUVPRVdvbTdRRjlPMnM?oc=5",
+      "description": "Oil Prices Rebound as Middle East Supply Fears Return Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Wed, 04 Nov 2026 06:15:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war - CNBC",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNjh3NEVPYnU5cTEtUE1OU0pwY3hYNE1qaHdxRVRjNGVSYlQxdndWM0hVNWpaa3RuRVd2MGZFQzY1aVQtVHVJSURmQ0lfdFFRdVB6MEpGV2lOR3VNbG8xSkFzRTZSUEFOSG9NMV9wZ3NiR1NOOHBmalNqeWlTTnFWU0dWbGFkaXAyNU5JQjMxODdwN1VnQzF1OGZoc2RtRWpLS3fSAacBQVVfeXFMTzVnZ0dQYzNVdFdLR0FiRVVXeWozMGZmNTR3QXVmUUNJaGF6QWJZMEtuanJuZUNNbVdncmRnY0FhYjFkSWQ5LUUxWEMwLVdoMUpiWk9ndElqQW1uSkliTjRIem5oNkJJek1Va1h4YkY2MTZVU0NEVEYxbFAtbXhaX3Rwc3VZaklkQ01CWDdrUTlQUEpEY2tFWDVNclR6cVhxNk53Vm91bU0?oc=5",
+      "description": "Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war CNBC",
+      "publishedAt": "Tue, 03 Nov 2026 06:41:07 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil Prices Fall as U.S. Midterm Results Unfold - WSJ",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSFczakJMWVhKQllXMTgyNTdWZVRpT3g1R0hrUDROeF9Kb2xpanVpVWNFN21VdzRSZ2RYaTdZWjc2UlVwWHcwSzk4ZGZ1cUphNDVFOUFaZFZkVmFYMmIxRzB6MVF3R0tsdDNhT0hITUxsa0tORjZnTHVZdjk4ZnV4cUFaQnpZbEFVQVB2R2lPUkpvV185NnVGeFVKSGZNa09HeUJFXw?oc=5",
+      "description": "Oil Prices Fall as U.S. Midterm Results Unfold WSJ",
+      "publishedAt": "Wed, 04 Nov 2026 02:43:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -83,24 +101,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdy1kTGwzTi1ZWVpiLUFTbF9HS0VGbXFnVWhMVzBfOUhieU95OGhLZnpZLTB3ckdrOEFMZms2UU1qYUMyY01yd3VOQmNhNGU4MmZvNE1uUzdqcXc0OWxLYlRRSk5NaU85cUdZYTd0a1d0QU93S0JfaTNMdlpVa3pMeVBUZnFtd0ZMVXhMWGhHejZOVjQtZlN2ekVsaTdWU2hCVE8xaTlpamEzXzQ?oc=5",
       "description": "Oil prices settles lower as diplomacy hopes offset some Mideast supply concerns Reuters",
       "publishedAt": "Thu, 29 Oct 2026 16:10:02 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Will Higher Oil Prices Justify More Spending in Next Week’s Budget? - C.D. Howe Institute",
-      "source": "C.D. Howe Institute",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORjRLOEZ1NThXM25WQlhyUm1HU09sTFZmMFQ5cXlmdjA0ZGo4Tjg0QkVvN2RRQlRlQWdZYnZQZ2ZRUXZ0S1RmM2tYQ2g5eFp0M2N3TFhUU1NhOEdQQTVOMUVBXy1ybGFOVVFoX1dQbTE3SVZSRW9kVWcyLTlXUlh0dmVhbmtQOEdpajNvUFVjZ05JN2V1WXZEUW9xM0wtUQ?oc=5",
-      "description": "Will Higher Oil Prices Justify More Spending in Next Week’s Budget? C.D. Howe Institute",
-      "publishedAt": "Tue, 27 Oct 2026 12:30:44 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices rise as U.S. reportedly tells Gulf countries to prepare for Iran strikes after midterm elections - CNBC",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1VVTZnQjZMOUgxd3doMmJKclN5eUlkbFJoOE9TZDJQVlN5Zm92aDRIYW5yMWcwTGxtRHBfNW9FQ3NIbTJXSmdJZU9ibE9XZFRaQWJXb3JYbDJWY1l4c2o5OU5xeC1VbmFRN1JmMWZUUG9LNVhCYnk2ZNIBfkFVX3lxTE9PVWR4YV9Fa0UyQi0tN013V0d5bjY3bUJqZ1R2VGlsSHdGOURZVkRTSDhLUkpQS2lyV0ZDVlNua3RRelVoMmV4QUdfZUU5S09oV0ZHQTAzNm1hVWxVTVMzRWd0X2M3b3RfdVFUcFNfckgxMUdKMnNldWo2RWpIdw?oc=5",
-      "description": "Oil prices rise as U.S. reportedly tells Gulf countries to prepare for Iran strikes after midterm elections CNBC",
-      "publishedAt": "Wed, 28 Oct 2026 05:52:51 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -123,29 +123,29 @@
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Plunge More Than 4% as U.S.-Iran Peace Talks Raise Hopes of Easing Middle East Supply Disruptions - EnergyNow",
-      "source": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQa0t1UW5JdnEwZi1ySEpBZl96TzZMQkJRN2RGaEJON1NFZ2NkWFV4RV93YWY5RU82cEJkOWxQeHFiekFCZTlwOVBvUnFMLVFXN3h3X2lOalZsSjZVUXFsZ3ZHMUZxMkhwSUdNOGlia05IYjdJUHc2Rkp4Z0VyeWxjaVQxcC1tZDJ4SjUyZEdXMWFsUnhsVzZ0d0dGd3Y4VFVYZzQ3TTFnRmNFNFlDWk9oNWd4azZ6R3NDQjhZdkk5NXdyS3JQZ3FiU042dEJGeEFkdnc?oc=5",
-      "description": "Oil Prices Plunge More Than 4% as U.S.-Iran Peace Talks Raise Hopes of Easing Middle East Supply Disruptions EnergyNow",
-      "publishedAt": "Mon, 02 Nov 2026 11:30:00 GMT",
+      "title": "Current price of oil as of October 30, 2026 - Fortune",
+      "source": "Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sQlNTbGZfT1dXT2JUUDZ6UGRIU3Y4WWVvRFdaSVp0OFp4TlR1NkhNaHJYd1cyUHRud3BQWDR0ZXBKSmFJU3NyeUJNUHA2SlpPTmgtVnM4dXBmQU0zbVdtaFVB?oc=5",
+      "description": "Current price of oil as of October 30, 2026 Fortune",
+      "publishedAt": "Fri, 30 Oct 2026 13:30:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil Futures Slump As Iran Peace Efforts Ease Supply Fears - WSJ",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSGlnQ2hWb0xhREU3dG5ZeGtaV3cxb1kzRk9TT2FOanNnRW8yWWVkd0xCLWpmbDRLVkVqRVpMWXJuY2E1N2tfMGRnV3hkWE1IRmtjYWU0M3Z0V1FlMmoyaTlGSXl2Y1R1ZVZYUUdvdnJnZjNVRzBTNzhtb0FnaWJuV3hhWkpVQU1iRkVtSmFhWjQ0XzM3T0NBVmFudVVldWhZemFoeDJPSy1hWXhCbmdEbUVB?oc=5",
-      "description": "Oil Futures Slump As Iran Peace Efforts Ease Supply Fears WSJ",
-      "publishedAt": "Mon, 02 Nov 2026 20:42:00 GMT",
+      "title": "Oil Prices Bounce Back Following Reports of U.S. Strikes on Iran - Crude Oil Prices Today | OilPrice.com",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNelpwTXlfQzBoTEwydVdPeFJmbVZDNnhKMEZ2WmpvcEJYSHkxMWhqbWJZTUk3TjlUbDBPX3pFZ1pnOGpzZzBjbGE4Z1FNT0FBMzJfbWZzQ0JnN2xMVThxalM0S1NCeWlPME41TElLWENTdlZfUnpJbVloZzhsdjNHcThFLVdxSHUtUVRaLUJIeDdub0ppN01Jck9UUk5GbHY5SWxQNEl4Q0w5SzdiYmdxSVlyZFViblBqRVHSAb8BQVVfeXFMTWZFM0otNmNIZE9IVWNROGtwd056UllFWUdxcEpjUF9PdXVtTmNxWGNUTTlpbWZVcFFKbHJ0V19Fd3dreDhMM3I1ZjNsdjgzNi1QZnY5clE5Y00wWlEwWloxNUlUdEZKckUzS1VKMG5uOF9tV0p6Z1dHelFKcDZKLW1yRnU5cWx2S29oZU02aVdEemlZU3V4SVA2X09vV25nTUtfT3Q1QV9sdVd3alNuX2Y4THZQOHV0ZHJXNGJvQk0?oc=5",
+      "description": "Oil Prices Bounce Back Following Reports of U.S. Strikes on Iran Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Tue, 03 Nov 2026 05:25:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil prices fall as peace hopes offset fears of growing Middle East conflict - BOE Report",
-      "source": "BOE Report",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb1ZqdkJ4X0tFYUR1ZWx1Q3JmMjUxZkFpWVRUQW1lZ283VEZRbDhrUlk3RjE1TTJFdG5Cc0JIN2MtTU16bTdRZkhDZDVzSk1BMV9weUFEekpxeGVSLXNnWGR0UVBnYU5JeHlRZmhKRXNqS2h5TmIxLWpMU21tZ1RzNG1uZzZNOFBwYkJVT3NiY3Nzbmo1cWttbng2bVBodDBFRVZFQmlubG5Zb0NUdlHSAbMBQVVfeXFMT1V6QTR2Rm96TzM0aWgzRWhjdWhQRVM5MFE2REtuZUxYTkJTc0FqYlZmX1BCWDgyaFI0YUxuNWNYMWV5ZDBKTEI2b2lGMzdOY012WnVZaFRaamJTS2VpTFZzYzY0aDlwRVFyNGk5cjFYbzVtOXl2cHRxT1UzbWZvaDc4cmNVb3hXU3RrUVd5ZkFMN1R2ZUFXZUwzdTUtYjB2LVhFTGFnVzlBSERZRXVlNDBwam8?oc=5",
-      "description": "Oil prices fall as peace hopes offset fears of growing Middle East conflict BOE Report",
-      "publishedAt": "Thu, 29 Oct 2026 01:59:33 GMT",
+      "title": "Suncor Energy tops profit estimates on higher oil prices, margins - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWmtnVk9JWDNFVTk4R0hJSUdXZ1pwMlR3YVRmYWt4YXZzeGk5Z21RaGRUQjN0aUxJTFNzZFdZYVFNVzJVT2JDdDcyQ0xXSVlSV3N3bzM4Vm9Vc0diOG5GUGhZTl9qamdjN1pVWUJVWjZvZEtIQklJREEyWTFzOFRaa0cxVnZBZVRLQ29wSlZJWWVieDY2NzN3eExtY0NvMXZES0R5Ty1CbDk?oc=5",
+      "description": "Suncor Energy tops profit estimates on higher oil prices, margins Reuters",
+      "publishedAt": "Tue, 03 Nov 2026 23:45:45 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
