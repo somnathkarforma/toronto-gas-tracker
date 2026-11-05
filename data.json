@@ -1,70 +1,70 @@
 {
-  "generatedAt": "2026-11-04 11:47 UTC",
+  "generatedAt": "2026-11-05 11:45 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 166.9,
-    "premium": 184.9,
-    "diesel": 177.4
+    "regular": 167.9,
+    "premium": 185.9,
+    "diesel": 178.4
   },
   "history": {
     "labels": [
-      "Nov 04"
+      "Nov 05"
     ],
     "regular": [
-      166.9
+      167.9
     ],
     "premium": [
-      184.9
+      185.9
     ],
     "diesel": [
-      177.4
+      178.4
     ]
   },
   "prediction": {
     "labels": [
-      "Nov 05",
       "Nov 06",
       "Nov 07",
       "Nov 08",
       "Nov 09",
       "Nov 10",
-      "Nov 11"
+      "Nov 11",
+      "Nov 12"
     ],
     "regular": [
-      166.9,
-      166.9,
-      166.9,
-      166.9,
-      166.9,
-      166.9,
-      166.9
+      167.9,
+      167.9,
+      167.9,
+      167.9,
+      167.9,
+      167.9,
+      167.9
     ],
     "premium": [
-      184.9,
-      184.9,
-      184.9,
-      184.9,
-      184.9,
-      184.9,
-      184.9
+      185.9,
+      185.9,
+      185.9,
+      185.9,
+      185.9,
+      185.9,
+      185.9
     ],
     "diesel": [
-      177.4,
-      177.4,
-      177.4,
-      177.4,
-      177.4,
-      177.4,
-      177.4
+      178.4,
+      178.4,
+      178.4,
+      178.4,
+      178.4,
+      178.4,
+      178.4
     ]
   },
   "news": [
     {
-      "title": "Whitecap rides high oil prices, banks the cash - Financial Post",
-      "source": "Financial Post",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ2sxOTltVVJrNVhZSjEzMF9lV3dRelVhQnQtcW9GWFp6ZDgyRHZZUnVfNWlqRXhNYXQzTlI3VXV0Qjk4X3pzZUZ2aWpvZThhRTltNlVDMFZHM3VSQzVLeWs0c2FaZ2lpNTZSTjdEM3RIcFFWWlgxQ1lJdHNSeTVuTzE1dEpUNVR3NTJnaWdxZlI3aVZ5ak1mVmt6TTZjTmlqM2o5WE9fOVlrRlNEMnZUVzdEUHE2UU5BWlpfdkFNMUQzTmZkOGJaVGhEbi1KM0E?oc=5",
-      "description": "Whitecap rides high oil prices, banks the cash Financial Post",
-      "publishedAt": "Thu, 29 Oct 2026 21:05:14 GMT",
+      "title": "Oil and Gas Prices - Oil Sands Magazine",
+      "source": "Oil Sands Magazine",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oX2Z0dXd5SU9OM05IN2YwZGVucTRZUU03OEdTOFUwYmFnbmVvb0hFX182ZVRYWDNkYzlRQS0yM2U2NlNKRHJ2VW5WOExVOWQyZlBsbzBzVkNKMkR0Q3RPbEUxNWFqanNTaG5Lb1NEWGU1NU9KajdfeQ?oc=5",
+      "description": "Oil and Gas Prices Oil Sands Magazine",
+      "publishedAt": "Fri, 30 Oct 2026 07:00:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -78,20 +78,20 @@
       "impact": "medium"
     },
     {
-      "title": "Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war - CNBC",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNjh3NEVPYnU5cTEtUE1OU0pwY3hYNE1qaHdxRVRjNGVSYlQxdndWM0hVNWpaa3RuRVd2MGZFQzY1aVQtVHVJSURmQ0lfdFFRdVB6MEpGV2lOR3VNbG8xSkFzRTZSUEFOSG9NMV9wZ3NiR1NOOHBmalNqeWlTTnFWU0dWbGFkaXAyNU5JQjMxODdwN1VnQzF1OGZoc2RtRWpLS3fSAacBQVVfeXFMTzVnZ0dQYzNVdFdLR0FiRVVXeWozMGZmNTR3QXVmUUNJaGF6QWJZMEtuanJuZUNNbVdncmRnY0FhYjFkSWQ5LUUxWEMwLVdoMUpiWk9ndElqQW1uSkliTjRIem5oNkJJek1Va1h4YkY2MTZVU0NEVEYxbFAtbXhaX3Rwc3VZaklkQ01CWDdrUTlQUEpEY2tFWDVNclR6cVhxNk53Vm91bU0?oc=5",
-      "description": "Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war CNBC",
-      "publishedAt": "Tue, 03 Nov 2026 06:41:07 GMT",
+      "title": "Oil Prices Fall as Market Awaits Possible US-Iran Ceasefire Deal - EnergyNow",
+      "source": "EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSWlSQ0JySWhtckl3S01IdjNPcndoTTVOUWVSRmRXLWw2b1U3R3hZeTdwcFM4S1pxNnRVa2dPMXV5Vk9SZWNXaEsyWVYtd2hTZkNBXy1SbjRiaFRFT2cxekVUbTZFXzY1LXJEMXA2WkNVdXhMVnBzbGdNSllPdjlmcS1DMzZTQmo1bDl3dGJIWFhDUzhtUDN1bEV3?oc=5",
+      "description": "Oil Prices Fall as Market Awaits Possible US-Iran Ceasefire Deal EnergyNow",
+      "publishedAt": "Wed, 04 Nov 2026 20:27:02 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Fall as U.S. Midterm Results Unfold - WSJ",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSFczakJMWVhKQllXMTgyNTdWZVRpT3g1R0hrUDROeF9Kb2xpanVpVWNFN21VdzRSZ2RYaTdZWjc2UlVwWHcwSzk4ZGZ1cUphNDVFOUFaZFZkVmFYMmIxRzB6MVF3R0tsdDNhT0hITUxsa0tORjZnTHVZdjk4ZnV4cUFaQnpZbEFVQVB2R2lPUkpvV185NnVGeFVKSGZNa09HeUJFXw?oc=5",
-      "description": "Oil Prices Fall as U.S. Midterm Results Unfold WSJ",
-      "publishedAt": "Wed, 04 Nov 2026 02:43:00 GMT",
+      "title": "Oil prices drop below $100 as midterms fuel hope for an end to the Iran war - NBC News",
+      "source": "NBC News",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSGJKNnFMbzBpa0NfandzTGhDY0N4ZHZZMjBRbkRkbGJiUWZyeUR6aXo1b3FRSVhCVDZjdzY3N1BLQkw1VGtHZVBBYjJ6NEVHS1A4cUluRkt3eFJuNkxoeDVvY2s1R3NvY2FlNXRkZTdfblhMM09FaGNpOVh1cnljczg3bnhvZw?oc=5",
+      "description": "Oil prices drop below $100 as midterms fuel hope for an end to the Iran war NBC News",
+      "publishedAt": "Wed, 04 Nov 2026 19:56:47 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -105,6 +105,24 @@
       "impact": "medium"
     },
     {
+      "title": "Oil Prices Sink as U.S. Midterms Raise Market Hopes for Middle East Solution - WSJ",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVGZJRGVaVkdJaDR5b1REaE5CdWQtY2ZlczBhUXFWT253Vi0tMkNoUVhSNUI0Rzlqbnc5UnVVS0lqN1kwVzZ3eTJ6ODByNlc5ck5HYmlkMEVyRzlrVDNFdk8zQ2JuRWdQLUdYc3ozNUVCc3hRSGhDc0tKNW9QY1A2ZVpMZC1PNGxqUU81QkQyZms0R1VxWUUzbTRLSmYyUTRvM0ZHVmVjdTRpZ2NxLUJkcFlQZzY?oc=5",
+      "description": "Oil Prices Sink as U.S. Midterms Raise Market Hopes for Middle East Solution WSJ",
+      "publishedAt": "Wed, 04 Nov 2026 20:49:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil prices fall on Vance's post-midterms Iran war repudiation - Politico",
+      "source": "Politico",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNa0Q5aFRYMzZ5OEhGUU54cXg2VzMwSVozdjNrNjRQWGx4cGxvZHM5Ry11RHh5RlZDUzNicUtpMFVVQ0I4SGkyVzU3WEdOQlRDcTZlbEVvazEtdGtfUGlvWjJGcER6RDJqejBQclVKWFZyWlBUUVAyS0ttTUJTYkdWdmN5elVjN2lBWW00?oc=5",
+      "description": "Oil prices fall on Vance's post-midterms Iran war repudiation Politico",
+      "publishedAt": "Wed, 04 Nov 2026 20:46:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
       "title": "Oil price falls amid hope of a breakthrough to end Iran war - The Guardian",
       "source": "The Guardian",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWFFqOGFUT2tuNXpyMGN0LVN4YlVCMFZ2VjZyeDc0OEM0WmdaOS1kRDVzWlREOVF1OW1FaTBLQ3NDR0NhSGlhSThXWU9sODhOdHFTQ2JKYldHNTFOb2RwQWJBRG9LVElmQVMzUDhjQWxOUTVvcGhWZjRFS2xTU0k4NU9fbU1Ic092RkFtRU1xUjB0UzlmRlJWUlJYZTZxVTJ4aWJnanF0MGxQM3R0?oc=5",
@@ -114,38 +132,20 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices slide in biggest drop since July on hope for more Iran talks - NBC News",
-      "source": "NBC News",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYVVQOC1mS2E0QXZsLVItNXdTc1VzNXVEeWFTZzFma01nVGpUekFNT1ZvNG56RmZ3WDJXY3VGRWJqZEdCeUlkdmIwbFlrc2xSUWFRdl9HclJqQTNlTzg3M0NUQ3k2YTlEazNRdF96TkNTVVRjQTNVcG9xa1F6X3J0dWxLbEFHV3dZRFU0WUppazZrVWc?oc=5",
-      "description": "Oil prices slide in biggest drop since July on hope for more Iran talks NBC News",
-      "publishedAt": "Mon, 02 Nov 2026 21:32:02 GMT",
+      "title": "Oil Prices Fall as Democrats Seize Control of U.S. Congress and Uncertainty Grows Over Iran Conflict – WTI Below $95, Brent Near $102 - EnergyNow.com",
+      "source": "EnergyNow.com",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQRFFGa2M5MXYxbGVzVkJ5VjJzcmNRMzQ4TS1PZm5Ia2tJUFoyRjZuUXJ3Wkd2akMtZzNTbkpkdndQRjl0R1R5WDIyNzhRODVzQ3JKenNSWjhlTmhVaktteDV3QmhaLTBDRHBXbEpPNENiYjk1bDViSDVMakd6eFRrTUM1MjNvRDJvdUFGT0FuMldmWFJ1WGNZOUU5RVR2NTRDWlVHVTFRRVM5SEg0WTJWVllGSDNOMFhRYUcxTktmUXBpamQwSng4RzJ6RGhIRG5oYkVtTlpncDRVWi1OUlZ2OXdPcENmc2g4MGpUb0VYTQ?oc=5",
+      "description": "Oil Prices Fall as Democrats Seize Control of U.S. Congress and Uncertainty Grows Over Iran Conflict – WTI Below $95, Brent Near $102 EnergyNow.com",
+      "publishedAt": "Wed, 04 Nov 2026 12:29:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Current price of oil as of October 30, 2026 - Fortune",
+      "title": "Current price of oil as of November 4, 2026 - Fortune",
       "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sQlNTbGZfT1dXT2JUUDZ6UGRIU3Y4WWVvRFdaSVp0OFp4TlR1NkhNaHJYd1cyUHRud3BQWDR0ZXBKSmFJU3NyeUJNUHA2SlpPTmgtVnM4dXBmQU0zbVdtaFVB?oc=5",
-      "description": "Current price of oil as of October 30, 2026 Fortune",
-      "publishedAt": "Fri, 30 Oct 2026 13:30:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil Prices Bounce Back Following Reports of U.S. Strikes on Iran - Crude Oil Prices Today | OilPrice.com",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNelpwTXlfQzBoTEwydVdPeFJmbVZDNnhKMEZ2WmpvcEJYSHkxMWhqbWJZTUk3TjlUbDBPX3pFZ1pnOGpzZzBjbGE4Z1FNT0FBMzJfbWZzQ0JnN2xMVThxalM0S1NCeWlPME41TElLWENTdlZfUnpJbVloZzhsdjNHcThFLVdxSHUtUVRaLUJIeDdub0ppN01Jck9UUk5GbHY5SWxQNEl4Q0w5SzdiYmdxSVlyZFViblBqRVHSAb8BQVVfeXFMTWZFM0otNmNIZE9IVWNROGtwd056UllFWUdxcEpjUF9PdXVtTmNxWGNUTTlpbWZVcFFKbHJ0V19Fd3dreDhMM3I1ZjNsdjgzNi1QZnY5clE5Y00wWlEwWloxNUlUdEZKckUzS1VKMG5uOF9tV0p6Z1dHelFKcDZKLW1yRnU5cWx2S29oZU02aVdEemlZU3V4SVA2X09vV25nTUtfT3Q1QV9sdVd3alNuX2Y4THZQOHV0ZHJXNGJvQk0?oc=5",
-      "description": "Oil Prices Bounce Back Following Reports of U.S. Strikes on Iran Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Tue, 03 Nov 2026 05:25:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Suncor Energy tops profit estimates on higher oil prices, margins - Reuters",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWmtnVk9JWDNFVTk4R0hJSUdXZ1pwMlR3YVRmYWt4YXZzeGk5Z21RaGRUQjN0aUxJTFNzZFdZYVFNVzJVT2JDdDcyQ0xXSVlSV3N3bzM4Vm9Vc0diOG5GUGhZTl9qamdjN1pVWUJVWjZvZEtIQklJREEyWTFzOFRaa0cxVnZBZVRLQ29wSlZJWWVieDY2NzN3eExtY0NvMXZES0R5Ty1CbDk?oc=5",
-      "description": "Suncor Energy tops profit estimates on higher oil prices, margins Reuters",
-      "publishedAt": "Tue, 03 Nov 2026 23:45:45 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16YVR5ZkdCZlE3YnRENFFiS0NOSndyQVVqYmJpNGZ2bFVuNXc5Zm1KdFo0MFplWUk4MWNkUGNsQU9EMzVOcmtJdjJXWlVKRUJYbTRPZXF2TmQwb3g5V29oV0R3?oc=5",
+      "description": "Current price of oil as of November 4, 2026 Fortune",
+      "publishedAt": "Wed, 04 Nov 2026 12:15:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
