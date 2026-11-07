@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-11-06 11:43 UTC",
+  "generatedAt": "2026-11-07 10:50 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 160.9,
-    "premium": 178.9,
-    "diesel": 171.4
+    "regular": 161.9,
+    "premium": 179.9,
+    "diesel": 172.4
   },
   "history": {
     "labels": [
-      "Nov 06"
+      "Nov 07"
     ],
     "regular": [
-      160.9
+      161.9
     ],
     "premium": [
-      178.9
+      179.9
     ],
     "diesel": [
-      171.4
+      172.4
     ]
   },
   "prediction": {
     "labels": [
-      "Nov 07",
       "Nov 08",
       "Nov 09",
       "Nov 10",
       "Nov 11",
       "Nov 12",
-      "Nov 13"
+      "Nov 13",
+      "Nov 14"
     ],
     "regular": [
-      160.9,
-      160.9,
-      160.9,
-      160.9,
-      160.9,
-      160.9,
-      160.9
+      161.9,
+      161.9,
+      161.9,
+      161.9,
+      161.9,
+      161.9,
+      161.9
     ],
     "premium": [
-      178.9,
-      178.9,
-      178.9,
-      178.9,
-      178.9,
-      178.9,
-      178.9
+      179.9,
+      179.9,
+      179.9,
+      179.9,
+      179.9,
+      179.9,
+      179.9
     ],
     "diesel": [
-      171.4,
-      171.4,
-      171.4,
-      171.4,
-      171.4,
-      171.4,
-      171.4
+      172.4,
+      172.4,
+      172.4,
+      172.4,
+      172.4,
+      172.4,
+      172.4
     ]
   },
   "news": [
@@ -69,56 +69,38 @@
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Rebound Sharply After Brutal Midweek Rout - Crude Oil Prices Today | OilPrice.com",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTkQ2VHV3QVBYU09xbkdYb1I2YTUtTDY3ZkZXWnJOZFlQQWJSTElZMThYZnFfX1BoMHZQYl80MGswRll4RlJ2TWVrMFFEQUVFRUZKNlVtRDNhVV81ZEotZ01KUlYxckhkMEZOU2l4MlZ2NkNQWm1rTUMwa3pkWFZWMlBwMHh2aUdXNTdLRVRxdm1HZjhrVmgxaUp1bFdYNXJzR2FLSmFJcWFFVEpv0gGyAUFVX3lxTE5FMzBDX3BobGZQXzZxRURVRTNxZTN4djJuRnJfTzA2NnZ5VDF2YkgxcU9td2tNRWF3UlNtT2k4dGpvakxqejdET3FwWHJoVFdDLVEweVlvSDBsSHcxOU5sNUNkd1hySkREb25JeGNqUFhObjlRVlRmaUN0WlVzMWJQTUp4TzM2dGlSWFJkd0hRb0NMWnB4eHFQb01YRjNUY2dLVkl3WWpSTS14ZWo3Nlp2V1E?oc=5",
-      "description": "Oil Prices Rebound Sharply After Brutal Midweek Rout Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Thu, 05 Nov 2026 19:30:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices rise as investors weigh renewed U.S.-Iran conflict risks after midterm elections - CNBC",
+      "title": "Oil prices tumble for the week as investors weigh Iran conflict risk after midterm elections - CNBC",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zQW9uWnVUd0hLODVnWG1oa29OUEJuQlFjLXNlMjhyZDdrNGl5T1MxRTJDQXJ0TUJNbXh4MDhaYk1DeUM2bHh1b3RsNWZ3Sm1zT05udHZJQ3JzWS16RXd3NjR0Qmt5UWtPQnRMbE5MWdIBdEFVX3lxTE9DMzBrTllWWDUtQmdHLV9fR0hwU21fcllTNWZ2bnZTRDlTNUthbmRnWk83V1NMYVZ3eTZZSl8tZnh5NGNGanN5VEtfYVIza0huQnR3S3NVRTl5bkpzaGF0R0d1LXdCcURLVlJYWHRwS2ljS2Uz?oc=5",
-      "description": "Oil prices rise as investors weigh renewed U.S.-Iran conflict risks after midterm elections CNBC",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zQW9uWnVUd0hLODVnWG1oa29OUEJuQlFjLXNlMjhyZDdrNGl5T1MxRTJDQXJ0TUJNbXh4MDhaYk1DeUM2bHh1b3RsNWZ3Sm1zT05udHZJQ3JzWS16RXd3NjR0Qmt5UWtPQnRMbE5MWQ?oc=5",
+      "description": "Oil prices tumble for the week as investors weigh Iran conflict risk after midterm elections CNBC",
       "publishedAt": "Fri, 06 Nov 2026 05:06:56 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil prices fall on Vance's post-midterms Iran war repudiation - Politico",
-      "source": "Politico",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNa0Q5aFRYMzZ5OEhGUU54cXg2VzMwSVozdjNrNjRQWGx4cGxvZHM5Ry11RHh5RlZDUzNicUtpMFVVQ0I4SGkyVzU3WEdOQlRDcTZlbEVvazEtdGtfUGlvWjJGcER6RDJqejBQclVKWFZyWlBUUVAyS0ttTUJTYkdWdmN5elVjN2lBWW00?oc=5",
-      "description": "Oil prices fall on Vance's post-midterms Iran war repudiation Politico",
-      "publishedAt": "Wed, 04 Nov 2026 20:46:00 GMT",
+      "title": "As high oil prices curb demand, fresh signs of glut appear - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQem82aUU3S0NZWXNNcXlreW9xS3J0UnpIcDNCWVdqS3NyclRxSUtWenpmMEhoNmp6amtNSG5ZYmpuMzc1TElxODVYTmVSZURrYjJsbVliVXlVSzNtM3J5TDBMNl9sQ0JSTmxKQ2RxVzc4RnMxX2lIZGp3Y3kwTFdrUndLZkFMN0JkN2xLTi02dDZjT0x1Wk0ySTMxZlpNZWRmX1F6ZDhR?oc=5",
+      "description": "As high oil prices curb demand, fresh signs of glut appear Reuters",
+      "publishedAt": "Fri, 06 Nov 2026 02:04:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Will the U.S. midterm results do anything for oil and gas prices? - Global News",
-      "source": "Global News",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00MEdRblFwWjNhQTZmeVpYRXVHNTN5YkZZOE52OGVRcmE3MFZRWkxZNVJLWlljQkNGTUFaZmtSSzN4Ty1uUzVCV0o3Y2J5V2U4TktfUkgwOFRMTjgzLXpJRXFlWjFzZE1tZzUzRlJhbkg?oc=5",
-      "description": "Will the U.S. midterm results do anything for oil and gas prices? Global News",
-      "publishedAt": "Thu, 05 Nov 2026 18:16:30 GMT",
+      "title": "Global Oil Prices Drop Sharply Amid Reports of Potential Iran–U.S. Peace Talks - IranWire",
+      "source": "IranWire",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTDR1blQzX2o2ejlGUk1mc3htT3BrODY1VU5DdzhEczVlNDItYWl1Z0FvakRGQTdnam8wNkVuMFl0QmE0dWI4NE16emY4VUZnVjJrTmdLX1BNODJwN3VfY2Q5NGp0YjdNWV9CMDVLQ3A5ai1QRGExYXMtQ2VobkxKRUVKYVhKQkptT2E4dlc4NWRJcWdlSnMwSTR4Y3U4NnJWVjZ1M2pmQnVMcHBQV3F0WDFB?oc=5",
+      "description": "Global Oil Prices Drop Sharply Amid Reports of Potential Iran–U.S. Peace Talks IranWire",
+      "publishedAt": "Fri, 06 Nov 2026 16:11:43 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil price falls amid hope of a breakthrough to end Iran war - The Guardian",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWFFqOGFUT2tuNXpyMGN0LVN4YlVCMFZ2VjZyeDc0OEM0WmdaOS1kRDVzWlREOVF1OW1FaTBLQ3NDR0NhSGlhSThXWU9sODhOdHFTQ2JKYldHNTFOb2RwQWJBRG9LVElmQVMzUDhjQWxOUTVvcGhWZjRFS2xTU0k4NU9fbU1Ic092RkFtRU1xUjB0UzlmRlJWUlJYZTZxVTJ4aWJnanF0MGxQM3R0?oc=5",
-      "description": "Oil price falls amid hope of a breakthrough to end Iran war The Guardian",
-      "publishedAt": "Mon, 02 Nov 2026 16:37:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil Prices Sink as U.S. Midterms Raise Market Hopes for Middle East Solution - WSJ",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVGZJRGVaVkdJaDR5b1REaE5CdWQtY2ZlczBhUXFWT253Vi0tMkNoUVhSNUI0Rzlqbnc5UnVVS0lqN1kwVzZ3eTJ6ODByNlc5ck5HYmlkMEVyRzlrVDNFdk8zQ2JuRWdQLUdYc3ozNUVCc3hRSGhDc0tKNW9QY1A2ZVpMZC1PNGxqUU81QkQyZms0R1VxWUUzbTRLSmYyUTRvM0ZHVmVjdTRpZ2NxLUJkcFlQZzY?oc=5",
-      "description": "Oil Prices Sink as U.S. Midterms Raise Market Hopes for Middle East Solution WSJ",
-      "publishedAt": "Wed, 04 Nov 2026 20:49:00 GMT",
+      "title": "Oil Prices Rebound Sharply After Brutal Midweek Rout - Crude Oil Prices Today | OilPrice.com",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTkQ2VHV3QVBYU09xbkdYb1I2YTUtTDY3ZkZXWnJOZFlQQWJSTElZMThYZnFfX1BoMHZQYl80MGswRll4RlJ2TWVrMFFEQUVFRUZKNlVtRDNhVV81ZEotZ01KUlYxckhkMEZOU2l4MlZ2NkNQWm1rTUMwa3pkWFZWMlBwMHh2aUdXNTdLRVRxdm1HZjhrVmgxaUp1bFdYNXJzR2FLSmFJcWFFVEpv0gGyAUFVX3lxTE5FMzBDX3BobGZQXzZxRURVRTNxZTN4djJuRnJfTzA2NnZ5VDF2YkgxcU9td2tNRWF3UlNtT2k4dGpvakxqejdET3FwWHJoVFdDLVEweVlvSDBsSHcxOU5sNUNkd1hySkREb25JeGNqUFhObjlRVlRmaUN0WlVzMWJQTUp4TzM2dGlSWFJkd0hRb0NMWnB4eHFQb01YRjNUY2dLVkl3WWpSTS14ZWo3Nlp2V1E?oc=5",
+      "description": "Oil Prices Rebound Sharply After Brutal Midweek Rout Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Thu, 05 Nov 2026 19:30:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -132,6 +114,24 @@
       "impact": "medium"
     },
     {
+      "title": "Oil price falls amid hope of a breakthrough to end Iran war - The Guardian",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWFFqOGFUT2tuNXpyMGN0LVN4YlVCMFZ2VjZyeDc0OEM0WmdaOS1kRDVzWlREOVF1OW1FaTBLQ3NDR0NhSGlhSThXWU9sODhOdHFTQ2JKYldHNTFOb2RwQWJBRG9LVElmQVMzUDhjQWxOUTVvcGhWZjRFS2xTU0k4NU9fbU1Ic092RkFtRU1xUjB0UzlmRlJWUlJYZTZxVTJ4aWJnanF0MGxQM3R0?oc=5",
+      "description": "Oil price falls amid hope of a breakthrough to end Iran war The Guardian",
+      "publishedAt": "Mon, 02 Nov 2026 16:37:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil prices fall on Vance's post-midterms Iran war repudiation - Politico",
+      "source": "Politico",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNa0Q5aFRYMzZ5OEhGUU54cXg2VzMwSVozdjNrNjRQWGx4cGxvZHM5Ry11RHh5RlZDUzNicUtpMFVVQ0I4SGkyVzU3WEdOQlRDcTZlbEVvazEtdGtfUGlvWjJGcER6RDJqejBQclVKWFZyWlBUUVAyS0ttTUJTYkdWdmN5elVjN2lBWW00?oc=5",
+      "description": "Oil prices fall on Vance's post-midterms Iran war repudiation Politico",
+      "publishedAt": "Wed, 04 Nov 2026 20:46:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
       "title": "Oil Prices Fall as Democrats Seize Control of U.S. Congress and Uncertainty Grows Over Iran Conflict – WTI Below $95, Brent Near $102 - EnergyNow.com",
       "source": "EnergyNow.com",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQRFFGa2M5MXYxbGVzVkJ5VjJzcmNRMzQ4TS1PZm5Ia2tJUFoyRjZuUXJ3Wkd2akMtZzNTbkpkdndQRjl0R1R5WDIyNzhRODVzQ3JKenNSWjhlTmhVaktteDV3QmhaLTBDRHBXbEpPNENiYjk1bDViSDVMakd6eFRrTUM1MjNvRDJvdUFGT0FuMldmWFJ1WGNZOUU5RVR2NTRDWlVHVTFRRVM5SEg0WTJWVllGSDNOMFhRYUcxTktmUXBpamQwSng4RzJ6RGhIRG5oYkVtTlpncDRVWi1OUlZ2OXdPcENmc2g4MGpUb0VYTQ?oc=5",
@@ -141,11 +141,11 @@
       "impact": "medium"
     },
     {
-      "title": "Oil slumps after midterm election rebuke to Trump raises bets on Iran war exit - Reuters",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQUEyU0pEVG8xTHJtT2xCU0ltcXVTalphM0RNTEZ0UVlCTW5Qbjg4cS1RQnh5QXZnVEZvdnBacmZRM2FhMWJLWXVjU08yNkpvOHZiLTUtSGN0Mk55NGFBNWdxTmR4b3ZBeGNlX3ptUGNaRVFzRzhyNDZodklncGFZaV96cUxHY1Q1ODZWdmpTVWlWRVp4bVdJb0Zrb1pLaXVsUFFySUd4cm40cFphNGZB?oc=5",
-      "description": "Oil slumps after midterm election rebuke to Trump raises bets on Iran war exit Reuters",
-      "publishedAt": "Wed, 04 Nov 2026 20:29:08 GMT",
+      "title": "Current price of oil as of November 5, 2026 - Fortune",
+      "source": "Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUblBRaXV3bHVma0s3Uk9nT2d5cXBrRWFiUEU2NnZ2VVFyV3RRVGZfOHdVTThDcXpxUzZwSkMtYlhobl9EWUFKcEhERTl0WE9SS3g5V2loeUN4UGFaRHJmV1VB?oc=5",
+      "description": "Current price of oil as of November 5, 2026 Fortune",
+      "publishedAt": "Fri, 06 Nov 2026 16:40:45 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
