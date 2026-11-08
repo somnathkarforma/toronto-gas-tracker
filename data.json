@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-11-07 10:50 UTC",
+  "generatedAt": "2026-11-08 10:58 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 161.9,
-    "premium": 179.9,
-    "diesel": 172.4
+    "regular": 162.9,
+    "premium": 180.9,
+    "diesel": 173.4
   },
   "history": {
     "labels": [
-      "Nov 07"
+      "Nov 08"
     ],
     "regular": [
-      161.9
+      162.9
     ],
     "premium": [
-      179.9
+      180.9
     ],
     "diesel": [
-      172.4
+      173.4
     ]
   },
   "prediction": {
     "labels": [
-      "Nov 08",
       "Nov 09",
       "Nov 10",
       "Nov 11",
       "Nov 12",
       "Nov 13",
-      "Nov 14"
+      "Nov 14",
+      "Nov 15"
     ],
     "regular": [
-      161.9,
-      161.9,
-      161.9,
-      161.9,
-      161.9,
-      161.9,
-      161.9
+      162.9,
+      162.9,
+      162.9,
+      162.9,
+      162.9,
+      162.9,
+      162.9
     ],
     "premium": [
-      179.9,
-      179.9,
-      179.9,
-      179.9,
-      179.9,
-      179.9,
-      179.9
+      180.9,
+      180.9,
+      180.9,
+      180.9,
+      180.9,
+      180.9,
+      180.9
     ],
     "diesel": [
-      172.4,
-      172.4,
-      172.4,
-      172.4,
-      172.4,
-      172.4,
-      172.4
+      173.4,
+      173.4,
+      173.4,
+      173.4,
+      173.4,
+      173.4,
+      173.4
     ]
   },
   "news": [
@@ -64,14 +64,14 @@
       "source": "EnergyNow",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSDJ6ZEUtSjRHdS11dVhxVGRuNDkxamJ3dUNQeGMzaTk5SEl1TFhXOGdKcEVWUmtKVHFNR3dCbFZVQm5nbG5INHZTUlVCRk5Bek1iQXBFRUptNVJFdjRPWXAtNmloX1RPTHpKbGVjdUloUHYxTTlRVnhyNmhyQ3Z4Ml82MHItRm5wUlYtU1c0RDBsNllhSi15bF9uczZtRFlvNGNaUlp4ckwtUDNralhOOW93U2c0Tzd0Wk9XNDctNHpGY3g5Z3dMaDBWQUc?oc=5",
       "description": "Oil Prices Rebound Following Historic Selloff as Markets Weigh Iran War Risks and U.S. Election Fallout EnergyNow",
-      "publishedAt": "Thu, 05 Nov 2026 12:30:00 GMT",
+      "publishedAt": "Thu, 05 Nov 2026 11:44:04 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
       "title": "Oil prices tumble for the week as investors weigh Iran conflict risk after midterm elections - CNBC",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zQW9uWnVUd0hLODVnWG1oa29OUEJuQlFjLXNlMjhyZDdrNGl5T1MxRTJDQXJ0TUJNbXh4MDhaYk1DeUM2bHh1b3RsNWZ3Sm1zT05udHZJQ3JzWS16RXd3NjR0Qmt5UWtPQnRMbE5MWQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zQW9uWnVUd0hLODVnWG1oa29OUEJuQlFjLXNlMjhyZDdrNGl5T1MxRTJDQXJ0TUJNbXh4MDhaYk1DeUM2bHh1b3RsNWZ3Sm1zT05udHZJQ3JzWS16RXd3NjR0Qmt5UWtPQnRMbE5MWdIBdEFVX3lxTE9DMzBrTllWWDUtQmdHLV9fR0hwU21fcllTNWZ2bnZTRDlTNUthbmRnWk83V1NMYVZ3eTZZSl8tZnh5NGNGanN5VEtfYVIza0huQnR3S3NVRTl5bkpzaGF0R0d1LXdCcURLVlJYWHRwS2ljS2Uz?oc=5",
       "description": "Oil prices tumble for the week as investors weigh Iran conflict risk after midterm elections CNBC",
       "publishedAt": "Fri, 06 Nov 2026 05:06:56 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
@@ -141,11 +141,11 @@
       "impact": "medium"
     },
     {
-      "title": "Current price of oil as of November 5, 2026 - Fortune",
+      "title": "Current price of oil as of Nov. 6, 2026 - Fortune",
       "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUblBRaXV3bHVma0s3Uk9nT2d5cXBrRWFiUEU2NnZ2VVFyV3RRVGZfOHdVTThDcXpxUzZwSkMtYlhobl9EWUFKcEhERTl0WE9SS3g5V2loeUN4UGFaRHJmV1VB?oc=5",
-      "description": "Current price of oil as of November 5, 2026 Fortune",
-      "publishedAt": "Fri, 06 Nov 2026 16:40:45 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4tLS05aEZoYnpmYVNaMjVoUTVBY05NWWkyeEdETUFvRGlLdkxlTmpQa3dKeElqbzdOZGdlWEJVYW01TU9tcUNJZktXanpzWVhXclVDc3JWRWFkSzNSV0NZb213?oc=5",
+      "description": "Current price of oil as of Nov. 6, 2026 Fortune",
+      "publishedAt": "Fri, 06 Nov 2026 12:45:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
