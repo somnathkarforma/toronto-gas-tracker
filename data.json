@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09 12:24 UTC",
+  "generatedAt": "2026-11-10 11:59 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
     "regular": 162.9,
@@ -8,7 +8,7 @@
   },
   "history": {
     "labels": [
-      "Nov 09"
+      "Nov 10"
     ],
     "regular": [
       162.9
@@ -22,13 +22,13 @@
   },
   "prediction": {
     "labels": [
-      "Nov 10",
       "Nov 11",
       "Nov 12",
       "Nov 13",
       "Nov 14",
       "Nov 15",
-      "Nov 16"
+      "Nov 16",
+      "Nov 17"
     ],
     "regular": [
       162.9,
@@ -71,9 +71,18 @@
     {
       "title": "Oil prices tumble for the week as investors weigh Iran conflict risk after midterm elections - CNBC",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zQW9uWnVUd0hLODVnWG1oa29OUEJuQlFjLXNlMjhyZDdrNGl5T1MxRTJDQXJ0TUJNbXh4MDhaYk1DeUM2bHh1b3RsNWZ3Sm1zT05udHZJQ3JzWS16RXd3NjR0Qmt5UWtPQnRMbE5MWdIBdEFVX3lxTE9DMzBrTllWWDUtQmdHLV9fR0hwU21fcllTNWZ2bnZTRDlTNUthbmRnWk83V1NMYVZ3eTZZSl8tZnh5NGNGanN5VEtfYVIza0huQnR3S3NVRTl5bkpzaGF0R0d1LXdCcURLVlJYWHRwS2ljS2Uz?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zQW9uWnVUd0hLODVnWG1oa29OUEJuQlFjLXNlMjhyZDdrNGl5T1MxRTJDQXJ0TUJNbXh4MDhaYk1DeUM2bHh1b3RsNWZ3Sm1zT05udHZJQ3JzWS16RXd3NjR0Qmt5UWtPQnRMbE5MWQ?oc=5",
       "description": "Oil prices tumble for the week as investors weigh Iran conflict risk after midterm elections CNBC",
       "publishedAt": "Fri, 06 Nov 2026 05:06:56 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Crude Oil Futures Overview - CME Group",
+      "source": "CME Group",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1OVHltWktpaTJQRXlsS281OXVOT19HMDFWWUtxa3hmRkQzT0VLZHMtazhvX0VOQkJwM0ZsVGZ2R1YtZnB2YmI3VHhvbjdPdjlfQ3g5Z0xiNVkzMnhYMmRxMGpNNFFIeXM2eEZDVnVnLUhYcEVBX09PZlhxTng?oc=5",
+      "description": "Crude Oil Futures Overview CME Group",
+      "publishedAt": "Fri, 06 Nov 2026 21:44:45 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -87,11 +96,20 @@
       "impact": "medium"
     },
     {
-      "title": "Oil price falls amid hope of a breakthrough to end Iran war - The Guardian",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWFFqOGFUT2tuNXpyMGN0LVN4YlVCMFZ2VjZyeDc0OEM0WmdaOS1kRDVzWlREOVF1OW1FaTBLQ3NDR0NhSGlhSThXWU9sODhOdHFTQ2JKYldHNTFOb2RwQWJBRG9LVElmQVMzUDhjQWxOUTVvcGhWZjRFS2xTU0k4NU9fbU1Ic092RkFtRU1xUjB0UzlmRlJWUlJYZTZxVTJ4aWJnanF0MGxQM3R0?oc=5",
-      "description": "Oil price falls amid hope of a breakthrough to end Iran war The Guardian",
-      "publishedAt": "Mon, 02 Nov 2026 16:37:00 GMT",
+      "title": "Oil Prices Fall as Trump Signals No New Attacks on Iran - Crude Oil Prices Today | OilPrice.com",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcG54ZldRQ3d3WHdTT21QeTFjbmdaV19kbUZsOGNBNlEzSzE5WnMtTlhTRWN3ZlMtQnBmM21JMDZfUHRRY3Y5d3J4RTdnR29yU3RRLTBhUGRBV0pDNHFEY1lqUDBSQ1BabHNpMHdHVy1YdXBZY1h0bFYxS3M3eVRRbjZuMG50NkZNOXh3aTJEZTlKTjV3QXdCSExqNTFVenAxbXhmRnQ3cnpIOXBETjY2RtIBtgFBVV95cUxNTW9XQXhhYVViQjJzODhmRW41dml5UjlsX1U3Qy1RRmhYTmFKT1VIT0hOOFl2TUNnRTNTbXVwM2k3LXNCQVpQdDNxRllIeFFNY2xOQW8tZFdkYmFJYTdkTXpKNGlNWC1haG5MY240QUYxcERRUFZ2QzFJZkdvdzY5MjlTYjFmdEtCd2liNTJTcUNNQTBiTzl4SHMtTS1BbmhuNVFXeVgwN1NtUjQ3NV9oWGxwRDR4Zw?oc=5",
+      "description": "Oil Prices Fall as Trump Signals No New Attacks on Iran Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Mon, 09 Nov 2026 05:45:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil Prices Fall as Democrats Seize Control of U.S. Congress and Uncertainty Grows Over Iran Conflict – WTI Below $95, Brent Near $102 - EnergyNow.com",
+      "source": "EnergyNow.com",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQRFFGa2M5MXYxbGVzVkJ5VjJzcmNRMzQ4TS1PZm5Ia2tJUFoyRjZuUXJ3Wkd2akMtZzNTbkpkdndQRjl0R1R5WDIyNzhRODVzQ3JKenNSWjhlTmhVaktteDV3QmhaLTBDRHBXbEpPNENiYjk1bDViSDVMakd6eFRrTUM1MjNvRDJvdUFGT0FuMldmWFJ1WGNZOUU5RVR2NTRDWlVHVTFRRVM5SEg0WTJWVllGSDNOMFhRYUcxTktmUXBpamQwSng4RzJ6RGhIRG5oYkVtTlpncDRVWi1OUlZ2OXdPcENmc2g4MGpUb0VYTQ?oc=5",
+      "description": "Oil Prices Fall as Democrats Seize Control of U.S. Congress and Uncertainty Grows Over Iran Conflict – WTI Below $95, Brent Near $102 EnergyNow.com",
+      "publishedAt": "Wed, 04 Nov 2026 12:29:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -105,15 +123,6 @@
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Fall as Trump Signals No New Attacks on Iran - Crude Oil Prices Today | OilPrice.com",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcG54ZldRQ3d3WHdTT21QeTFjbmdaV19kbUZsOGNBNlEzSzE5WnMtTlhTRWN3ZlMtQnBmM21JMDZfUHRRY3Y5d3J4RTdnR29yU3RRLTBhUGRBV0pDNHFEY1lqUDBSQ1BabHNpMHdHVy1YdXBZY1h0bFYxS3M3eVRRbjZuMG50NkZNOXh3aTJEZTlKTjV3QXdCSExqNTFVenAxbXhmRnQ3cnpIOXBETjY2RtIBtgFBVV95cUxNTW9XQXhhYVViQjJzODhmRW41dml5UjlsX1U3Qy1RRmhYTmFKT1VIT0hOOFl2TUNnRTNTbXVwM2k3LXNCQVpQdDNxRllIeFFNY2xOQW8tZFdkYmFJYTdkTXpKNGlNWC1haG5MY240QUYxcERRUFZ2QzFJZkdvdzY5MjlTYjFmdEtCd2liNTJTcUNNQTBiTzl4SHMtTS1BbmhuNVFXeVgwN1NtUjQ3NV9oWGxwRDR4Zw?oc=5",
-      "description": "Oil Prices Fall as Trump Signals No New Attacks on Iran Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Mon, 09 Nov 2026 05:45:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
       "title": "Oil prices fall on Vance's post-midterms Iran war repudiation - Politico",
       "source": "Politico",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNa0Q5aFRYMzZ5OEhGUU54cXg2VzMwSVozdjNrNjRQWGx4cGxvZHM5Ry11RHh5RlZDUzNicUtpMFVVQ0I4SGkyVzU3WEdOQlRDcTZlbEVvazEtdGtfUGlvWjJGcER6RDJqejBQclVKWFZyWlBUUVAyS0ttTUJTYkdWdmN5elVjN2lBWW00?oc=5",
@@ -123,29 +132,20 @@
       "impact": "medium"
     },
     {
-      "title": "Saudi Arabia cuts December Asia oil prices to fresh 6-year low - BOE Report",
-      "source": "BOE Report",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYWdCMHJ3ZDdJRjFZZDlZRnJmaXo5VFZpNkYxVVhsWl9kWmhWNVRBZXlzUnM4SlpXODlYb3lfR1B3SXVWLTJrZ3dHTnV3SkMzeXNhal9fa0dCN1J4UnNXdVVKVjZYNlUxWnJSRjhEaGVZblhXbkJWaEoweVd1MHRLb1VvbHhvektLbkNqVXIzS3VYVmtReHJ5b2ZoQznSAaIBQVVfeXFMUDR4bXNjODk2VlFpZVdIQWp6NWp1d2NmNTFTaEVHcUx5eUl5UDBBRWhMcmRFZUFwa3UyY1YxRFRuby1uaUZRRWh1NmtnbTVFWTN6dzVaMGRWc2V3OVRCdzNjZWM0S0R3cnY5V0JTVTdTNjRtLXdCbjJsQzVBcUJyRWZEZXBoRzIyeFF2OWo4SEYzNEV5U1FyRFItQXdPdmNTZVRB?oc=5",
-      "description": "Saudi Arabia cuts December Asia oil prices to fresh 6-year low BOE Report",
-      "publishedAt": "Fri, 06 Nov 2026 01:27:14 GMT",
+      "title": "Current price of oil as of November 9, 2026 - Fortune",
+      "source": "Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4tS0VJXzlGYWY2NWhRSGZjZjR3M1lrYmJMUV9RU0xJVmU1eTVWRHVVNUlmc3ozY3g2eGZycDJUeE9nN1pLbk55aVc3QlhfOXh2akV6Vlp1OHRGMUZXUXhTZXhR?oc=5",
+      "description": "Current price of oil as of November 9, 2026 Fortune",
+      "publishedAt": "Mon, 09 Nov 2026 12:45:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Fall, Staying Below $100, After Trump Downplays Prospect of New Iran Strikes - WSJ",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS29XR2VmWjE0VXk0djYtZVB1ZHpfSXBjYS02b1psblVVYjBUWjMtejVmMzhmREwtNHZrdGFHQzNub0o1STNxRV9DclpWOG8tdTNGNzVJYnJKdWxiM1ZjOC1GLXQ0OGxvTXE3SWp2eGV3WEJ2ZS1VbnUxZk9aMHYtcEtVbi1MUTd1RnRLdjhudUcxbW9GOVh1akQyazdXSV83QURqM3g4VEtTc0VtNGd2a25pczBoT2FJ?oc=5",
-      "description": "Oil Prices Fall, Staying Below $100, After Trump Downplays Prospect of New Iran Strikes WSJ",
-      "publishedAt": "Mon, 09 Nov 2026 07:27:00 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil Prices Fall as Democrats Seize Control of U.S. Congress and Uncertainty Grows Over Iran Conflict – WTI Below $95, Brent Near $102 - EnergyNow.com",
-      "source": "EnergyNow.com",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQRFFGa2M5MXYxbGVzVkJ5VjJzcmNRMzQ4TS1PZm5Ia2tJUFoyRjZuUXJ3Wkd2akMtZzNTbkpkdndQRjl0R1R5WDIyNzhRODVzQ3JKenNSWjhlTmhVaktteDV3QmhaLTBDRHBXbEpPNENiYjk1bDViSDVMakd6eFRrTUM1MjNvRDJvdUFGT0FuMldmWFJ1WGNZOUU5RVR2NTRDWlVHVTFRRVM5SEg0WTJWVllGSDNOMFhRYUcxTktmUXBpamQwSng4RzJ6RGhIRG5oYkVtTlpncDRVWi1OUlZ2OXdPcENmc2g4MGpUb0VYTQ?oc=5",
-      "description": "Oil Prices Fall as Democrats Seize Control of U.S. Congress and Uncertainty Grows Over Iran Conflict – WTI Below $95, Brent Near $102 EnergyNow.com",
-      "publishedAt": "Wed, 04 Nov 2026 12:29:00 GMT",
+      "title": "Oil Prices Fell Fast. Where They Could Go Next. - Barron's",
+      "source": "Barron's",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeTBmWUQxOWs5ZnRLRXBhSDBoYUhWaHVvZ2RnY0MxQ1pSRUxXblpfXzdGbHpUTGVPdC02QXN3TXM4NTBQb3VsdXUwaUNOTkV2ZDV0c29KaFdhbkNGcWFSYnZ5Q2FueU5hbXFmX0dYbWNRRmZEODBWQ1BSdEIwcDRUcUZDZEVlaDlhZjAtVzNJNE1GdUU?oc=5",
+      "description": "Oil Prices Fell Fast. Where They Could Go Next. Barron's",
+      "publishedAt": "Mon, 09 Nov 2026 10:55:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
