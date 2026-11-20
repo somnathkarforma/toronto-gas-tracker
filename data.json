@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-11-19 12:23 UTC",
+  "generatedAt": "2026-11-20 12:24 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 149.9,
-    "premium": 167.9,
-    "diesel": 160.4
+    "regular": 148.9,
+    "premium": 166.9,
+    "diesel": 159.4
   },
   "history": {
     "labels": [
-      "Nov 19"
+      "Nov 20"
     ],
     "regular": [
-      149.9
+      148.9
     ],
     "premium": [
-      167.9
+      166.9
     ],
     "diesel": [
-      160.4
+      159.4
     ]
   },
   "prediction": {
     "labels": [
-      "Nov 20",
       "Nov 21",
       "Nov 22",
       "Nov 23",
       "Nov 24",
       "Nov 25",
-      "Nov 26"
+      "Nov 26",
+      "Nov 27"
     ],
     "regular": [
-      149.9,
-      149.9,
-      149.9,
-      149.9,
-      149.9,
-      149.9,
-      149.9
+      148.9,
+      148.9,
+      148.9,
+      148.9,
+      148.9,
+      148.9,
+      148.9
     ],
     "premium": [
-      167.9,
-      167.9,
-      167.9,
-      167.9,
-      167.9,
-      167.9,
-      167.9
+      166.9,
+      166.9,
+      166.9,
+      166.9,
+      166.9,
+      166.9,
+      166.9
     ],
     "diesel": [
-      160.4,
-      160.4,
-      160.4,
-      160.4,
-      160.4,
-      160.4,
-      160.4
+      159.4,
+      159.4,
+      159.4,
+      159.4,
+      159.4,
+      159.4,
+      159.4
     ]
   },
   "news": [
@@ -65,6 +65,15 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSWlSQ0JySWhtckl3S01IdjNPcndoTTVOUWVSRmRXLWw2b1U3R3hZeTdwcFM4S1pxNnRVa2dPMXV5Vk9SZWNXaEsyWVYtd2hTZkNBXy1SbjRiaFRFT2cxekVUbTZFXzY1LXJEMXA2WkNVdXhMVnBzbGdNSllPdjlmcS1DMzZTQmo1bDl3dGJIWFhDUzhtUDN1bEV3?oc=5",
       "description": "Oil Prices Fall as Market Awaits Possible US-Iran Ceasefire Deal EnergyNow",
       "publishedAt": "Tue, 17 Nov 2026 00:20:26 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil prices set for second straight weekly drop on signs of growing supply surplus - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa0ZTUUtQbXVySmRXLWtEc2xtZDk5RWkwa29OWlEyQjN3UXVzMkZTYzF3ajVoNkVXZnBnODVRTkN0b1ZwaVk4VE5KOXFqZktYbG1PN1RwdEtwS1ZEb3BBUEkxM2JtUl91NkxCMWpjbmxWV3RScndxMjJUcjh4dEpZM256Nl8tY19iWmp4OExndnRRaXQwdFRpMGRYRDFnNGQ1eEFhNEVrZjZwaW0tamJkLXFYa1I3V1EzbVE?oc=5",
+      "description": "Oil prices set for second straight weekly drop on signs of growing supply surplus Reuters",
+      "publishedAt": "Fri, 13 Nov 2026 22:42:36 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -87,33 +96,6 @@
       "impact": "medium"
     },
     {
-      "title": "Crude Oil Prices Plummet as Supply Concerns Ease - Barchart.com",
-      "source": "Barchart.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTTdaa1JSNDlmcWRXWjI3X3BBdmFmckM1cjdMTWFveW4xUENfNEk1QUc4NXJvNTQwNTRlS3UwX0FWNWxnT1JURGFmU1JoTmpaeHA5cTV4WUlnZDhIekRlR2NudW9MamtqYWdad1h4RW9TZXFSY1hsWkI1dFppMFp5YUNzeUNIUG5TdW5rdmZKVWFfemhLdFJZ?oc=5",
-      "description": "Crude Oil Prices Plummet as Supply Concerns Ease Barchart.com",
-      "publishedAt": "Wed, 18 Nov 2026 20:16:26 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil prices set for second straight weekly drop on signs of growing supply surplus - Reuters",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa0ZTUUtQbXVySmRXLWtEc2xtZDk5RWkwa29OWlEyQjN3UXVzMkZTYzF3ajVoNkVXZnBnODVRTkN0b1ZwaVk4VE5KOXFqZktYbG1PN1RwdEtwS1ZEb3BBUEkxM2JtUl91NkxCMWpjbmxWV3RScndxMjJUcjh4dEpZM256Nl8tY19iWmp4OExndnRRaXQwdFRpMGRYRDFnNGQ1eEFhNEVrZjZwaW0tamJkLXFYa1I3V1EzbVE?oc=5",
-      "description": "Oil prices set for second straight weekly drop on signs of growing supply surplus Reuters",
-      "publishedAt": "Fri, 13 Nov 2026 22:42:36 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
-      "title": "Oil Prices Slide To 2-Month Lows On Market Surplus Expectations - Forbes",
-      "source": "Forbes",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUzB0TDdoQ0RYbFh4MVJmamFCcG56Wl8zV0dPTkpqcTZZSWFyRUdleEhmcUVFYXItMEswWE9vRHdHUkk2ZzdIaTlUZUJMbkloNlhhdEdHMlBNYV9maVhBdG9JRnFucnIydy1mRmdlaGNnTWU2YmVDMVZGMXJpaWJmcmtiUVNZZE8zSHJlQTNud3VjaVc4N2h6ZGlmNGljMWtObFZqX1BncjBGem9Xd3VZWGRnTWFmOS1s?oc=5",
-      "description": "Oil Prices Slide To 2-Month Lows On Market Surplus Expectations Forbes",
-      "publishedAt": "Wed, 18 Nov 2026 14:30:51 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
       "title": "Oil prices fall on expectations of coming supply surplus - BOE Report",
       "source": "BOE Report",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNExuUkhld0RxdEtYVURQdUpBalA3LUM5Z3AwLWN2RUFJY1owcmdzSmJzd09zVHFwMDlXSWtQRzh1cUZkN0NmNHZkcXVkYzU0anRCUGFURXBMVkNoeGdicHI2TmlTcTRVYWxoU0hGS3E4enIwRlhyOFdGcHZfRmwwOTRKREx5VU9JUkxEUmN6eUVBbHU50gGaAUFVX3lxTE1wSzJOSFZBcHBhTW96elBuSGprMk1sLWF0VlE5YTNfNTAzLTFORHhmUFV2VHhTN2d1UnNUZ2tBVGR0d2FMNHVWWk51dkVyRDd5Q1hKaFcxdmxWbl9CMnFKaXNGNmRyV3Zfb1VYX1lLbG5BVDd4M09wWmVWZTBybnl1WmkyRTFfaFU0RUlYc24xYVN0WDhxM2Q1TkE?oc=5",
@@ -123,20 +105,20 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices tumble as traders weigh surplus supply outlook - CNBC",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbWhQY3FnMVNZQTc4WG5fSHVJamFScURWM3NQLUtoOVlRQkJUSE9pNm16djg1aEpiYnB0bWRSX044U1hPbkYwXzk3Z2tzTlpiM056Mjd1c3R6Rm1PaDJhdlFoY1FEbU5yckIwMTRLdDhyd09kdG0wWGE1anFJN1ZkT2IxeGdwYV9mZFRlLXBBOUtvMGVhRXFkMS1TaTZPdXfSAaQBQVVfeXFMTlc1Q3FjM2Vqc2lLRjZnTHR4b2ctZkpwVzM2VFVMZXpFcjVEcC1hNGI5aXlxUVJwRkxEbmJkaWw0OUg3YTRyRDhWc3FzdTdwdFVTd1RJMVlPMXdLQzF2N0lEWHJqZ2hrX25CVXZmUFE0U3RPa0tiSmVja0ZyaEZnZ0xCRnpTWUVhZUJYaGk0ZHVlUjBGXzN5QVNad25PbFc5QTNJMnI?oc=5",
-      "description": "Oil prices tumble as traders weigh surplus supply outlook CNBC",
-      "publishedAt": "Wed, 18 Nov 2026 03:01:00 GMT",
+      "title": "Crude Oil Prices Plummet as Supply Concerns Ease - Barchart.com",
+      "source": "Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTTdaa1JSNDlmcWRXWjI3X3BBdmFmckM1cjdMTWFveW4xUENfNEk1QUc4NXJvNTQwNTRlS3UwX0FWNWxnT1JURGFmU1JoTmpaeHA5cTV4WUlnZDhIekRlR2NudW9MamtqYWdad1h4RW9TZXFSY1hsWkI1dFppMFp5YUNzeUNIUG5TdW5rdmZKVWFfemhLdFJZ?oc=5",
+      "description": "Crude Oil Prices Plummet as Supply Concerns Ease Barchart.com",
+      "publishedAt": "Wed, 18 Nov 2026 20:16:26 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Current price of oil as of November 18, 2026 - Fortune",
-      "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9aNEl4bnVLNDNveHhhbkRZQ2cxMmsyZjBab0lla01jaWRGbGFiblNxUVFqbl9NSENFVi1Dd0pkWTNLcV9tN2QxR0hja1JkOHJkbzI5cnd3dno2NmpDM3RxNUhR?oc=5",
-      "description": "Current price of oil as of November 18, 2026 Fortune",
-      "publishedAt": "Wed, 18 Nov 2026 11:45:00 GMT",
+      "title": "Occidental Oil Prices Jump as Supply Concerns Lift Crude - EnergyNow.com",
+      "source": "EnergyNow.com",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQakxHSUxsOFEybW94UVozellhWmZqeVFkT0dnbXJfSHRNY1JoYnpCd0lfNkNQRUxtNjZKTEh4U1kwZjNRak8xS1JjT1l1MV9fRjRWQ1dBVGU3d1hvcGt6SDk2TFZkZXpNV01EaHM2SGpzeXhkV3huOGRweHNoYjdNamJra3ppWmFUcUUyRUNYTnI?oc=5",
+      "description": "Occidental Oil Prices Jump as Supply Concerns Lift Crude EnergyNow.com",
+      "publishedAt": "Thu, 19 Nov 2026 19:38:27 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -146,6 +128,24 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTkZRSDIwUXptaWhaX0FKM3cxMWp4S1hvanV6VjVuT1h2QU45Y09WTFg3YVJ3djktMzRxNzQ1VnNMZVFueDJ5Um1Lbm91X2ZQdW1BSkwwMVg3TktVblk1UWMyMHpacGdHdGpMUEpCYWpOMGtTTzJIcFg1VF9vV2VFdEdaSEV3QTNVZUNMYzJOdnR6bXZMR0tJaVBDd2pmZ0c1RTFZbmhsYWw1cWlxcW4ydDFkUVVMTFAwUlk2X0ZrVQ?oc=5",
       "description": "Oil Prices Fall Sharply as U.S. Crude Inventories Rise, Overshadowing Middle East Supply Risks EnergyNow",
       "publishedAt": "Wed, 18 Nov 2026 11:31:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil settles lower as recovering Middle East exports bolster surplus outlook - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSXlabl9ocWtiOEZLcnc2SGNVSEh2bjltWURkWU1RSDVTejZWMEtNYTR4QW9sT19DQy05SVhHVmphTEtIQXdtVzlUS25Vdk1oS0hjdWZ0MHpUb01NQUp4dzlBcE55anIwR0hKVmhCUDRsT3V3ek9jTURVYkcySDNBM1B0RmJ3emdUaHpPVWpENENfZ2JGRHB3MlJuekVfUWlFa2lfUQ?oc=5",
+      "description": "Oil settles lower as recovering Middle East exports bolster surplus outlook Reuters",
+      "publishedAt": "Mon, 16 Nov 2026 22:30:48 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil prices fall as higher US crude stocks temper supply risks - BOE Report",
+      "source": "BOE Report",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ2x1UnFuOFZqb1NXTHVLZ1VqNWpZaWpwUmR0bjVGalJnYWFING8xbkhrOURab25rZTRwQ2w5WV9vV1UzTGZ4ZEtHY0xXZ3NSM3BjSGs5a2llTmZVZ2VOdk1tT3RMTW5vUGRuaWp4eXF6amFCcXVKeU12cnF1SzZ5Q0c1OEkwSUZmT2t2WWNBRVlxV1dFc0hYUVNOSFoycTBD0gGgAUFVX3lxTE9DbHVScW44VmpvU1dMdUtnVWo1allpanBSZHRuNUZqUmdhYUg0bzFuSGs5RFpvbmtlNHBDbDlZX29XVTNMZnhkS0djTFdnc1IzcGNIazlraWVOZlVnZU52TW1PdExNbm9QZG5panh5cXpqYUJxdUp5TXZycXVLNnlDRzU4STBJRmZPa3ZZY0FFWXFXV0VzSFhRU05IWjJxMEM?oc=5",
+      "description": "Oil prices fall as higher US crude stocks temper supply risks BOE Report",
+      "publishedAt": "Wed, 18 Nov 2026 13:48:06 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
