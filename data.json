@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23 13:55 UTC",
+  "generatedAt": "2026-11-24 14:28 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
     "regular": 148.9,
@@ -8,7 +8,7 @@
   },
   "history": {
     "labels": [
-      "Nov 23"
+      "Nov 24"
     ],
     "regular": [
       148.9
@@ -22,13 +22,13 @@
   },
   "prediction": {
     "labels": [
-      "Nov 24",
       "Nov 25",
       "Nov 26",
       "Nov 27",
       "Nov 28",
       "Nov 29",
-      "Nov 30"
+      "Nov 30",
+      "Dec 01"
     ],
     "regular": [
       148.9,
@@ -60,20 +60,29 @@
   },
   "news": [
     {
-      "title": "Oil Prices Fall as Market Awaits Possible US-Iran Ceasefire Deal - EnergyNow",
+      "title": "Oil Prices Flat After Iran Says Dozens of Vessels are Crossing Hormuz - EnergyNow",
       "source": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSWlSQ0JySWhtckl3S01IdjNPcndoTTVOUWVSRmRXLWw2b1U3R3hZeTdwcFM4S1pxNnRVa2dPMXV5Vk9SZWNXaEsyWVYtd2hTZkNBXy1SbjRiaFRFT2cxekVUbTZFXzY1LXJEMXA2WkNVdXhMVnBzbGdNSllPdjlmcS1DMzZTQmo1bDl3dGJIWFhDUzhtUDN1bEV3?oc=5",
-      "description": "Oil Prices Fall as Market Awaits Possible US-Iran Ceasefire Deal EnergyNow",
-      "publishedAt": "Tue, 17 Nov 2026 00:20:26 GMT",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd0stUmlZMDRFOU5FZU9BNnN0bmpNOEZyQm9PS2t6UHdWY3ctRlVZc3VyZ1dfaTZCdlRveFBlaWt0YWpwR1VVSmFzQVhVV0N1dTA1UVJvSmQtVkhrWVBRUXdCZGtYTlhUT0o3aGJYUjllV2phNEtIbzk2bHhja0NKeDh1UmtaV2VFdndHYThvdzNqSjAtRml2bXEtVTVUeHNF?oc=5",
+      "description": "Oil Prices Flat After Iran Says Dozens of Vessels are Crossing Hormuz EnergyNow",
+      "publishedAt": "Mon, 23 Nov 2026 13:05:03 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Caught Between a Looming Glut and Middle East Turmoil - Crude Oil Prices Today | OilPrice.com",
+      "title": "Oil Prices Fall as Traders Weigh Supply Surplus, Gulf Attacks - WSJ",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVkRJdUt0LVhZdzVhR0RpSnN6RWh6cDdGQVhOUU9vNENLN0hnSXB1YXJFU01rMzZBaXhuelM3ODlra1hKdnRxcnYweGNRSmFmSEpnMzJSQWxkOXZqZVM3NjBrZ2UwQS1PQS12di1uaHFUQWJRZHE2aHhxMnlLcVJ5Z3owcXd2WTV4NFJQSUM0SWplUVA5bW80ZU9fdDYzV1Z5QnFvcW1kdlhPMW8xc2JRQnVJc19mZw?oc=5",
+      "description": "Oil Prices Fall as Traders Weigh Supply Surplus, Gulf Attacks WSJ",
+      "publishedAt": "Mon, 23 Nov 2026 21:08:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil Prices Drop Despite Escalating U.S.-Iran Conflict - Crude Oil Prices Today | OilPrice.com",
       "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUlJxVm9uUmdPdkxHeGNqMWw1TFN6YkhKQXVqUWZEb0haSWs0YUtrT0R5aWk5VVFweXRMMTNyOF9zZUYxTUdfXzZJUUY2cGlmMmhFa1BGcVRENFNNOUNvcVNYYXNKb2E3aDEwM0RsVHhPVkEtNmdvMElsSjdjN0RRUnhDeVJTSjBWWG9mOVNxTHlmdEVvYktHQl9HU2J1dUMxaU1BTmRPV3doSzRpUkdWXzVB0gG3AUFVX3lxTFB2aGc5YmNCa21uR0taU01wdFZCeE1ob3VpU1pvNUFoaldLZFA0SDVmYmxVR054TTF3MmhhNnA0eUlDbFo2dmpYMndQWW9TYkx2SGVkNExXSGxUS2dVdVRPLWE0bW1aOVFDVmhkLUM0VXg4bXIteG1ZMnNZR3BBOGJyRk1FOTJDbzV1NVpqZkVNYzZqRHlaVFg5T1pnQTU0YkRDMFc5al9YbS1NMkhQMjZNUW5CZ1BJTQ?oc=5",
-      "description": "Oil Prices Caught Between a Looming Glut and Middle East Turmoil Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Sat, 21 Nov 2026 00:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU1k4SUVuUWd6NFUyaDFsOGhlNDVJb0hfOUt6TXJ2cGFURVhQcWZkb1pZSHk3YXlSeml0NDZmUmtQWUtZc3M1TS1jSGp4dmZZVmt2enZLbnp0ZnJ5bG82dzBUcG5EN3VTR2FxOWFjNG9oTlhYX0tpaUtKQmI5MkpHZG5kNEd0bVo3RThJam1pNHZGRzMtMXV1ZEdOakVMVGN0MXd6eW5TSlF3U2vSAbABQVVfeXFMTTY5R0VHQ1dyeFZ3eTMxbW91b1hmY3JNM21tQU1DWm14eV9jMXhpRUhhSjFDTmxBNld5ZWIyTUc2Z0FZR0RSMURDamd1UTF3bi1hd1l2Rm9CTy1CcTBib2x2VVQ5WW9Eejc0ZUZUX3J2dkxMZjNxRVFCVGR2Ml9UUHpSSDJubUw1YkJwOUMzNDYtQ3JxS09fcm1ENWtQc1hYaDBqZlBVS1MyMVRUQnV0bjE?oc=5",
+      "description": "Oil Prices Drop Despite Escalating U.S.-Iran Conflict Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Wed, 18 Nov 2026 05:55:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
@@ -87,15 +96,6 @@
       "impact": "medium"
     },
     {
-      "title": "Oil prices expected to moderate, but fuel prices stay high - The Western Producer",
-      "source": "The Western Producer",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcGRLQzlNVzFWanZ5ZlYyeXljRDBaSVhxQjZtTm5iMWpubjh2SUhidkJKN1hXc0ZpM29kazl0WDcyVTkxVm1MS2dKVlRsNmw4Q0gtZmFoZGhHM1d4Rl9QYkstOE5EWWZsVVBxWm8xaDlmX1JuSTdnamdhOFZ0T3QxSjk3NVB0blJQMXFJWnNPQWF3OFoxV3c?oc=5",
-      "description": "Oil prices expected to moderate, but fuel prices stay high The Western Producer",
-      "publishedAt": "Sat, 21 Nov 2026 15:36:17 GMT",
-      "summary": "Headline to watch for potential pressure on gasoline prices.",
-      "impact": "medium"
-    },
-    {
       "title": "Oil prices fall as higher US crude stocks temper supply risks - BOE Report",
       "source": "BOE Report",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVUJEcmV6YndYcUdTUnVoY1dIenNmY001eWpqQVFRdmIxMVVBWUExWkJEUE5sWXpxdHozRnl5RFBTTndDNi02TlMwVzdWcnpoXzNfbEJfZmV6VFpJajFKc3hxcm9DMmlrR2FkczdycEo1UjdOU3dDd3NLYW1EYy0yNk0tMUhXV0hfVU5XSlR1VmNmVjRweHQ4aFlyONIBoAFBVV95cUxPQ2x1UnFuOFZqb1NXTHVLZ1VqNWpZaWpwUmR0bjVGalJnYWFING8xbkhrOURab25rZTRwQ2w5WV9vV1UzTGZ4ZEtHY0xXZ3NSM3BjSGs5a2llTmZVZ2VOdk1tT3RMTW5vUGRuaWp4eXF6amFCcXVKeU12cnF1SzZ5Q0c1OEkwSUZmT2t2WWNBRVlxV1dFc0hYUVNOSFoycTBD?oc=5",
@@ -105,47 +105,47 @@
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Fall as Traders Weigh Supply Surplus, Gulf Attacks - WSJ",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVkRJdUt0LVhZdzVhR0RpSnN6RWh6cDdGQVhOUU9vNENLN0hnSXB1YXJFU01rMzZBaXhuelM3ODlra1hKdnRxcnYweGNRSmFmSEpnMzJSQWxkOXZqZVM3NjBrZ2UwQS1PQS12di1uaHFUQWJRZHE2aHhxMnlLcVJ5Z3owcXd2WTV4NFJQSUM0SWplUVA5bW80ZU9fdDYzV1Z5QnFvcW1kdlhPMW8xc2JRQnVJc19mZw?oc=5",
-      "description": "Oil Prices Fall as Traders Weigh Supply Surplus, Gulf Attacks WSJ",
-      "publishedAt": "Mon, 23 Nov 2026 12:58:00 GMT",
+      "title": "Current price of oil as of November 23, 2026 - Fortune",
+      "source": "Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9oWktIbnhqX1l1MHZidXlxaFJtNnhKcnpPVG0wRGNBOEVLdU9IZDB5QlQ2NHhQQWViaEc0UWxzY2l3NzlYQkdsTDJRUHhSWEhfMDlBSjFhVjlJUDdZNkhOWkpR?oc=5",
+      "description": "Current price of oil as of November 23, 2026 Fortune",
+      "publishedAt": "Mon, 23 Nov 2026 13:00:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Occidental Oil Prices Jump as Supply Concerns Lift Crude - EnergyNow.com",
-      "source": "EnergyNow.com",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQakxHSUxsOFEybW94UVozellhWmZqeVFkT0dnbXJfSHRNY1JoYnpCd0lfNkNQRUxtNjZKTEh4U1kwZjNRak8xS1JjT1l1MV9fRjRWQ1dBVGU3d1hvcGt6SDk2TFZkZXpNV01EaHM2SGpzeXhkV3huOGRweHNoYjdNamJra3ppWmFUcUUyRUNYTnI?oc=5",
-      "description": "Occidental Oil Prices Jump as Supply Concerns Lift Crude EnergyNow.com",
-      "publishedAt": "Fri, 20 Nov 2026 23:25:56 GMT",
+      "title": "Gasoline Prices Are Slower To Fall Than Rise - Forbes",
+      "source": "Forbes",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRHhkamhkbU9OcWdWZXhEQ2VWRkkxMExzdWJaRzZQb1BhWkQzMm8ybjVXaGRJT0JLU1l5MW9aZ1dUTkx2MzE1XzBTWERTWGlhM0J0dEpBa3JGRW9tTjB5SjZ1VkpJTzZpOTlvaXgwMDRqSEY5VWFhVDJxcEhrLXhPVklNNUZsUDlTN1NPbFM1VEdTY3I4MlRCNUhwSXU5TWc?oc=5",
+      "description": "Gasoline Prices Are Slower To Fall Than Rise Forbes",
+      "publishedAt": "Tue, 24 Nov 2026 13:10:02 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil Prices Fall Sharply as U.S. Crude Inventories Rise, Overshadowing Middle East Supply Risks - EnergyNow",
+      "title": "Oil Prices Up Over 3% Over Concerns About Prolonged Hormuz Disruption - EnergyNow",
       "source": "EnergyNow",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTkZRSDIwUXptaWhaX0FKM3cxMWp4S1hvanV6VjVuT1h2QU45Y09WTFg3YVJ3djktMzRxNzQ1VnNMZVFueDJ5Um1Lbm91X2ZQdW1BSkwwMVg3TktVblk1UWMyMHpacGdHdGpMUEpCYWpOMGtTTzJIcFg1VF9vV2VFdEdaSEV3QTNVZUNMYzJOdnR6bXZMR0tJaVBDd2pmZ0c1RTFZbmhsYWw1cWlxcW4ydDFkUVVMTFAwUlk2X0ZrVQ?oc=5",
-      "description": "Oil Prices Fall Sharply as U.S. Crude Inventories Rise, Overshadowing Middle East Supply Risks EnergyNow",
-      "publishedAt": "Wed, 18 Nov 2026 11:31:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOODd3TTNncHlPazlzTldQN2ZPNXI5blFLYlBrUXE3VU1lRmNlMWxXNlVodU9LQUZCRlkzcnpyeC00OVMzcENDQjZfLTJSSG9QVXQ3MVpmYjhCSEFqUEdnd1I3SXF1M2dEdE5XYlA3akg3ZThCRjhuc0NEd3M3b0dBQ3hQWGFRMUhON1NmTDR1TklxQjl1M2dFSjA1SnkwVUk?oc=5",
+      "description": "Oil Prices Up Over 3% Over Concerns About Prolonged Hormuz Disruption EnergyNow",
+      "publishedAt": "Thu, 19 Nov 2026 12:08:52 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Oil settles lower as recovering Middle East exports bolster surplus outlook - Reuters",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSXlabl9ocWtiOEZLcnc2SGNVSEh2bjltWURkWU1RSDVTejZWMEtNYTR4QW9sT19DQy05SVhHVmphTEtIQXdtVzlUS25Vdk1oS0hjdWZ0MHpUb01NQUp4dzlBcE55anIwR0hKVmhCUDRsT3V3ek9jTURVYkcySDNBM1B0RmJ3emdUaHpPVWpENENfZ2JGRHB3MlJuekVfUWlFa2lfUQ?oc=5",
-      "description": "Oil settles lower as recovering Middle East exports bolster surplus outlook Reuters",
-      "publishedAt": "Mon, 16 Nov 2026 22:30:48 GMT",
+      "title": "Oil Prices Rebound as Shipping Risks Persist - WSJ",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMkpRNmtac0F4dkZ2QTRqVEhSc2piS0Vpd1JNaHVScnZZYmRfdzBEbWZXOUFjb0dhR29XZURYZnRUcTVkQW41Y3pOT1plS0ZDOU5NTm1Qel9OUWRMNU53Y2ZoUjBWU045YUczZFRfZGswa0UtY2hVMVJMS2g0b29qUmw3YjN4VHF0aGVTYjVZdl94WjcwdXkxZ3diaVNXSWZwcE9tM2V3b3JLcTRTU0o0aw?oc=5",
+      "description": "Oil Prices Rebound as Shipping Risks Persist WSJ",
+      "publishedAt": "Tue, 24 Nov 2026 12:38:07 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     },
     {
-      "title": "Tankers Are Being Hit Daily. So Why Is Oil Falling - Crude Oil Prices Today | OilPrice.com",
+      "title": "Oil Prices Slide as AI Bubble Fears Rattle Global Markets - Crude Oil Prices Today | OilPrice.com",
       "source": "Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNkVuN2hKSkxKQTdtQl84WTJabnJNWlI1SWVaQ1lJMDVPY181SmNaLWEweGxLcVhZamdJS0ZyQWJxNnpzUmV0aUFmZldyUUpCTW5HRTMyYVc3Zk5DSHVNUzAyb0Y1UlpPb0NidGlWdTRqaVVwS2p5RTFWQkMwdElZS2NsdkEwTXVBTGRtVTJMeC1XNEtWenp30gGcAUFVX3lxTE1jR19RajlSRXNqaEtwamtrVzhYbERpRnVGSGwyejJTOVE2ZEx2YWxEOGM5U1E4YndLdXg3eTN6aFMyZmxMdlRZem5wU0IxTWIteVhUNE9VbGU1WmFmbFdWX3l2cU5xNW1PWVVITGNudG9teEU1UktWR1ZZUl9kSVZRcjlJMVRCdmVlc1YzWThERXdZZ1otbE5WcWxyZA?oc=5",
-      "description": "Tankers Are Being Hit Daily. So Why Is Oil Falling Crude Oil Prices Today | OilPrice.com",
-      "publishedAt": "Fri, 20 Nov 2026 17:11:05 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWHFpaDhkd0NXUHA1MWpDSzVZZzUtN3A5Xy1sMXZBNEZ3TGdSUklBTlgxR1o3YVgzM2pRbjRKcmdqSmlyX2pvYVJzUHhqRVczN29oUGo3Y0hCRkl3ZTFHSXNPVDNjNkZIVXJpcUNTTDBNYl9oTzV6em1QT0FaVFpDZG1UTlJsTUpEcHlPNFZxRVY5NndyT3dKMDJLa3lBUnZqQUxzc3IzMGZ1ck1mUHc1bGFEUdIBuAFBVV95cUxNU29rRW1Nakh1b3FCXzViX1JYTXFlcGVpekFsVXdvQTVhejRDcklGMElENHFDYVFXeHBlS2czdzJhWmpKZU5fVlE3MVZZOHFYcGt5aTlINlpEdlY5bVQ4Si10Rm1ZT1ViZmNCQ0luQkFvT3pvOE92eUU1NUZEWVd0Smd5M01SWmZFTTBTdE94ajl0NU9aQ1pyY3ZyVmFRUnItUlpHOGJzR1o5dm16b3AzRzNSYm5VZ09S?oc=5",
+      "description": "Oil Prices Slide as AI Bubble Fears Rattle Global Markets Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Mon, 23 Nov 2026 05:50:00 GMT",
       "summary": "Headline to watch for potential pressure on gasoline prices.",
       "impact": "medium"
     }
