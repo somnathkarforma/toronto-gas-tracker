@@ -1,71 +1,153 @@
 {
-  "generatedAt": "2026-11-26 13:27 UTC",
+  "generatedAt": "2026-11-27 13:23 UTC",
   "priceSource": "CityNews Toronto & GTA (En-Pro)",
   "latest": {
-    "regular": 147.9,
-    "premium": 165.9,
-    "diesel": 158.4
+    "regular": 146.9,
+    "premium": 164.9,
+    "diesel": 157.4
   },
   "history": {
     "labels": [
-      "Nov 26"
+      "Nov 27"
     ],
     "regular": [
-      147.9
+      146.9
     ],
     "premium": [
-      165.9
+      164.9
     ],
     "diesel": [
-      158.4
+      157.4
     ]
   },
   "prediction": {
     "labels": [
-      "Nov 27",
       "Nov 28",
       "Nov 29",
       "Nov 30",
       "Dec 01",
       "Dec 02",
-      "Dec 03"
+      "Dec 03",
+      "Dec 04"
     ],
     "regular": [
-      147.9,
-      147.9,
-      147.9,
-      147.9,
-      147.9,
-      147.9,
-      147.9
+      146.9,
+      146.9,
+      146.9,
+      146.9,
+      146.9,
+      146.9,
+      146.9
     ],
     "premium": [
-      165.9,
-      165.9,
-      165.9,
-      165.9,
-      165.9,
-      165.9,
-      165.9
+      164.9,
+      164.9,
+      164.9,
+      164.9,
+      164.9,
+      164.9,
+      164.9
     ],
     "diesel": [
-      158.4,
-      158.4,
-      158.4,
-      158.4,
-      158.4,
-      158.4,
-      158.4
+      157.4,
+      157.4,
+      157.4,
+      157.4,
+      157.4,
+      157.4,
+      157.4
     ]
   },
   "news": [
     {
-      "title": "No live headlines available right now",
-      "source": "System fallback",
-      "link": "https://news.google.com/",
-      "publishedAt": "",
-      "summary": "The dashboard will refresh automatically on the next scheduled run.",
-      "impact": "low"
+      "title": "Oil price surge expected to flip Alberta's projected $9.4B deficit into $8.5B surplus - CBC",
+      "source": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsTTdJZ1FjSWxTTl9UNE1sbkVTMERhek8yTWFoX2toNkt6QjBia0JMN3ZCODI0bEQ5dEhXaFUwQmlBc2hMbkl2bEN4RTV4UXc3Q0g4QXFyZXRvdlRIMlFkSUc2WnJQVmZoLXpPSkV0X0tpT09UbXNsUElOVUN1Mms?oc=5",
+      "description": "Oil price surge expected to flip Alberta's projected $9.4B deficit into $8.5B surplus CBC",
+      "publishedAt": "Thu, 26 Nov 2026 22:17:39 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil Prices Fall as Traders Weigh Supply Surplus, Gulf Attacks - WSJ",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVkRJdUt0LVhZdzVhR0RpSnN6RWh6cDdGQVhOUU9vNENLN0hnSXB1YXJFU01rMzZBaXhuelM3ODlra1hKdnRxcnYweGNRSmFmSEpnMzJSQWxkOXZqZVM3NjBrZ2UwQS1PQS12di1uaHFUQWJRZHE2aHhxMnlLcVJ5Z3owcXd2WTV4NFJQSUM0SWplUVA5bW80ZU9fdDYzV1Z5QnFvcW1kdlhPMW8xc2JRQnVJc19mZw?oc=5",
+      "description": "Oil Prices Fall as Traders Weigh Supply Surplus, Gulf Attacks WSJ",
+      "publishedAt": "Mon, 23 Nov 2026 21:08:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil Prices Caught Between a Looming Glut and Middle East Turmoil - Crude Oil Prices Today | OilPrice.com",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUlJxVm9uUmdPdkxHeGNqMWw1TFN6YkhKQXVqUWZEb0haSWs0YUtrT0R5aWk5VVFweXRMMTNyOF9zZUYxTUdfXzZJUUY2cGlmMmhFa1BGcVRENFNNOUNvcVNYYXNKb2E3aDEwM0RsVHhPVkEtNmdvMElsSjdjN0RRUnhDeVJTSjBWWG9mOVNxTHlmdEVvYktHQl9HU2J1dUMxaU1BTmRPV3doSzRpUkdWXzVB0gG3AUFVX3lxTFB2aGc5YmNCa21uR0taU01wdFZCeE1ob3VpU1pvNUFoaldLZFA0SDVmYmxVR054TTF3MmhhNnA0eUlDbFo2dmpYMndQWW9TYkx2SGVkNExXSGxUS2dVdVRPLWE0bW1aOVFDVmhkLUM0VXg4bXIteG1ZMnNZR3BBOGJyRk1FOTJDbzV1NVpqZkVNYzZqRHlaVFg5T1pnQTU0YkRDMFc5al9YbS1NMkhQMjZNUW5CZ1BJTQ?oc=5",
+      "description": "Oil Prices Caught Between a Looming Glut and Middle East Turmoil Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Sat, 21 Nov 2026 00:00:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil Prices Slip as Global Supply Surplus Concerns Offset Middle East Shipping Risks - EnergyNow",
+      "source": "EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNzV6M2pFdWFWZk1OM2hsX2xzV3NiUURDWElNdE9yay1rYUFQZTdTcjM1VWZIVHd5Sm5xTllHS3hXQjRpMTY2am5FN2xaNkFDbTVPV0RwOVJHTWd2dVJPbnRKdDBWSzJERVh3WWNTQ0xodUJqXzNWbG83LVB3RHNlVnlvZUxJRWNxQ2hQNXB6M2c4em1iV00xbEVBd1Q0dVZfTWkyZVgwRnlMVXF6TjlzbzMyWQ?oc=5",
+      "description": "Oil Prices Slip as Global Supply Surplus Concerns Offset Middle East Shipping Risks EnergyNow",
+      "publishedAt": "Wed, 25 Nov 2026 11:30:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil prices rise after Houthis claim attack on Saudi refinery - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVGl4Nzdfc01ReTB5TnAxUkVLTXlaRVFvbGM5aTZDOEtVUXlrVDQtMHJwcWh2WldoMnVyb0QxU1pEQUoyN09sNU1SZXR3NVUzdTZXeWpkdGNTZW95MUtmdjV3dWFxTEZsRW5WUlF1djVTTWZxUGVxcHhPNEptMnBEcmZ0MURhX0JxTDFqc19HblpWd2hLSEs5SXRYTXB6bzFwNzZqOUFTc1ZOM3ItVDFZWmM2a0R5YkxsdnlsMTZWQ1ZEUQ?oc=5",
+      "description": "Oil prices rise after Houthis claim attack on Saudi refinery Reuters",
+      "publishedAt": "Wed, 25 Nov 2026 20:57:17 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Current price of oil as of November 24, 2026 - Fortune",
+      "source": "Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ncUM2OUctaFFjU2NqYmpUN1A5TGFsZnFHR3MtTWFqUWdRZzFnYU9mdTY3b3JCOFJjcnpzMUExblM5OFV0eGhSS0k5TVNiUDIwVGFWb3dOTG9xNG9PQlFmNU9B?oc=5",
+      "description": "Current price of oil as of November 24, 2026 Fortune",
+      "publishedAt": "Tue, 24 Nov 2026 13:00:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil Prices Slide Despite Mounting Threats in the Strait of Hormuz - Crude Oil Prices Today | OilPrice.com",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTzVja24xOVQyZ3ZCb0dkN2xfUWpJMGQzQWEyeGJxUmVyZDNSU0FoTmhUbnVXajE1LVB2c0VDT2F0M3ktQkpNczJ5RW03ZlF1RE5LQzEzTGUzdEJSZ0RQVE9KTWViSGNPMHUzbWJGSGs5cmlJVGNwMi1rNnUyVWd1a1dRdUZUMi1NUWl5UUVfcTdLazJ4UVBRMzF1bWUtZnh5M01uMXVEbVVaWWZVaXFYUG02MNIBuAFBVV95cUxQLVVobEFZYkg3aDlyY1Fmc3RZYmk5NnpGN00wb3hkUkRQbldmRVZCVG1ORXFRM3FLeGZEQzZDQmFhWUhoRTFXNEZpa21zZ0F5RnVuUXgyMjhYS0gzRl9xNlU1b25jTW5zemg4X0hPRXI5TEI0NnI2MVp6dV9lbTAyUG1GZzZ5a2ZhaWQxWHBrbC1vRy1RcmVsN0dHTW1sZk81dUl1UkI4anctVXh3OXlYbkttcGRPWGcw?oc=5",
+      "description": "Oil Prices Slide Despite Mounting Threats in the Strait of Hormuz Crude Oil Prices Today | OilPrice.com",
+      "publishedAt": "Wed, 25 Nov 2026 05:50:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil Prices Climb as Middle East Supply Threats Put Brent Near $97 and WTI Above $85 Ahead of OPEC+ Meeting - EnergyNow",
+      "source": "EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVXRib1dLOFZqQ0ozcE5tdzJLTUNLbHB4RTNWS2Q4OGRucFdkak9vbzRTLWhpam4wbmR0NjdTbnh4VnBVb3NhbEJpYTI4N1JRQlcwWGJoWW94bG1mYUV6VXYzMHUxX3VRWmN1WTdkVnFEOUxPaXlCOTkxNndfdjdXUGd5QldXVXB6alQ1Z3BldUpKV19VQjRUOWRfcnlpeHNUXzE1YTJqXzk3a3BlbG1CeVJyUHlQRTRBTHBqV21Qaml3cVRjMDUzN1VCQ3pGdw?oc=5",
+      "description": "Oil Prices Climb as Middle East Supply Threats Put Brent Near $97 and WTI Above $85 Ahead of OPEC+ Meeting EnergyNow",
+      "publishedAt": "Fri, 27 Nov 2026 11:26:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Oil Prices Rebound as Shipping Risks Persist - WSJ",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMkpRNmtac0F4dkZ2QTRqVEhSc2piS0Vpd1JNaHVScnZZYmRfdzBEbWZXOUFjb0dhR29XZURYZnRUcTVkQW41Y3pOT1plS0ZDOU5NTm1Qel9OUWRMNU53Y2ZoUjBWU045YUczZFRfZGswa0UtY2hVMVJMS2g0b29qUmw3YjN4VHF0aGVTYjVZdl94WjcwdXkxZ3diaVNXSWZwcE9tM2V3b3JLcTRTU0o0aw?oc=5",
+      "description": "Oil Prices Rebound as Shipping Risks Persist WSJ",
+      "publishedAt": "Tue, 24 Nov 2026 21:28:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
+    },
+    {
+      "title": "Current price of oil as of November 25, 2026 - Fortune",
+      "source": "Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9uc1Azc283OWV3YTZYU21XV2xlempBWlM4R3c2anBqT01SN0ItT2hNU2lRcmJKdWZwY2RmQVNhS1NHOGV2MnM0c2JveEVlRk1WRFNVdlRfcWQyZnlncUJZUXJR?oc=5",
+      "description": "Current price of oil as of November 25, 2026 Fortune",
+      "publishedAt": "Wed, 25 Nov 2026 12:00:00 GMT",
+      "summary": "Headline to watch for potential pressure on gasoline prices.",
+      "impact": "medium"
     }
   ]
 }
